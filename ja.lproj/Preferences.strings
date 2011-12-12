@@ -1,126 +1,126 @@
-/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "1407"; */
+/* Class: "NSButtonCell"; title: "Cancel"; ObjectID: "1407"; */
 "Cancel" = "キャンセル";
 
-/* Class:  "NSButtonCell"; title:  "Lock when screen saver is activated"; ObjectID:  "1430"; */
+/* Class: "NSButtonCell"; title: "Lock when screen saver is activated"; ObjectID: "1430"; */
 "Lock when screen saver is activated" = "スクリーンセーバー実行時にロック";
 
-/* Class:  "NSButtonCell"; title:  "Show helper icon in menu bar"; ObjectID:  "2122"; */
+/* Class: "NSButtonCell"; title: "Show helper icon in menu bar"; ObjectID: "2122"; */
 "Show helper icon in menu bar" = "メニューバーにヘルパーアイコンを表示";
 
-/* Class:  "NSButtonCell"; title:  "Clear values copied to clipboard after"; ObjectID:  "1535"; */
+/* Class: "NSButtonCell"; title: "Clear values copied to clipboard after"; ObjectID: "1535"; */
 "Clear values copied to clipboard after" = "クリップボードにコピーされた値を消去：";
 
-/* Class:  "NSTextFieldCell"; title:  "Current Password:"; ObjectID:  "1393"; */
+/* Class: "NSTextFieldCell"; title: "Current Password:"; ObjectID: "1393"; */
 "Current Password:" = "現在のパスワード：";
 
-/* Class:  "NSButtonCell"; title:  "Use Dropbox..."; ObjectID:  "1847"; */
+/* Class: "NSButtonCell"; title: "Use Dropbox..."; ObjectID: "1847"; */
 "Use Dropbox..." = "Dropbox の使用...";
 
-/* Class:  "NSButtonCell"; title:  "      Browser Extensions"; ObjectID:  "2028"; */
+/* Class: "NSButtonCell"; title: "      Browser Extensions"; ObjectID: "2028"; */
 "      Browser Extensions" = "      ブラウザの拡張機能";
 
-/* Class:  "NSButtonCell"; title:  "Stop Using Dropbox..."; ObjectID:  "2038"; */
+/* Class: "NSButtonCell"; title: "Stop Using Dropbox..."; ObjectID: "2038"; */
 "Stop Using Dropbox..." = "Dropbox の使用中止...";
 
-/* Class:  "NSButtonCell"; title:  "Automatically download icons and previews for new Logins"; ObjectID:  "1735"; */
+/* Class: "NSButtonCell"; title: "Automatically download icons and previews for new Logins"; ObjectID: "1735"; */
 "Automatically download icons and previews for new Logins" = "新規ログインのアイコンとプレビューを自動でダウンロード";
 
-/* Class:  "NSButtonCell"; title:  "Install Browser Extensions"; ObjectID:  "1951"; */
+/* Class: "NSButtonCell"; title: "Install Browser Extensions"; ObjectID: "1951"; */
 "Install Browser Extensions" = "ブラウザ拡張機能のインストール";
 
-/* Class:  "NSButtonCell"; title:  "Change Master Password..."; ObjectID:  "1365"; */
+/* Class: "NSButtonCell"; title: "Change Master Password..."; ObjectID: "1365"; */
 "Change Master Password..." = "マスターパスワードを変更...";
 
-/* Class:  "NSTextFieldCell"; title:  "123"; ObjectID:  "1539"; */
+/* Class: "NSTextFieldCell"; title: "123"; ObjectID: "1539"; */
 "123" = "123";
 
-/* Class:  "NSButtonCell"; title:  "Lock when sleeping"; ObjectID:  "1355"; */
+/* Class: "NSButtonCell"; title: "Lock when sleeping"; ObjectID: "1355"; */
 "Lock when sleeping" = "スリープ時にロック";
 
-/* Class:  "NSButtonCell"; title:  "Disable Lock and Unlock Animation"; ObjectID:  "1795"; */
+/* Class: "NSButtonCell"; title: "Disable Lock and Unlock Animation"; ObjectID: "1795"; */
 "Disable Lock and Unlock Animation" = "ロック無効化とアニメーション表示のロック解除";
 
-/* Class:  "NSTextFieldCell"; title:  "Unlocking"; ObjectID:  "1451"; */
+/* Class: "NSTextFieldCell"; title: "Unlocking"; ObjectID: "1451"; */
 "Unlocking" = "ロック解除";
 
-/* Class:  "NSTextFieldCell"; title:  "Browser Extensions"; ObjectID:  "2105"; */
+/* Class: "NSTextFieldCell"; title: "Browser Extensions"; ObjectID: "2105"; */
 "Browser Extensions" = "ブラウザ拡張機能";
 
-/* Class:  "NSTextFieldCell"; title:  "Display in Sidebar"; ObjectID:  "1745"; */
+/* Class: "NSTextFieldCell"; title: "Display in Sidebar"; ObjectID: "1745"; */
 "Display in Sidebar" = "サイドバーに表示";
 
-/* Class:  "NSTextFieldCell"; title:  "Unlock when helper is unlocked"; ObjectID:  "2034"; */
+/* Class: "NSTextFieldCell"; title: "Unlock when helper is unlocked"; ObjectID: "2034"; */
 "Unlock when helper is unlocked" = "ヘルパーがロック解除されたらロック解除する";
 
-/* Class:  "NSTextFieldCell"; title:  "Verify:"; ObjectID:  "1399"; */
+/* Class: "NSTextFieldCell"; title: "Verify:"; ObjectID: "1399"; */
 "Verify:" = "再入力：";
 
-/* Class:  "NSButtonCell"; title:  "Download missing previews"; ObjectID:  "1732"; */
+/* Class: "NSButtonCell"; title: "Download missing previews"; ObjectID: "1732"; */
 "Download missing previews" = "欠けているプレビューをダウンロード";
 
-/* Class:  "NSTextFieldCell"; title:  "Master Password"; ObjectID:  "1363"; */
+/* Class: "NSTextFieldCell"; title: "Master Password"; ObjectID: "1363"; */
 "Master Password" = "マスターパスワード";
 
-/* Class:  "NSTextFieldCell"; title:  "minutes of computer inactivity"; ObjectID:  "1361"; */
+/* Class: "NSTextFieldCell"; title: "minutes of computer inactivity"; ObjectID: "1361"; */
 "minutes of computer inactivity" = "コンピュータの非アクティブ状態時間（分）";
 
-/* Class:  "NSButtonCell"; title:  "Enable Universal Unlock"; ObjectID:  "1441"; */
+/* Class: "NSButtonCell"; title: "Enable Universal Unlock"; ObjectID: "1441"; */
 "Enable Universal Unlock" = "ユニバーサルロック解除の有効化";
 
-/* Class:  "NSButtonCell"; title:  "Remove all previews..."; ObjectID:  "1733"; */
+/* Class: "NSButtonCell"; title: "Remove all previews..."; ObjectID: "1733"; */
 "Remove all previews..." = "すべてのプレビューを削除...";
 
-/* Class:  "NSTextFieldCell"; title:  "Press"; ObjectID:  "2102"; */
+/* Class: "NSTextFieldCell"; title: "Press"; ObjectID: "2102"; */
 "Press" = "押す";
 
-/* Class:  "NSTextFieldCell"; title:  "to show extension popup in your browser"; ObjectID:  "2104"; */
+/* Class: "NSTextFieldCell"; title: "to show extension popup in your browser"; ObjectID: "2104"; */
 "to show extension popup in your browser" = "お使いのブラウザでポップアップ拡張を表示するには";
 
-/* Class:  "NSTextFieldCell"; title:  "Keyboard Shortcuts"; ObjectID:  "2106"; */
+/* Class: "NSTextFieldCell"; title: "Keyboard Shortcuts"; ObjectID: "2106"; */
 "Keyboard Shortcuts" = "キーボードショートカット";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID:  "1804"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID: "1804"; */
 "help" = "ヘルプ";
 
-/* Class:  "NSTextFieldCell"; title:  "Login Previews"; ObjectID:  "1734"; */
+/* Class: "NSTextFieldCell"; title: "Login Previews"; ObjectID: "1734"; */
 "Login Previews" = "ログインプレビュー";
 
-/* Class:  "NSButtonCell"; title:  "      Tags"; ObjectID:  "1753"; */
+/* Class: "NSButtonCell"; title: "      Tags"; ObjectID: "1753"; */
 "      Tags" = "      タグ";
 
-/* Class:  "NSTextFieldCell"; title:  "seconds"; ObjectID:  "1541"; */
+/* Class: "NSTextFieldCell"; title: "seconds"; ObjectID: "1541"; */
 "seconds" = "秒後";
 
-/* Class:  "NSTextFieldCell"; title:  "Clipboard Security"; ObjectID:  "1533"; */
+/* Class: "NSTextFieldCell"; title: "Clipboard Security"; ObjectID: "1533"; */
 "Clipboard Security" = "クリップボードセキュリティ";
 
-/* Class:  "NSTextFieldCell"; title:  "New Password:"; ObjectID:  "1397"; */
+/* Class: "NSTextFieldCell"; title: "New Password:"; ObjectID: "1397"; */
 "New Password:" = "新規パスワード：";
 
-/* Class:  "NSButtonCell"; title:  "Keep helper running to enable extension features"; ObjectID:  "2019"; */
+/* Class: "NSButtonCell"; title: "Keep helper running to enable extension features"; ObjectID: "2019"; */
 "Keep helper running to enable extension features" = "拡張機能を有効にするためにヘルパーを実行し続ける";
 
-/* Class:  "NSButtonCell"; title:  "      Folders"; ObjectID:  "1747"; */
+/* Class: "NSButtonCell"; title: "      Folders"; ObjectID: "1747"; */
 "      Folders" = "      フォルダ";
 
-/* Class:  "NSTextFieldCell"; title:  "Your Data Stored In"; ObjectID:  "1347"; */
+/* Class: "NSTextFieldCell"; title: "Your Data Stored In"; ObjectID: "1347"; */
 "Your Data Stored In" = "にあなたのデータが格納されています";
 
-/* Class:  "NSTextFieldCell"; title:  "Auto-Lock"; ObjectID:  "1449"; */
+/* Class: "NSTextFieldCell"; title: "Auto-Lock"; ObjectID: "1449"; */
 "Auto-Lock" = "自動ロック";
 
-/* Class:  "NSButtonCell"; title:  "Change Password"; ObjectID:  "1405"; */
+/* Class: "NSButtonCell"; title: "Change Password"; ObjectID: "1405"; */
 "Change Password" = "パスワードを変更";
 
-/* Class:  "NSTextFieldCell"; title:  "Password Hint:"; ObjectID:  "1479"; */
+/* Class: "NSTextFieldCell"; title: "Password Hint:"; ObjectID: "1479"; */
 "Password Hint:" = "パスワードヒント：";
 
-/* Class:  "NSButtonCell"; title:  "Lock after"; ObjectID:  "1357"; */
+/* Class: "NSButtonCell"; title: "Lock after"; ObjectID: "1357"; */
 "Lock after" = "使用されない時間";
 
-/* Class:  "NSTextFieldCell"; title:  "to fill Login in your browser"; ObjectID:  "2103"; */
+/* Class: "NSTextFieldCell"; title: "to fill Login in your browser"; ObjectID: "2103"; */
 "to fill Login in your browser" = "お使いのブラウザでログイン情報を入力するには";
 
-/* Class:  "NSButtonCell"; title:  "      Generated Passwords"; ObjectID:  "1765"; */
+/* Class: "NSButtonCell"; title: "      Generated Passwords"; ObjectID: "1765"; */
 "      Generated Passwords" = "      生成パスワード";
 

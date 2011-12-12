@@ -1,24 +1,24 @@
-/* Class:  "NSTextFieldCell"; title:  "Agile"; ObjectID:  "260"; */
+/* Class: "NSTextFieldCell"; title: "Agile"; ObjectID: "260"; */
 "Agile" = "Agile";
 
-/* Class:  "NSTextFieldCell"; title:  "Email"; ObjectID:  "248"; */
+/* Class: "NSTextFieldCell"; title: "Email"; ObjectID: "248"; */
 "Email" = "Correo electrónico";
 
-/* Class:  "NSTextFieldCell"; title:  "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID:  "243"; */
+/* Class: "NSTextFieldCell"; title: "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID: "243"; */
 "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "No se pierda ninguna valiosa actualización de 1Password y conozca las nuevas funciones y mejoras.\n\nTodos nuestros boletines informativos incluyen un sencillo enlace desde donde puede cancelar su suscripción con un solo clic, en caso de que cambie de opinión en el futuro.";
 
-/* Class:  "NSWindow"; title:  "Stay In Touch"; ObjectID:  "21"; */
+/* Class: "NSWindow"; title: "Stay In Touch"; ObjectID: "21"; */
 "Stay In Touch" = "Manténgame informado";
 
-/* Class:  "NSButtonCell"; title:  "No, thanks"; ObjectID:  "244"; */
+/* Class: "NSButtonCell"; title: "No, thanks"; ObjectID: "244"; */
 "No, thanks" = "No, gracias";
 
-/* Class:  "NSTextFieldCell"; title:  "Copied from your Address Book card"; ObjectID:  "269"; */
+/* Class: "NSTextFieldCell"; title: "Copied from your Address Book card"; ObjectID: "269"; */
 "Copied from your Address Book card" = "Copiado desde su tarjeta de libreta de direcciones";
 
-/* Class:  "NSButtonCell"; title:  "Sign Up"; ObjectID:  "242"; */
+/* Class: "NSButtonCell"; title: "Sign Up"; ObjectID: "242"; */
 "Sign Up" = "Registrar";
 
-/* Class:  "NSTextFieldCell"; title:  "News & Updates"; ObjectID:  "258"; */
+/* Class: "NSTextFieldCell"; title: "News & Updates"; ObjectID: "258"; */
 "News & Updates" = "Novedades y actualizaciones";
 

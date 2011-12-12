@@ -1,24 +1,24 @@
-/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "100"; */
+/* Class: "NSButtonCell"; title: "Cancel"; ObjectID: "100"; */
 "Cancel" = "Cancelar";
 
-/* Class:  "NSButton"; ibShadowedToolTip:  "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID:  "61"; */
+/* Class: "NSButton"; ibShadowedToolTip: "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID: "61"; */
 "Turn this checkbox on to keep the access code in your login keychain for future exports." = "Marque esta casilla de verificación para guardar el código de acceso en su llavero de inicio de sesión para futuras exportaciones.";
 
-/* Class:  "NSButtonCell"; title:  "Continue"; ObjectID:  "99"; */
+/* Class: "NSButtonCell"; title: "Continue"; ObjectID: "99"; */
 "Continue" = "Continuar";
 
-/* Class:  "NSWindow"; title:  "Enter Access Code"; ObjectID:  "57"; */
+/* Class: "NSWindow"; title: "Enter Access Code"; ObjectID: "57"; */
 "Enter Access Code" = "Introducir código de acceso";
 
-/* Class:  "NSTextFieldCell"; title:  "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID:  "91"; */
+/* Class: "NSTextFieldCell"; title: "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID: "91"; */
 "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information." = "El código de acceso se utilizará para encriptar su información. Introduzca este código de acceso para desbloquear la información exportada.";
 
-/* Class:  "NSTextFieldCell"; title:  "Access Code:"; ObjectID:  "98"; */
+/* Class: "NSTextFieldCell"; title: "Access Code:"; ObjectID: "98"; */
 "Access Code:" = "Código de acceso:";
 
-/* Class:  "NSButtonCell"; title:  "Remember this access code in my keychain"; ObjectID:  "96"; */
+/* Class: "NSButtonCell"; title: "Remember this access code in my keychain"; ObjectID: "96"; */
 "Remember this access code in my keychain" = "Recordar este código de acceso en mi llavero";
 
-/* Class:  "NSTextFieldCell"; title:  "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID:  "97"; */
+/* Class: "NSTextFieldCell"; title: "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID: "97"; */
 "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information." = "Introduzca el código de acceso. El código de acceso se utilizará para encriptar su información. Introduzca este código para desbloquear la información exportada.";
 

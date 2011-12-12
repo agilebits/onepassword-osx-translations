@@ -1,36 +1,36 @@
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Tags"; ObjectID:  "4901"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "Tags"; ObjectID: "4901"; */
 "Tags" = "タグ";
 
-/* Class:  "NSScrollView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID:  "4842"; */
+/* Class: "NSScrollView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID: "4842"; */
 "Attachments" = "添付ファイル";
 
-/* Class:  "NSTextFieldCell"; title:  "Display"; ObjectID:  "4936"; */
+/* Class: "NSTextFieldCell"; title: "Display"; ObjectID: "4936"; */
 "Display" = "表示";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Photograph"; ObjectID:  "4905"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "Photograph"; ObjectID: "4905"; */
 "Photograph" = "写真";
 
-/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "name"; ObjectID:  "4582"; */
+/* Class: "NSTextField"; ibExternalAccessibilityDescription: "name"; ObjectID: "4582"; */
 "name" = "名前";
 
-/* Class:  "NSTextFieldCell"; title:  "Created on"; ObjectID:  "2888"; */
+/* Class: "NSTextFieldCell"; title: "Created on"; ObjectID: "2888"; */
 "Created on" = "作成日";
 
-/* Class:  "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID:  "4440"; */
+/* Class: "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID: "4440"; */
 "tags" = "タグ";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Notes"; ObjectID:  "4893"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "Notes"; ObjectID: "4893"; */
 "Notes" = "メモ";
 
-/* Class:  "NSMenuItem"; title:  "Always"; ObjectID:  "4935"; */
+/* Class: "NSMenuItem"; title: "Always"; ObjectID: "4935"; */
 "Always" = "いつも";
 
-/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Name"; ObjectID:  "4921"; */
+/* Class: "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Name"; ObjectID: "4921"; */
 "Name" = "名前";
 
-/* Class:  "NSMenuItem"; title:  "Never Display in Browser"; ObjectID:  "4933"; */
+/* Class: "NSMenuItem"; title: "Never Display in Browser"; ObjectID: "4933"; */
 "Never Display in Browser" = "ブラウザに表示しない";
 
-/* Class:  "NSTextFieldCell"; title:  "Last modified"; ObjectID:  "2887"; */
+/* Class: "NSTextFieldCell"; title: "Last modified"; ObjectID: "2887"; */
 "Last modified" = "変更日";
 

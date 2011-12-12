@@ -1,27 +1,27 @@
-/* Class:  "NSTextFieldCell"; title:  "Welcome to"; ObjectID:  "4"; */
+/* Class: "NSTextFieldCell"; title: "Welcome to"; ObjectID: "4"; */
 "Welcome to" = "欢迎使用";
 
-/* Class:  "NSButtonCell"; title:  "I have already used 1Password"; ObjectID:  "20"; */
+/* Class: "NSButtonCell"; title: "I have already used 1Password"; ObjectID: "20"; */
 "I have already used 1Password" = "我已使用过 1Password";
 
-/* Class:  "NSWindow"; title:  "Welcome to 1Password"; ObjectID:  "1"; */
+/* Class: "NSWindow"; title: "Welcome to 1Password"; ObjectID: "1"; */
 "Welcome to 1Password" = "欢迎使用 1Password";
 
-/* Class:  "NSTextFieldCell"; title:  "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID:  "10"; */
+/* Class: "NSTextFieldCell"; title: "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID: "10"; */
 "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "使用前您需要先设置主密码。\n如果您已经设置过，请点击\“我已使用过 1Password\" 按钮。";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "new data file"; ObjectID:  "15"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "new data file"; ObjectID: "15"; */
 "new data file" = "新建数据文件";
 
-/* Class:  "NSTextFieldCell"; title:  "1Password"; ObjectID:  "6"; */
+/* Class: "NSTextFieldCell"; title: "1Password"; ObjectID: "6"; */
 "1Password" = "1Password";
 
-/* Class:  "NSButtonCell"; title:  "I am a new user"; ObjectID:  "18"; */
+/* Class: "NSButtonCell"; title: "I am a new user"; ObjectID: "18"; */
 "I am a new user" = "我是新用户";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID:  "29"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID: "29"; */
 "help" = "帮助";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "find existing"; ObjectID:  "13"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "find existing"; ObjectID: "13"; */
 "find existing" = "查找现有";
 

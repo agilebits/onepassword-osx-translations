@@ -1,306 +1,306 @@
-/* Class:  "NSButtonCell"; title:  "Customize..."; ObjectID:  "4989"; */
+/* Class: "NSButtonCell"; title: "Customize..."; ObjectID: "4989"; */
 "Customize..." = "カスタマイズ...";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Created Date"; ObjectID:  "4993"; */
-"Cre作成日"作成日";
+/* Class: "NSTableColumn"; headerCell.title: "Created Date"; ObjectID: "4993"; */
+"Created Date" = "作成日";
 
-/* Class:  "NSMenu"; title:  "Menu"; ObjectID:  "1821"; */
+/* Class: "NSMenu"; title: "Menu"; ObjectID: "1821"; */
 "Menu" = "メニュー";
 
-/* Class:  "NSMenuItem"; title:  "Type"; ObjectID:  "4974"; */
+/* Class: "NSMenuItem"; title: "Type"; ObjectID: "4974"; */
 "Type" = "種類";
 
-/* Class:  "NSMenuItem"; title:  "of the following are true"; ObjectID:  "5062"; */
+/* Class: "NSMenuItem"; title: "of the following are true"; ObjectID: "5062"; */
 "of the following are true" = "が真である";
 
-/* Class:  "NSMenuItem"; title:  "Kind"; ObjectID:  "5290"; */
+/* Class: "NSMenuItem"; title: "Kind"; ObjectID: "5290"; */
 "Kind" = "種類";
 
-/* Class:  "NSMenuItem"; title:  "Low (4-Digit Code)"; ObjectID:  "5184"; */
+/* Class: "NSMenuItem"; title: "Low (4-Digit Code)"; ObjectID: "5184"; */
 "Low (4-Digit Code)" = "低";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Modified Date"; ObjectID:  "3496"; */
+/* Class: "NSTableColumn"; headerCell.title: "Modified Date"; ObjectID: "3496"; */
 "Modified Date" = "変更日";
 
-/* Class:  "NSMenuItem"; title:  "Identity"; ObjectID:  "5246"; */
+/* Class: "NSMenuItem"; title: "Identity"; ObjectID: "5246"; */
 "Identity" = "個人情報";
 
-/* Class:  "NSMenuItem"; title:  "Rename"; ObjectID:  "3465"; */
+/* Class: "NSMenuItem"; title: "Rename"; ObjectID: "3465"; */
 "Rename" = "名前を変更";
 
-/* Class:  "NSButtonCell"; title:  "Add Sample Data"; ObjectID:  "5029"; */
+/* Class: "NSButtonCell"; title: "Add Sample Data"; ObjectID: "5029"; */
 "Add Sample Data" = "サンプルデータを追加";
 
-/* Class:  "NSMenuItem"; title:  "Folder"; ObjectID:  "5786"; */
+/* Class: "NSMenuItem"; title: "Folder"; ObjectID: "5786"; */
 "Folder" = "フォルダ";
 
-/* Class:  "NSMenuItem"; title:  "Yes"; ObjectID:  "5369"; */
+/* Class: "NSMenuItem"; title: "Yes"; ObjectID: "5369"; */
 "Yes" = "はい";
 
-/* Class:  "NSMenuItem"; title:  "40"; ObjectID:  "5745"; */
-"40" =縦モード40";
+/* Class: "NSMenuItem"; title: "40"; ObjectID: "5745"; */
+"40" = "40";
 
-/* Class:  "NSMenuItem"; title:  "Modified"; ObjectID:  "5639"; */
+/* Class: "NSMenuItem"; title: "Modified"; ObjectID: "5639"; */
 "Modified" = "変更日";
 
-/* Class:  "NSTextFieldCell"; title:  "1976-04-01 3:00 PM"; ObjectID:  "4994"; */
+/* Class: "NSTextFieldCell"; title: "1976-04-01 3:00 PM"; ObjectID: "4994"; */
 "1976-04-01 3:00 PM" = "1976-04-01 3:00 PM";
 
-/* Class:  "NSMenuItem"; title:  "begins with"; ObjectID:  "5776"; */
+/* Class: "NSMenuItem"; title: "begins with"; ObjectID: "5776"; */
 "begins with" = "で始まる：";
 
-/* Class:  "OPWindowWithCmdSHandler"; title:  "1Password"; ObjectID:  "505"; */
+/* Class: "OPWindowWithCmdSHandler"; title: "1Password"; ObjectID: "505"; */
 "1Password" = "1Password";
 
-/* Class:  "NSOutlineView"; ibExternalAccessibilityDescription: "sidebar"; ObjectID:  "2637"; */
+/* Class: "NSOutlineView"; ibExternalAccessibilityDescription: "sidebar"; ObjectID: "2637"; */
 "sidebar" = "sidebar";
 
-/* Class:  "NSMenuItem"; title:  "Account"; ObjectID:  "5245"; */
+/* Class: "NSMenuItem"; title: "Account"; ObjectID: "5245"; */
 "Account" = "アカウント";
 
-/* Class:  "NSMenuItem"; title:  "matches"; ObjectID:  "5775"; */
+/* Class: "NSMenuItem"; title: "matches"; ObjectID: "5775"; */
 "matches" = "一致";
 
-/* Class:  "NSMenuItem"; title:  "Edit Smart Folder…"; ObjectID:  "5595"; */
+/* Class: "NSMenuItem"; title: "Edit Smart Folder…"; ObjectID: "5595"; */
 "Edit Smart Folder…" = "スマートフォルダを編集...";
 
-/* Class:  "NSMenuItem"; title:  "Wallet"; ObjectID:  "5249"; */
+/* Class: "NSMenuItem"; title: "Wallet"; ObjectID: "5249"; */
 "Wallet" = "ウォレット";
 
-/* Class:  "NSMenuItem"; title:  "Any"; ObjectID:  "5063"; */
+/* Class: "NSMenuItem"; title: "Any"; ObjectID: "5063"; */
 "Any" = "どれか";
 
-/* Class:  "NSMenuItem"; title:  "Icon"; ObjectID:  "4971"; */
+/* Class: "NSMenuItem"; title: "Icon"; ObjectID: "4971"; */
 "Icon" = "アイコン";
 
-/* Class:  "NSMenuItem"; title:  "New Wallet Item…"; ObjectID:  "4271"; */
+/* Class: "NSMenuItem"; title: "New Wallet Item…"; ObjectID: "4271"; */
 "New Wallet Item…" = "新規ウォレット項目...";
 
-/* Class:  "NSMenuItem"; title:  "New Secure Note"; ObjectID:  "4276"; */
+/* Class: "NSMenuItem"; title: "New Secure Note"; ObjectID: "4276"; */
 "New Secure Note" = "新規セキュアノート";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Drag Splitview"; ObjectID:  "4263"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "Drag Splitview"; ObjectID: "4263"; */
 "Drag Splitview" = "Splitview をドラッグ";
 
-/* Class:  "NSTabViewItem"; label: "Horizontal (Do Not Translate)"; ObjectID:  "3483"; */
+/* Class: "NSTabViewItem"; label: "Horizontal (Do Not Translate)"; ObjectID: "3483"; */
 "Horizontal (Do Not Translate)" = "Horizontal (Do Not Translate)";
 
-/* Class:  "NSMenuItem"; title:  "Cut"; ObjectID:  "4889"; */
+/* Class: "NSMenuItem"; title: "Cut"; ObjectID: "4889"; */
 "Cut" = "カット";
 
-/* Class:  "NSMenuItem"; title:  "None"; ObjectID:  "5619"; */
+/* Class: "NSMenuItem"; title: "None"; ObjectID: "5619"; */
 "None" = "なし";
 
-/* Class:  "NSMenuItem"; title:  "Username"; ObjectID:  "5593"; */
+/* Class: "NSMenuItem"; title: "Username"; ObjectID: "5593"; */
 "Username" = "ユーザ名";
 
-/* Class:  "NSMenuItem"; title:  "New Software License"; ObjectID:  "4272"; */
+/* Class: "NSMenuItem"; title: "New Software License"; ObjectID: "4272"; */
 "New Software License" = "新規ライセンス";
 
-/* Class:  "NSTextFieldCell"; title:  "Incorrect Password"; ObjectID:  "4670"; */
+/* Class: "NSTextFieldCell"; title: "Incorrect Password"; ObjectID: "4670"; */
 "Incorrect Password" = "不正なパスワード";
 
-/* Class:  "NSMenuItem"; title:  "Password"; ObjectID:  "5594"; */
+/* Class: "NSMenuItem"; title: "Password"; ObjectID: "5594"; */
 "Password" = "パスワード";
 
-/* Class:  "NSMenuItem"; title:  "before"; ObjectID:  "5638"; */
+/* Class: "NSMenuItem"; title: "before"; ObjectID: "5638"; */
 "before" = "これ以前：";
 
-/* Class:  "NSMenuItem"; title:  "is like"; ObjectID:  "5752"; */
+/* Class: "NSMenuItem"; title: "is like"; ObjectID: "5752"; */
 "is like" = "のような";
 
-/* Class:  "NSMenuItem"; title:  "New Login"; ObjectID:  "4281"; */
+/* Class: "NSMenuItem"; title: "New Login"; ObjectID: "4281"; */
 "New Login" = "新規ログイン";
 
-/* Class:  "NSMenuItem"; title:  "Security Level"; ObjectID:  "5179"; */
+/* Class: "NSMenuItem"; title: "Security Level"; ObjectID: "5179"; */
 "Security Level" = "セキュリティレベル";
 
-/* Class:  "NSMenuItem"; title:  "New Password…"; ObjectID:  "5653"; */
+/* Class: "NSMenuItem"; title: "New Password…"; ObjectID: "5653"; */
 "New Password…" = "新規パスワード...";
 
-/* Class:  "NSMenuItem"; title:  "contains"; ObjectID:  "5766"; */
+/* Class: "NSMenuItem"; title: "contains"; ObjectID: "5766"; */
 "contains" = "を含む：";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Add Item"; ObjectID:  "4914"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "Add Item"; ObjectID: "4914"; */
 "Add Item" = "項目追加";
 
-/* Class:  "NSMenuItem"横モード; ObjectID:  "5064"; */
+/* Class: "NSMenuItem"; title: "All"; ObjectID: "5064"; */
 "All" = "すべて";
 
-/* Class:  "NSMenuItem"; title:  "is greater than or equal to"; ObjectID:  "5749"; */
+/* Class: "NSMenuItem"; title: "is greater than or equal to"; ObjectID: "5749"; */
 "is greater than or equal to" = "以上または同等";
 
-/* Class:  "NSMenuItem"; title:  "New Smart Folder"; ObjectID:  "5615"; */
+/* Class: "NSMenuItem"; title: "New Smart Folder"; ObjectID: "5615"; */
 "New Smart Folder" = "新規スマートフォルダ";
 
-/* Class:  "NSMenuItem"; title:  "is"; ObjectID:  "5770"; */
+/* Class: "NSMenuItem"; title: "is"; ObjectID: "5770"; */
 "is" = "である：";
 
-/* Class:  "NSMenuItem"; title:  "Any of the fields"; ObjectID:  "5579"; */
+/* Class: "NSMenuItem"; title: "Any of the fields"; ObjectID: "5579"; */
 "Any of the fields" = "いずれかのフィールド";
 
-/* Class:  "NSMenuItem"; title:  "Password Strength"; ObjectID:  "5697"; */
+/* Class: "NSMenuItem"; title: "Password Strength"; ObjectID: "5697"; */
 "Password Strength" = "パスワード強度";
 
-/* Class:  "NSMenuItem"; title:  "High (Master Password)"; ObjectID:  "5185"; */
+/* Class: "NSMenuItem"; title: "High (Master Password)"; ObjectID: "5185"; */
 "High (Master Password)" = "高";
 
-/* Class:  "NSMenuItem"; title:  "Empty Trash…"; ObjectID:  "3437"; */
+/* Class: "NSMenuItem"; title: "Empty Trash…"; ObjectID: "3437"; */
 "Empty Trash…" = "ゴミ箱を空にする...";
 
-/* Class:  "NSMenuItem"; title:  "New Folder"; ObjectID:  "3443"; */
+/* Class: "NSMenuItem"; title: "New Folder"; ObjectID: "3443"; */
 "New Folder" = "新規フォルダ";
 
-/* Class:  "NSMenuItem"; title:  "New Account…"; ObjectID:  "5651"; */
+/* Class: "NSMenuItem"; title: "New Account…"; ObjectID: "5651"; */
 "New Account…" = "新規アカウント...";
 
-/* Class:  "NSButtonCell"; title:  "Can't Log In?"; ObjectID:  "5759"; */
+/* Class: "NSButtonCell"; title: "Can't Log In?"; ObjectID: "5759"; */
 "Can't Log In?" = "ログインできませんか？";
 
-/* Class:  "NSMenuItem"; title:  "Login"; ObjectID:  "5244"; */
+/* Class: "NSMenuItem"; title: "Login"; ObjectID: "5244"; */
 "Login" = "ログイン";
 
-/* Class:  "NSMenuItem"; title:  "Has Attachment"; ObjectID:  "5364"; */
+/* Class: "NSMenuItem"; title: "Has Attachment"; ObjectID: "5364"; */
 "Has Attachment" = "添付ファイルあり";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Help"; ObjectID:  "5758"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "Help"; ObjectID: "5758"; */
 "Help" = "ヘルプ";
 
-/* Class:  "NSSegmentedControl"; ibExternalAccessibilityDescription: "window layout"; ObjectID:  "4644"; */
+/* Class: "NSSegmentedControl"; ibExternalAccessibilityDescription: "window layout"; ObjectID: "4644"; */
 "window layout" = "ウィンドウの配置";
 
-/* Class:  "NSBox"; ibExternalAccessibilityDescription: "Unlock"; ObjectID:  "3662"; */
+/* Class: "NSBox"; ibExternalAccessibilityDescription: "Unlock"; ObjectID: "3662"; */
 "Unlock" = "ロック解除";
 
-/* Class:  "NSSearchField"; ibExternalAccessibilityDescription: "search"; ObjectID:  "4646"; */
+/* Class: "NSSearchField"; ibExternalAccessibilityDescription: "search"; ObjectID: "4646"; */
 "search" = "検索";
 
-/* Class:  "NSTextFieldCell"; title:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID:  "5023"; */
+/* Class: "NSTextFieldCell"; title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID: "5023"; */
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. " = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. ";
 
-/* Class:  "NSMenuItem"; title:  "60"; ObjectID:  "5746"; */
+/* Class: "NSMenuItem"; title: "60"; ObjectID: "5746"; */
 "60" = "60";
 
-/* Class:  "NSMenuItem"; title:  "Delete…"; ObjectID:  "4892"; */
+/* Class: "NSMenuItem"; title: "Delete…"; ObjectID: "4892"; */
 "Delete…" = "削除...";
 
-/* Class:  "NSMenuItem"; title:  "100 - Fantastic"; ObjectID:  "5748"; */
+/* Class: "NSMenuItem"; title: "100 - Fantastic"; ObjectID: "5748"; */
 "100 - Fantastic" = "100 - 素晴らしい";
 
-/* Class:  "NSTableView"; ibExternalAccessibilityDescription: "object list"; ObjectID:  "3491"; */
+/* Class: "NSTableView"; ibExternalAccessibilityDescription: "object list"; ObjectID: "3491"; */
 "object list" = "オブジェクトリスト";
 
-/* Class:  "NSTextFieldCell"; title:  "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID:  "5021"; */
+/* Class: "NSTextFieldCell"; title: "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID: "5021"; */
 "Click the + button to get started creating new items or add sample data to get some ideas." = "+ ボタンをクリックして新規項目を作成するか、サンプルデータを追加してください。";
 
-/* Class:  "NSMenuItem"; title:  "ends with"; ObjectID:  "5777"; */
+/* Class: "NSMenuItem"; title: "ends with"; ObjectID: "5777"; */
 "ends with" = "で終わる：";
 
-/* Class:  "NSMenuItem"; title:  "Edit"; ObjectID:  "4896"; */
+/* Class: "NSMenuItem"; title: "Edit"; ObjectID: "4896"; */
 "Edit" = "編集";
 
-/* Class:  "NSMenuItem"; title:  "is not"; ObjectID:  "5531"; */
+/* Class: "NSMenuItem"; title: "is not"; ObjectID: "5531"; */
 "is not" = "ではない：";
 
-/* Class:  "NSMenuItem"; title:  "Paste"; ObjectID:  "4891"; */
+/* Class: "NSMenuItem"; title: "Paste"; ObjectID: "4891"; */
 "Paste" = "ペースト";
 
-/* Class:  "NSButtonCell"; title:  "Save"; ObjectID:  "5410"; */
+/* Class: "NSButtonCell"; title: "Save"; ObjectID: "5410"; */
 "Save" = "保存";
 
-/* Class:  "NSMenuItem"; title:  "Duplicate"; ObjectID:  "4895"; */
+/* Class: "NSMenuItem"; title: "Duplicate"; ObjectID: "4895"; */
 "Duplicate" = "複製";
 
-/* Class:  "NSMenuItem"; title:  "Date Created"; ObjectID:  "4998"; */
+/* Class: "NSMenuItem"; title: "Date Created"; ObjectID: "4998"; */
 "Date Created" = "作成日";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Sidebar Actions Menu"; ObjectID:  "3430"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "Sidebar Actions Menu"; ObjectID: "3430"; */
 "Sidebar Actions Menu" = "サイドバーのアクションメニュー";
 
-/* Class:  "NSMenuItem"; title:  "Copy"; ObjectID:  "4890"; */
+/* Class: "NSMenuItem"; title: "Copy"; ObjectID: "4890"; */
 "Copy" = "コピー";
 
-/* Class:  "NSMenuItem"; title:  "20"; ObjectID:  "5744"; */
+/* Class: "NSMenuItem"; title: "20"; ObjectID: "5744"; */
 "20" = "20";
 
-/* Class:  "NSMenuItem"; title:  "Secure Note"; ObjectID:  "5247"; */
+/* Class: "NSMenuItem"; title: "Secure Note"; ObjectID: "5247"; */
 "Secure Note" = "セキュアノート";
 
-/* Class:  "NSMenuItem"; title:  "No"; ObjectID:  "5370"; */
+/* Class: "NSMenuItem"; title: "No"; ObjectID: "5370"; */
 "No" = "いいえ";
 
-/* Class:  "NSMenuItem"; title:  "New Identity"; ObjectID:  "4277"; */
+/* Class: "NSMenuItem"; title: "New Identity"; ObjectID: "4277"; */
 "New Identity" = "新規個人情報";
 
-/* Class:  "NSMenuItem"; title:  "Low Security"; ObjectID:  "5655"; */
+/* Class: "NSMenuItem"; title: "Low Security"; ObjectID: "5655"; */
 "Low Security" = "低セキュリティ";
 
-/* Class:  "NSMenuItem"; title:  "is less than"; ObjectID:  "5757"; */
+/* Class: "NSMenuItem"; title: "is less than"; ObjectID: "5757"; */
 "is less than" = "以下";
 
-/* Class:  "NSMenuItem"; title:  "Date Modified"; ObjectID:  "4975"; */
+/* Class: "NSMenuItem"; title: "Date Modified"; ObjectID: "4975"; */
 "Date Modified" = "変更日";
 
-/* Class:  "NSMenuItem"; title:  "10 - Terrible"; ObjectID:  "5743"; */
+/* Class: "NSMenuItem"; title: "10 - Terrible"; ObjectID: "5743"; */
 "10 - Terrible" = "10 - 酷い";
 
-/* Class:  "NSMenuItem"; title:  "Notes"; ObjectID:  "5558"; */
+/* Class: "NSMenuItem"; title: "Notes"; ObjectID: "5558"; */
 "Notes" = "注記";
 
-/* Class:  "NSMenuItem"; title:  "90"; ObjectID:  "5747"; */
+/* Class: "NSMenuItem"; title: "90"; ObjectID: "5747"; */
 "90" = "90";
 
-/* Class:  "NSSearchFieldCell"; placeholderString: "Search"; ObjectID:  "4647"; */
+/* Class: "NSSearchFieldCell"; placeholderString: "Search"; ObjectID: "4647"; */
 "Search" = "検索";
 
-/* Class:  "NSMenuItem"; title:  "Title"; ObjectID:  "5591"; */
+/* Class: "NSMenuItem"; title: "Title"; ObjectID: "5591"; */
 "Title" = "タイトル";
 
-/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "Master Password"; ObjectID:  "2517"; */
+/* Class: "NSTextField"; ibExternalAccessibilityDescription: "Master Password"; ObjectID: "2517"; */
 "Master Password" = "マスターパスワード";
 
-/* Class:  "NSMenuItem"; title:  "Tag"; ObjectID:  "5674"; */
+/* Class: "NSMenuItem"; title: "Tag"; ObjectID: "5674"; */
 "Tag" = "タグ";
 
-/* Class:  "NSTextFieldCell"; title:  "No Items Found"; ObjectID:  "5037"; */
+/* Class: "NSTextFieldCell"; title: "No Items Found"; ObjectID: "5037"; */
 "No Items Found" = "見つかりません";
 
-/* Class:  "NSTabViewItem"; label: "Vertical (Do Not Translate)"; ObjectID:  "3485"; */
+/* Class: "NSTabViewItem"; label: "Vertical (Do Not Translate)"; ObjectID: "3485"; */
 "Vertical (Do Not Translate)" = "Vertical (Do Not Translate)";
 
-/* Class:  "NSTextFieldCell"; title:  "MASTER PASSWORD"; ObjectID:  "4603"; */
+/* Class: "NSTextFieldCell"; title: "MASTER PASSWORD"; ObjectID: "4603"; */
 "MASTER PASSWORD" = "マスターパスワード";
 
-/* Class:  "NSMenuItem"; title:  "Created"; ObjectID:  "5628"; */
+/* Class: "NSMenuItem"; title: "Created"; ObjectID: "5628"; */
 "Created" = "作成日";
 
-/* Class:  "NSMenuItem"; title:  "Any kind"; ObjectID:  "5314"; */
+/* Class: "NSMenuItem"; title: "Any kind"; ObjectID: "5314"; */
 "Any kind" = "あらゆる種類";
 
-/* Class:  "NSMenuItem"; title:  "after"; ObjectID:  "5637"; */
+/* Class: "NSMenuItem"; title: "after"; ObjectID: "5637"; */
 "after" = "これ以降：";
 
-/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "5668"; */
+/* Class: "NSButtonCell"; title: "Cancel"; ObjectID: "5668"; */
 "Cancel" = "キャンセル";
 
-/* Class:  "NSMenuItem"; title:  "Software License"; ObjectID:  "5248"; */
+/* Class: "NSMenuItem"; title: "Software License"; ObjectID: "5248"; */
 "Software License" = "ライセンス";
 
-/* Class:  "NSMenuItem"; title:  "is less than or equal to"; ObjectID:  "5701"; */
+/* Class: "NSMenuItem"; title: "is less than or equal to"; ObjectID: "5701"; */
 "is less than or equal to" = "以下か同等";
 
-/* Class:  "NSButtonCell"; title:  "Lock"; ObjectID:  "4643"; */
+/* Class: "NSButtonCell"; title: "Lock"; ObjectID: "4643"; */
 "Lock" = "ロック";
 
-/* Class:  "NSMenuItem"; title:  "Location"; ObjectID:  "5592"; */
+/* Class: "NSMenuItem"; title: "Location"; ObjectID: "5592"; */
 "Location" = "場所";
 
-/* Class:  "NSButtonCell"; title:  "Save Changes"; ObjectID:  "5606"; */
+/* Class: "NSButtonCell"; title: "Save Changes"; ObjectID: "5606"; */
 "Save Changes" = "変更を保存";
 
-/* Class:  "NSMenuItem"; title:  "Select All"; ObjectID:  "4894"; */
+/* Class: "NSMenuItem"; title: "Select All"; ObjectID: "4894"; */
 "Select All" = "すべてを選択";
 
-/* Class:  "NSMenuItem"; title:  "is greater than"; ObjectID:  "5756"; */
+/* Class: "NSMenuItem"; title: "is greater than"; ObjectID: "5756"; */
 "is greater than" = "以上";
 

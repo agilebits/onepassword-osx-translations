@@ -1,336 +1,336 @@
-/* Class:  "NSMenuItem"; title:  "Redo"; ObjectID:  "1481"; */
+/* Class: "NSMenuItem"; title: "Redo"; ObjectID: "1481"; */
 "Redo" = "重做";
 
-/* Class:  "NSMenu"; title:  "Export All"; ObjectID:  "946"; */
+/* Class: "NSMenu"; title: "Export All"; ObjectID: "946"; */
 "Export All" = "全部导出";
 
-/* Class:  "NSMenu"; title:  "View"; ObjectID:  "1634"; */
+/* Class: "NSMenu"; title: "View"; ObjectID: "1634"; */
 "View" = "视图";
 
-/* Class:  "NSMenuItem"; title:  "Created Date"; ObjectID:  "1303"; */
+/* Class: "NSMenuItem"; title: "Created Date"; ObjectID: "1303"; */
 "Created Date" = "创建日期";
 
-/* Class:  "NSMenu"; title:  "Menu"; ObjectID:  "1104"; */
+/* Class: "NSMenu"; title: "Menu"; ObjectID: "1104"; */
 "Menu" = "菜单";
 
-/* Class:  "NSMenuItem"; title:  "Type"; ObjectID:  "1234"; */
+/* Class: "NSMenuItem"; title: "Type"; ObjectID: "1234"; */
 "Type" = "类型";
 
-/* Class:  "NSMenuItem"; title:  "Copy Password"; ObjectID:  "1376"; */
+/* Class: "NSMenuItem"; title: "Copy Password"; ObjectID: "1376"; */
 "Copy Password" = "复制密码";
 
-/* Class:  "NSMenuItem"; title:  "Check Spelling as You Type"; ObjectID:  "191"; */
+/* Class: "NSMenuItem"; title: "Check Spelling as You Type"; ObjectID: "191"; */
 "Check Spelling as You Type" = "键入时检查拼写";
 
-/* Class:  "NSMenuItem"; title:  "Identities"; ObjectID:  "1269"; */
+/* Class: "NSMenuItem"; title: "Identities"; ObjectID: "1269"; */
 "Identities" = "身份标识";
 
-/* Class:  "NSMenuItem"; title:  "Check Spelling"; ObjectID:  "189"; */
+/* Class: "NSMenuItem"; title: "Check Spelling"; ObjectID: "189"; */
 "Check Spelling" = "检查拼写";
 
-/* Class:  "NSMenuItem"; title:  "Find…"; ObjectID:  "154"; */
+/* Class: "NSMenuItem"; title: "Find…"; ObjectID: "154"; */
 "Find…" = "查找...";
 
-/* Class:  "NSMenu"; title:  "Layout"; ObjectID:  "1220"; */
+/* Class: "NSMenu"; title: "Layout"; ObjectID: "1220"; */
 "Layout" = "布局";
 
-/* Class:  "NSMenuItem"; title:  "Modified Date"; ObjectID:  "1235"; */
+/* Class: "NSMenuItem"; title: "Modified Date"; ObjectID: "1235"; */
 "Modified Date" = "修改日期";
 
-/* Class:  "NSMenuItem"; title:  "Traditional"; ObjectID:  "1222"; */
+/* Class: "NSMenuItem"; title: "Traditional"; ObjectID: "1222"; */
 "Traditional" = "传统";
 
-/* Class:  "NSMenu"; title:  "Export Selected"; ObjectID:  "1092"; */
+/* Class: "NSMenu"; title: "Export Selected"; ObjectID: "1092"; */
 "Export Selected" = "导出所选";
 
-/* Class:  "NSMenuItem"; title:  "Knowledge Base"; ObjectID:  "1700"; */
+/* Class: "NSMenuItem"; title: "Knowledge Base"; ObjectID: "1700"; */
 "Knowledge Base" = "知识库";
 
-/* Class:  "NSMenuItem"; title:  "Use Selection for Find"; ObjectID:  "161"; */
+/* Class: "NSMenuItem"; title: "Use Selection for Find"; ObjectID: "161"; */
 "Use Selection for Find" = "查找使用选择";
 
-/* Class:  "NSMenuItem"; title:  "Quit 1Password"; ObjectID:  "1421"; */
+/* Class: "NSMenuItem"; title: "Quit 1Password"; ObjectID: "1421"; */
 "Quit 1Password" = "退出 1Password";
 
-/* Class:  "NSMenu"; title:  "Services"; ObjectID:  "1425"; */
+/* Class: "NSMenu"; title: "Services"; ObjectID: "1425"; */
 "Services" = "服务";
 
-/* Class:  "NSMenu"; title:  "File"; ObjectID:  "1426"; */
+/* Class: "NSMenu"; title: "File"; ObjectID: "1426"; */
 "File" = "文件";
 
-/* Class:  "NSMenuItem"; title:  "Folder"; ObjectID:  "1236"; */
+/* Class: "NSMenuItem"; title: "Folder"; ObjectID: "1236"; */
 "Folder" = "文件夹";
 
-/* Class:  "NSMenuItem"; title:  "Install Browser Extensions..."; ObjectID:  "1384"; */
+/* Class: "NSMenuItem"; title: "Install Browser Extensions..."; ObjectID: "1384"; */
 "Install Browser Extensions..." = "安装浏览器扩展...";
 
-/* Class:  "NSMenuItem"; title:  "Rebuild Data File..."; ObjectID:  "1677"; */
+/* Class: "NSMenuItem"; title: "Rebuild Data File..."; ObjectID: "1677"; */
 "Rebuild Data File..." = "重建数据文件...";
 
-/* Class:  "NSMenuItem"; title:  "Generated Passwords"; ObjectID:  "1276"; */
+/* Class: "NSMenuItem"; title: "Generated Passwords"; ObjectID: "1276"; */
 "Generated Passwords" = "生成密码";
 
-/* Class:  "NSMenuItem"; title:  "Hide 1Password"; ObjectID:  "1422"; */
+/* Class: "NSMenuItem"; title: "Hide 1Password"; ObjectID: "1422"; */
 "Hide 1Password" = "隐藏 1Password";
 
-/* Class:  "NSMenuItem"; title:  "Copy UUID"; ObjectID:  "1374"; */
+/* Class: "NSMenuItem"; title: "Copy UUID"; ObjectID: "1374"; */
 "Copy UUID" = "复制 UUID";
 
-/* Class:  "NSMenuItem"; title:  "Show All"; ObjectID:  "1416"; */
+/* Class: "NSMenuItem"; title: "Show All"; ObjectID: "1416"; */
 "Show All" = "显示全部";
 
-/* Class:  "NSMenuItem"; title:  "Conceal Passwords"; ObjectID:  "1628"; */
+/* Class: "NSMenuItem"; title: "Conceal Passwords"; ObjectID: "1628"; */
 "Conceal Passwords" = "隐藏密码";
 
-/* Class:  "NSMenuItem"; title:  "Spelling…"; ObjectID:  "187"; */
+/* Class: "NSMenuItem"; title: "Spelling…"; ObjectID: "187"; */
 "Spelling…" = "拼写...";
 
-/* Class:  "NSMenu"; title:  "1Password"; ObjectID:  "1409"; */
+/* Class: "NSMenu"; title: "1Password"; ObjectID: "1409"; */
 "1Password" = "1Password";
 
-/* Class:  "NSMenuItem"; title:  "New Secure Note"; ObjectID:  "1015"; */
+/* Class: "NSMenuItem"; title: "New Secure Note"; ObjectID: "1015"; */
 "New Secure Note" = "新建安全备注";
 
-/* Class:  "NSMenu"; title:  "Spelling"; ObjectID:  "185"; */
+/* Class: "NSMenu"; title: "Spelling"; ObjectID: "185"; */
 "Spelling" = "拼写";
 
-/* Class:  "NSMenuItem"; title:  "Icon"; ObjectID:  "1231"; */
+/* Class: "NSMenuItem"; title: "Icon"; ObjectID: "1231"; */
 "Icon" = "图标";
 
-/* Class:  "NSMenuItem"; title:  "Wallet"; ObjectID:  "1272"; */
+/* Class: "NSMenuItem"; title: "Wallet"; ObjectID: "1272"; */
 "Wallet" = "钱包";
 
-/* Class:  "NSMenuItem"; title:  "New Wallet Item…"; ObjectID:  "1016"; */
+/* Class: "NSMenuItem"; title: "New Wallet Item…"; ObjectID: "1016"; */
 "New Wallet Item…" = "新建钱包项...";
 
-/* Class:  "NSMenuItem"; title:  "Edit Smart Folder…"; ObjectID:  "1319"; */
+/* Class: "NSMenuItem"; title: "Edit Smart Folder…"; ObjectID: "1319"; */
 "Edit Smart Folder…" = "编辑智能文件夹...";
 
-/* Class:  "NSMenuItem"; title:  "Show Activity"; ObjectID:  "1199"; */
+/* Class: "NSMenuItem"; title: "Show Activity"; ObjectID: "1199"; */
 "Show Activity" = "显示活动";
 
-/* Class:  "NSMenuItem"; title:  "Undo"; ObjectID:  "1486"; */
+/* Class: "NSMenuItem"; title: "Undo"; ObjectID: "1486"; */
 "Undo" = "撤消";
 
-/* Class:  "NSMenuItem"; title:  "Cut"; ObjectID:  "1485"; */
+/* Class: "NSMenuItem"; title: "Cut"; ObjectID: "1485"; */
 "Cut" = "剪切";
 
-/* Class:  "NSMenuItem"; title:  "Fill Login in Browser"; ObjectID:  "1074"; */
+/* Class: "NSMenuItem"; title: "Fill Login in Browser"; ObjectID: "1074"; */
 "Fill Login in Browser" = "在浏览器中填充登录信息";
 
-/* Class:  "NSMenuItem"; title:  "Show 1Password Log"; ObjectID:  "1702"; */
+/* Class: "NSMenuItem"; title: "Show 1Password Log"; ObjectID: "1702"; */
 "Show 1Password Log" = "显示 1Password 日志";
 
-/* Class:  "NSMenuItem"; title:  "Logins"; ObjectID:  "1267"; */
+/* Class: "NSMenuItem"; title: "Logins"; ObjectID: "1267"; */
 "Logins" = "登录";
 
-/* Class:  "NSMenu"; title:  "Troubleshooting"; ObjectID:  "1696"; */
+/* Class: "NSMenu"; title: "Troubleshooting"; ObjectID: "1696"; */
 "Troubleshooting" = "疑难解答";
 
-/* Class:  "NSMenuItem"; title:  "Bring All to Front"; ObjectID:  "1408"; */
+/* Class: "NSMenuItem"; title: "Bring All to Front"; ObjectID: "1408"; */
 "Bring All to Front" = "全部置于顶层";
 
-/* Class:  "NSMenuItem"; title:  "New Software License"; ObjectID:  "1211"; */
+/* Class: "NSMenuItem"; title: "New Software License"; ObjectID: "1211"; */
 "New Software License" = "新建软件许可";
 
-/* Class:  "NSMenuItem"; title:  "New Login"; ObjectID:  "1027"; */
+/* Class: "NSMenuItem"; title: "New Login"; ObjectID: "1027"; */
 "New Login" = "新建登录";
 
-/* Class:  "NSMenuItem"; title:  "Trash"; ObjectID:  "1277"; */
+/* Class: "NSMenuItem"; title: "Trash"; ObjectID: "1277"; */
 "Trash" = "垃圾桶";
 
-/* Class:  "NSMenuItem"; title:  "1Password Help"; ObjectID:  "1466"; */
+/* Class: "NSMenuItem"; title: "1Password Help"; ObjectID: "1466"; */
 "1Password Help" = "1Password 帮助";
 
-/* Class:  "NSMenuItem"; title:  "Lock 1Password"; ObjectID:  "1105"; */
+/* Class: "NSMenuItem"; title: "Lock 1Password"; ObjectID: "1105"; */
 "Lock 1Password" = "锁定 1Password";
 
-/* Class:  "NSMenuItem"; title:  "Folders"; ObjectID:  "1274"; */
+/* Class: "NSMenuItem"; title: "Folders"; ObjectID: "1274"; */
 "Folders" = "文件夹";
 
-/* Class:  "NSMenuItem"; title:  "New Password…"; ObjectID:  "1146"; */
+/* Class: "NSMenuItem"; title: "New Password…"; ObjectID: "1146"; */
 "New Password…" = "新密码...";
 
-/* Class:  "NSMenuItem"; title:  "Enter Full Screen"; ObjectID:  "1635"; */
+/* Class: "NSMenuItem"; title: "Enter Full Screen"; ObjectID: "1635"; */
 "Enter Full Screen" = "进入全屏模式";
 
-/* Class:  "NSMenuItem"; title:  "Tags"; ObjectID:  "1325"; */
+/* Class: "NSMenuItem"; title: "Tags"; ObjectID: "1325"; */
 "Tags" = "标签";
 
-/* Class:  "NSMenuItem"; title:  "Clear Cache"; ObjectID:  "1698"; */
+/* Class: "NSMenuItem"; title: "Clear Cache"; ObjectID: "1698"; */
 "Clear Cache" = "清空缓存";
 
-/* Class:  "NSMenuItem"; title:  "New Smart Folder"; ObjectID:  "1322"; */
+/* Class: "NSMenuItem"; title: "New Smart Folder"; ObjectID: "1322"; */
 "New Smart Folder" = "新建智能文件夹";
 
-/* Class:  "NSMenuItem"; title:  "Preferences…"; ObjectID:  "1413"; */
+/* Class: "NSMenuItem"; title: "Preferences…"; ObjectID: "1413"; */
 "Preferences…" = "首选项...";
 
-/* Class:  "NSMenuItem"; title:  "Password Strength"; ObjectID:  "1237"; */
+/* Class: "NSMenuItem"; title: "Password Strength"; ObjectID: "1237"; */
 "Password Strength" = "密码强度";
 
-/* Class:  "NSMenuItem"; title:  "Empty Trash…"; ObjectID:  "1041"; */
+/* Class: "NSMenuItem"; title: "Empty Trash…"; ObjectID: "1041"; */
 "Empty Trash…" = "清空垃圾桶...";
 
-/* Class:  "NSMenuItem"; title:  "Restore…"; ObjectID:  "1433"; */
+/* Class: "NSMenuItem"; title: "Restore…"; ObjectID: "1433"; */
 "Restore…" = "还原...";
 
-/* Class:  "NSMenuItem"; title:  "Edit Selected Item"; ObjectID:  "1009"; */
+/* Class: "NSMenuItem"; title: "Edit Selected Item"; ObjectID: "1009"; */
 "Edit Selected Item" = "编辑所选项";
 
-/* Class:  "NSMenuItem"; title:  "Minimize"; ObjectID:  "1407"; */
+/* Class: "NSMenuItem"; title: "Minimize"; ObjectID: "1407"; */
 "Minimize" = "最小化";
 
-/* Class:  "NSMenuItem"; title:  "New Folder"; ObjectID:  "1014"; */
+/* Class: "NSMenuItem"; title: "New Folder"; ObjectID: "1014"; */
 "New Folder" = "新建文件夹";
 
-/* Class:  "NSMenuItem"; title:  "New Account…"; ObjectID:  "1262"; */
+/* Class: "NSMenuItem"; title: "New Account…"; ObjectID: "1262"; */
 "New Account…" = "新建账户...";
 
-/* Class:  "NSMenu"; title:  "New Item"; ObjectID:  "1329"; */
+/* Class: "NSMenu"; title: "New Item"; ObjectID: "1329"; */
 "New Item" = "新建项目";
 
-/* Class:  "NSMenuItem"; title:  "Contact Us"; ObjectID:  "1462"; */
+/* Class: "NSMenuItem"; title: "Contact Us"; ObjectID: "1462"; */
 "Contact Us" = "联系我们";
 
-/* Class:  "NSMenuItem"; title:  "About 1Password"; ObjectID:  "1424"; */
+/* Class: "NSMenuItem"; title: "About 1Password"; ObjectID: "1424"; */
 "About 1Password" = "关于 1Password";
 
-/* Class:  "NSMenu"; title:  "MainMenu"; ObjectID:  "1393"; */
+/* Class: "NSMenu"; title: "MainMenu"; ObjectID: "1393"; */
 "MainMenu" = "主菜单";
 
-/* Class:  "NSMenu"; title:  "Help"; ObjectID:  "1459"; */
+/* Class: "NSMenu"; title: "Help"; ObjectID: "1459"; */
 "Help" = "帮助";
 
-/* Class:  "NSMenuItem"; title:  "Unlock"; ObjectID:  "1412"; */
+/* Class: "NSMenuItem"; title: "Unlock"; ObjectID: "1412"; */
 "Unlock" = "解锁";
 
-/* Class:  "NSMenuItem"; title:  "Hide Others"; ObjectID:  "1418"; */
+/* Class: "NSMenuItem"; title: "Hide Others"; ObjectID: "1418"; */
 "Hide Others" = "隐藏其他";
 
-/* Class:  "NSMenuItem"; title:  "Text File…"; ObjectID:  "1130"; */
+/* Class: "NSMenuItem"; title: "Text File…"; ObjectID: "1130"; */
 "Text File…" = "文本文件...";
 
-/* Class:  "NSMenuItem"; title:  "Show Item Counts"; ObjectID:  "1207"; */
+/* Class: "NSMenuItem"; title: "Show Item Counts"; ObjectID: "1207"; */
 "Show Item Counts" = "显示项目数";
 
-/* Class:  "NSMenu"; title:  "Go"; ObjectID:  "1266"; */
+/* Class: "NSMenu"; title: "Go"; ObjectID: "1266"; */
 "Go" = "转到";
 
-/* Class:  "NSMenuItem"; title:  "Delete"; ObjectID:  "1057"; */
+/* Class: "NSMenuItem"; title: "Delete"; ObjectID: "1057"; */
 "Delete" = "删除";
 
-/* Class:  "NSMenuItem"; title:  "Find Previous"; ObjectID:  "162"; */
+/* Class: "NSMenuItem"; title: "Find Previous"; ObjectID: "162"; */
 "Find Previous" = "查找前一个";
 
-/* Class:  "NSMenu"; title:  "Window"; ObjectID:  "1401"; */
+/* Class: "NSMenu"; title: "Window"; ObjectID: "1401"; */
 "Window" = "窗口";
 
-/* Class:  "NSMenuItem"; title:  "Add Sample Items"; ObjectID:  "1391"; */
+/* Class: "NSMenuItem"; title: "Add Sample Items"; ObjectID: "1391"; */
 "Add Sample Items" = "添加样本项目";
 
-/* Class:  "NSMenu"; title:  "Edit"; ObjectID:  "1469"; */
+/* Class: "NSMenu"; title: "Edit"; ObjectID: "1469"; */
 "Edit" = "编辑";
 
-/* Class:  "NSMenuItem"; title:  "Restart Helper"; ObjectID:  "1703"; */
+/* Class: "NSMenuItem"; title: "Restart Helper"; ObjectID: "1703"; */
 "Restart Helper" = "重启帮助程序";
 
-/* Class:  "NSMenuItem"; title:  "Backup"; ObjectID:  "1435"; */
+/* Class: "NSMenuItem"; title: "Backup"; ObjectID: "1435"; */
 "Backup" = "备份";
 
-/* Class:  "NSMenuItem"; title:  "Add Attachment…"; ObjectID:  "1257"; */
+/* Class: "NSMenuItem"; title: "Add Attachment…"; ObjectID: "1257"; */
 "Add Attachment…" = "添加福建...";
 
-/* Class:  "NSMenuItem"; title:  "Paste"; ObjectID:  "1482"; */
+/* Class: "NSMenuItem"; title: "Paste"; ObjectID: "1482"; */
 "Paste" = "粘贴";
 
-/* Class:  "NSMenuItem"; title:  "Find Item"; ObjectID:  "1179"; */
+/* Class: "NSMenuItem"; title: "Find Item"; ObjectID: "1179"; */
 "Find Item" = "查找项目";
 
-/* Class:  "NSMenuItem"; title:  "Duplicate"; ObjectID:  "850"; */
+/* Class: "NSMenuItem"; title: "Duplicate"; ObjectID: "850"; */
 "Duplicate" = "重复";
 
-/* Class:  "NSMenuItem"; title:  "Jump to Selection"; ObjectID:  "155"; */
+/* Class: "NSMenuItem"; title: "Jump to Selection"; ObjectID: "155"; */
 "Jump to Selection" = "跳转到所选";
 
-/* Class:  "NSMenuItem"; title:  "Shelves"; ObjectID:  "1221"; */
+/* Class: "NSMenuItem"; title: "Shelves"; ObjectID: "1221"; */
 "Shelves" = "货架";
 
-/* Class:  "NSMenuItem"; title:  "Copy"; ObjectID:  "1487"; */
+/* Class: "NSMenuItem"; title: "Copy"; ObjectID: "1487"; */
 "Copy" = "复制";
 
-/* Class:  "NSMenuItem"; title:  "Zoom"; ObjectID:  "1405"; */
+/* Class: "NSMenuItem"; title: "Zoom"; ObjectID: "1405"; */
 "Zoom" = "缩放";
 
-/* Class:  "NSMenuItem"; title:  "Import…"; ObjectID:  "966"; */
+/* Class: "NSMenuItem"; title: "Import…"; ObjectID: "966"; */
 "Import…" = "导入...";
 
-/* Class:  "NSMenuItem"; title:  "Print..."; ObjectID:  "1217"; */
+/* Class: "NSMenuItem"; title: "Print..."; ObjectID: "1217"; */
 "Print..." = "打印...";
 
-/* Class:  "NSMenuItem"; title:  "Secure Notes"; ObjectID:  "1270"; */
+/* Class: "NSMenuItem"; title: "Secure Notes"; ObjectID: "1270"; */
 "Secure Notes" = "安全备注";
 
-/* Class:  "NSMenuItem"; title:  "New Identity"; ObjectID:  "1017"; */
+/* Class: "NSMenuItem"; title: "New Identity"; ObjectID: "1017"; */
 "New Identity" = "新建身份标识";
 
-/* Class:  "NSMenuItem"; title:  "Widescreen"; ObjectID:  "1254"; */
+/* Class: "NSMenuItem"; title: "Widescreen"; ObjectID: "1254"; */
 "Widescreen" = "宽屏幕";
 
-/* Class:  "NSMenuItem"; title:  "Quick Delete"; ObjectID:  "164"; */
+/* Class: "NSMenuItem"; title: "Quick Delete"; ObjectID: "164"; */
 "Quick Delete" = "快速删除";
 
-/* Class:  "NSMenuItem"; title:  "Accounts"; ObjectID:  "1268"; */
+/* Class: "NSMenuItem"; title: "Accounts"; ObjectID: "1268"; */
 "Accounts" = "账户";
 
-/* Class:  "NSMenuItem"; title:  "Find"; ObjectID:  "168"; */
+/* Class: "NSMenuItem"; title: "Find"; ObjectID: "168"; */
 "Find" = "查找";
 
-/* Class:  "NSMenuItem"; title:  "Website"; ObjectID:  "1464"; */
+/* Class: "NSMenuItem"; title: "Website"; ObjectID: "1464"; */
 "Website" = "网站";
 
-/* Class:  "NSMenuItem"; title:  "Find Next"; ObjectID:  "167"; */
+/* Class: "NSMenuItem"; title: "Find Next"; ObjectID: "167"; */
 "Find Next" = "查找下一个";
 
-/* Class:  "NSMenu"; title:  "Go & Fill"; ObjectID:  "1108"; */
+/* Class: "NSMenu"; title: "Go & Fill"; ObjectID: "1108"; */
 "Go & Fill" = "自动登录";
 
-/* Class:  "NSMenuItem"; title:  "1Password Interchange File…"; ObjectID:  "1095"; */
+/* Class: "NSMenuItem"; title: "1Password Interchange File…"; ObjectID: "1095"; */
 "1Password Interchange File…" = "1Password 交换格式文件...";
 
-/* Class:  "NSMenuItem"; title:  "Title"; ObjectID:  "1232"; */
+/* Class: "NSMenuItem"; title: "Title"; ObjectID: "1232"; */
 "Title" = "标题";
 
-/* Class:  "NSMenuItem"; title:  "Tag"; ObjectID:  "1338"; */
+/* Class: "NSMenuItem"; title: "Tag"; ObjectID: "1338"; */
 "Tag" = "标签";
 
-/* Class:  "NSMenuItem"; title:  "Add Software Licenses for Applications..."; ObjectID:  "1389"; */
+/* Class: "NSMenuItem"; title: "Add Software Licenses for Applications..."; ObjectID: "1389"; */
 "Add Software Licenses for Applications..." = "为应用程序添加软件许可...";
 
-/* Class:  "NSMenuItem"; title:  "Close"; ObjectID:  "1444"; */
+/* Class: "NSMenuItem"; title: "Close"; ObjectID: "1444"; */
 "Close" = "关闭";
 
-/* Class:  "NSMenuItem"; title:  "Main Window"; ObjectID:  "1403"; */
+/* Class: "NSMenuItem"; title: "Main Window"; ObjectID: "1403"; */
 "Main Window" = "主窗口";
 
-/* Class:  "NSMenuItem"; title:  "Lock"; ObjectID:  "1043"; */
+/* Class: "NSMenuItem"; title: "Lock"; ObjectID: "1043"; */
 "Lock" = "锁定";
 
-/* Class:  "NSMenuItem"; title:  "Show Helper Log"; ObjectID:  "1697"; */
+/* Class: "NSMenuItem"; title: "Show Helper Log"; ObjectID: "1697"; */
 "Show Helper Log" = "显示帮助程序日志";
 
-/* Class:  "NSMenu"; title:  "Columns"; ObjectID:  "1226"; */
+/* Class: "NSMenu"; title: "Columns"; ObjectID: "1226"; */
 "Columns" = "列";
 
-/* Class:  "NSMenuItem"; title:  "Location"; ObjectID:  "1233"; */
+/* Class: "NSMenuItem"; title: "Location"; ObjectID: "1233"; */
 "Location" = "位置";
 
-/* Class:  "NSMenuItem"; title:  "Select All"; ObjectID:  "1475"; */
+/* Class: "NSMenuItem"; title: "Select All"; ObjectID: "1475"; */
 "Select All" = "全选";
 
-/* Class:  "NSMenuItem"; title:  "Software"; ObjectID:  "1271"; */
+/* Class: "NSMenuItem"; title: "Software"; ObjectID: "1271"; */
 "Software" = "软件";
 
-/* Class:  "NSMenuItem"; title:  "Print All…"; ObjectID:  "991"; */
+/* Class: "NSMenuItem"; title: "Print All…"; ObjectID: "991"; */
 "Print All…" = "全部打印...";
 

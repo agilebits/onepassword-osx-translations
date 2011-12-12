@@ -1,27 +1,27 @@
-/* Class:  "NSTextFieldCell"; title:  "Welcome to"; ObjectID:  "4"; */
+/* Class: "NSTextFieldCell"; title: "Welcome to"; ObjectID: "4"; */
 "Welcome to" = "Bienvenue sur";
 
-/* Class:  "NSButtonCell"; title:  "I have already used 1Password"; ObjectID:  "20"; */
+/* Class: "NSButtonCell"; title: "I have already used 1Password"; ObjectID: "20"; */
 "I have already used 1Password" = "J'ai déjà utilisé 1Password";
 
-/* Class:  "NSWindow"; title:  "Welcome to 1Password"; ObjectID:  "1"; */
+/* Class: "NSWindow"; title: "Welcome to 1Password"; ObjectID: "1"; */
 "Welcome to 1Password" = "Bienvenue sur 1Password";
 
-/* Class:  "NSTextFieldCell"; title:  "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID:  "10"; */
+/* Class: "NSTextFieldCell"; title: "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID: "10"; */
 "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "Commençons par définir votre mot de passe principal.\nSi vous l'avez déjà fait, cliquez sur \*J'ai déjà utilisé 1Password\*.";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "new data file"; ObjectID:  "15"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "new data file"; ObjectID: "15"; */
 "new data file" = "nouveau ficher de données";
 
-/* Class:  "NSTextFieldCell"; title:  "1Password"; ObjectID:  "6"; */
+/* Class: "NSTextFieldCell"; title: "1Password"; ObjectID: "6"; */
 "1Password" = "1Password";
 
-/* Class:  "NSButtonCell"; title:  "I am a new user"; ObjectID:  "18"; */
+/* Class: "NSButtonCell"; title: "I am a new user"; ObjectID: "18"; */
 "I am a new user" = "Je suis un nouvel utilisateur";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID:  "29"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID: "29"; */
 "help" = "aide";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "find existing"; ObjectID:  "13"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "find existing"; ObjectID: "13"; */
 "find existing" = "trouver pré-existant";
 

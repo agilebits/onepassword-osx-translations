@@ -1,30 +1,30 @@
-/* Class:  "NSTokenFieldCell"; placeholderString: "Tags"; ObjectID:  "4892"; */
+/* Class: "NSTokenFieldCell"; placeholderString: "Tags"; ObjectID: "4892"; */
 "Tags" = "标签";
 
-/* Class:  "NSCollectionView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID:  "4808"; */
+/* Class: "NSCollectionView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID: "4808"; */
 "Attachments" = "附件";
 
-/* Class:  "NSTextFieldCell"; title:  "Display"; ObjectID:  "4932"; */
+/* Class: "NSTextFieldCell"; title: "Display"; ObjectID: "4932"; */
 "Display" = "显示";
 
-/* Class:  "NSTextFieldCell"; title:  "Created on"; ObjectID:  "3219"; */
+/* Class: "NSTextFieldCell"; title: "Created on"; ObjectID: "3219"; */
 "Created on" = "创建时间";
 
-/* Class:  "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID:  "4891"; */
+/* Class: "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID: "4891"; */
 "tags" = "标签";
 
-/* Class:  "NSTextView"; ibExternalAccessibilityDescription: "Notes"; ObjectID:  "4819"; */
+/* Class: "NSTextView"; ibExternalAccessibilityDescription: "Notes"; ObjectID: "4819"; */
 "Notes" = "备注";
 
-/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Title"; ObjectID:  "4918"; */
+/* Class: "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Title"; ObjectID: "4918"; */
 "Title" = "标题";
 
-/* Class:  "NSMenuItem"; title:  "Always"; ObjectID:  "4930"; */
+/* Class: "NSMenuItem"; title: "Always"; ObjectID: "4930"; */
 "Always" = "始终";
 
-/* Class:  "NSMenuItem"; title:  "Never Display in Browser"; ObjectID:  "4931"; */
+/* Class: "NSMenuItem"; title: "Never Display in Browser"; ObjectID: "4931"; */
 "Never Display in Browser" = "从不在浏览器中显示";
 
-/* Class:  "NSTextFieldCell"; title:  "Last modified"; ObjectID:  "3220"; */
+/* Class: "NSTextFieldCell"; title: "Last modified"; ObjectID: "3220"; */
 "Last modified" = "修改时间";
 

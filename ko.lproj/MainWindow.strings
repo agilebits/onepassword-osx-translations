@@ -1,306 +1,306 @@
-/* Class:  "NSButtonCell"; title:  "Customize..."; ObjectID:  "4989"; */
+/* Class: "NSButtonCell"; title: "Customize..."; ObjectID: "4989"; */
 "Customize..." = "개별 설정...";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Created Date"; ObjectID:  "4993"; */
+/* Class: "NSTableColumn"; headerCell.title: "Created Date"; ObjectID: "4993"; */
 "Created Date" = "생성일";
 
-/* Class:  "NSMenu"; title:  "Menu"; ObjectID:  "1821"; */
+/* Class: "NSMenu"; title: "Menu"; ObjectID: "1821"; */
 "Menu" = "메뉴";
 
-/* Class:  "NSMenuItem"; title:  "Type"; ObjectID:  "4974"; */
+/* Class: "NSMenuItem"; title: "Type"; ObjectID: "4974"; */
 "Type" = "입력";
 
-/* Class:  "NSMenuItem"; title:  "of the following are true"; ObjectID:  "5062"; */
+/* Class: "NSMenuItem"; title: "of the following are true"; ObjectID: "5062"; */
 "of the following are true" = "조건 일치 항목";
 
-/* Class:  "NSMenuItem"; title:  "Kind"; ObjectID:  "5290"; */
+/* Class: "NSMenuItem"; title: "Kind"; ObjectID: "5290"; */
 "Kind" = "유형";
 
-/* Class:  "NSMenuItem"; title:  "Low (4-Digit Code)"; ObjectID:  "5184"; */
+/* Class: "NSMenuItem"; title: "Low (4-Digit Code)"; ObjectID: "5184"; */
 "Low (4-Digit Code)" = "낮음 (4자리수 코드)";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Modified Date"; ObjectID:  "3496"; */
+/* Class: "NSTableColumn"; headerCell.title: "Modified Date"; ObjectID: "3496"; */
 "Modified Date" = "수정일";
 
-/* Class:  "NSMenuItem"; title:  "Identity"; ObjectID:  "5246"; */
+/* Class: "NSMenuItem"; title: "Identity"; ObjectID: "5246"; */
 "Identity" = "프로필 센터";
 
-/* Class:  "NSMenuItem"; title:  "Rename"; ObjectID:  "3465"; */
+/* Class: "NSMenuItem"; title: "Rename"; ObjectID: "3465"; */
 "Rename" = "이름 변경";
 
-/* Class:  "NSButtonCell"; title:  "Add Sample Data"; ObjectID:  "5029"; */
+/* Class: "NSButtonCell"; title: "Add Sample Data"; ObjectID: "5029"; */
 "Add Sample Data" = "샘플 데이터 추가";
 
-/* Class:  "NSMenuItem"; title:  "Folder"; ObjectID:  "5786"; */
+/* Class: "NSMenuItem"; title: "Folder"; ObjectID: "5786"; */
 "Folder" = "폴더";
 
-/* Class:  "NSMenuItem"; title:  "Yes"; ObjectID:  "5369"; */
+/* Class: "NSMenuItem"; title: "Yes"; ObjectID: "5369"; */
 "Yes" = "예";
 
-/* Class:  "NSMenuItem"; title:  "40"; ObjectID:  "5745"; */
+/* Class: "NSMenuItem"; title: "40"; ObjectID: "5745"; */
 "40" = "40";
 
-/* Class:  "NSMenuItem"; title:  "Modified"; ObjectID:  "5639"; */
+/* Class: "NSMenuItem"; title: "Modified"; ObjectID: "5639"; */
 "Modified" = "수정";
 
-/* Class:  "NSTextFieldCell"; title:  "1976-04-01 3:00 PM"; ObjectID:  "4994"; */
+/* Class: "NSTextFieldCell"; title: "1976-04-01 3:00 PM"; ObjectID: "4994"; */
 "1976-04-01 3:00 PM" = "1976-04-01 오후 3:00";
 
-/* Class:  "NSMenuItem"; title:  "begins with"; ObjectID:  "5776"; */
+/* Class: "NSMenuItem"; title: "begins with"; ObjectID: "5776"; */
 "begins with" = "시작";
 
-/* Class:  "OPWindowWithCmdSHandler"; title:  "1Password"; ObjectID:  "505"; */
+/* Class: "OPWindowWithCmdSHandler"; title: "1Password"; ObjectID: "505"; */
 "1Password" = "1Password";
 
-/* Class:  "NSOutlineView"; ibExternalAccessibilityDescription: "sidebar"; ObjectID:  "2637"; */
+/* Class: "NSOutlineView"; ibExternalAccessibilityDescription: "sidebar"; ObjectID: "2637"; */
 "sidebar" = "사이드바";
 
-/* Class:  "NSMenuItem"; title:  "Account"; ObjectID:  "5245"; */
+/* Class: "NSMenuItem"; title: "Account"; ObjectID: "5245"; */
 "Account" = "계정";
 
-/* Class:  "NSMenuItem"; title:  "matches"; ObjectID:  "5775"; */
+/* Class: "NSMenuItem"; title: "matches"; ObjectID: "5775"; */
 "matches" = "일치";
 
-/* Class:  "NSMenuItem"; title:  "Edit Smart Folder…"; ObjectID:  "5595"; */
+/* Class: "NSMenuItem"; title: "Edit Smart Folder…"; ObjectID: "5595"; */
 "Edit Smart Folder…" = "스마트 폴더 편집...";
 
-/* Class:  "NSMenuItem"; title:  "Wallet"; ObjectID:  "5249"; */
+/* Class: "NSMenuItem"; title: "Wallet"; ObjectID: "5249"; */
 "Wallet" = "지갑";
 
-/* Class:  "NSMenuItem"; title:  "Any"; ObjectID:  "5063"; */
+/* Class: "NSMenuItem"; title: "Any"; ObjectID: "5063"; */
 "Any" = "모든";
 
-/* Class:  "NSMenuItem"; title:  "Icon"; ObjectID:  "4971"; */
+/* Class: "NSMenuItem"; title: "Icon"; ObjectID: "4971"; */
 "Icon" = "아이콘";
 
-/* Class:  "NSMenuItem"; title:  "New Wallet Item…"; ObjectID:  "4271"; */
+/* Class: "NSMenuItem"; title: "New Wallet Item…"; ObjectID: "4271"; */
 "New Wallet Item…" = "새 지갑 항목";
 
-/* Class:  "NSMenuItem"; title:  "New Secure Note"; ObjectID:  "4276"; */
+/* Class: "NSMenuItem"; title: "New Secure Note"; ObjectID: "4276"; */
 "New Secure Note" = "새 안심 노트";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Drag Splitview"; ObjectID:  "4263"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "Drag Splitview"; ObjectID: "4263"; */
 "Drag Splitview" = "화면분할 드래그";
 
-/* Class:  "NSTabViewItem"; label: "Horizontal (Do Not Translate)"; ObjectID:  "3483"; */
+/* Class: "NSTabViewItem"; label: "Horizontal (Do Not Translate)"; ObjectID: "3483"; */
 "Horizontal (Do Not Translate)" = "Horizontal (Do Not Translate)";
 
-/* Class:  "NSMenuItem"; title:  "Cut"; ObjectID:  "4889"; */
+/* Class: "NSMenuItem"; title: "Cut"; ObjectID: "4889"; */
 "Cut" = "자르기";
 
-/* Class:  "NSMenuItem"; title:  "None"; ObjectID:  "5619"; */
+/* Class: "NSMenuItem"; title: "None"; ObjectID: "5619"; */
 "None" = "없음";
 
-/* Class:  "NSMenuItem"; title:  "Username"; ObjectID:  "5593"; */
+/* Class: "NSMenuItem"; title: "Username"; ObjectID: "5593"; */
 "Username" = "사용자명";
 
-/* Class:  "NSMenuItem"; title:  "New Software License"; ObjectID:  "4272"; */
+/* Class: "NSMenuItem"; title: "New Software License"; ObjectID: "4272"; */
 "New Software License" = "새 소프트웨어 라이선스";
 
-/* Class:  "NSTextFieldCell"; title:  "Incorrect Password"; ObjectID:  "4670"; */
+/* Class: "NSTextFieldCell"; title: "Incorrect Password"; ObjectID: "4670"; */
 "Incorrect Password" = "비밀번호 오류";
 
-/* Class:  "NSMenuItem"; title:  "Password"; ObjectID:  "5594"; */
+/* Class: "NSMenuItem"; title: "Password"; ObjectID: "5594"; */
 "Password" = "비밀번호";
 
-/* Class:  "NSMenuItem"; title:  "before"; ObjectID:  "5638"; */
+/* Class: "NSMenuItem"; title: "before"; ObjectID: "5638"; */
 "before" = "이전";
 
-/* Class:  "NSMenuItem"; title:  "is like"; ObjectID:  "5752"; */
+/* Class: "NSMenuItem"; title: "is like"; ObjectID: "5752"; */
 "is like" = "유사 검색";
 
-/* Class:  "NSMenuItem"; title:  "New Login"; ObjectID:  "4281"; */
+/* Class: "NSMenuItem"; title: "New Login"; ObjectID: "4281"; */
 "New Login" = "새 로그인";
 
-/* Class:  "NSMenuItem"; title:  "Security Level"; ObjectID:  "5179"; */
+/* Class: "NSMenuItem"; title: "Security Level"; ObjectID: "5179"; */
 "Security Level" = "보안 수준";
 
-/* Class:  "NSMenuItem"; title:  "New Password…"; ObjectID:  "5653"; */
+/* Class: "NSMenuItem"; title: "New Password…"; ObjectID: "5653"; */
 "New Password…" = "새 비밀번호...";
 
-/* Class:  "NSMenuItem"; title:  "contains"; ObjectID:  "5766"; */
+/* Class: "NSMenuItem"; title: "contains"; ObjectID: "5766"; */
 "contains" = "포함";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Add Item"; ObjectID:  "4914"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "Add Item"; ObjectID: "4914"; */
 "Add Item" = "항목 추가";
 
-/* Class:  "NSMenuItem"; title:  "All"; ObjectID:  "5064"; */
+/* Class: "NSMenuItem"; title: "All"; ObjectID: "5064"; */
 "All" = "전체";
 
-/* Class:  "NSMenuItem"; title:  "is greater than or equal to"; ObjectID:  "5749"; */
+/* Class: "NSMenuItem"; title: "is greater than or equal to"; ObjectID: "5749"; */
 "is greater than or equal to" = "이상 또는 동일";
 
-/* Class:  "NSMenuItem"; title:  "New Smart Folder"; ObjectID:  "5615"; */
+/* Class: "NSMenuItem"; title: "New Smart Folder"; ObjectID: "5615"; */
 "New Smart Folder" = "새 스마트 폴더";
 
-/* Class:  "NSMenuItem"; title:  "is"; ObjectID:  "5770"; */
+/* Class: "NSMenuItem"; title: "is"; ObjectID: "5770"; */
 "is" = "(은)는";
 
-/* Class:  "NSMenuItem"; title:  "Any of the fields"; ObjectID:  "5579"; */
+/* Class: "NSMenuItem"; title: "Any of the fields"; ObjectID: "5579"; */
 "Any of the fields" = "모든 필드";
 
-/* Class:  "NSMenuItem"; title:  "Password Strength"; ObjectID:  "5697"; */
+/* Class: "NSMenuItem"; title: "Password Strength"; ObjectID: "5697"; */
 "Password Strength" = "비밀번호 보안성";
 
-/* Class:  "NSMenuItem"; title:  "High (Master Password)"; ObjectID:  "5185"; */
+/* Class: "NSMenuItem"; title: "High (Master Password)"; ObjectID: "5185"; */
 "High (Master Password)" = "높음 (마스터 비밀번호)";
 
-/* Class:  "NSMenuItem"; title:  "Empty Trash…"; ObjectID:  "3437"; */
+/* Class: "NSMenuItem"; title: "Empty Trash…"; ObjectID: "3437"; */
 "Empty Trash…" = "휴지통 비우기";
 
-/* Class:  "NSMenuItem"; title:  "New Folder"; ObjectID:  "3443"; */
+/* Class: "NSMenuItem"; title: "New Folder"; ObjectID: "3443"; */
 "New Folder" = "새 폴더";
 
-/* Class:  "NSMenuItem"; title:  "New Account…"; ObjectID:  "5651"; */
+/* Class: "NSMenuItem"; title: "New Account…"; ObjectID: "5651"; */
 "New Account…" = "새 계정...";
 
-/* Class:  "NSButtonCell"; title:  "Can't Log In?"; ObjectID:  "5759"; */
+/* Class: "NSButtonCell"; title: "Can't Log In?"; ObjectID: "5759"; */
 "Can't Log In?" = "로그인 장애";
 
-/* Class:  "NSMenuItem"; title:  "Login"; ObjectID:  "5244"; */
+/* Class: "NSMenuItem"; title: "Login"; ObjectID: "5244"; */
 "Login" = "로그인";
 
-/* Class:  "NSMenuItem"; title:  "Has Attachment"; ObjectID:  "5364"; */
+/* Class: "NSMenuItem"; title: "Has Attachment"; ObjectID: "5364"; */
 "Has Attachment" = "첨부파일 있음";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Help"; ObjectID:  "5758"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "Help"; ObjectID: "5758"; */
 "Help" = "도움말";
 
-/* Class:  "NSSegmentedControl"; ibExternalAccessibilityDescription: "window layout"; ObjectID:  "4644"; */
+/* Class: "NSSegmentedControl"; ibExternalAccessibilityDescription: "window layout"; ObjectID: "4644"; */
 "window layout" = "윈도우 레이아웃";
 
-/* Class:  "NSBox"; ibExternalAccessibilityDescription: "Unlock"; ObjectID:  "3662"; */
+/* Class: "NSBox"; ibExternalAccessibilityDescription: "Unlock"; ObjectID: "3662"; */
 "Unlock" = "잠금 해제";
 
-/* Class:  "NSSearchField"; ibExternalAccessibilityDescription: "search"; ObjectID:  "4646"; */
+/* Class: "NSSearchField"; ibExternalAccessibilityDescription: "search"; ObjectID: "4646"; */
 "search" = "검색";
 
-/* Class:  "NSTextFieldCell"; title:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID:  "5023"; */
+/* Class: "NSTextFieldCell"; title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID: "5023"; */
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. " = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. ";
 
-/* Class:  "NSMenuItem"; title:  "60"; ObjectID:  "5746"; */
+/* Class: "NSMenuItem"; title: "60"; ObjectID: "5746"; */
 "60" = "60";
 
-/* Class:  "NSMenuItem"; title:  "Delete…"; ObjectID:  "4892"; */
+/* Class: "NSMenuItem"; title: "Delete…"; ObjectID: "4892"; */
 "Delete…" = "삭제...";
 
-/* Class:  "NSMenuItem"; title:  "100 - Fantastic"; ObjectID:  "5748"; */
+/* Class: "NSMenuItem"; title: "100 - Fantastic"; ObjectID: "5748"; */
 "100 - Fantastic" = "100 - 매우 높음";
 
-/* Class:  "NSTableView"; ibExternalAccessibilityDescription: "object list"; ObjectID:  "3491"; */
+/* Class: "NSTableView"; ibExternalAccessibilityDescription: "object list"; ObjectID: "3491"; */
 "object list" = "항목 목록";
 
-/* Class:  "NSTextFieldCell"; title:  "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID:  "5021"; */
+/* Class: "NSTextFieldCell"; title: "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID: "5021"; */
 "Click the + button to get started creating new items or add sample data to get some ideas." = "+ 버튼을 클릭해 새 항목을 추가하거나 샘플 데이터를 추가해보세요.";
 
-/* Class:  "NSMenuItem"; title:  "ends with"; ObjectID:  "5777"; */
+/* Class: "NSMenuItem"; title: "ends with"; ObjectID: "5777"; */
 "ends with" = "마침";
 
-/* Class:  "NSMenuItem"; title:  "Edit"; ObjectID:  "4896"; */
+/* Class: "NSMenuItem"; title: "Edit"; ObjectID: "4896"; */
 "Edit" = "편집";
 
-/* Class:  "NSMenuItem"; title:  "is not"; ObjectID:  "5531"; */
+/* Class: "NSMenuItem"; title: "is not"; ObjectID: "5531"; */
 "is not" = "아님";
 
-/* Class:  "NSMenuItem"; title:  "Paste"; ObjectID:  "4891"; */
+/* Class: "NSMenuItem"; title: "Paste"; ObjectID: "4891"; */
 "Paste" = "붙여넣기";
 
-/* Class:  "NSButtonCell"; title:  "Save"; ObjectID:  "5410"; */
+/* Class: "NSButtonCell"; title: "Save"; ObjectID: "5410"; */
 "Save" = "저장";
 
-/* Class:  "NSMenuItem"; title:  "Duplicate"; ObjectID:  "4895"; */
+/* Class: "NSMenuItem"; title: "Duplicate"; ObjectID: "4895"; */
 "Duplicate" = "사본 생성";
 
-/* Class:  "NSMenuItem"; title:  "Date Created"; ObjectID:  "4998"; */
+/* Class: "NSMenuItem"; title: "Date Created"; ObjectID: "4998"; */
 "Date Created" = "생성일";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Sidebar Actions Menu"; ObjectID:  "3430"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "Sidebar Actions Menu"; ObjectID: "3430"; */
 "Sidebar Actions Menu" = "사이드바 명령 메뉴";
 
-/* Class:  "NSMenuItem"; title:  "Copy"; ObjectID:  "4890"; */
+/* Class: "NSMenuItem"; title: "Copy"; ObjectID: "4890"; */
 "Copy" = "복사";
 
-/* Class:  "NSMenuItem"; title:  "20"; ObjectID:  "5744"; */
+/* Class: "NSMenuItem"; title: "20"; ObjectID: "5744"; */
 "20" = "20";
 
-/* Class:  "NSMenuItem"; title:  "Secure Note"; ObjectID:  "5247"; */
+/* Class: "NSMenuItem"; title: "Secure Note"; ObjectID: "5247"; */
 "Secure Note" = "안심 노트";
 
-/* Class:  "NSMenuItem"; title:  "No"; ObjectID:  "5370"; */
+/* Class: "NSMenuItem"; title: "No"; ObjectID: "5370"; */
 "No" = "아니오";
 
-/* Class:  "NSMenuItem"; title:  "New Identity"; ObjectID:  "4277"; */
+/* Class: "NSMenuItem"; title: "New Identity"; ObjectID: "4277"; */
 "New Identity" = "새 프로필";
 
-/* Class:  "NSMenuItem"; title:  "Low Security"; ObjectID:  "5655"; */
+/* Class: "NSMenuItem"; title: "Low Security"; ObjectID: "5655"; */
 "Low Security" = "보안성 낮음";
 
-/* Class:  "NSMenuItem"; title:  "is less than"; ObjectID:  "5757"; */
+/* Class: "NSMenuItem"; title: "is less than"; ObjectID: "5757"; */
 "is less than" = "미만";
 
-/* Class:  "NSMenuItem"; title:  "Date Modified"; ObjectID:  "4975"; */
+/* Class: "NSMenuItem"; title: "Date Modified"; ObjectID: "4975"; */
 "Date Modified" = "수정일";
 
-/* Class:  "NSMenuItem"; title:  "10 - Terrible"; ObjectID:  "5743"; */
+/* Class: "NSMenuItem"; title: "10 - Terrible"; ObjectID: "5743"; */
 "10 - Terrible" = "10 - 매우 낮음";
 
-/* Class:  "NSMenuItem"; title:  "Notes"; ObjectID:  "5558"; */
+/* Class: "NSMenuItem"; title: "Notes"; ObjectID: "5558"; */
 "Notes" = "노트";
 
-/* Class:  "NSMenuItem"; title:  "90"; ObjectID:  "5747"; */
+/* Class: "NSMenuItem"; title: "90"; ObjectID: "5747"; */
 "90" = "90";
 
-/* Class:  "NSSearchFieldCell"; placeholderString: "Search"; ObjectID:  "4647"; */
+/* Class: "NSSearchFieldCell"; placeholderString: "Search"; ObjectID: "4647"; */
 "Search" = "검색";
 
-/* Class:  "NSMenuItem"; title:  "Title"; ObjectID:  "5591"; */
+/* Class: "NSMenuItem"; title: "Title"; ObjectID: "5591"; */
 "Title" = "제목";
 
-/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "Master Password"; ObjectID:  "2517"; */
+/* Class: "NSTextField"; ibExternalAccessibilityDescription: "Master Password"; ObjectID: "2517"; */
 "Master Password" = "마스터 비밀번호";
 
-/* Class:  "NSMenuItem"; title:  "Tag"; ObjectID:  "5674"; */
+/* Class: "NSMenuItem"; title: "Tag"; ObjectID: "5674"; */
 "Tag" = "태그";
 
-/* Class:  "NSTextFieldCell"; title:  "No Items Found"; ObjectID:  "5037"; */
+/* Class: "NSTextFieldCell"; title: "No Items Found"; ObjectID: "5037"; */
 "No Items Found" = "검색 항목 없음";
 
-/* Class:  "NSTabViewItem"; label: "Vertical (Do Not Translate)"; ObjectID:  "3485"; */
+/* Class: "NSTabViewItem"; label: "Vertical (Do Not Translate)"; ObjectID: "3485"; */
 "Vertical (Do Not Translate)" = "Vertical (Do Not Translate)";
 
-/* Class:  "NSTextFieldCell"; title:  "MASTER PASSWORD"; ObjectID:  "4603"; */
+/* Class: "NSTextFieldCell"; title: "MASTER PASSWORD"; ObjectID: "4603"; */
 "MASTER PASSWORD" = "마스터 비밀번호";
 
-/* Class:  "NSMenuItem"; title:  "Created"; ObjectID:  "5628"; */
+/* Class: "NSMenuItem"; title: "Created"; ObjectID: "5628"; */
 "Created" = "생성";
 
-/* Class:  "NSMenuItem"; title:  "Any kind"; ObjectID:  "5314"; */
+/* Class: "NSMenuItem"; title: "Any kind"; ObjectID: "5314"; */
 "Any kind" = "모두";
 
-/* Class:  "NSMenuItem"; title:  "after"; ObjectID:  "5637"; */
+/* Class: "NSMenuItem"; title: "after"; ObjectID: "5637"; */
 "after" = "이후";
 
-/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "5668"; */
+/* Class: "NSButtonCell"; title: "Cancel"; ObjectID: "5668"; */
 "Cancel" = "취소";
 
-/* Class:  "NSMenuItem"; title:  "Software License"; ObjectID:  "5248"; */
+/* Class: "NSMenuItem"; title: "Software License"; ObjectID: "5248"; */
 "Software License" = "소프트웨어 라이선스";
 
-/* Class:  "NSMenuItem"; title:  "is less than or equal to"; ObjectID:  "5701"; */
+/* Class: "NSMenuItem"; title: "is less than or equal to"; ObjectID: "5701"; */
 "is less than or equal to" = "미만 또는 동일";
 
-/* Class:  "NSButtonCell"; title:  "Lock"; ObjectID:  "4643"; */
+/* Class: "NSButtonCell"; title: "Lock"; ObjectID: "4643"; */
 "Lock" = "잠금";
 
-/* Class:  "NSMenuItem"; title:  "Location"; ObjectID:  "5592"; */
+/* Class: "NSMenuItem"; title: "Location"; ObjectID: "5592"; */
 "Location" = "위치";
 
-/* Class:  "NSButtonCell"; title:  "Save Changes"; ObjectID:  "5606"; */
+/* Class: "NSButtonCell"; title: "Save Changes"; ObjectID: "5606"; */
 "Save Changes" = "변경사항 저장";
 
-/* Class:  "NSMenuItem"; title:  "Select All"; ObjectID:  "4894"; */
+/* Class: "NSMenuItem"; title: "Select All"; ObjectID: "4894"; */
 "Select All" = "전체 선택";
 
-/* Class:  "NSMenuItem"; title:  "is greater than"; ObjectID:  "5756"; */
+/* Class: "NSMenuItem"; title: "is greater than"; ObjectID: "5756"; */
 "is greater than" = "이상";
 

@@ -12,12 +12,12 @@
 "branchInfo" = "Informations sur l'agence";
 "branchPhone" = "Téléphone";
 "branchAddress" = "Adresse";
-"telephonePin" = "Téléphone PIN";
+"telephonePin" = "PIN téléphone";
 
 "menu.accountType." = "";
 "menu.accountType.checking" = "Compte-chèque";
 "menu.accountType.savings" = "Épargne";
-"menu.accountType.loc" = "Crédit";
+"menu.accountType.loc" = "Ligne de crédit";
 "menu.accountType.money_market" = "Marché boursier";
 "menu.accountType.other" = "Autre";
 

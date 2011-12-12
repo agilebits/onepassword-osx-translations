@@ -286,12 +286,13 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "Unlock 1Password to fill credit card." = "クレジットカード情報を入力するには、 1Password を解除してください。";
 
 /* unlock prompt */
-"クレジットカードを入力するには 1Password をロック解除してください。ログイン情報を入力するには 1Password をロック解除してください。";
+"Unlock 1Password to fill Login." = "ログイン情報を入力するには 1Password をロック解除してください。";
 
 /* unlock prompt */
-"Unlock ログインを入力するには 1Password をロック解除してください。password." = "生成されたパスワードを入力するには 1Password をロック解除してください。";
+"Unlock 1Password to fill the generated password." = "生成されたパスワードを入力するには 1Password をロック解除してください。";
 
-/* unlock pr生成されたパスワードを入力するには 1Password をロック解除してください。 "パスワードを読み込むには 1Password をロック解除してください。";
+/* unlock prompt */
+"Unlock 1Password to import passwords." = "パスワードを読み込むには 1Password をロック解除してください。";
 
 /* unlock prompt */
 "Unlock 1Password to remove the item." = "その項目を取り除くには 1Password をロック解除してください。";
@@ -381,7 +382,7 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "%d objects will be moved to the Trash" = "%d  オブジェクトがゴミ箱に移動されます";
 
 /* time */
-"%d secon%d オブジェクトがゴミ箱に移動されます%d 秒前";
+"%d seconds ago" = "%d 秒前";
 
 /* time */
 "%d seconds from now" = "今から%d 秒後";
@@ -456,7 +457,10 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "1Password will download all missing icons and previews" = "1Password はすべての欠けているアイコンやプレビューをダウンロードします";
 
 /* info */
-"1Password will visit every website stored in Logins as if you visited that website in Safari. The website could save your IP address, general location, and operating system information. Note that 1Password will NOT log into the site, only capture a picture of the login page. If you have privacy concerns about connecting to any of your saved sites from your current location, please Cancel.\n\nDepending on the number of saved Logins the download can take several hours and use significant network bandwidth." = "1Password は皆さんが Safari でウェブサイトを訪れるのと同じくログインに保存したすべてのウェブサイトを訪問します。そのウェブサイトは皆さんの IP アドレス、場所、オペレーティングシステム情報を保存できます。1Password はサイトにはログインしません。ログインページの画面ショットを撮るだけです。保存してあるサイトに今の場所から接続する際、プライバシーが気になる場合は、キャンセルしてください。\n\n保存されたログインの数によって、ダウンロードに数時間かかったり、ネットワークの帯域幅を消費したりすることがあります。1Password は皆さんが Safari でウェブサイトを訪れるのと同じくログインに保存したすべてのウェブサイトを訪問します。そのウェブサイトは皆さんの IP アドレス、場所、オペレーティングシステム情報を保存できます。1Password はサイトにはログインしません。ログインページの画面ショットを撮るだけです。保存してあるサイトに今の場所から接続する際、プライバシーが気になる場合は、キャンセルしてください。\n\n保存されたログインの数によって、ダウンロードに数時間かかったり、ネットワークの帯域幅を消費したりすることがあります。\"%@\" は削除されます";
+"1Password will visit every website stored in Logins as if you visited that website in Safari. The website could save your IP address, general location, and operating system information. Note that 1Password will NOT log into the site, only capture a picture of the login page. If you have privacy concerns about connecting to any of your saved sites from your current location, please Cancel.\n\nDepending on the number of saved Logins the download can take several hours and use significant network bandwidth." = "1Password は皆さんが Safari でウェブサイトを訪れるのと同じくログインに保存したすべてのウェブサイトを訪問します。そのウェブサイトは皆さんの IP アドレス、場所、オペレーティングシステム情報を保存できます。1Password はサイトにはログインしません。ログインページの画面ショットを撮るだけです。保存してあるサイトに今の場所から接続する際、プライバシーが気になる場合は、キャンセルしてください。\n\n保存されたログインの数によって、ダウンロードに数時間かかったり、ネットワークの帯域幅を消費したりすることがあります。";
+
+/* alert title */
+"\"%@\" will be Deleted" = "\"%@\" は削除されます";
 
 /* alert message */
 "\"%@\" will be moved to Trash" = "\"%@\" をゴミ箱へ移動します";
@@ -498,7 +502,7 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "All login icons and previews will be deleted" = "すべてのログインアイコンとプレビューが削除されます";
 
 /* alert message */
-"An attachment named %@ already exists.\nDo you want to replace it with the one you are moving?" = "%@ という名称の添付ファイルは既に存在します。\nこれを移動中のファイルと置き換えますか？読み込まれたオブジェクトは既にリストから取り除かれました。e you are moving?";
+"An attachment named %@ already exists.\nDo you want to replace it with the one you are moving?" = "%@ という名称の添付ファイルは既に存在します。\nこれを移動中のファイルと置き換えますか？";
 
 /* time */
 "an hour ago" = "1 時間前";
@@ -516,10 +520,10 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "Attachment is too big" = "添付ファイルが大きすぎます";
 
 /* alert message */
-"Attachment named %@ failed to exすべての項目を取り除いてもよろしいですか？%@ という名前の添付ファイルを書き出しできませんでした。";
+"Attachment named %@ failed to export." = "%@ という名前の添付ファイルを書き出しできませんでした。";
 
 /* alert title */
-"Attachment with the same name already exists" = "同じ名前の添付ファイルが既に存在します添付ファイルが大きすぎますe name already exists";
+"Attachment with the same name already exists" = "同じ名前の添付ファイルが既に存在します";
 
 /* Label in item detail view */
 "Attachments" = "添付ファイル";
@@ -587,7 +591,8 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* Alert Panel */
 "Diagnostic script failed." = "診断スクリプトが失敗しました。";
 
-/* alert別々の名前と住所情報で複数の個人情報を作成し、登録やオンラインショッピングに活用してください。変更を破棄して再度読み込みますか？";
+/* alert */
+"Discard Changes and Reload?" = "変更を破棄して再度読み込みますか？";
 
 /* Login Preview Image Menu */
 "Download Preview" = "プレビューをダウンロード";
@@ -669,7 +674,7 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "Failed to restore from backup, cannot move %1$@ to %2$@\nError: %3$@" = "バックアップからの復元に失敗しました。 %1$@ を %2$@に移動できません\nエラー: %3$@";
 
 /* error message */
-"Failed to restore from backup, cannot remo'%1$@' を %2$@ エンコーディングを用いて開くことができませんでした。\n\nエラーコード：%3$d\n\nリストから別の文字エンコーディングを選択してください。 バックアップから復旧できませんでした。古いデータファイル '%1$@’を削除できませんでした\nエラー: %2$@";
+"Failed to restore from backup, cannot remove old data file '%1$@'\nError: %2$@" = "バックアップから復旧できませんでした。古いデータファイル '%1$@’を削除できませんでした\nエラー: %2$@";
 
 /* error */
 "Failed to run import script" = "読み込みスクリプトを実行できませんでした";
@@ -681,7 +686,7 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "File added successfully" = "ファイルが正常に追加されました";
 
 /* alert title */
-"File exists at pathバックアップから復旧できませんでした。%1$@ を %2$@ に移動できません\nエラー：%3$@パス上にファイルが存在します";
+"File exists at path" = "パス上にファイルが存在します";
 
 /* attachment warning */
 "File is a bundle or folder" = "ファイルがバンドルまたはフォルダです";
@@ -689,7 +694,8 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* exporter */
 "File name:" = "ファイル名：";
 
-/* attachmenバックアップから復旧できませんでした。古いデータファイル '%1$@' を取り除けません\nエラー：%2$@ファイルサイズが 2MB を超えています";
+/* attachment warning */
+"File size is larger than 2 MB" = "ファイルサイズが 2MB を超えています";
 
 /* alert message */
 "Files added successfully" = "ファイルが正常に追加されました";
@@ -820,7 +826,7 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "Notes" = "Notes";
 
 /* button */
-"ドアの鍵番号やかばんのロック番号などを保管する安全な場所が必要ですか？セキュアノートをご使用ください。何も読み込まない";
+"Nothing To Import" = "何も読み込まない";
 
 /* iPhone status */
 "Offline" = "オフライン";
@@ -933,7 +939,10 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "Security" = "セキュリティ";
 
 /* dropdown item */
-"Select Import Format" = "読み込み形式を選択E メールやファイル共有、MobileMe などで使用するために、アカウントを保存します。選択されたセクション";
+"Select Import Format" = "読み込み形式を選択";
+
+/* search scope */
+"Selected Section" = "選択されたセクション";
 
 /* button */
 "Send items to Trash" = "項目をゴミ箱に移動";
@@ -941,7 +950,8 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* new password location */
 "Service or Application Name" = "サービスまたはアプリケーションの名前";
 
-/* accessibili1Password のブラウザ拡張機能をインストールし、いつものようにログインして、ウェブサイトのログインを保存します。手動でログインを作成することもできます。Shelves";
+/* accessibility description */
+"Shelves" = "Shelves";
 
 /* menu item */
 "Show Activity" = "アクティビティを表示";
@@ -972,7 +982,7 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "Tag" = "タグ";
 
 /* Sidebar group */
-"Tags"E メール、ファイル共有、MobileMe 証明書といったコンピュータアカウントの安全な保管場所です。タグ";
+"Tags" = "タグ";
 
 /* Password strength — Terrible */
 "Terrible" = "弱過ぎ";
@@ -984,7 +994,13 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "The extended attributes have been repaired successfully." = "拡張属性は正常に修復されています。";
 
 /* alert message */
-"The file %1$@ failed to import: %2$@." = "ファイル %1$@ がインポートに失敗しました: %2$@。購入したソフトウェアライセンスの安全な保管場所です。$@ is (%2$@) in size.\nIt is going to be encrypted and stored in your data file. Adding a large attachment may slow and complicate data syncing.text" = "ファイル %1$@ は(%2$@)のサイズです。\nそれは暗号化されデータファイルに格納されます。大きな添付ファイルの追加はデータ同期を遅らせ、複雑かすることがあります。テキスト銀行口座、運転免許などの金融情報や個人情報を安全に保管します。クレジットカードも保管でき、ショッピングサイトではワンクリックでカード番号を入力できます。ファイル %1$@ は大きすぎます(%2$@)。\n添付ファイルは 20 MB 未満である必要があります。";
+"The file %1$@ failed to import: %2$@." = "ファイル %1$@ がインポートに失敗しました: %2$@。";
+
+/* attachment warning */
+"The file %1$@ is (%2$@) in size.\nIt is going to be encrypted and stored in your data file. Adding a large attachment may slow and complicate data syncing.text" = "ファイル %1$@ は(%2$@)のサイズです。\nそれは暗号化されデータファイルに格納されます。大きな添付ファイルの追加はデータ同期を遅らせ、複雑かすることがあります。テキスト";
+
+/* attachment warning */
+"The file %1$@ is too large (%2$@).\nAttachments must be under 20 MB in size." = "ファイル %1$@ は大きすぎます(%2$@)。\n添付ファイルは 20 MB 未満である必要があります。";
 
 /* attachment warning */
 "The file %@ is a bundle or folder.\nAttachments must be regular files." = "ファイル %@ はバンドルまたはフォルダです。\n添付ファイルは通常のファイルである必要があります。";
@@ -996,10 +1012,13 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "The file has been added as a secure attachment.\nYou can safely delete the original file." = "ファイルはセキュリティで保護された添付ファイルとして追加されています。\n安全に元のファイルを削除することができます。";
 
 /* alert message */
-"The file you are trying to import appears to be a binary file. Please try to open and view the contents of the file in TextEdit to make sure its contents is valid.\n\nIf you are opening the file directly from a network drive or USB disk then try to copy it to your local disk first." = "読み込もうとしているファイルはバイナリファイルです。テキストエディットでファイルの内容を見て、有効なものであることをご確認ください。\n\nネットワークドライブや USB ディスクから直接ファイルを開こうとしている場合は、まずローカルディスクにファイルをコピーしてください。ファイル %1$@ はインポートできませんでした：%2$@sk then try to copy it to your local disk first.";
+"The file you are trying to import appears to be a binary file. Please try to open and view the contents of the file in TextEdit to make sure its contents is valid.\n\nIf you are opening the file directly from a network drive or USB disk then try to copy it to your local disk first." = "読み込もうとしているファイルはバイナリファイルです。テキストエディットでファイルの内容を見て、有効なものであることをご確認ください。\n\nネットワークドライブや USB ディスクから直接ファイルを開こうとしている場合は、まずローカルディスクにファイルをコピーしてください。";
 
 /* alert message */
-"The files have been added as secure attachments.\nYou can safely delete the original files." = "ファイルはセキュリティで保護された添付ファイルとして追加されています。\n安全に元のファイルを削除することができます。ファイル %1$@ はサイズが (%2$@) です。\nこれは暗号化されてデータファイルに保管されます。大きなサイズの添付ファイルを追加すると処理が遅くなり、データの同期を困難にします。フォルダ '%@' は削除されます";
+"The files have been added as secure attachments.\nYou can safely delete the original files." = "ファイルはセキュリティで保護された添付ファイルとして追加されています。\n安全に元のファイルを削除することができます。";
+
+/* alert title */
+"The folder '%@' will be deleted" = "フォルダ '%@' は削除されます";
 
 /* info */
 "The folder permissions have been reset successfully." = "フォルダ権限は正しくリセットされました。";
@@ -1008,7 +1027,10 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "The import file data has been edited." = "読み込みファイルのデータが編集されました。";
 
 /* alert title */
-"The import was canceled" = "読み込みはキャンセルされましたファイル %1$@ は大きすぎます (%2$@)。\n添付ファイルのサイズは 20 MB 未満である必要があります。different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "互換ファイルは異なる 1Password データベース
+"The import was canceled" = "読み込みはキャンセルされました";
+
+/* exporter */
+"The interchange file can be used to merge different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "互換ファイルは異なる 1Password データベース
 をマージしたり、暗号化されていないバックアップファイルとしての保管に使用できます。\n\n重要: ファイルは暗号化されないので保護する必要があります。";
 
 /* alert title */
@@ -1024,7 +1046,11 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "There are 0 passwords to import." = "インポートするパスワードが 0 あります。";
 
 /* alert message */
-"This operation can not be undone." = "この操作はやり直しできません。";読み込もうとしているファイルはバイナリファイルです。テキストエディットでファイルの内容を見て、有効なものであることをご確認ください。\n\nネットワークドライブや USB ディスクから直接ファイルを開こうとしている場合は、まずローカルディスクにファイルをコピーしてください。タイトル";
+"This operation can not be undone." = "この操作はやり直しできません。";
+
+/* search scope
+   table column */
+"Title" = "タイトル";
 
 /* time */
 "tomorrow" = "明日";
@@ -1207,4 +1233,3 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* change folder security level */
 "You are changing the folder \"%@\" to high security mode.\nDo you also want to set the items in this folder to high security?" = "フォルダ \"%@\" を高セキュリティモードに変更しようとしています。\n このフォルダの項目も高セキュリティに設定しますか？";
 
-添付ファイル %1$@ は開きませんでした：%2$@

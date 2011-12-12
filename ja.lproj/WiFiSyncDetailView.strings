@@ -1,40 +1,39 @@
-/* Class:  "NSTextFieldCell"; title:  "Last synced"; ObjectID:  "17"; */
+/* Class: "NSTextFieldCell"; title: "Last synced"; ObjectID: "17"; */
 "Last synced" = "最終同期";
 
-/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "title"; ObjectID:  "13"; */
+/* Class: "NSTextField"; ibExternalAccessibilityDescription: "title"; ObjectID: "13"; */
 "title" = "タイトル";
 
-/* Class:  "NSTextFieldCell"; title:  "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID:  "103"; */
+/* Class: "NSTextFieldCell"; title: "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID: "103"; */
 "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Wi-Fi 同期をするには、お使いの iPhone 上の  1Password touch を起動してロック解除します";
 
-/* Class:  "NSButtonCell"; title:  "Sync all items"; ObjectID:  "27"; */
+/* Class: "NSButtonCell"; title: "Sync all items"; ObjectID: "27"; */
 "Sync all items" = "すべてを同期";
 
-/* Class:  "NSButtonCell"; title:  "Sync only selected folders"; ObjectID:  "26"; */
+/* Class: "NSButtonCell"; title: "Sync only selected folders"; ObjectID: "26"; */
 "Sync only selected folders" = "選択したフォルダのみ同期";
 
-/* Class:  "NSTextFieldCell"; title:  "Wi-Fi Status"; ObjectID:  "19"; */
+/* Class: "NSTextFieldCell"; title: "Wi-Fi Status"; ObjectID: "19"; */
 "Wi-Fi Status" = "Wi-Fi ステータス";
 
-/* Class:  "NSTextFieldCell"; title:  "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID:  "94"; */
+/* Class: "NSTextFieldCell"; title: "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID: "94"; */
 "When checked, 1Password will replace information on this iPhone with information from this computer." = "チェックを入れると、1Password はこの iPhone の情報をこのコンピュータからの情報で置き換えます。";
 
-/* Class:  "NSButtonCell"; title:  "Replace information on this iPhone"; ObjectID:  "92"; */
+/* Class: "NSButtonCell"; title: "Replace information on this iPhone"; ObjectID: "92"; */
 "Replace information on this iPhone" = "この iPhone の情報を置き換え";
 
-/* Class:  "NSMenuItem"; title:  "Manually"; ObjectID:  "83"; */
+/* Class: "NSMenuItem"; title: "Manually"; ObjectID: "83"; */
 "Manually" = "手動";
 
-/* ClOtherViewsuttonCell"; title:  "Sync Now"; ObjectID:  "23"; */
+/* Class: "NSButtonCell"; title: "Sync Now"; ObjectID: "23"; */
 "Sync Now" = "今すぐ同期";
 
-/* Class:  "NSTextFieldCell"; title:  "Device type"; ObjectID:  "16"; */
+/* Class: "NSTextFieldCell"; title: "Device type"; ObjectID: "16"; */
 "Device type" = "デバイスの種類";
 
-/* Class:  "NSMenuItem"; title:  "Automatically"; ObjectID:  "82"; */
+/* Class: "NSMenuItem"; title: "Automatically"; ObjectID: "82"; */
 "Automatically" = "自動";
 
-/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "Wi-Fi status"; ObjectID:  "7"; */
+/* Class: "NSTextField"; ibExternalAccessibilityDescription: "Wi-Fi status"; ObjectID: "7"; */
 "Wi-Fi status" = "Wi-Fi ステータス";
 
-BINDING で同期

@@ -11,7 +11,7 @@
 "branchInfo" = "Infos sur l'agence";
 "branchPhone" = "Téléphone";
 "branchAddress" = "Adresse";
-"telephonePin" = "Téléphone PIN";
+"telephonePin" = "PIN téléphone";
 
 "menu.accountTypeUK." = "";
 "menu.accountTypeUK.current" = "Courant";

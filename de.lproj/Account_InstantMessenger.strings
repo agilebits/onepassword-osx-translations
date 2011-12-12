@@ -4,7 +4,7 @@
 "account_type" = "Account-Typ";
 "account_type#9" = "Typ";
 "username" = "Benutzername / E-Mail / ID";
-"username#9" = "ID";
+"username#9" = "id";
 "password" = "Passwort";
 "server" = "Server";
 "port" = "Port";

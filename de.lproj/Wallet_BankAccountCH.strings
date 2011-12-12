@@ -3,7 +3,7 @@
  
 "bankName" = "Bankname";
 "owner" = "Kontoinhaber";
-"accountType" = "Art";
+"accountType" = "Typ";
 "clearingNo" = "Ausgleichsnummer";
 "accountNo" = "Kontonummer";
 "swift" = "SWIFT-Code";

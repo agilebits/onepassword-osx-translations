@@ -1,30 +1,30 @@
-/* Class:  "NSTokenFieldCell"; placeholderString: "Tags"; ObjectID:  "4892"; */
+/* Class: "NSTokenFieldCell"; placeholderString: "Tags"; ObjectID: "4892"; */
 "Tags" = "Mots-clés";
 
-/* Class:  "NSCollectionView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID:  "4808"; */
+/* Class: "NSCollectionView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID: "4808"; */
 "Attachments" = "Pièces jointes";
 
-/* Class:  "NSTextFieldCell"; title:  "Display"; ObjectID:  "4932"; */
+/* Class: "NSTextFieldCell"; title: "Display"; ObjectID: "4932"; */
 "Display" = "Affichage";
 
-/* Class:  "NSTextFieldCell"; title:  "Created on"; ObjectID:  "3219"; */
+/* Class: "NSTextFieldCell"; title: "Created on"; ObjectID: "3219"; */
 "Created on" = "Créé sur";
 
-/* Class:  "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID:  "4891"; */
+/* Class: "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID: "4891"; */
 "tags" = "mots-clés";
 
-/* Class:  "NSTextView"; ibExternalAccessibilityDescription: "Notes"; ObjectID:  "4819"; */
+/* Class: "NSTextView"; ibExternalAccessibilityDescription: "Notes"; ObjectID: "4819"; */
 "Notes" = "Remarques";
 
-/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Title"; ObjectID:  "4918"; */
+/* Class: "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Title"; ObjectID: "4918"; */
 "Title" = "Titre";
 
-/* Class:  "NSMenuItem"; title:  "Always"; ObjectID:  "4930"; */
+/* Class: "NSMenuItem"; title: "Always"; ObjectID: "4930"; */
 "Always" = "Toujours";
 
-/* Class:  "NSMenuItem"; title:  "Never Display in Browser"; ObjectID:  "4931"; */
+/* Class: "NSMenuItem"; title: "Never Display in Browser"; ObjectID: "4931"; */
 "Never Display in Browser" = "Ne jamais afficher dans le navigateur";
 
-/* Class:  "NSTextFieldCell"; title:  "Last modified"; ObjectID:  "3220"; */
+/* Class: "NSTextFieldCell"; title: "Last modified"; ObjectID: "3220"; */
 "Last modified" = "Date de modification";
 

@@ -1,39 +1,39 @@
-/* Class:  "NSTextFieldCell"; title:  "Last synced"; ObjectID:  "17"; */
+/* Class: "NSTextFieldCell"; title: "Last synced"; ObjectID: "17"; */
 "Last synced" = "최종 동기화";
 
-/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "title"; ObjectID:  "13"; */
+/* Class: "NSTextField"; ibExternalAccessibilityDescription: "title"; ObjectID: "13"; */
 "title" = "제목";
 
-/* Class:  "NSTextFieldCell"; title:  "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID:  "103"; */
+/* Class: "NSTextFieldCell"; title: "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID: "103"; */
 "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "아이폰을 터치해 1Password를 잠금 해제 후 실행하면 와이파이 동기화를 시작할 수 있습니다.";
 
-/* Class:  "NSButtonCell"; title:  "Sync all items"; ObjectID:  "27"; */
+/* Class: "NSButtonCell"; title: "Sync all items"; ObjectID: "27"; */
 "Sync all items" = "전체 항목 동기화";
 
-/* Class:  "NSButtonCell"; title:  "Sync only selected folders"; ObjectID:  "26"; */
+/* Class: "NSButtonCell"; title: "Sync only selected folders"; ObjectID: "26"; */
 "Sync only selected folders" = "선택 폴더 동기화";
 
-/* Class:  "NSTextFieldCell"; title:  "Wi-Fi Status"; ObjectID:  "19"; */
+/* Class: "NSTextFieldCell"; title: "Wi-Fi Status"; ObjectID: "19"; */
 "Wi-Fi Status" = "와이파이 상태";
 
-/* Class:  "NSTextFieldCell"; title:  "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID:  "94"; */
+/* Class: "NSTextFieldCell"; title: "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID: "94"; */
 "When checked, 1Password will replace information on this iPhone with information from this computer." = "이곳에 체크하면 1Password가 현재 연결중인 아이폰의 저장정보를 현재 연결중인 컴퓨터의 저장정보로 대체합니다.";
 
-/* Class:  "NSButtonCell"; title:  "Replace information on this iPhone"; ObjectID:  "92"; */
+/* Class: "NSButtonCell"; title: "Replace information on this iPhone"; ObjectID: "92"; */
 "Replace information on this iPhone" = "연결된 아이폰에 저장된 정보 교체";
 
-/* Class:  "NSMenuItem"; title:  "Manually"; ObjectID:  "83"; */
+/* Class: "NSMenuItem"; title: "Manually"; ObjectID: "83"; */
 "Manually" = "수동";
 
-/* Class:  "NSButtonCell"; title:  "Sync Now"; ObjectID:  "23"; */
+/* Class: "NSButtonCell"; title: "Sync Now"; ObjectID: "23"; */
 "Sync Now" = "지금 동기화";
 
-/* Class:  "NSTextFieldCell"; title:  "Device type"; ObjectID:  "16"; */
+/* Class: "NSTextFieldCell"; title: "Device type"; ObjectID: "16"; */
 "Device type" = "기기 유형";
 
-/* Class:  "NSMenuItem"; title:  "Automatically"; ObjectID:  "82"; */
+/* Class: "NSMenuItem"; title: "Automatically"; ObjectID: "82"; */
 "Automatically" = "자동";
 
-/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "Wi-Fi status"; ObjectID:  "7"; */
+/* Class: "NSTextField"; ibExternalAccessibilityDescription: "Wi-Fi status"; ObjectID: "7"; */
 "Wi-Fi status" = "와이파이 상태";
 

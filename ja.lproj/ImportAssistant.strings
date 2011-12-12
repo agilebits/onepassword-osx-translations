@@ -1,180 +1,180 @@
-/* Class:  "NSMenuItem"; title:  "Skip All"; ObjectID:  "385"; */
+/* Class: "NSMenuItem"; title: "Skip All"; ObjectID: "385"; */
 "Skip All" = "すべてスキップ";
 
-/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "763"; */
+/* Class: "NSButtonCell"; title: "Cancel"; ObjectID: "763"; */
 "Cancel" = "キャンセル";
 
-/* Class:  "NSMenuItem"; title:  "UTF-8"; ObjectID:  "64"; */
+/* Class: "NSMenuItem"; title: "UTF-8"; ObjectID: "64"; */
 "UTF-8" = "UTF-8";
 
-/* Class:  "NSTabViewItem"; label: "FileSelection"; ObjectID:  "135"; */
+/* Class: "NSTabViewItem"; label: "FileSelection"; ObjectID: "135"; */
 "FileSelection" = "ファイル選択";
 
-/* Class:  "NSTextFieldCell"; title:  "Step 5: Enter the name of the folder for imported objects"; ObjectID:  "752"; */
+/* Class: "NSTextFieldCell"; title: "Step 5: Enter the name of the folder for imported objects"; ObjectID: "752"; */
 "Step 5: Enter the name of the folder for imported objects" = "ステップ 5: 読み込みオブジェクトフォルダの名前を入力";
 
-/* Class:  "NSButtonCell"; title:  "Stop"; ObjectID:  "754"; */
+/* Class: "NSButtonCell"; title: "Stop"; ObjectID: "754"; */
 "Stop" = "中止";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Action"; ObjectID:  "183"; */
+/* Class: "NSTableColumn"; headerCell.title: "Action"; ObjectID: "183"; */
 "Action" = "アクション";
 
-/* Class:  "NSTextFieldCell"; title:  "Step 4: Review and select objects that will be imported"; ObjectID:  "753"; */
+/* Class: "NSTextFieldCell"; title: "Step 4: Review and select objects that will be imported"; ObjectID: "753"; */
 "Step 4: Review and select objects that will be imported" = "ステップ 4: 読み込まれるオブジェクトを見直して選択";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Subfolder"; ObjectID:  "145"; */
+/* Class: "NSTableColumn"; headerCell.title: "Subfolder"; ObjectID: "145"; */
 "Subfolder" = "サブフォルダ";
 
-/* Class:  "NSTabViewItem"; label: "PendingBrowserImport"; ObjectID:  "786"; */
+/* Class: "NSTabViewItem"; label: "PendingBrowserImport"; ObjectID: "786"; */
 "PendingBrowserImport" = "ブラウザ読み込み待ち";
 
-/* Class:  "NSButtonCell"; title:  "Back"; ObjectID:  "769"; */
+/* Class: "NSButtonCell"; title: "Back"; ObjectID: "769"; */
 "Back" = "戻る";
 
-/* Class:  "NSMenuItem"; title:  "ASCII"; ObjectID:  "65"; */
+/* Class: "NSMenuItem"; title: "ASCII"; ObjectID: "65"; */
 "ASCII" = "ASCII";
 
-/* Class:  "NSMenuItem"; title:  "Mac OS Roman"; ObjectID:  "102"; */
+/* Class: "NSMenuItem"; title: "Mac OS Roman"; ObjectID: "102"; */
 "Mac OS Roman" = "Mac OS Roman";
 
-/* Class:  "NSMenuItem"; title:  "Import All"; ObjectID:  "384"; */
+/* Class: "NSMenuItem"; title: "Import All"; ObjectID: "384"; */
 "Import All" = "すべてインポート";
 
-/* Class:  "NSMenuItem"; title:  "Space"; ObjectID:  "509"; */
+/* Class: "NSMenuItem"; title: "Space"; ObjectID: "509"; */
 "Space" = "スペース";
 
-/* Class:  "NSMenuItem"; title:  "Unicode"; ObjectID:  "103"; */
+/* Class: "NSMenuItem"; title: "Unicode"; ObjectID: "103"; */
 "Unicode" = "Unicode";
 
-/* Class:  "NSTextFieldCell"; title:  "Delimiter character:"; ObjectID:  "767"; */
+/* Class: "NSTextFieldCell"; title: "Delimiter character:"; ObjectID: "767"; */
 "Delimiter character:" = "区切り文字：";
 
-/* Class:  "NSMenuItem"; title:  "Comma"; ObjectID:  "510"; */
+/* Class: "NSMenuItem"; title: "Comma"; ObjectID: "510"; */
 "Comma" = "コンマ";
 
-/* Class:  "NSTextFieldCell"; title:  "Import Folder:"; ObjectID:  "748"; */
+/* Class: "NSTextFieldCell"; title: "Import Folder:"; ObjectID: "748"; */
 "Import Folder:" = "読み込みフォルダ：";
 
-/* Class:  "NSWindow"; title:  "Import Assistant"; ObjectID:  "5"; */
+/* Class: "NSWindow"; title: "Import Assistant"; ObjectID: "5"; */
 "Import Assistant" = "読み込みアシスタント";
 
-/* Class:  "NSTextFieldCell"; title:  "Import Format:"; ObjectID:  "760"; */
+/* Class: "NSTextFieldCell"; title: "Import Format:"; ObjectID: "760"; */
 "Import Format:" = "読み込み形式：";
 
-/* Class:  "NSTextFieldCell"; title:  "Start import at line:"; ObjectID:  "764"; */
+/* Class: "NSTextFieldCell"; title: "Start import at line:"; ObjectID: "764"; */
 "Start import at line:" = "読み込み開始行：";
 
-/* Class:  "NSButtonCell"; title:  "Round Textured"; ObjectID:  "756"; */
+/* Class: "NSButtonCell"; title: "Round Textured"; ObjectID: "756"; */
 "Round Textured" = "ラウンドテクスチャ";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Status"; ObjectID:  "190"; */
+/* Class: "NSTableColumn"; headerCell.title: "Status"; ObjectID: "190"; */
 "Status" = "ステータス";
 
-/* Class:  "NSButtonCell"; title:  "Choose File..."; ObjectID:  "746"; */
+/* Class: "NSButtonCell"; title: "Choose File..."; ObjectID: "746"; */
 "Choose File..." = "ファイルを選択...";
 
-/* Class:  "NSMenuItem"; title:  "Japanese EUC"; ObjectID:  "99"; */
+/* Class: "NSMenuItem"; title: "Japanese EUC"; ObjectID: "99"; */
 "Japanese EUC" = "日本語 EUC";
 
-/* Class:  "NSTabViewItem"; label: "FormatSelection"; ObjectID:  "198"; */
+/* Class: "NSTabViewItem"; label: "FormatSelection"; ObjectID: "198"; */
 "FormatSelection" = "形式選択";
 
-/* Class:  "NSMenuItem"; title:  "Shift JIS"; ObjectID:  "100"; */
+/* Class: "NSMenuItem"; title: "Shift JIS"; ObjectID: "100"; */
 "Shift JIS" = "Shift JIS";
 
-/* Class:  "NSTextFieldCell"; title:  "Step 6: Enter the name of the folder for imported objects"; ObjectID:  "758"; */
+/* Class: "NSTextFieldCell"; title: "Step 6: Enter the name of the folder for imported objects"; ObjectID: "758"; */
 "Step 6: Enter the name of the folder for imported objects" = "ステップ 6: 読み込みオブジェクトフォルダの名前を入力";
 
-/* Class:  "NSTextFieldCell"; title:  "Please wait while passwords are imported from the browser."; ObjectID:  "790"; */
+/* Class: "NSTextFieldCell"; title: "Please wait while passwords are imported from the browser."; ObjectID: "790"; */
 "Please wait while passwords are imported from the browser." = "ブラウザからパスワードがインポートされるまでお待ちください。";
 
-/* Class:  "NSButtonCell"; title:  "Start Import"; ObjectID:  "741"; */
+/* Class: "NSButtonCell"; title: "Start Import"; ObjectID: "741"; */
 "Start Import" = "読み込みを開始";
 
-/* Class:  "NSTextFieldCell"; title:  "Step 1: Select Application to Import From"; ObjectID:  "761"; */
+/* Class: "NSTextFieldCell"; title: "Step 1: Select Application to Import From"; ObjectID: "761"; */
 "Step 1: Select Application to Import From" = "ステップ 1: 読み込み元アプリケーションを選択";
 
-/* Class:  "NSTextFieldCell"; title:  "Step 4: Specify file contents format"; ObjectID:  "771"; */
+/* Class: "NSTextFieldCell"; title: "Step 4: Specify file contents format"; ObjectID: "771"; */
 "Step 4: Specify file contents format" = "ステップ 4: ファイルコンテンツ形式を指定";
 
-/* Class:  "NSMenuItem"; title:  "Windows CP 1253 (Greek)"; ObjectID:  "96"; */
+/* Class: "NSMenuItem"; title: "Windows CP 1253 (Greek)"; ObjectID: "96"; */
 "Windows CP 1253 (Greek)" = "Windows CP 1253 (ギリシャ文字)";
 
-/* Class:  "NSMenuItem"; title:  "Windows CP 1254 (Latin 5)"; ObjectID:  "97"; */
+/* Class: "NSMenuItem"; title: "Windows CP 1254 (Latin 5)"; ObjectID: "97"; */
 "Windows CP 1254 (Latin 5)" = "Windows CP 1254 (ラテン 5)";
 
-/* Class:  "NSTabViewItem"; label: "Preview"; ObjectID:  "137"; */
+/* Class: "NSTabViewItem"; label: "Preview"; ObjectID: "137"; */
 "Preview" = "プレビュー";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Title"; ObjectID:  "144"; */
+/* Class: "NSTableColumn"; headerCell.title: "Title"; ObjectID: "144"; */
 "Title" = "Title";
 
-/* Class:  "NSTableColumn"; headerCell.title:  "Type"; ObjectID:  "181"; */
+/* Class: "NSTableColumn"; headerCell.title: "Type"; ObjectID: "181"; */
 "Type" = "種類";
 
-/* Class:  "NSMenuItem"; title:  "Import"; ObjectID:  "804"; */
+/* Class: "NSMenuItem"; title: "Import"; ObjectID: "804"; */
 "Import" = "インポート";
 
-/* Class:  "NSMenuItem"; title:  "Windows CP 1252 (Latin 1)"; ObjectID:  "95"; */
+/* Class: "NSMenuItem"; title: "Windows CP 1252 (Latin 1)"; ObjectID: "95"; */
 "Windows CP 1252 (Latin 1)" = "Windows CP 1252 (ラテン 1)";
 
-/* Class:  "NSTextFieldCell"; title:  "Step 3: Select and Verify File Encoding"; ObjectID:  "745"; */
+/* Class: "NSTextFieldCell"; title: "Step 3: Select and Verify File Encoding"; ObjectID: "745"; */
 "Step 3: Select and Verify File Encoding" = "ステップ 3: ファイルエンコーディングを選択して確認";
 
-/* Class:  "NSButtonCell"; title:  "Continue"; ObjectID:  "770"; */
+/* Class: "NSButtonCell"; title: "Continue"; ObjectID: "770"; */
 "Continue" = "続ける";
 
-/* Class:  "NSTextFieldCell"; title:  "Item Type:"; ObjectID:  "773"; */
+/* Class: "NSTextFieldCell"; title: "Item Type:"; ObjectID: "773"; */
 "Item Type:" = "項目の種類：";
 
-/* Class:  "NSTextFieldCell"; title:  "Keep changing the encoding until you see the contents of the export file displayed correctly."; ObjectID:  "747"; */
+/* Class: "NSTextFieldCell"; title: "Keep changing the encoding until you see the contents of the export file displayed correctly."; ObjectID: "747"; */
 "Keep changing the encoding until you see the contents of the export file displayed correctly." = "書き出されたファイルの内容が正しく表示されるまで、エンコーディングを何度も変えてみてください。";
 
-/* Class:  "NSMenuItem"; title:  "Windows CP 1250 (Latin 2)"; ObjectID:  "98"; */
+/* Class: "NSMenuItem"; title: "Windows CP 1250 (Latin 2)"; ObjectID: "98"; */
 "Windows CP 1250 (Latin 2)" = "Windows CP 1250 (Latin 2)";
 
-/* Class:  "NSButtonCell"; title:  "Fields are Quoted"; ObjectID:  "774"; */
+/* Class: "NSButtonCell"; title: "Fields are Quoted"; ObjectID: "774"; */
 "Fields are Quoted" = "フィールドを引用符で囲む";
 
-/* Class:  "NSButtonCell"; title:  "Import Selected Objects"; ObjectID:  "749"; */
+/* Class: "NSButtonCell"; title: "Import Selected Objects"; ObjectID: "749"; */
 "Import Selected Objects" = "選択オブジェクトを読み込み";
 
-/* Class:  "NSTextFieldCell"; title:  "Step 2: Prepare and Choose File with the Exported Information"; ObjectID:  "744"; */
+/* Class: "NSTextFieldCell"; title: "Step 2: Prepare and Choose File with the Exported Information"; ObjectID: "744"; */
 "Step 2: Prepare and Choose File with the Exported Information" = "ステップ 2: 書き出された情報を持つファイルを選択";
 
-/* Class:  "NSTextFieldCell"; title:  "Step 5: Review and select objects that will be imported"; ObjectID:  "757"; */
+/* Class: "NSTextFieldCell"; title: "Step 5: Review and select objects that will be imported"; ObjectID: "757"; */
 "Step 5: Review and select objects that will be imported" = "ステップ 5: 読み込まれるオブジェクトを見直して選択";
 
-/* Class:  "NSTextFieldCell"; title:  "Text"; ObjectID:  "807"; */
+/* Class: "NSTextFieldCell"; title: "Text"; ObjectID: "807"; */
 "Text" = "テキスト";
 
-/* Class:  "NSMenuItem"; title:  "ISO Latin 1"; ObjectID:  "66"; */
+/* Class: "NSMenuItem"; title: "ISO Latin 1"; ObjectID: "66"; */
 "ISO Latin 1" = "ISO Latin 1";
 
-/* Class:  "NSMenuItem"; title:  "Windows CP 1251 (Cyrillic)"; ObjectID:  "94"; */
+/* Class: "NSMenuItem"; title: "Windows CP 1251 (Cyrillic)"; ObjectID: "94"; */
 "Windows CP 1251 (Cyrillic)" = "Windows CP 1251 (キリル文字)";
 
-/* Class:  "NSMenuItem"; title:  "Foo"; ObjectID:  "675"; */
+/* Class: "NSMenuItem"; title: "Foo"; ObjectID: "675"; */
 "Foo" = "Foo";
 
-/* Class:  "NSMenuItem"; title:  "Skip"; ObjectID:  "803"; */
+/* Class: "NSMenuItem"; title: "Skip"; ObjectID: "803"; */
 "Skip" = "スキップ";
 
-/* Class:  "NSMenuItem"; title:  "Tab"; ObjectID:  "508"; */
+/* Class: "NSMenuItem"; title: "Tab"; ObjectID: "508"; */
 "Tab" = "タブ";
 
-/* Class:  "NSTextFieldCell"; title:  "Character Encoding:"; ObjectID:  "742"; */
+/* Class: "NSTextFieldCell"; title: "Character Encoding:"; ObjectID: "742"; */
 "Character Encoding:" = "文字エンコーディング：";
 
-/* Class:  "NSTabViewItem"; label: "GenericText"; ObjectID:  "470"; */
+/* Class: "NSTabViewItem"; label: "GenericText"; ObjectID: "470"; */
 "GenericText" = "テキスト";
 
-/* Class:  "NSMenuItem"; title:  "Edit..."; ObjectID:  "383"; */
+/* Class: "NSMenuItem"; title: "Edit..."; ObjectID: "383"; */
 "Edit..." = "編集...";
 
-/* Class:  "NSMenuItem"; title:  "ISO 2022 JP "; ObjectID:  "101"; */
+/* Class: "NSMenuItem"; title: "ISO 2022 JP "; ObjectID: "101"; */
 "ISO 2022 JP " = "ISO 2022 JP ";
 
-/* Class:  "NSMenuItem"; title:  "ISO Latin 2"; ObjectID:  "93"; */
+/* Class: "NSMenuItem"; title: "ISO Latin 2"; ObjectID: "93"; */
 "ISO Latin 2" = "ISO Latin 2";
 

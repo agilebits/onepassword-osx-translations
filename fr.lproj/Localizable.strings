@@ -1,5 +1,5 @@
 /* Activity message */
-"%1$d of %2$d - %3$@" = "%1$d de %2$d - %3$@";
+"%1$d of %2$d - %3$@" = "%1$d of %2$d - %3$@";
 
 /* error description */
 "1Password can only run from the Applications folder" = "1Password ne fonctionne uniquement qu'à partir du dossier d'applications";
@@ -171,7 +171,7 @@
 "Password is too long for Login" = "Mot de passe trop long";
 
 /* info */
-"Please enter at least one character." = "Veuillez entrer au moins un caractère.";
+"Please enter at least one character." = "Veuillez entrer un caractère au minimum.";
 
 /* info */
 "Please enter the master password again." = "Veuillez entrer le mot de passe principal à nouveau";
@@ -264,7 +264,7 @@
 "Unable to unlock 1Password" = "Impossible de déverouilller 1Password";
 
 /* menu item */
-"Unlock 1Password" = "Déverouiller 1Password";
+"Unlock 1Password" = "Déverrouiller 1Password";
 
 /* unlock prompt */
 "Unlock 1Password to Autosave the Login." = "Déverrouiller 1Password pour Auto-sauvegarder l'Identitifiant.";
@@ -519,7 +519,7 @@
 "Attachments" = "Pièces jointes";
 
 /* iPhone status */
-"Available" = "Disponible";
+"Available" = "Available";
 
 /* error */
 "Backup directory is not writeable." = "Chemin de sauvegarde interdit en écriture.";

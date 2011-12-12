@@ -1,36 +1,36 @@
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Tags"; ObjectID:  "4901"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "Tags"; ObjectID: "4901"; */
 "Tags" = "Теги";
 
-/* Class:  "NSScrollView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID:  "4842"; */
+/* Class: "NSScrollView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID: "4842"; */
 "Attachments" = "Вложения";
 
-/* Class:  "NSTextFieldCell"; title:  "Display"; ObjectID:  "4936"; */
+/* Class: "NSTextFieldCell"; title: "Display"; ObjectID: "4936"; */
 "Display" = "Показать";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Photograph"; ObjectID:  "4905"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "Photograph"; ObjectID: "4905"; */
 "Photograph" = "Фотография";
 
-/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "name"; ObjectID:  "4582"; */
+/* Class: "NSTextField"; ibExternalAccessibilityDescription: "name"; ObjectID: "4582"; */
 "name" = "имя";
 
-/* Class:  "NSTextFieldCell"; title:  "Created on"; ObjectID:  "2888"; */
+/* Class: "NSTextFieldCell"; title: "Created on"; ObjectID: "2888"; */
 "Created on" = "Дата создания";
 
-/* Class:  "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID:  "4440"; */
+/* Class: "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID: "4440"; */
 "tags" = "теги";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Notes"; ObjectID:  "4893"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "Notes"; ObjectID: "4893"; */
 "Notes" = "Примечания";
 
-/* Class:  "NSMenuItem"; title:  "Always"; ObjectID:  "4935"; */
+/* Class: "NSMenuItem"; title: "Always"; ObjectID: "4935"; */
 "Always" = "Всегда";
 
-/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Name"; ObjectID:  "4921"; */
+/* Class: "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Name"; ObjectID: "4921"; */
 "Name" = "Имя";
 
-/* Class:  "NSMenuItem"; title:  "Never Display in Browser"; ObjectID:  "4933"; */
+/* Class: "NSMenuItem"; title: "Never Display in Browser"; ObjectID: "4933"; */
 "Never Display in Browser" = "Никогда не показывать в браузере";
 
-/* Class:  "NSTextFieldCell"; title:  "Last modified"; ObjectID:  "2887"; */
+/* Class: "NSTextFieldCell"; title: "Last modified"; ObjectID: "2887"; */
 "Last modified" = "Дата модификации";
 

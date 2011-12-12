@@ -29,11 +29,11 @@
 "creditLimit" = "Кредитный лимит";
 "creditLimit#9" = "Лимит";
 "cashLimit" = "Лимит выдачи наличных";
-"cashLimit#9" = "Лимит нал.";
+"cashLimit#9" = "Лимит выдачи наличных";
 "interest" = "Ставка";
 "interest#9" = "Ставка";
 "issuenumber" = "Номер выпуска";
-"issuenumber#9" = "Номер";
+"issuenumber#9" = "Номер выпуска";
 
 /* credit card types */
 "menu.type." = "";

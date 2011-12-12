@@ -1,5 +1,5 @@
 /* Activity message */
-"%1$d of %2$d - %3$%1$d of %2$d - %3$@%1$d из %2$d - %3$@";
+"%1$d of %2$d - %3$@" = "%1$d из %2$d - %3$@";
 
 /* error description */
 "1Password can only run from the Applications folder" = "1Password запускается только из папки приложений";
@@ -276,12 +276,13 @@
 "Unlock 1Password to fill credit card." = "Разблокировать 1Password для ввода данных кредитной карты.";
 
 /* unlock prompt */
-"Разблокировать 1Password для заполнения кредитной карты.Разблокировать 1Password для ввода имени пользователя.";
+"Unlock 1Password to fill Login." = "Разблокировать 1Password для ввода имени пользователя.";
 
 /* unlock prompt */
-"Unlock Разблокировать 1Password для заполнения Логина.password." = "Разблокировать 1Password для ввода сформированного пароля.";
+"Unlock 1Password to fill the generated password." = "Разблокировать 1Password для ввода сформированного пароля.";
 
-/* unlock prРазблокировать 1Password для заполнения сгенерированного пароля. "Разблокировать 1Password для импорта паролей.";
+/* unlock prompt */
+"Unlock 1Password to import passwords." = "Разблокировать 1Password для импорта паролей.";
 
 /* unlock prompt */
 "Unlock 1Password to remove the item." = "Разблокировать 1Password для удаления пункта.";
@@ -371,7 +372,7 @@
 "%d objects will be moved to the Trash" = "%d объектов будет помещено в корзину";
 
 /* time */
-"%d secon%d объектов будет перемещено в Корзину%d секунд назад";
+"%d seconds ago" = "%d секунд назад";
 
 /* time */
 "%d seconds from now" = "%d секунд от текущего момента";
@@ -446,7 +447,10 @@
 "1Password will download all missing icons and previews" = "1Password загрузит все недостающие значки";
 
 /* info */
-"1Password will visit every website stored in Logins as if you visited that website in Safari. The website could save your IP address, general location, and operating system information. Note that 1Password will NOT log into the site, only capture a picture of the login page. If you have privacy concerns about connecting to any of your saved sites from your current location, please Cancel.\n\nDepending on the number of saved Logins the download can take several hours and use significant network bandwidth." = "1Password посетит каждый веб-сайт, сохраненный в именах пользователей, как если бы вы открыли этот сайт в Safari. Веб-сайт мог сохранить IP-адрес, общее местоположение и информацию об операционной системе. Обратите внимание, что 1Password не будет заходить на сайт, только захватит изображение страницы входа. Если у вас есть вопросы о конфиденциальности при подключении к любому из сохраненных сайтов из текущего местоположения, нажмите кнопку \"Отмена\".\n\nВ зависимости от числа сохраненных имен пользователя, загрузка может занять несколько часов и использовать существенную полосу пропускания сети.1Password посетит каждый вебсайт, сохранённый в Логинах, как будто Вы посетили этот сайт в Сафари. Вебсайт мог сохранить Ваш IP адрес, общее местоположение, и информацию об операционной системе. Обратите внимание, что 1Password не будет заходить на сайт, только захватит изображение страницы входа. Если у вас есть вопросы конфиденциальности при подключении к любому из сохранённых сайтов из текущего местоположения, нажмите Отмените.\n\nВ зависимости от числа сохранённых Логинов, загрузка может занять несколько часов и использовать существенную полосу пропускания сети.Объект \"%@\" будет удален";
+"1Password will visit every website stored in Logins as if you visited that website in Safari. The website could save your IP address, general location, and operating system information. Note that 1Password will NOT log into the site, only capture a picture of the login page. If you have privacy concerns about connecting to any of your saved sites from your current location, please Cancel.\n\nDepending on the number of saved Logins the download can take several hours and use significant network bandwidth." = "1Password посетит каждый веб-сайт, сохраненный в именах пользователей, как если бы вы открыли этот сайт в Safari. Веб-сайт мог сохранить IP-адрес, общее местоположение и информацию об операционной системе. Обратите внимание, что 1Password не будет заходить на сайт, только захватит изображение страницы входа. Если у вас есть вопросы о конфиденциальности при подключении к любому из сохраненных сайтов из текущего местоположения, нажмите кнопку \"Отмена\".\n\nВ зависимости от числа сохраненных имен пользователя, загрузка может занять несколько часов и использовать существенную полосу пропускания сети.";
+
+/* alert title */
+"\"%@\" will be Deleted" = "Объект \"%@\" будет удален";
 
 /* alert message */
 "\"%@\" will be moved to Trash" = "Объект \"%@\" будет помещен в корзину";
@@ -488,7 +492,7 @@
 "All login icons and previews will be deleted" = "Все иконки логинов будут удалены";
 
 /* alert message */
-"An attachment named %@ already exists.\nDo you want to replace it with the one you are moving?" = "Вложение с именем %@ уже существует.\nЗаменить его перемещаемым вложением?Уже импортированные объекты были удалены от списка.e you are moving?";
+"An attachment named %@ already exists.\nDo you want to replace it with the one you are moving?" = "Вложение с именем %@ уже существует.\nЗаменить его перемещаемым вложением?";
 
 /* time */
 "an hour ago" = "час назад";
@@ -506,10 +510,10 @@
 "Attachment is too big" = "Вложение слишком велико";
 
 /* alert message */
-"Attachment named %@ failed to exВы уверены, что хотите переместить все элементы в Корзине?Ошибка экспорта вложения с именем %@.";
+"Attachment named %@ failed to export." = "Ошибка экспорта вложения с именем %@.";
 
 /* alert title */
-"Attachment with the same name already exists" = "Вложение с таким именем уже существуетВложение слишком большоеe name already exists";
+"Attachment with the same name already exists" = "Вложение с таким именем уже существует";
 
 /* Label in item detail view */
 "Attachments" = "Вложенные файлы";
@@ -577,7 +581,8 @@
 /* Alert Panel */
 "Diagnostic script failed." = "Ошибка скрипта диагностики.";
 
-/* alertСоздать несколько личностей с разными именами и адресами, а затем быстро использовать одну для регистрации или покупки через Интернет с помощью одного клика в вашем браузере.Отменить изменения и перезагрузить?";
+/* alert */
+"Discard Changes and Reload?" = "Отменить изменения и перезагрузить?";
 
 /* Login Preview Image Menu */
 "Download Preview" = "Просмотр загрузки";
@@ -659,7 +664,7 @@
 "Failed to restore from backup, cannot move %1$@ to %2$@\nError: %3$@" = "Ошибка восстановления из резeрвной копии, не удается переместить %1$@ в %2$@\nОшибка: %3$@";
 
 /* error message */
-"Failed to restore from backup, cannot remoОшибка открытия '%1$@' с помощью %2$@ кодирования.\n\nКод ошибки: %3$d\n\nПожалуйста, выберите другую кодировку из списка.Ошибка восстановления из резeрвной копии, не удается удалить старый файл данных '%1$@'\nОшибка: %2$@";
+"Failed to restore from backup, cannot remove old data file '%1$@'\nError: %2$@" = "Ошибка восстановления из резeрвной копии, не удается удалить старый файл данных '%1$@'\nОшибка: %2$@";
 
 /* error */
 "Failed to run import script" = "Не удалось запустить скрипт импорта";
@@ -671,7 +676,7 @@
 "File added successfully" = "Файл добавлен";
 
 /* alert title */
-"File exists at pathНе удалось восстановить из резервной копии, не могу переместить %1$@ в %2$@\nОшибка: %3$@Файл существует по этому пути";
+"File exists at path" = "Файл существует по этому пути";
 
 /* attachment warning */
 "File is a bundle or folder" = "Файл - пакет или папка";
@@ -679,7 +684,8 @@
 /* exporter */
 "File name:" = "Имя файла:";
 
-/* attachmenНе удалось восстановить из резервной копии, не могу удалить сарый файл данных '%1$@'\nОшибка: %2$@Размер файла больше чем 2 Mб";
+/* attachment warning */
+"File size is larger than 2 MB" = "Размер файла больше чем 2 Mб";
 
 /* alert message */
 "Files added successfully" = "Файл добавлен";
@@ -810,7 +816,7 @@
 "Notes" = "Заметки";
 
 /* button */
-"Требуется безопасное место для размещения кода входной двери друга, код замка багажа жены или ешё что-то? Используйте 'Заметки'.Импортировать нечего";
+"Nothing To Import" = "Импортировать нечего";
 
 /* iPhone status */
 "Offline" = "Не в сети";
@@ -923,7 +929,10 @@
 "Security" = "Безопасность";
 
 /* dropdown item */
-"Select Import Format" = "Выбрать формат импортаСохранить учетные записи для других целей и приложений, таких как электронная почта, обмен файлами и MobileMe.Выбранный раздел";
+"Select Import Format" = "Выбрать формат импорта";
+
+/* search scope */
+"Selected Section" = "Выбранный раздел";
 
 /* button */
 "Send items to Trash" = "Переместить в Корзину";
@@ -931,7 +940,8 @@
 /* new password location */
 "Service or Application Name" = "Имя службы или приложения";
 
-/* accessibiliСохранить Логины сайта путём установки расширений браузероа 1Password, а затем войти в, как обычно. Вы также можете вручную создать Логины здесь.Полки";
+/* accessibility description */
+"Shelves" = "Полки";
 
 /* menu item */
 "Show Activity" = "Показать активность";
@@ -962,7 +972,7 @@
 "Tag" = "тегам";
 
 /* Sidebar group */
-"Tags"Безопасное хранение учётных записей, включая электронную почту, обмен файлами и учётные данные MobileMe.Теги";
+"Tags" = "Теги";
 
 /* Password strength — Terrible */
 "Terrible" = "Ужасно";
@@ -974,7 +984,13 @@
 "The extended attributes have been repaired successfully." = "Расширенные атрибуты восстановлены успешно.";
 
 /* alert message */
-"The file %1$@ failed to import: %2$@." = "Не удалось импортировать %1$@: %2$@.Безопасное хранение приобретённых лицензий на программное обеспечение.$@ is (%2$@) in size.\nIt is going to be encrypted and stored in your data file. Adding a large attachment may slow and complicate data syncing.text" = "Размер файла %1$@ составляет (%2$@).\nОн будет зашифрован и сохранен как файл данных. Добавление крупных вложений может замедлить и усложнить синхронизацию данных.Безопасное хранение финансовой и персональной информации, такой как банковские счета, водительские права и различные вознаграждения. Храните также Ваши кредитные карты и заполняйте поля при покупке одним щелчком.Файл %1$@ слишком велик (%2$@).\nРазмер вложений не должен превышать 20 МБ.";
+"The file %1$@ failed to import: %2$@." = "Не удалось импортировать %1$@: %2$@.";
+
+/* attachment warning */
+"The file %1$@ is (%2$@) in size.\nIt is going to be encrypted and stored in your data file. Adding a large attachment may slow and complicate data syncing.text" = "Размер файла %1$@ составляет (%2$@).\nОн будет зашифрован и сохранен как файл данных. Добавление крупных вложений может замедлить и усложнить синхронизацию данных.";
+
+/* attachment warning */
+"The file %1$@ is too large (%2$@).\nAttachments must be under 20 MB in size." = "Файл %1$@ слишком велик (%2$@).\nРазмер вложений не должен превышать 20 МБ.";
 
 /* attachment warning */
 "The file %@ is a bundle or folder.\nAttachments must be regular files." = "Файл %@ это пакет или папка.\nВложения должны быть обычными файлми.";
@@ -986,10 +1002,13 @@
 "The file has been added as a secure attachment.\nYou can safely delete the original file." = "Файл добавлен как безопасное вложение.\nИсходный файл можно удалить.";
 
 /* alert message */
-"The file you are trying to import appears to be a binary file. Please try to open and view the contents of the file in TextEdit to make sure its contents is valid.\n\nIf you are opening the file directly from a network drive or USB disk then try to copy it to your local disk first." = "Импортируемый файл является бинарным. Попробуйте открыть файл и просмотреть его содержимое в TextEdit, чтобы убедиться в его правильности.\n\nЕсли файл открывается напрямую с сетевого или USB-диска, попробуйте скопировать его на локальный диск.Файл %1$@ невозможно импортировать: %2$@.sk then try to copy it to your local disk first.";
+"The file you are trying to import appears to be a binary file. Please try to open and view the contents of the file in TextEdit to make sure its contents is valid.\n\nIf you are opening the file directly from a network drive or USB disk then try to copy it to your local disk first." = "Импортируемый файл является бинарным. Попробуйте открыть файл и просмотреть его содержимое в TextEdit, чтобы убедиться в его правильности.\n\nЕсли файл открывается напрямую с сетевого или USB-диска, попробуйте скопировать его на локальный диск.";
 
 /* alert message */
-"The files have been added as secure attachments.\nYou can safely delete the original files." = "Файлы добавлены как безопасное вложение.\nИсходные файлы можно удалить.Файл %1$@ размером (%2$@).\nОн будет зашифрован и сохранён в Вашем файле данных. Добавление большого вложения может быть медленным и усложнит синхронизацию данных.Папка '%@' будет удалена";
+"The files have been added as secure attachments.\nYou can safely delete the original files." = "Файлы добавлены как безопасное вложение.\nИсходные файлы можно удалить.";
+
+/* alert title */
+"The folder '%@' will be deleted" = "Папка '%@' будет удалена";
 
 /* info */
 "The folder permissions have been reset successfully." = "Права папки были успешно сброшены.";
@@ -998,7 +1017,10 @@
 "The import file data has been edited." = "Импортируемый файл данных был изменён.";
 
 /* alert title */
-"The import was canceled" = "Импорт был отмененФайл %1$@ слишком большой (%2$@).\nВложения должны быть менее 20 Mб.different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "Файл обмена можно использовать для объединения различных баз данных 1Password\nи хранения незашифрованных резервных копий.\n\nВАЖНО! Файл не будет зашифрован и должен быть защищен.";
+"The import was canceled" = "Импорт был отменен";
+
+/* exporter */
+"The interchange file can be used to merge different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "Файл обмена можно использовать для объединения различных баз данных 1Password\nи хранения незашифрованных резервных копий.\n\nВАЖНО! Файл не будет зашифрован и должен быть защищен.";
 
 /* alert title */
 "The item \"%@\" will be deleted" = "Элемент \"%@\" будет удален";
@@ -1200,4 +1222,3 @@
 /* change folder security level */
 "You are changing the folder \"%@\" to high security mode.\nDo you also want to set the items in this folder to high security?" = "Выполняется настройка папки \"%@\" на высокий уровень безопасности.\nПеревести элементы в папке на высокий уровень безопасности?";
 
-Ошибка открытия вложения %1$@: %2$@.

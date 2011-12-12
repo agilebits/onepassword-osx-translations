@@ -1,27 +1,27 @@
-/* Class:  "NSTextFieldCell"; title:  "Welcome to"; ObjectID:  "4"; */
+/* Class: "NSTextFieldCell"; title: "Welcome to"; ObjectID: "4"; */
 "Welcome to" = "ようこそ";
 
-/* Class:  "NSButtonCell"; title:  "I have already used 1Password"; ObjectID:  "20"; */
+/* Class: "NSButtonCell"; title: "I have already used 1Password"; ObjectID: "20"; */
 "I have already used 1Password" = "1Password を使ったことがあります";
 
-/* Class:  "NSWindow"; title:  "Welcome to 1Password"; ObjectID:  "1"; */
+/* Class: "NSWindow"; title: "Welcome to 1Password"; ObjectID: "1"; */
 "Welcome to 1Password" = "1Password へようこそ";
 
-/* Class:  "NSTextFieldCell"; title:  "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID:  "10"; */
+/* Class: "NSTextFieldCell"; title: "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID: "10"; */
 "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "最初にマスターパスワードを設定する必要があります。\n既に済んでいる場合は、 \"1Password を使ったことがある\” ボタンをクリックします。";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "new data file"; ObjectID:  "15"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "new data file"; ObjectID: "15"; */
 "new data file" = "新規データファイル";
 
-/* Class:  "NSTextFieldCell"; title:  "1Password"; ObjectID:  "6"; */
+/* Class: "NSTextFieldCell"; title: "1Password"; ObjectID: "6"; */
 "1Password" = "1Password へ";
 
-/* Class:  "NSButtonCell"; title:  "I am a new user"; ObjectID:  "18"; */
+/* Class: "NSButtonCell"; title: "I am a new user"; ObjectID: "18"; */
 "I am a new user" = "新規のユーザーです";
 
-/* Class:  "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID:  "29"; */
+/* Class: "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID: "29"; */
 "help" = "ヘルプ";
 
-/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "find existing"; ObjectID:  "13"; */
+/* Class: "NSImageView"; ibExternalAccessibilityDescription: "find existing"; ObjectID: "13"; */
 "find existing" = "既存を確認";
 
