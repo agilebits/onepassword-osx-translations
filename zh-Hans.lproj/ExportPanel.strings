@@ -1,24 +1,24 @@
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "100"; */
 "Cancel" = "取消";
 
-/* Class = "NSButton"; ibShadowedToolTip = "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID = "61"; */
+/* Class:  "NSButton"; ibShadowedToolTip:  "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID:  "61"; */
 "Turn this checkbox on to keep the access code in your login keychain for future exports." = "勾选此复选框在您的登录 Keychain 中保存访问代码， 以在未来导出操作中使用。";
 
-/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "99"; */
+/* Class:  "NSButtonCell"; title:  "Continue"; ObjectID:  "99"; */
 "Continue" = "继续";
 
-/* Class = "NSWindow"; title = "Enter Access Code"; ObjectID = "57"; */
+/* Class:  "NSWindow"; title:  "Enter Access Code"; ObjectID:  "57"; */
 "Enter Access Code" = "输入访问代码";
 
-/* Class = "NSTextFieldCell"; title = "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID = "91"; */
+/* Class:  "NSTextFieldCell"; title:  "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID:  "91"; */
 "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information." = "访问代码用于对您的信息进行加密。您会被要求输入此访问代码以解锁导出的信息。";
 
-/* Class = "NSTextFieldCell"; title = "Access Code:"; ObjectID = "98"; */
+/* Class:  "NSTextFieldCell"; title:  "Access Code:"; ObjectID:  "98"; */
 "Access Code:" = "访问代码：";
 
-/* Class = "NSButtonCell"; title = "Remember this access code in my keychain"; ObjectID = "96"; */
+/* Class:  "NSButtonCell"; title:  "Remember this access code in my keychain"; ObjectID:  "96"; */
 "Remember this access code in my keychain" = "在我的 Keychain 中记住此访问代码";
 
-/* Class = "NSTextFieldCell"; title = "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID = "97"; */
+/* Class:  "NSTextFieldCell"; title:  "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID:  "97"; */
 "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information." = "请输入访问代码。访问代码用于对您的信息进行加密。您会被要求输入此访问代码以解锁导出的信息。";
 

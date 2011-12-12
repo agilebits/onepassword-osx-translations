@@ -1,306 +1,306 @@
-/* Class = "NSButtonCell"; title = "Customize..."; ObjectID = "4989"; */
+/* Class:  "NSButtonCell"; title:  "Customize..."; ObjectID:  "4989"; */
 "Customize..." = "自定义...";
 
-/* Class = "NSTableColumn"; headerCell.title = "Created Date"; ObjectID = "4993"; */
+/* Class:  "NSTableColumn"; headerCell.title:  "Created Date"; ObjectID:  "4993"; */
 "Created Date" = "创建日期";
 
-/* Class = "NSMenu"; title = "Menu"; ObjectID = "1821"; */
+/* Class:  "NSMenu"; title:  "Menu"; ObjectID:  "1821"; */
 "Menu" = "菜单";
 
-/* Class = "NSMenuItem"; title = "Type"; ObjectID = "4974"; */
+/* Class:  "NSMenuItem"; title:  "Type"; ObjectID:  "4974"; */
 "Type" = "类型";
 
-/* Class = "NSMenuItem"; title = "of the following are true"; ObjectID = "5062"; */
+/* Class:  "NSMenuItem"; title:  "of the following are true"; ObjectID:  "5062"; */
 "of the following are true" = "以下描述为真";
 
-/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5290"; */
+/* Class:  "NSMenuItem"; title:  "Kind"; ObjectID:  "5290"; */
 "Kind" = "类型";
 
-/* Class = "NSMenuItem"; title = "Low (4-Digit Code)"; ObjectID = "5184"; */
+/* Class:  "NSMenuItem"; title:  "Low (4-Digit Code)"; ObjectID:  "5184"; */
 "Low (4-Digit Code)" = "低（4 位数字代码）";
 
-/* Class = "NSTableColumn"; headerCell.title = "Modified Date"; ObjectID = "3496"; */
+/* Class:  "NSTableColumn"; headerCell.title:  "Modified Date"; ObjectID:  "3496"; */
 "Modified Date" = "修改日期";
 
-/* Class = "NSMenuItem"; title = "Identity"; ObjectID = "5246"; */
+/* Class:  "NSMenuItem"; title:  "Identity"; ObjectID:  "5246"; */
 "Identity" = "身份标识";
 
-/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "3465"; */
+/* Class:  "NSMenuItem"; title:  "Rename"; ObjectID:  "3465"; */
 "Rename" = "重命名";
 
-/* Class = "NSButtonCell"; title = "Add Sample Data"; ObjectID = "5029"; */
+/* Class:  "NSButtonCell"; title:  "Add Sample Data"; ObjectID:  "5029"; */
 "Add Sample Data" = "添加样本数据";
 
-/* Class = "NSMenuItem"; title = "Folder"; ObjectID = "5786"; */
+/* Class:  "NSMenuItem"; title:  "Folder"; ObjectID:  "5786"; */
 "Folder" = "文件夹";
 
-/* Class = "NSMenuItem"; title = "Yes"; ObjectID = "5369"; */
+/* Class:  "NSMenuItem"; title:  "Yes"; ObjectID:  "5369"; */
 "Yes" = "是";
 
-/* Class = "NSMenuItem"; title = "40"; ObjectID = "5745"; */
+/* Class:  "NSMenuItem"; title:  "40"; ObjectID:  "5745"; */
 "40" = "40";
 
-/* Class = "NSMenuItem"; title = "Modified"; ObjectID = "5639"; */
+/* Class:  "NSMenuItem"; title:  "Modified"; ObjectID:  "5639"; */
 "Modified" = "修改时间";
 
-/* Class = "NSTextFieldCell"; title = "1976-04-01 3:00 PM"; ObjectID = "4994"; */
+/* Class:  "NSTextFieldCell"; title:  "1976-04-01 3:00 PM"; ObjectID:  "4994"; */
 "1976-04-01 3:00 PM" = "1976-04-01 3:00 PM";
 
-/* Class = "NSMenuItem"; title = "begins with"; ObjectID = "5776"; */
+/* Class:  "NSMenuItem"; title:  "begins with"; ObjectID:  "5776"; */
 "begins with" = "开头为";
 
-/* Class = "OPWindowWithCmdSHandler"; title = "1Password"; ObjectID = "505"; */
+/* Class:  "OPWindowWithCmdSHandler"; title:  "1Password"; ObjectID:  "505"; */
 "1Password" = "1Password";
 
-/* Class = "NSOutlineView"; ibExternalAccessibilityDescription = "sidebar"; ObjectID = "2637"; */
+/* Class:  "NSOutlineView"; ibExternalAccessibilityDescription: "sidebar"; ObjectID:  "2637"; */
 "sidebar" = "边栏";
 
-/* Class = "NSMenuItem"; title = "Account"; ObjectID = "5245"; */
+/* Class:  "NSMenuItem"; title:  "Account"; ObjectID:  "5245"; */
 "Account" = "账户";
 
-/* Class = "NSMenuItem"; title = "matches"; ObjectID = "5775"; */
+/* Class:  "NSMenuItem"; title:  "matches"; ObjectID:  "5775"; */
 "matches" = "匹配";
 
-/* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "5595"; */
+/* Class:  "NSMenuItem"; title:  "Edit Smart Folder…"; ObjectID:  "5595"; */
 "Edit Smart Folder…" = "编辑智能文件夹...";
 
-/* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "5249"; */
+/* Class:  "NSMenuItem"; title:  "Wallet"; ObjectID:  "5249"; */
 "Wallet" = "钱包";
 
-/* Class = "NSMenuItem"; title = "Any"; ObjectID = "5063"; */
+/* Class:  "NSMenuItem"; title:  "Any"; ObjectID:  "5063"; */
 "Any" = "任何";
 
-/* Class = "NSMenuItem"; title = "Icon"; ObjectID = "4971"; */
+/* Class:  "NSMenuItem"; title:  "Icon"; ObjectID:  "4971"; */
 "Icon" = "图标";
 
-/* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "4271"; */
+/* Class:  "NSMenuItem"; title:  "New Wallet Item…"; ObjectID:  "4271"; */
 "New Wallet Item…" = "新建钱包项...";
 
-/* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "4276"; */
+/* Class:  "NSMenuItem"; title:  "New Secure Note"; ObjectID:  "4276"; */
 "New Secure Note" = "新建安全备注";
 
-/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Drag Splitview"; ObjectID = "4263"; */
+/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Drag Splitview"; ObjectID:  "4263"; */
 "Drag Splitview" = "拖动拆分视图";
 
-/* Class = "NSTabViewItem"; label = "Horizontal (Do Not Translate)"; ObjectID = "3483"; */
+/* Class:  "NSTabViewItem"; label: "Horizontal (Do Not Translate)"; ObjectID:  "3483"; */
 "Horizontal (Do Not Translate)" = "Horizontal (Do Not Translate)";
 
-/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "4889"; */
+/* Class:  "NSMenuItem"; title:  "Cut"; ObjectID:  "4889"; */
 "Cut" = "剪切";
 
-/* Class = "NSMenuItem"; title = "None"; ObjectID = "5619"; */
+/* Class:  "NSMenuItem"; title:  "None"; ObjectID:  "5619"; */
 "None" = "无";
 
-/* Class = "NSMenuItem"; title = "Username"; ObjectID = "5593"; */
+/* Class:  "NSMenuItem"; title:  "Username"; ObjectID:  "5593"; */
 "Username" = "用户名称";
 
-/* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "4272"; */
+/* Class:  "NSMenuItem"; title:  "New Software License"; ObjectID:  "4272"; */
 "New Software License" = "新建软件许可";
 
-/* Class = "NSTextFieldCell"; title = "Incorrect Password"; ObjectID = "4670"; */
+/* Class:  "NSTextFieldCell"; title:  "Incorrect Password"; ObjectID:  "4670"; */
 "Incorrect Password" = "密码不正确";
 
-/* Class = "NSMenuItem"; title = "Password"; ObjectID = "5594"; */
+/* Class:  "NSMenuItem"; title:  "Password"; ObjectID:  "5594"; */
 "Password" = "密码";
 
-/* Class = "NSMenuItem"; title = "before"; ObjectID = "5638"; */
+/* Class:  "NSMenuItem"; title:  "before"; ObjectID:  "5638"; */
 "before" = "之前";
 
-/* Class = "NSMenuItem"; title = "is like"; ObjectID = "5752"; */
+/* Class:  "NSMenuItem"; title:  "is like"; ObjectID:  "5752"; */
 "is like" = "类似于";
 
-/* Class = "NSMenuItem"; title = "New Login"; ObjectID = "4281"; */
+/* Class:  "NSMenuItem"; title:  "New Login"; ObjectID:  "4281"; */
 "New Login" = "新建登录信息";
 
-/* Class = "NSMenuItem"; title = "Security Level"; ObjectID = "5179"; */
+/* Class:  "NSMenuItem"; title:  "Security Level"; ObjectID:  "5179"; */
 "Security Level" = "安全水平";
 
-/* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "5653"; */
+/* Class:  "NSMenuItem"; title:  "New Password…"; ObjectID:  "5653"; */
 "New Password…" = "新建密码...";
 
-/* Class = "NSMenuItem"; title = "contains"; ObjectID = "5766"; */
+/* Class:  "NSMenuItem"; title:  "contains"; ObjectID:  "5766"; */
 "contains" = "包含";
 
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Item"; ObjectID = "4914"; */
+/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Add Item"; ObjectID:  "4914"; */
 "Add Item" = "添加项目";
 
-/* Class = "NSMenuItem"; title = "All"; ObjectID = "5064"; */
+/* Class:  "NSMenuItem"; title:  "All"; ObjectID:  "5064"; */
 "All" = "所有";
 
-/* Class = "NSMenuItem"; title = "is greater than or equal to"; ObjectID = "5749"; */
+/* Class:  "NSMenuItem"; title:  "is greater than or equal to"; ObjectID:  "5749"; */
 "is greater than or equal to" = "大于或等于";
 
-/* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "5615"; */
+/* Class:  "NSMenuItem"; title:  "New Smart Folder"; ObjectID:  "5615"; */
 "New Smart Folder" = "新建智能文件夹";
 
-/* Class = "NSMenuItem"; title = "is"; ObjectID = "5770"; */
+/* Class:  "NSMenuItem"; title:  "is"; ObjectID:  "5770"; */
 "is" = "为";
 
-/* Class = "NSMenuItem"; title = "Any of the fields"; ObjectID = "5579"; */
+/* Class:  "NSMenuItem"; title:  "Any of the fields"; ObjectID:  "5579"; */
 "Any of the fields" = "任何字段";
 
-/* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "5697"; */
+/* Class:  "NSMenuItem"; title:  "Password Strength"; ObjectID:  "5697"; */
 "Password Strength" = "密码强度";
 
-/* Class = "NSMenuItem"; title = "High (Master Password)"; ObjectID = "5185"; */
+/* Class:  "NSMenuItem"; title:  "High (Master Password)"; ObjectID:  "5185"; */
 "High (Master Password)" = "高（主密码）";
 
-/* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "3437"; */
+/* Class:  "NSMenuItem"; title:  "Empty Trash…"; ObjectID:  "3437"; */
 "Empty Trash…" = "清空垃圾桶...";
 
-/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "3443"; */
+/* Class:  "NSMenuItem"; title:  "New Folder"; ObjectID:  "3443"; */
 "New Folder" = "新建文件夹";
 
-/* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "5651"; */
+/* Class:  "NSMenuItem"; title:  "New Account…"; ObjectID:  "5651"; */
 "New Account…" = "新建账户...";
 
-/* Class = "NSButtonCell"; title = "Can't Log In?"; ObjectID = "5759"; */
+/* Class:  "NSButtonCell"; title:  "Can't Log In?"; ObjectID:  "5759"; */
 "Can't Log In?" = "无法登录吗？";
 
-/* Class = "NSMenuItem"; title = "Login"; ObjectID = "5244"; */
+/* Class:  "NSMenuItem"; title:  "Login"; ObjectID:  "5244"; */
 "Login" = "登录";
 
-/* Class = "NSMenuItem"; title = "Has Attachment"; ObjectID = "5364"; */
+/* Class:  "NSMenuItem"; title:  "Has Attachment"; ObjectID:  "5364"; */
 "Has Attachment" = "具有附件";
 
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Help"; ObjectID = "5758"; */
+/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Help"; ObjectID:  "5758"; */
 "Help" = "帮助";
 
-/* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "window layout"; ObjectID = "4644"; */
+/* Class:  "NSSegmentedControl"; ibExternalAccessibilityDescription: "window layout"; ObjectID:  "4644"; */
 "window layout" = "窗口布局";
 
-/* Class = "NSBox"; ibExternalAccessibilityDescription = "Unlock"; ObjectID = "3662"; */
+/* Class:  "NSBox"; ibExternalAccessibilityDescription: "Unlock"; ObjectID:  "3662"; */
 "Unlock" = "解锁";
 
-/* Class = "NSSearchField"; ibExternalAccessibilityDescription = "search"; ObjectID = "4646"; */
+/* Class:  "NSSearchField"; ibExternalAccessibilityDescription: "search"; ObjectID:  "4646"; */
 "search" = "搜索";
 
-/* Class = "NSTextFieldCell"; title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID = "5023"; */
+/* Class:  "NSTextFieldCell"; title:  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID:  "5023"; */
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. " = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. ";
 
-/* Class = "NSMenuItem"; title = "60"; ObjectID = "5746"; */
+/* Class:  "NSMenuItem"; title:  "60"; ObjectID:  "5746"; */
 "60" = "60";
 
-/* Class = "NSMenuItem"; title = "Delete…"; ObjectID = "4892"; */
+/* Class:  "NSMenuItem"; title:  "Delete…"; ObjectID:  "4892"; */
 "Delete…" = "删除...";
 
-/* Class = "NSMenuItem"; title = "100 - Fantastic"; ObjectID = "5748"; */
+/* Class:  "NSMenuItem"; title:  "100 - Fantastic"; ObjectID:  "5748"; */
 "100 - Fantastic" = "100 - 极佳";
 
-/* Class = "NSTableView"; ibExternalAccessibilityDescription = "object list"; ObjectID = "3491"; */
+/* Class:  "NSTableView"; ibExternalAccessibilityDescription: "object list"; ObjectID:  "3491"; */
 "object list" = "对象列表";
 
-/* Class = "NSTextFieldCell"; title = "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID = "5021"; */
+/* Class:  "NSTextFieldCell"; title:  "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID:  "5021"; */
 "Click the + button to get started creating new items or add sample data to get some ideas." = "点击“+”按钮，开始创建新的项目或添加样本数据进行了解。";
 
-/* Class = "NSMenuItem"; title = "ends with"; ObjectID = "5777"; */
+/* Class:  "NSMenuItem"; title:  "ends with"; ObjectID:  "5777"; */
 "ends with" = "结束字符为";
 
-/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "4896"; */
+/* Class:  "NSMenuItem"; title:  "Edit"; ObjectID:  "4896"; */
 "Edit" = "编辑";
 
-/* Class = "NSMenuItem"; title = "is not"; ObjectID = "5531"; */
+/* Class:  "NSMenuItem"; title:  "is not"; ObjectID:  "5531"; */
 "is not" = "非";
 
-/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "4891"; */
+/* Class:  "NSMenuItem"; title:  "Paste"; ObjectID:  "4891"; */
 "Paste" = "粘贴";
 
-/* Class = "NSButtonCell"; title = "Save"; ObjectID = "5410"; */
+/* Class:  "NSButtonCell"; title:  "Save"; ObjectID:  "5410"; */
 "Save" = "保存";
 
-/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "4895"; */
+/* Class:  "NSMenuItem"; title:  "Duplicate"; ObjectID:  "4895"; */
 "Duplicate" = "复制";
 
-/* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "4998"; */
+/* Class:  "NSMenuItem"; title:  "Date Created"; ObjectID:  "4998"; */
 "Date Created" = "创建日期";
 
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "Sidebar Actions Menu"; ObjectID = "3430"; */
+/* Class:  "NSButton"; ibExternalAccessibilityDescription: "Sidebar Actions Menu"; ObjectID:  "3430"; */
 "Sidebar Actions Menu" = "边栏操作菜单";
 
-/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "4890"; */
+/* Class:  "NSMenuItem"; title:  "Copy"; ObjectID:  "4890"; */
 "Copy" = "复制";
 
-/* Class = "NSMenuItem"; title = "20"; ObjectID = "5744"; */
+/* Class:  "NSMenuItem"; title:  "20"; ObjectID:  "5744"; */
 "20" = "20";
 
-/* Class = "NSMenuItem"; title = "Secure Note"; ObjectID = "5247"; */
+/* Class:  "NSMenuItem"; title:  "Secure Note"; ObjectID:  "5247"; */
 "Secure Note" = "安全备注";
 
-/* Class = "NSMenuItem"; title = "No"; ObjectID = "5370"; */
+/* Class:  "NSMenuItem"; title:  "No"; ObjectID:  "5370"; */
 "No" = "否";
 
-/* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "4277"; */
+/* Class:  "NSMenuItem"; title:  "New Identity"; ObjectID:  "4277"; */
 "New Identity" = "新建身份标识";
 
-/* Class = "NSMenuItem"; title = "Low Security"; ObjectID = "5655"; */
+/* Class:  "NSMenuItem"; title:  "Low Security"; ObjectID:  "5655"; */
 "Low Security" = "低安全性";
 
-/* Class = "NSMenuItem"; title = "is less than"; ObjectID = "5757"; */
+/* Class:  "NSMenuItem"; title:  "is less than"; ObjectID:  "5757"; */
 "is less than" = "小于";
 
-/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "4975"; */
+/* Class:  "NSMenuItem"; title:  "Date Modified"; ObjectID:  "4975"; */
 "Date Modified" = "修改日期";
 
-/* Class = "NSMenuItem"; title = "10 - Terrible"; ObjectID = "5743"; */
+/* Class:  "NSMenuItem"; title:  "10 - Terrible"; ObjectID:  "5743"; */
 "10 - Terrible" = "10 - 极弱";
 
-/* Class = "NSMenuItem"; title = "Notes"; ObjectID = "5558"; */
+/* Class:  "NSMenuItem"; title:  "Notes"; ObjectID:  "5558"; */
 "Notes" = "备注";
 
-/* Class = "NSMenuItem"; title = "90"; ObjectID = "5747"; */
+/* Class:  "NSMenuItem"; title:  "90"; ObjectID:  "5747"; */
 "90" = "90";
 
-/* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "4647"; */
+/* Class:  "NSSearchFieldCell"; placeholderString: "Search"; ObjectID:  "4647"; */
 "Search" = "搜索";
 
-/* Class = "NSMenuItem"; title = "Title"; ObjectID = "5591"; */
+/* Class:  "NSMenuItem"; title:  "Title"; ObjectID:  "5591"; */
 "Title" = "标题";
 
-/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Master Password"; ObjectID = "2517"; */
+/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "Master Password"; ObjectID:  "2517"; */
 "Master Password" = "主密码";
 
-/* Class = "NSMenuItem"; title = "Tag"; ObjectID = "5674"; */
+/* Class:  "NSMenuItem"; title:  "Tag"; ObjectID:  "5674"; */
 "Tag" = "标签";
 
-/* Class = "NSTextFieldCell"; title = "No Items Found"; ObjectID = "5037"; */
+/* Class:  "NSTextFieldCell"; title:  "No Items Found"; ObjectID:  "5037"; */
 "No Items Found" = "未找到项目";
 
-/* Class = "NSTabViewItem"; label = "Vertical (Do Not Translate)"; ObjectID = "3485"; */
+/* Class:  "NSTabViewItem"; label: "Vertical (Do Not Translate)"; ObjectID:  "3485"; */
 "Vertical (Do Not Translate)" = "Vertical (Do Not Translate)";
 
-/* Class = "NSTextFieldCell"; title = "MASTER PASSWORD"; ObjectID = "4603"; */
+/* Class:  "NSTextFieldCell"; title:  "MASTER PASSWORD"; ObjectID:  "4603"; */
 "MASTER PASSWORD" = "主密码";
 
-/* Class = "NSMenuItem"; title = "Created"; ObjectID = "5628"; */
+/* Class:  "NSMenuItem"; title:  "Created"; ObjectID:  "5628"; */
 "Created" = "创建时间";
 
-/* Class = "NSMenuItem"; title = "Any kind"; ObjectID = "5314"; */
+/* Class:  "NSMenuItem"; title:  "Any kind"; ObjectID:  "5314"; */
 "Any kind" = "任何类型";
 
-/* Class = "NSMenuItem"; title = "after"; ObjectID = "5637"; */
+/* Class:  "NSMenuItem"; title:  "after"; ObjectID:  "5637"; */
 "after" = "之后";
 
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5668"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "5668"; */
 "Cancel" = "取消";
 
-/* Class = "NSMenuItem"; title = "Software License"; ObjectID = "5248"; */
+/* Class:  "NSMenuItem"; title:  "Software License"; ObjectID:  "5248"; */
 "Software License" = "软件许可";
 
-/* Class = "NSMenuItem"; title = "is less than or equal to"; ObjectID = "5701"; */
+/* Class:  "NSMenuItem"; title:  "is less than or equal to"; ObjectID:  "5701"; */
 "is less than or equal to" = "小于或等于";
 
-/* Class = "NSButtonCell"; title = "Lock"; ObjectID = "4643"; */
+/* Class:  "NSButtonCell"; title:  "Lock"; ObjectID:  "4643"; */
 "Lock" = "锁定";
 
-/* Class = "NSMenuItem"; title = "Location"; ObjectID = "5592"; */
+/* Class:  "NSMenuItem"; title:  "Location"; ObjectID:  "5592"; */
 "Location" = "位置";
 
-/* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "5606"; */
+/* Class:  "NSButtonCell"; title:  "Save Changes"; ObjectID:  "5606"; */
 "Save Changes" = "保存更改";
 
-/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "4894"; */
+/* Class:  "NSMenuItem"; title:  "Select All"; ObjectID:  "4894"; */
 "Select All" = "全选";
 
-/* Class = "NSMenuItem"; title = "is greater than"; ObjectID = "5756"; */
+/* Class:  "NSMenuItem"; title:  "is greater than"; ObjectID:  "5756"; */
 "is greater than" = "大于";
 

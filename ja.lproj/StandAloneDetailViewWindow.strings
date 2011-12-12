@@ -1,9 +1,9 @@
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "10"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "10"; */
 "Cancel" = "キャンセル";
 
-/* Class = "NSButtonCell"; title = "Move to Trash"; ObjectID = "24"; */
+/* Class:  "NSButtonCell"; title:  "Move to Trash"; ObjectID:  "24"; */
 "Move to Trash" = "ゴミ箱へ移動";
 
-/* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "8"; */
+/* Class:  "NSButtonCell"; title:  "Save Changes"; ObjectID:  "8"; */
 "Save Changes" = "変更を保存変更を保存";
 

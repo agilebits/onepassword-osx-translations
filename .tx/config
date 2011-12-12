@@ -5,6 +5,10 @@ host = https://www.transifex.net
 source_file = en.lproj/About.strings
 source_lang = en
 
+[onepassword-osx-translations.Localizable__strings]
+source_file = en.lproj/Localizable.strings
+source_lang = en
+
 [onepassword-osx-translations.Account_AmazonS3__strings]
 source_file = en.lproj/Account_AmazonS3.strings
 source_lang = en
@@ -87,10 +91,6 @@ source_lang = en
 
 [onepassword-osx-translations.ImportAssistant__strings]
 source_file = en.lproj/ImportAssistant.strings
-source_lang = en
-
-[onepassword-osx-translations.Localizable__strings]
-source_file = en.lproj/Localizable.strings
 source_lang = en
 
 [onepassword-osx-translations.LoginsDetailView__strings]

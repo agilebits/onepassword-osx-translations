@@ -1,39 +1,39 @@
-/* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "138"; */
+/* Class:  "NSMenuItem"; title:  "Skip All"; ObjectID:  "138"; */
 "Skip All" = "全部跳过";
 
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "34"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "34"; */
 "Cancel" = "取消";
 
-/* Class = "NSButtonCell"; title = "Choose This Copy"; ObjectID = "174"; */
+/* Class:  "NSButtonCell"; title:  "Choose This Copy"; ObjectID:  "174"; */
 "Choose This Copy" = "选择此拷贝";
 
-/* Class = "NSTextFieldCell"; title = "This Mac"; ObjectID = "91"; */
+/* Class:  "NSTextFieldCell"; title:  "This Mac"; ObjectID:  "91"; */
 "This Mac" = "这台 Mac";
 
-/* Class = "NSMenuItem"; title = "Choose All iPhone Items"; ObjectID = "135"; */
+/* Class:  "NSMenuItem"; title:  "Choose All iPhone Items"; ObjectID:  "135"; */
 "Choose All iPhone Items" = "选择所有 iPhone 项";
 
-/* Class = "NSWindow"; title = "Sync Conflict Resolver"; ObjectID = "1"; */
+/* Class:  "NSWindow"; title:  "Sync Conflict Resolver"; ObjectID:  "1"; */
 "Sync Conflict Resolver" = "同步冲突解决程序";
 
-/* Class = "NSMenuItem"; title = "Choose All Local Mac Items"; ObjectID = "134"; */
+/* Class:  "NSMenuItem"; title:  "Choose All Local Mac Items"; ObjectID:  "134"; */
 "Choose All Local Mac Items" = "选择所有本地 Mac 项";
 
-/* Class = "NSTextFieldCell"; title = "ABC's iPhone"; ObjectID = "93"; */
+/* Class:  "NSTextFieldCell"; title:  "ABC's iPhone"; ObjectID:  "93"; */
 "ABC's iPhone" = "ABC 的 iPhone";
 
-/* Class = "NSButtonCell"; title = "Resolve Conflicts"; ObjectID = "36"; */
+/* Class:  "NSButtonCell"; title:  "Resolve Conflicts"; ObjectID:  "36"; */
 "Resolve Conflicts" = "解决冲突";
 
-/* Class = "NSMenuItem"; title = "Choose Local"; ObjectID = "147"; */
+/* Class:  "NSMenuItem"; title:  "Choose Local"; ObjectID:  "147"; */
 "Choose Local" = "选择本地";
 
-/* Class = "NSButtonCell"; title = "Detect conflicts automatically"; ObjectID = "184"; */
+/* Class:  "NSButtonCell"; title:  "Detect conflicts automatically"; ObjectID:  "184"; */
 "Detect conflicts automatically" = "自动检测冲突";
 
-/* Class = "NSMenuItem"; title = "Choose Remote"; ObjectID = "148"; */
+/* Class:  "NSMenuItem"; title:  "Choose Remote"; ObjectID:  "148"; */
 "Choose Remote" = "选择远程";
 
-/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "149"; */
+/* Class:  "NSMenuItem"; title:  "Skip"; ObjectID:  "149"; */
 "Skip" = "跳过";
 

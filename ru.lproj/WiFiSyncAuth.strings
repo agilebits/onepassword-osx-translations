@@ -1,21 +1,21 @@
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "12"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "12"; */
 "Cancel" = "Отменить";
 
-/* Class = "NSTextFieldCell"; title = "Secret 2:"; ObjectID = "36"; */
+/* Class:  "NSTextFieldCell"; title:  "Secret 2:"; ObjectID:  "36"; */
 "Secret 2:" = "2-ой секрет";
 
-/* Class = "NSTextFieldCell"; title = "Turn off to avoid the automatic prompt every time a new iPhone or iPad appears on the network."; ObjectID = "40"; */
+/* Class:  "NSTextFieldCell"; title:  "Turn off to avoid the automatic prompt every time a new iPhone or iPad appears on the network."; ObjectID:  "40"; */
 "Turn off to avoid the automatic prompt every time a new iPhone or iPad appears on the network." = "Выключите чтобы не показывать каждый раз когда новый iPhone или iPad подключается к сети.";
 
-/* Class = "NSButtonCell"; title = "Show this prompt for all new devices"; ObjectID = "38"; */
+/* Class:  "NSButtonCell"; title:  "Show this prompt for all new devices"; ObjectID:  "38"; */
 "Show this prompt for all new devices" = "Спрашивать для всех новых устройств";
 
-/* Class = "NSWindow"; title = "Wi-Fi Sync Authentication"; ObjectID = "1"; */
+/* Class:  "NSWindow"; title:  "Wi-Fi Sync Authentication"; ObjectID:  "1"; */
 "Wi-Fi Sync Authentication" = "Wi-Fi авторизация";
 
-/* Class = "NSTextFieldCell"; title = "Secret 1:"; ObjectID = "34"; */
+/* Class:  "NSTextFieldCell"; title:  "Secret 1:"; ObjectID:  "34"; */
 "Secret 1:" = "1-ый секрет";
 
-/* Class = "NSButtonCell"; title = "Authenticate"; ObjectID = "10"; */
+/* Class:  "NSButtonCell"; title:  "Authenticate"; ObjectID:  "10"; */
 "Authenticate" = "Авторизовать";
 

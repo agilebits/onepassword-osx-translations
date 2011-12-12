@@ -1,45 +1,45 @@
-/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "5025"; */
+/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Tags"; ObjectID:  "5025"; */
 "Tags" = "태그";
 
-/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4881"; */
+/* Class:  "NSScrollView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID:  "4881"; */
 "Attachments" = "첨부파일";
 
-/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
+/* Class:  "NSTextFieldCell"; title:  "License Key:"; ObjectID:  "5005"; */
 "License Key:" = "라이선스 키:";
 
-/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
+/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "title"; ObjectID:  "4330"; */
 "title" = "제목";
 
-/* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
+/* Class:  "NSTextFieldCell"; title:  "View Version"; ObjectID:  "4346"; */
 "View Version" = "버전 보기";
 
-/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
+/* Class:  "NSTextFieldCell"; title:  "Created on"; ObjectID:  "3721"; */
 "Created on" = "생성일";
 
-/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4509"; */
+/* Class:  "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID:  "4509"; */
 "tags" = "태그";
 
-/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4939"; */
+/* Class:  "NSTextView"; ibExternalAccessibilityDescription: "Notes"; ObjectID:  "4939"; */
 "Notes" = "노트";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5066"; */
+/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Title"; ObjectID:  "5066"; */
 "Title" = "제목";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
+/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Version Number"; ObjectID:  "4829"; */
 "Version Number" = "버전 번호";
 
-/* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
+/* Class:  "NSTextView"; ibExternalAccessibilityDescription: "license key"; ObjectID:  "5004"; */
 "license key" = "라이선스 키";
 
-/* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
+/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "version"; ObjectID:  "4335"; */
 "version" = "버전";
 
-/* Class = "NSImageView"; ibExternalAccessibilityDescription = "icon"; ObjectID = "3918"; */
+/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "icon"; ObjectID:  "3918"; */
 "icon" = "아이콘";
 
-/* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
+/* Class:  "NSTextFieldCell"; title:  "Edit Version"; ObjectID:  "4336"; */
 "Edit Version" = "버전 편집";
 
-/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */
+/* Class:  "NSTextFieldCell"; title:  "Last modified"; ObjectID:  "3722"; */
 "Last modified" = "최종 수정";
 

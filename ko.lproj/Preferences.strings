@@ -1,126 +1,126 @@
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1407"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "1407"; */
 "Cancel" = "취소";
 
-/* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "1430"; */
+/* Class:  "NSButtonCell"; title:  "Lock when screen saver is activated"; ObjectID:  "1430"; */
 "Lock when screen saver is activated" = "화면보호기 실행 시 잠금";
 
-/* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
+/* Class:  "NSButtonCell"; title:  "Show helper icon in menu bar"; ObjectID:  "2122"; */
 "Show helper icon in menu bar" = "메뉴 바에 도우미 아이콘 표시";
 
-/* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
+/* Class:  "NSButtonCell"; title:  "Clear values copied to clipboard after"; ObjectID:  "1535"; */
 "Clear values copied to clipboard after" = "복사 후 클립보드 비우기";
 
-/* Class = "NSTextFieldCell"; title = "Current Password:"; ObjectID = "1393"; */
+/* Class:  "NSTextFieldCell"; title:  "Current Password:"; ObjectID:  "1393"; */
 "Current Password:" = "현재 비밀번호:";
 
-/* Class = "NSButtonCell"; title = "Use Dropbox..."; ObjectID = "1847"; */
+/* Class:  "NSButtonCell"; title:  "Use Dropbox..."; ObjectID:  "1847"; */
 "Use Dropbox..." = "Dropbox 사용...";
 
-/* Class = "NSButtonCell"; title = "      Browser Extensions"; ObjectID = "2028"; */
+/* Class:  "NSButtonCell"; title:  "      Browser Extensions"; ObjectID:  "2028"; */
 "      Browser Extensions" = "      브라우저 확장도구";
 
-/* Class = "NSButtonCell"; title = "Stop Using Dropbox..."; ObjectID = "2038"; */
+/* Class:  "NSButtonCell"; title:  "Stop Using Dropbox..."; ObjectID:  "2038"; */
 "Stop Using Dropbox..." = "Dropbox 사용 중지...";
 
-/* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
+/* Class:  "NSButtonCell"; title:  "Automatically download icons and previews for new Logins"; ObjectID:  "1735"; */
 "Automatically download icons and previews for new Logins" = "신규 로그인 시 아이콘 및 미리보기 자동 다운로드";
 
-/* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
+/* Class:  "NSButtonCell"; title:  "Install Browser Extensions"; ObjectID:  "1951"; */
 "Install Browser Extensions" = "브라우저 확장도구 설치";
 
-/* Class = "NSButtonCell"; title = "Change Master Password..."; ObjectID = "1365"; */
+/* Class:  "NSButtonCell"; title:  "Change Master Password..."; ObjectID:  "1365"; */
 "Change Master Password..." = "마스터 비밀번호 변경";
 
-/* Class = "NSTextFieldCell"; title = "123"; ObjectID = "1539"; */
+/* Class:  "NSTextFieldCell"; title:  "123"; ObjectID:  "1539"; */
 "123" = "123";
 
-/* Class = "NSButtonCell"; title = "Lock when sleeping"; ObjectID = "1355"; */
+/* Class:  "NSButtonCell"; title:  "Lock when sleeping"; ObjectID:  "1355"; */
 "Lock when sleeping" = "수면 모드 실행 시 잠금";
 
-/* Class = "NSButtonCell"; title = "Disable Lock and Unlock Animation"; ObjectID = "1795"; */
+/* Class:  "NSButtonCell"; title:  "Disable Lock and Unlock Animation"; ObjectID:  "1795"; */
 "Disable Lock and Unlock Animation" = "잠금 및 해제 애니메이션 끄기";
 
-/* Class = "NSTextFieldCell"; title = "Unlocking"; ObjectID = "1451"; */
+/* Class:  "NSTextFieldCell"; title:  "Unlocking"; ObjectID:  "1451"; */
 "Unlocking" = "잠금 해제";
 
-/* Class = "NSTextFieldCell"; title = "Browser Extensions"; ObjectID = "2105"; */
+/* Class:  "NSTextFieldCell"; title:  "Browser Extensions"; ObjectID:  "2105"; */
 "Browser Extensions" = "브라우저 확장도구";
 
-/* Class = "NSTextFieldCell"; title = "Display in Sidebar"; ObjectID = "1745"; */
+/* Class:  "NSTextFieldCell"; title:  "Display in Sidebar"; ObjectID:  "1745"; */
 "Display in Sidebar" = "사이드바 표시";
 
-/* Class = "NSTextFieldCell"; title = "Unlock when helper is unlocked"; ObjectID = "2034"; */
+/* Class:  "NSTextFieldCell"; title:  "Unlock when helper is unlocked"; ObjectID:  "2034"; */
 "Unlock when helper is unlocked" = "도우미 실행 시 잠금 해제";
 
-/* Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "1399"; */
+/* Class:  "NSTextFieldCell"; title:  "Verify:"; ObjectID:  "1399"; */
 "Verify:" = "확인:";
 
-/* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
+/* Class:  "NSButtonCell"; title:  "Download missing previews"; ObjectID:  "1732"; */
 "Download missing previews" = "누락된 미리보기 다운로드";
 
-/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
+/* Class:  "NSTextFieldCell"; title:  "Master Password"; ObjectID:  "1363"; */
 "Master Password" = "마스터 비밀번호";
 
-/* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
+/* Class:  "NSTextFieldCell"; title:  "minutes of computer inactivity"; ObjectID:  "1361"; */
 "minutes of computer inactivity" = "컴퓨터 멈춤 시간";
 
-/* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
+/* Class:  "NSButtonCell"; title:  "Enable Universal Unlock"; ObjectID:  "1441"; */
 "Enable Universal Unlock" = "전체 잠금해제 활성화";
 
-/* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
+/* Class:  "NSButtonCell"; title:  "Remove all previews..."; ObjectID:  "1733"; */
 "Remove all previews..." = "전체 미리보기 삭제...";
 
-/* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
+/* Class:  "NSTextFieldCell"; title:  "Press"; ObjectID:  "2102"; */
 "Press" = "누름";
 
-/* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
+/* Class:  "NSTextFieldCell"; title:  "to show extension popup in your browser"; ObjectID:  "2104"; */
 "to show extension popup in your browser" = "브라우저 확장도구 팝업 표시 켜기";
 
-/* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "2106"; */
+/* Class:  "NSTextFieldCell"; title:  "Keyboard Shortcuts"; ObjectID:  "2106"; */
 "Keyboard Shortcuts" = "키보드 단축키";
 
-/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "1804"; */
+/* Class:  "NSButton"; ibExternalAccessibilityDescription: "help"; ObjectID:  "1804"; */
 "help" = "도움말";
 
-/* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
+/* Class:  "NSTextFieldCell"; title:  "Login Previews"; ObjectID:  "1734"; */
 "Login Previews" = "로그인 미리보기";
 
-/* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
+/* Class:  "NSButtonCell"; title:  "      Tags"; ObjectID:  "1753"; */
 "      Tags" = "      태그";
 
-/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
+/* Class:  "NSTextFieldCell"; title:  "seconds"; ObjectID:  "1541"; */
 "seconds" = "초";
 
-/* Class = "NSTextFieldCell"; title = "Clipboard Security"; ObjectID = "1533"; */
+/* Class:  "NSTextFieldCell"; title:  "Clipboard Security"; ObjectID:  "1533"; */
 "Clipboard Security" = "클립보드 보안";
 
-/* Class = "NSTextFieldCell"; title = "New Password:"; ObjectID = "1397"; */
+/* Class:  "NSTextFieldCell"; title:  "New Password:"; ObjectID:  "1397"; */
 "New Password:" = "새 비밀번호:";
 
-/* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
+/* Class:  "NSButtonCell"; title:  "Keep helper running to enable extension features"; ObjectID:  "2019"; */
 "Keep helper running to enable extension features" = "확장도구 기능은 도우미 실행중에만 작동합니다.";
 
-/* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
+/* Class:  "NSButtonCell"; title:  "      Folders"; ObjectID:  "1747"; */
 "      Folders" = "      폴더";
 
-/* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
+/* Class:  "NSTextFieldCell"; title:  "Your Data Stored In"; ObjectID:  "1347"; */
 "Your Data Stored In" = "사용자 데이터 저장위치";
 
-/* Class = "NSTextFieldCell"; title = "Auto-Lock"; ObjectID = "1449"; */
+/* Class:  "NSTextFieldCell"; title:  "Auto-Lock"; ObjectID:  "1449"; */
 "Auto-Lock" = "자동 잠금";
 
-/* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "1405"; */
+/* Class:  "NSButtonCell"; title:  "Change Password"; ObjectID:  "1405"; */
 "Change Password" = "비밀번호 변경";
 
-/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1479"; */
+/* Class:  "NSTextFieldCell"; title:  "Password Hint:"; ObjectID:  "1479"; */
 "Password Hint:" = "비밀번호 힌트:";
 
-/* Class = "NSButtonCell"; title = "Lock after"; ObjectID = "1357"; */
+/* Class:  "NSButtonCell"; title:  "Lock after"; ObjectID:  "1357"; */
 "Lock after" = "잠금 타이머";
 
-/* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
+/* Class:  "NSTextFieldCell"; title:  "to fill Login in your browser"; ObjectID:  "2103"; */
 "to fill Login in your browser" = "브라우저 로그인 자동완성";
 
-/* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
+/* Class:  "NSButtonCell"; title:  "      Generated Passwords"; ObjectID:  "1765"; */
 "      Generated Passwords" = "      생성된 비밀번호";
 

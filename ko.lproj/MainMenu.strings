@@ -1,336 +1,336 @@
-/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "1481"; */
+/* Class:  "NSMenuItem"; title:  "Redo"; ObjectID:  "1481"; */
 "Redo" = "다시 실행";
 
-/* Class = "NSMenu"; title = "Export All"; ObjectID = "946"; */
+/* Class:  "NSMenu"; title:  "Export All"; ObjectID:  "946"; */
 "Export All" = "모두 내보내기";
 
-/* Class = "NSMenu"; title = "View"; ObjectID = "1634"; */
+/* Class:  "NSMenu"; title:  "View"; ObjectID:  "1634"; */
 "View" = "보기";
 
-/* Class = "NSMenuItem"; title = "Created Date"; ObjectID = "1303"; */
+/* Class:  "NSMenuItem"; title:  "Created Date"; ObjectID:  "1303"; */
 "Created Date" = "생성일";
 
-/* Class = "NSMenu"; title = "Menu"; ObjectID = "1104"; */
+/* Class:  "NSMenu"; title:  "Menu"; ObjectID:  "1104"; */
 "Menu" = "메뉴";
 
-/* Class = "NSMenuItem"; title = "Type"; ObjectID = "1234"; */
+/* Class:  "NSMenuItem"; title:  "Type"; ObjectID:  "1234"; */
 "Type" = "입력";
 
-/* Class = "NSMenuItem"; title = "Copy Password"; ObjectID = "1376"; */
+/* Class:  "NSMenuItem"; title:  "Copy Password"; ObjectID:  "1376"; */
 "Copy Password" = "비밀번호 복사";
 
-/* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "191"; */
+/* Class:  "NSMenuItem"; title:  "Check Spelling as You Type"; ObjectID:  "191"; */
 "Check Spelling as You Type" = "맞춤법 자동 검사";
 
-/* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
+/* Class:  "NSMenuItem"; title:  "Identities"; ObjectID:  "1269"; */
 "Identities" = "프로필 센터";
 
-/* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
+/* Class:  "NSMenuItem"; title:  "Check Spelling"; ObjectID:  "189"; */
 "Check Spelling" = "맞춤법 검사";
 
-/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "154"; */
+/* Class:  "NSMenuItem"; title:  "Find…"; ObjectID:  "154"; */
 "Find…" = "검색...";
 
-/* Class = "NSMenu"; title = "Layout"; ObjectID = "1220"; */
+/* Class:  "NSMenu"; title:  "Layout"; ObjectID:  "1220"; */
 "Layout" = "레이아웃";
 
-/* Class = "NSMenuItem"; title = "Modified Date"; ObjectID = "1235"; */
+/* Class:  "NSMenuItem"; title:  "Modified Date"; ObjectID:  "1235"; */
 "Modified Date" = "수정일";
 
-/* Class = "NSMenuItem"; title = "Traditional"; ObjectID = "1222"; */
+/* Class:  "NSMenuItem"; title:  "Traditional"; ObjectID:  "1222"; */
 "Traditional" = "기본값";
 
-/* Class = "NSMenu"; title = "Export Selected"; ObjectID = "1092"; */
+/* Class:  "NSMenu"; title:  "Export Selected"; ObjectID:  "1092"; */
 "Export Selected" = "선택 항목 내보내기";
 
-/* Class = "NSMenuItem"; title = "Knowledge Base"; ObjectID = "1700"; */
+/* Class:  "NSMenuItem"; title:  "Knowledge Base"; ObjectID:  "1700"; */
 "Knowledge Base" = "지식 베이스";
 
-/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "161"; */
+/* Class:  "NSMenuItem"; title:  "Use Selection for Find"; ObjectID:  "161"; */
 "Use Selection for Find" = "선택 항목으로 검색";
 
-/* Class = "NSMenuItem"; title = "Quit 1Password"; ObjectID = "1421"; */
+/* Class:  "NSMenuItem"; title:  "Quit 1Password"; ObjectID:  "1421"; */
 "Quit 1Password" = "1Password 종료";
 
-/* Class = "NSMenu"; title = "Services"; ObjectID = "1425"; */
+/* Class:  "NSMenu"; title:  "Services"; ObjectID:  "1425"; */
 "Services" = "서비스";
 
-/* Class = "NSMenu"; title = "File"; ObjectID = "1426"; */
+/* Class:  "NSMenu"; title:  "File"; ObjectID:  "1426"; */
 "File" = "파일";
 
-/* Class = "NSMenuItem"; title = "Folder"; ObjectID = "1236"; */
+/* Class:  "NSMenuItem"; title:  "Folder"; ObjectID:  "1236"; */
 "Folder" = "폴더";
 
-/* Class = "NSMenuItem"; title = "Install Browser Extensions..."; ObjectID = "1384"; */
+/* Class:  "NSMenuItem"; title:  "Install Browser Extensions..."; ObjectID:  "1384"; */
 "Install Browser Extensions..." = "브라우저 확장도구 설치...";
 
-/* Class = "NSMenuItem"; title = "Rebuild Data File..."; ObjectID = "1677"; */
+/* Class:  "NSMenuItem"; title:  "Rebuild Data File..."; ObjectID:  "1677"; */
 "Rebuild Data File..." = "데이터 파일 복원...";
 
-/* Class = "NSMenuItem"; title = "Generated Passwords"; ObjectID = "1276"; */
+/* Class:  "NSMenuItem"; title:  "Generated Passwords"; ObjectID:  "1276"; */
 "Generated Passwords" = "생성된 비밀번호";
 
-/* Class = "NSMenuItem"; title = "Hide 1Password"; ObjectID = "1422"; */
+/* Class:  "NSMenuItem"; title:  "Hide 1Password"; ObjectID:  "1422"; */
 "Hide 1Password" = "1Password 숨김";
 
-/* Class = "NSMenuItem"; title = "Copy UUID"; ObjectID = "1374"; */
+/* Class:  "NSMenuItem"; title:  "Copy UUID"; ObjectID:  "1374"; */
 "Copy UUID" = "UUID 복사";
 
-/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "1416"; */
+/* Class:  "NSMenuItem"; title:  "Show All"; ObjectID:  "1416"; */
 "Show All" = "모두 표시";
 
-/* Class = "NSMenuItem"; title = "Conceal Passwords"; ObjectID = "1628"; */
+/* Class:  "NSMenuItem"; title:  "Conceal Passwords"; ObjectID:  "1628"; */
 "Conceal Passwords" = "비밀번호 숨김";
 
-/* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
+/* Class:  "NSMenuItem"; title:  "Spelling…"; ObjectID:  "187"; */
 "Spelling…" = "맞춤법...";
 
-/* Class = "NSMenu"; title = "1Password"; ObjectID = "1409"; */
+/* Class:  "NSMenu"; title:  "1Password"; ObjectID:  "1409"; */
 "1Password" = "1Password";
 
-/* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "1015"; */
+/* Class:  "NSMenuItem"; title:  "New Secure Note"; ObjectID:  "1015"; */
 "New Secure Note" = "새 안심 노트";
 
-/* Class = "NSMenu"; title = "Spelling"; ObjectID = "185"; */
+/* Class:  "NSMenu"; title:  "Spelling"; ObjectID:  "185"; */
 "Spelling" = "맞춤법";
 
-/* Class = "NSMenuItem"; title = "Icon"; ObjectID = "1231"; */
+/* Class:  "NSMenuItem"; title:  "Icon"; ObjectID:  "1231"; */
 "Icon" = "아이콘";
 
-/* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "1272"; */
+/* Class:  "NSMenuItem"; title:  "Wallet"; ObjectID:  "1272"; */
 "Wallet" = "지갑";
 
-/* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "1016"; */
+/* Class:  "NSMenuItem"; title:  "New Wallet Item…"; ObjectID:  "1016"; */
 "New Wallet Item…" = "새 지갑 항목";
 
-/* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "1319"; */
+/* Class:  "NSMenuItem"; title:  "Edit Smart Folder…"; ObjectID:  "1319"; */
 "Edit Smart Folder…" = "스마트 폴더 편집";
 
-/* Class = "NSMenuItem"; title = "Show Activity"; ObjectID = "1199"; */
+/* Class:  "NSMenuItem"; title:  "Show Activity"; ObjectID:  "1199"; */
 "Show Activity" = "활동 보기";
 
-/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "1486"; */
+/* Class:  "NSMenuItem"; title:  "Undo"; ObjectID:  "1486"; */
 "Undo" = "실행취소";
 
-/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "1485"; */
+/* Class:  "NSMenuItem"; title:  "Cut"; ObjectID:  "1485"; */
 "Cut" = "자르기";
 
-/* Class = "NSMenuItem"; title = "Fill Login in Browser"; ObjectID = "1074"; */
+/* Class:  "NSMenuItem"; title:  "Fill Login in Browser"; ObjectID:  "1074"; */
 "Fill Login in Browser" = "브라우저 자동 로그인";
 
-/* Class = "NSMenuItem"; title = "Show 1Password Log"; ObjectID = "1702"; */
+/* Class:  "NSMenuItem"; title:  "Show 1Password Log"; ObjectID:  "1702"; */
 "Show 1Password Log" = "1Password 로그 표시";
 
-/* Class = "NSMenuItem"; title = "Logins"; ObjectID = "1267"; */
+/* Class:  "NSMenuItem"; title:  "Logins"; ObjectID:  "1267"; */
 "Logins" = "로그인";
 
-/* Class = "NSMenu"; title = "Troubleshooting"; ObjectID = "1696"; */
+/* Class:  "NSMenu"; title:  "Troubleshooting"; ObjectID:  "1696"; */
 "Troubleshooting" = "문제 해결";
 
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "1408"; */
+/* Class:  "NSMenuItem"; title:  "Bring All to Front"; ObjectID:  "1408"; */
 "Bring All to Front" = "모두 앞으로 이동";
 
-/* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "1211"; */
+/* Class:  "NSMenuItem"; title:  "New Software License"; ObjectID:  "1211"; */
 "New Software License" = "새 소프트웨어 라이선스";
 
-/* Class = "NSMenuItem"; title = "New Login"; ObjectID = "1027"; */
+/* Class:  "NSMenuItem"; title:  "New Login"; ObjectID:  "1027"; */
 "New Login" = "새 로그인";
 
-/* Class = "NSMenuItem"; title = "Trash"; ObjectID = "1277"; */
+/* Class:  "NSMenuItem"; title:  "Trash"; ObjectID:  "1277"; */
 "Trash" = "휴지통";
 
-/* Class = "NSMenuItem"; title = "1Password Help"; ObjectID = "1466"; */
+/* Class:  "NSMenuItem"; title:  "1Password Help"; ObjectID:  "1466"; */
 "1Password Help" = "1Password 도움말";
 
-/* Class = "NSMenuItem"; title = "Lock 1Password"; ObjectID = "1105"; */
+/* Class:  "NSMenuItem"; title:  "Lock 1Password"; ObjectID:  "1105"; */
 "Lock 1Password" = "1Password 잠금";
 
-/* Class = "NSMenuItem"; title = "Folders"; ObjectID = "1274"; */
+/* Class:  "NSMenuItem"; title:  "Folders"; ObjectID:  "1274"; */
 "Folders" = "폴더";
 
-/* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "1146"; */
+/* Class:  "NSMenuItem"; title:  "New Password…"; ObjectID:  "1146"; */
 "New Password…" = "새 비밀번호...";
 
-/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "1635"; */
+/* Class:  "NSMenuItem"; title:  "Enter Full Screen"; ObjectID:  "1635"; */
 "Enter Full Screen" = "전체화면 보기";
 
-/* Class = "NSMenuItem"; title = "Tags"; ObjectID = "1325"; */
+/* Class:  "NSMenuItem"; title:  "Tags"; ObjectID:  "1325"; */
 "Tags" = "태그";
 
-/* Class = "NSMenuItem"; title = "Clear Cache"; ObjectID = "1698"; */
+/* Class:  "NSMenuItem"; title:  "Clear Cache"; ObjectID:  "1698"; */
 "Clear Cache" = "캐시 비우기";
 
-/* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "1322"; */
+/* Class:  "NSMenuItem"; title:  "New Smart Folder"; ObjectID:  "1322"; */
 "New Smart Folder" = "새 스마트 폴더";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "1413"; */
+/* Class:  "NSMenuItem"; title:  "Preferences…"; ObjectID:  "1413"; */
 "Preferences…" = "환경설정...";
 
-/* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
+/* Class:  "NSMenuItem"; title:  "Password Strength"; ObjectID:  "1237"; */
 "Password Strength" = "비밀번호 보안성";
 
-/* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "1041"; */
+/* Class:  "NSMenuItem"; title:  "Empty Trash…"; ObjectID:  "1041"; */
 "Empty Trash…" = "휴지통 비우기...";
 
-/* Class = "NSMenuItem"; title = "Restore…"; ObjectID = "1433"; */
+/* Class:  "NSMenuItem"; title:  "Restore…"; ObjectID:  "1433"; */
 "Restore…" = "복구...";
 
-/* Class = "NSMenuItem"; title = "Edit Selected Item"; ObjectID = "1009"; */
+/* Class:  "NSMenuItem"; title:  "Edit Selected Item"; ObjectID:  "1009"; */
 "Edit Selected Item" = "선택항목 편집";
 
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "1407"; */
+/* Class:  "NSMenuItem"; title:  "Minimize"; ObjectID:  "1407"; */
 "Minimize" = "최소화";
 
-/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "1014"; */
+/* Class:  "NSMenuItem"; title:  "New Folder"; ObjectID:  "1014"; */
 "New Folder" = "새 폴더";
 
-/* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "1262"; */
+/* Class:  "NSMenuItem"; title:  "New Account…"; ObjectID:  "1262"; */
 "New Account…" = "새 계정...";
 
-/* Class = "NSMenu"; title = "New Item"; ObjectID = "1329"; */
+/* Class:  "NSMenu"; title:  "New Item"; ObjectID:  "1329"; */
 "New Item" = "새 항목";
 
-/* Class = "NSMenuItem"; title = "Contact Us"; ObjectID = "1462"; */
+/* Class:  "NSMenuItem"; title:  "Contact Us"; ObjectID:  "1462"; */
 "Contact Us" = "개발사 연락처";
 
-/* Class = "NSMenuItem"; title = "About 1Password"; ObjectID = "1424"; */
+/* Class:  "NSMenuItem"; title:  "About 1Password"; ObjectID:  "1424"; */
 "About 1Password" = "1Password에 관하여";
 
-/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "1393"; */
+/* Class:  "NSMenu"; title:  "MainMenu"; ObjectID:  "1393"; */
 "MainMenu" = "메인 메뉴";
 
-/* Class = "NSMenu"; title = "Help"; ObjectID = "1459"; */
+/* Class:  "NSMenu"; title:  "Help"; ObjectID:  "1459"; */
 "Help" = "도움말";
 
-/* Class = "NSMenuItem"; title = "Unlock"; ObjectID = "1412"; */
+/* Class:  "NSMenuItem"; title:  "Unlock"; ObjectID:  "1412"; */
 "Unlock" = "잠금 해제";
 
-/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "1418"; */
+/* Class:  "NSMenuItem"; title:  "Hide Others"; ObjectID:  "1418"; */
 "Hide Others" = "다른 항목 숨김";
 
-/* Class = "NSMenuItem"; title = "Text File…"; ObjectID = "1130"; */
+/* Class:  "NSMenuItem"; title:  "Text File…"; ObjectID:  "1130"; */
 "Text File…" = "텍스트 파일...";
 
-/* Class = "NSMenuItem"; title = "Show Item Counts"; ObjectID = "1207"; */
+/* Class:  "NSMenuItem"; title:  "Show Item Counts"; ObjectID:  "1207"; */
 "Show Item Counts" = "항목 수 표시";
 
-/* Class = "NSMenu"; title = "Go"; ObjectID = "1266"; */
+/* Class:  "NSMenu"; title:  "Go"; ObjectID:  "1266"; */
 "Go" = "이동";
 
-/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
+/* Class:  "NSMenuItem"; title:  "Delete"; ObjectID:  "1057"; */
 "Delete" = "삭제";
 
-/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
+/* Class:  "NSMenuItem"; title:  "Find Previous"; ObjectID:  "162"; */
 "Find Previous" = "이전 항목 검색";
 
-/* Class = "NSMenu"; title = "Window"; ObjectID = "1401"; */
+/* Class:  "NSMenu"; title:  "Window"; ObjectID:  "1401"; */
 "Window" = "윈도우";
 
-/* Class = "NSMenuItem"; title = "Add Sample Items"; ObjectID = "1391"; */
+/* Class:  "NSMenuItem"; title:  "Add Sample Items"; ObjectID:  "1391"; */
 "Add Sample Items" = "샘플 항목 추가";
 
-/* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
+/* Class:  "NSMenu"; title:  "Edit"; ObjectID:  "1469"; */
 "Edit" = "편집";
 
-/* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
+/* Class:  "NSMenuItem"; title:  "Restart Helper"; ObjectID:  "1703"; */
 "Restart Helper" = "도움말 재시작";
 
-/* Class = "NSMenuItem"; title = "Backup"; ObjectID = "1435"; */
+/* Class:  "NSMenuItem"; title:  "Backup"; ObjectID:  "1435"; */
 "Backup" = "백업";
 
-/* Class = "NSMenuItem"; title = "Add Attachment…"; ObjectID = "1257"; */
+/* Class:  "NSMenuItem"; title:  "Add Attachment…"; ObjectID:  "1257"; */
 "Add Attachment…" = "첨부파일 추가...";
 
-/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1482"; */
+/* Class:  "NSMenuItem"; title:  "Paste"; ObjectID:  "1482"; */
 "Paste" = "붙이기";
 
-/* Class = "NSMenuItem"; title = "Find Item"; ObjectID = "1179"; */
+/* Class:  "NSMenuItem"; title:  "Find Item"; ObjectID:  "1179"; */
 "Find Item" = "항목 검색";
 
-/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "850"; */
+/* Class:  "NSMenuItem"; title:  "Duplicate"; ObjectID:  "850"; */
 "Duplicate" = "사본 생성";
 
-/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "155"; */
+/* Class:  "NSMenuItem"; title:  "Jump to Selection"; ObjectID:  "155"; */
 "Jump to Selection" = "선택항목으로 이동";
 
-/* Class = "NSMenuItem"; title = "Shelves"; ObjectID = "1221"; */
+/* Class:  "NSMenuItem"; title:  "Shelves"; ObjectID:  "1221"; */
 "Shelves" = "선반";
 
-/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1487"; */
+/* Class:  "NSMenuItem"; title:  "Copy"; ObjectID:  "1487"; */
 "Copy" = "복사";
 
-/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "1405"; */
+/* Class:  "NSMenuItem"; title:  "Zoom"; ObjectID:  "1405"; */
 "Zoom" = "확대 및 축소";
 
-/* Class = "NSMenuItem"; title = "Import…"; ObjectID = "966"; */
+/* Class:  "NSMenuItem"; title:  "Import…"; ObjectID:  "966"; */
 "Import…" = "불러오기...";
 
-/* Class = "NSMenuItem"; title = "Print..."; ObjectID = "1217"; */
+/* Class:  "NSMenuItem"; title:  "Print..."; ObjectID:  "1217"; */
 "Print..." = "인쇄...";
 
-/* Class = "NSMenuItem"; title = "Secure Notes"; ObjectID = "1270"; */
+/* Class:  "NSMenuItem"; title:  "Secure Notes"; ObjectID:  "1270"; */
 "Secure Notes" = "안심 노트";
 
-/* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "1017"; */
+/* Class:  "NSMenuItem"; title:  "New Identity"; ObjectID:  "1017"; */
 "New Identity" = "새 프로필";
 
-/* Class = "NSMenuItem"; title = "Widescreen"; ObjectID = "1254"; */
+/* Class:  "NSMenuItem"; title:  "Widescreen"; ObjectID:  "1254"; */
 "Widescreen" = "와이드 화면";
 
-/* Class = "NSMenuItem"; title = "Quick Delete"; ObjectID = "164"; */
+/* Class:  "NSMenuItem"; title:  "Quick Delete"; ObjectID:  "164"; */
 "Quick Delete" = "빠른 삭제";
 
-/* Class = "NSMenuItem"; title = "Accounts"; ObjectID = "1268"; */
+/* Class:  "NSMenuItem"; title:  "Accounts"; ObjectID:  "1268"; */
 "Accounts" = "계정";
 
-/* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
+/* Class:  "NSMenuItem"; title:  "Find"; ObjectID:  "168"; */
 "Find" = "검색";
 
-/* Class = "NSMenuItem"; title = "Website"; ObjectID = "1464"; */
+/* Class:  "NSMenuItem"; title:  "Website"; ObjectID:  "1464"; */
 "Website" = "웹사이트";
 
-/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "167"; */
+/* Class:  "NSMenuItem"; title:  "Find Next"; ObjectID:  "167"; */
 "Find Next" = "다음 검색";
 
-/* Class = "NSMenu"; title = "Go & Fill"; ObjectID = "1108"; */
+/* Class:  "NSMenu"; title:  "Go & Fill"; ObjectID:  "1108"; */
 "Go & Fill" = "로그인 자동완성";
 
-/* Class = "NSMenuItem"; title = "1Password Interchange File…"; ObjectID = "1095"; */
+/* Class:  "NSMenuItem"; title:  "1Password Interchange File…"; ObjectID:  "1095"; */
 "1Password Interchange File…" = "1Password 인터체인지 파일...";
 
-/* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
+/* Class:  "NSMenuItem"; title:  "Title"; ObjectID:  "1232"; */
 "Title" = "제목";
 
-/* Class = "NSMenuItem"; title = "Tag"; ObjectID = "1338"; */
+/* Class:  "NSMenuItem"; title:  "Tag"; ObjectID:  "1338"; */
 "Tag" = "태그";
 
-/* Class = "NSMenuItem"; title = "Add Software Licenses for Applications..."; ObjectID = "1389"; */
+/* Class:  "NSMenuItem"; title:  "Add Software Licenses for Applications..."; ObjectID:  "1389"; */
 "Add Software Licenses for Applications..." = "애플리케이션 소프트웨어 라이선스 추가...";
 
-/* Class = "NSMenuItem"; title = "Close"; ObjectID = "1444"; */
+/* Class:  "NSMenuItem"; title:  "Close"; ObjectID:  "1444"; */
 "Close" = "닫기";
 
-/* Class = "NSMenuItem"; title = "Main Window"; ObjectID = "1403"; */
+/* Class:  "NSMenuItem"; title:  "Main Window"; ObjectID:  "1403"; */
 "Main Window" = "메인 윈도우";
 
-/* Class = "NSMenuItem"; title = "Lock"; ObjectID = "1043"; */
+/* Class:  "NSMenuItem"; title:  "Lock"; ObjectID:  "1043"; */
 "Lock" = "잠금";
 
-/* Class = "NSMenuItem"; title = "Show Helper Log"; ObjectID = "1697"; */
+/* Class:  "NSMenuItem"; title:  "Show Helper Log"; ObjectID:  "1697"; */
 "Show Helper Log" = "도움말 로그 표시";
 
-/* Class = "NSMenu"; title = "Columns"; ObjectID = "1226"; */
+/* Class:  "NSMenu"; title:  "Columns"; ObjectID:  "1226"; */
 "Columns" = "컬럼";
 
-/* Class = "NSMenuItem"; title = "Location"; ObjectID = "1233"; */
+/* Class:  "NSMenuItem"; title:  "Location"; ObjectID:  "1233"; */
 "Location" = "위치";
 
-/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1475"; */
+/* Class:  "NSMenuItem"; title:  "Select All"; ObjectID:  "1475"; */
 "Select All" = "전체 선택";
 
-/* Class = "NSMenuItem"; title = "Software"; ObjectID = "1271"; */
+/* Class:  "NSMenuItem"; title:  "Software"; ObjectID:  "1271"; */
 "Software" = "소프트웨어";
 
-/* Class = "NSMenuItem"; title = "Print All…"; ObjectID = "991"; */
+/* Class:  "NSMenuItem"; title:  "Print All…"; ObjectID:  "991"; */
 "Print All…" = "모두 인쇄...";
 

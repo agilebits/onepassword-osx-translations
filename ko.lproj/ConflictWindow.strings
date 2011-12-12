@@ -1,39 +1,39 @@
-/* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "138"; */
+/* Class:  "NSMenuItem"; title:  "Skip All"; ObjectID:  "138"; */
 "Skip All" = "모두 건너뛰기";
 
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "34"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "34"; */
 "Cancel" = "취소";
 
-/* Class = "NSButtonCell"; title = "Choose This Copy"; ObjectID = "174"; */
+/* Class:  "NSButtonCell"; title:  "Choose This Copy"; ObjectID:  "174"; */
 "Choose This Copy" = "이 사본 선택";
 
-/* Class = "NSTextFieldCell"; title = "This Mac"; ObjectID = "91"; */
+/* Class:  "NSTextFieldCell"; title:  "This Mac"; ObjectID:  "91"; */
 "This Mac" = "현재 맥";
 
-/* Class = "NSMenuItem"; title = "Choose All iPhone Items"; ObjectID = "135"; */
+/* Class:  "NSMenuItem"; title:  "Choose All iPhone Items"; ObjectID:  "135"; */
 "Choose All iPhone Items" = "모든 아이폰 항목 선택";
 
-/* Class = "NSWindow"; title = "Sync Conflict Resolver"; ObjectID = "1"; */
+/* Class:  "NSWindow"; title:  "Sync Conflict Resolver"; ObjectID:  "1"; */
 "Sync Conflict Resolver" = "동기화 충돌 해결사";
 
-/* Class = "NSMenuItem"; title = "Choose All Local Mac Items"; ObjectID = "134"; */
+/* Class:  "NSMenuItem"; title:  "Choose All Local Mac Items"; ObjectID:  "134"; */
 "Choose All Local Mac Items" = "모든 로컬 맥 항목 선택";
 
-/* Class = "NSTextFieldCell"; title = "ABC's iPhone"; ObjectID = "93"; */
+/* Class:  "NSTextFieldCell"; title:  "ABC's iPhone"; ObjectID:  "93"; */
 "ABC's iPhone" = "ABC의 아이폰";
 
-/* Class = "NSButtonCell"; title = "Resolve Conflicts"; ObjectID = "36"; */
+/* Class:  "NSButtonCell"; title:  "Resolve Conflicts"; ObjectID:  "36"; */
 "Resolve Conflicts" = "충돌 해결";
 
-/* Class = "NSMenuItem"; title = "Choose Local"; ObjectID = "147"; */
+/* Class:  "NSMenuItem"; title:  "Choose Local"; ObjectID:  "147"; */
 "Choose Local" = "로컬 선택";
 
-/* Class = "NSButtonCell"; title = "Detect conflicts automatically"; ObjectID = "184"; */
+/* Class:  "NSButtonCell"; title:  "Detect conflicts automatically"; ObjectID:  "184"; */
 "Detect conflicts automatically" = "충돌 자동 감지";
 
-/* Class = "NSMenuItem"; title = "Choose Remote"; ObjectID = "148"; */
+/* Class:  "NSMenuItem"; title:  "Choose Remote"; ObjectID:  "148"; */
 "Choose Remote" = "원격 선택";
 
-/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "149"; */
+/* Class:  "NSMenuItem"; title:  "Skip"; ObjectID:  "149"; */
 "Skip" = "건너뛰기";
 

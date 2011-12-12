@@ -1,96 +1,96 @@
-/* Class = "NSTableColumn"; headerCell.title = "Field Name"; ObjectID = "3098"; */
+/* Class:  "NSTableColumn"; headerCell.title:  "Field Name"; ObjectID:  "3098"; */
 "Field Name" = "フィールド名";
 
-/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4411"; */
+/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Tags"; ObjectID:  "4411"; */
 "Tags" = "タグ";
 
-/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4875"; */
+/* Class:  "NSCollectionView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID:  "4875"; */
 "Attachments" = "添付ファイル";
 
-/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Display"; ObjectID = "3384"; */
+/* Class:  "NSPopUpButton"; ibExternalAccessibilityDescription: "Display"; ObjectID:  "3384"; */
 "Display" = "表示";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "http://www.website.com"; ObjectID = "5025"; */
+/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "http://www.website.com"; ObjectID:  "5025"; */
 "http://www.website.com" = "http://www.website.com";
 
-/* Class = "NSTextField"; ibExternalAccessibilityDescription = "username"; ObjectID = "4555"; */
+/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "username"; ObjectID:  "4555"; */
 "username" = "ユーザー名";
 
-/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "4945"; */
+/* Class:  "NSTableColumn"; headerCell.title:  "Time"; ObjectID:  "4945"; */
 "Time" = "時間";
 
-/* Class = "NSMenuItem"; title = "Checkbox"; ObjectID = "4043"; */
+/* Class:  "NSMenuItem"; title:  "Checkbox"; ObjectID:  "4043"; */
 "Checkbox" = "チェックボックス";
 
-/* Class = "NSTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "4564"; */
+/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "password"; ObjectID:  "4564"; */
 "password" = "パスワード";
 
-/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
+/* Class:  "NSButtonCell"; title:  "Generate"; ObjectID:  "4011"; */
 "Generate" = "生成";
 
-/* Class = "NSTableColumn"; headerCell.title = "Field Value"; ObjectID = "3101"; */
+/* Class:  "NSTableColumn"; headerCell.title:  "Field Value"; ObjectID:  "3101"; */
 "Field Value" = "フィールドの値";
 
-/* Class = "NSButtonCell"; title = "All Fields"; ObjectID = "3043"; */
+/* Class:  "NSButtonCell"; title:  "All Fields"; ObjectID:  "3043"; */
 "All Fields" = "すべてのフィールド";
 
-/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Submit"; ObjectID = "3390"; */
+/* Class:  "NSPopUpButton"; ibExternalAccessibilityDescription: "Submit"; ObjectID:  "3390"; */
 "Submit" = "送信";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Username"; ObjectID = "5026"; */
+/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Username"; ObjectID:  "5026"; */
 "Username" = "ユーザ名";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Password"; ObjectID = "5030"; */
+/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Password"; ObjectID:  "5030"; */
 "Password" = "パスワード";
 
-/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2834"; */
+/* Class:  "NSTextFieldCell"; title:  "Created on"; ObjectID:  "2834"; */
 "Created on" = "作成日";
 
-/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "4030"; */
+/* Class:  "NSTableColumn"; headerCell.title:  "Type"; ObjectID:  "4030"; */
 "TypOtherViews種類";
 
-/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "3692"; */
+/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Notes"; ObjectID:  "3692"; */
 "Notes" = "メモ";
 
-/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4406"; */
+/* Class:  "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID:  "4406"; */
 "tags" = "タグ";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5029"; */
+/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Title"; ObjectID:  "5029"; */
 "Title" = "Title";
 
-/* Class = "NSTextFieldCell"; title = "http://www.google.com"; ObjectID = "3088"; */
+/* Class:  "NSTextFieldCell"; title:  "http://www.google.com"; ObjectID:  "3088"; */
 "http://www.google.com" = "http://www.google.com";
 
-/* Class = "NSMenuItem"; title = "Always"; ObjectID = "3394"; */
+/* Class:  "NSMenuItem"; title:  "Always"; ObjectID:  "3394"; */
 "Always" = "常に";
 
-/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
+/* Class:  "NSLevelIndicator"; ibExternalAccessibilityDescription: "Password Strength"; ObjectID:  "3360"; */
 "Password Strength" = "パスワードの強度";
 
-/* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
+/* Class:  "NSMenuItem"; title:  "Text"; ObjectID:  "4042"; */
 "Text" = "テキスト";
 
-/* Class = "NSMenuItem"; title = "For Web Pages Only"; ObjectID = "3388"; */
+/* Class:  "NSMenuItem"; title:  "For Web Pages Only"; ObjectID:  "3388"; */
 "For Web Pages Only" = "ウェブページのみ";
 
-/* Class = "NSButtonCell"; title = "Password History"; ObjectID = "4896"; */
+/* Class:  "NSButtonCell"; title:  "Password History"; ObjectID:  "4896"; */
 "Password History" = "パスワード履歴";
 
-/* Class = "NSMenuItem"; title = "Show in Every HTTP Auth Prompt"; ObjectID = "5006"; */
+/* Class:  "NSMenuItem"; title:  "Show in Every HTTP Auth Prompt"; ObjectID:  "5006"; */
 "Show in Every HTTP Auth Prompt" = "すべての HTTP 認証プロンプトで表示";
 
-/* Class = "NSMenuItem"; title = "For HTTP Auth Prompts Only"; ObjectID = "3396"; */
+/* Class:  "NSMenuItem"; title:  "For HTTP Auth Prompts Only"; ObjectID:  "3396"; */
 "For HTTP Auth Prompts Only" = "HTTP 認証プロンプトのみ";
 
-/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
+/* Class:  "NSMenuItem"; title:  "Never Display in Browser"; ObjectID:  "3389"; */
 "Never Display in Browser" = "ブラウザで表示しない";
 
-/* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
+/* Class:  "NSMenuItem"; title:  "Never"; ObjectID:  "3393"; */
 "Never" = "しない";
 
-/* Class = "NSMenuItem"; title = "If Autosubmit is ON"; ObjectID = "3395"; */
+/* Class:  "NSMenuItem"; title:  "If Autosubmit is ON"; ObjectID:  "3395"; */
 "If Autosubmit is ON" = "自動送信がオンの場合";
 
-/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2825"; */
+/* Class:  "NSTextFieldCell"; title:  "Last modified"; ObjectID:  "2825"; */
 "Last modified" = "変更日";
 

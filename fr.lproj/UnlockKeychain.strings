@@ -1,15 +1,15 @@
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "166"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "166"; */
 "Cancel" = "Annuler";
 
-/* Class = "NSTextFieldCell"; title = "... unlock reason message will be displayed here..."; ObjectID = "169"; */
+/* Class:  "NSTextFieldCell"; title:  "... unlock reason message will be displayed here..."; ObjectID:  "169"; */
 "... unlock reason message will be displayed here..." = "... la raison du déverrouillage sera affichée ici...";
 
-/* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "165"; */
+/* Class:  "NSButtonCell"; title:  "Unlock"; ObjectID:  "165"; */
 "Unlock" = "Déverrouiller";
 
-/* Class = "NSWindow"; title = "Unlock 1Password"; ObjectID = "84"; */
+/* Class:  "NSWindow"; title:  "Unlock 1Password"; ObjectID:  "84"; */
 "Unlock 1Password" = "Déverrouiller 1Password";
 
-/* Class = "NSTextFieldCell"; title = "Master Password:"; ObjectID = "164"; */
+/* Class:  "NSTextFieldCell"; title:  "Master Password:"; ObjectID:  "164"; */
 "Master Password:" = "Mot de passe principal :";
 

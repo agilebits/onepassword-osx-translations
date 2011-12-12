@@ -1,15 +1,15 @@
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "11"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "11"; */
 "Cancel" = "キャンセル";
 
-/* Class = "NSTextFieldCell"; title = "The Dropbox authorization has been completed. 1Password will now move your data file to the shared folder.\n\nAfter all changes are fully synced (watch the Dropbox icon in your menubar!) you will be able to sync 1Password on your iPhone or iPad with Dropbox."; ObjectID = "6"; */
+/* Class:  "NSTextFieldCell"; title:  "The Dropbox authorization has been completed. 1Password will now move your data file to the shared folder.\n\nAfter all changes are fully synced (watch the Dropbox icon in your menubar!) you will be able to sync 1Password on your iPhone or iPad with Dropbox."; ObjectID:  "6"; */
 "The Dropbox authorization has been completed. 1Password will now move your data file to the shared folder.\n\nAfter all changes are fully synced (watch the Dropbox icon in your menubar!) you will be able to sync 1Password on your iPhone or iPad with Dropbox." = "Dropbox の認証完了です。1Password はデータファイルを共有フォルダに移動します。\n\nすべての変更が完全に同期された後（メニューバーの Dropbox アイコンをご覧ください！）、1Password をお使いの iPhone または iPad 上で Dropboxと同期できるようになります。";
 
-/* Class = "NSTextFieldCell"; title = "Congratulations!"; ObjectID = "4"; */
+/* Class:  "NSTextFieldCell"; title:  "Congratulations!"; ObjectID:  "4"; */
 "Congratulations!" = "おめでとうございます！";
 
-/* Class = "NSWindow"; title = "Dropbox Sync Setup"; ObjectID = "1"; */
+/* Class:  "NSWindow"; title:  "Dropbox Sync Setup"; ObjectID:  "1"; */
 "Dropbox Sync Setup" = "Dropbox の同期設定";
 
-/* Class = "NSButtonCell"; title = "Complete Setup"; ObjectID = "9"; */
+/* Class:  "NSButtonCell"; title:  "Complete Setup"; ObjectID:  "9"; */
 "Complete Setup" = "設定完了";
 

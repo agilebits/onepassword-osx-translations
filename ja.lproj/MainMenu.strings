@@ -1,336 +1,336 @@
-/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "1481"; */
+/* Class:  "NSMenuItem"; title:  "Redo"; ObjectID:  "1481"; */
 "Redo" = "やり直し";
 
-/* Class = "NSMenu"; title = "Export All"; ObjectID = "946"; */
+/* Class:  "NSMenu"; title:  "Export All"; ObjectID:  "946"; */
 "Export All" = "すべてを書き出し";
 
-/* Class = "NSMenu"; title = "View"; ObjectID = "1634"; */
+/* Class:  "NSMenu"; title:  "View"; ObjectID:  "1634"; */
 "View" = "表示";
 
-/* Class = "NSMenuItem"; title = "Created Date"; ObjectID = "1303"; */
+/* Class:  "NSMenuItem"; title:  "Created Date"; ObjectID:  "1303"; */
 "Created Date" = "作成日";
 
-/* Class = "NSMenu"; title = "Menu"; ObjectID = "1104"; */
+/* Class:  "NSMenu"; title:  "Menu"; ObjectID:  "1104"; */
 "Menu" = "メニュー";
 
-/* Class = "NSMenuItem"; title = "Type"; ObjectID = "1234"; */
+/* Class:  "NSMenuItem"; title:  "Type"; ObjectID:  "1234"; */
 "Type" = "種類";
 
-/* Class = "NSMenuItem"; title = "Copy Password"; ObjectID = "1376"; */
+/* Class:  "NSMenuItem"; title:  "Copy Password"; ObjectID:  "1376"; */
 "Copy Password" = "パスワードをコピー";
 
-/* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "191"; */
+/* Class:  "NSMenuItem"; title:  "Check Spelling as You Type"; ObjectID:  "191"; */
 "Check Spelling as You Type" = "入力中に自動スペルチェックをする入力中にスペルチェックをする";
 
-/* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
+/* Class:  "NSMenuItem"; title:  "Identities"; ObjectID:  "1269"; */
 "Identities" = "個人情報";
 
-/* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
+/* Class:  "NSMenuItem"; title:  "Check Spelling"; ObjectID:  "189"; */
 "Check Spelling" = "スペルチェック";
 
-/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "154"; */
+/* Class:  "NSMenuItem"; title:  "Find…"; ObjectID:  "154"; */
 "Find…" = "検索...";
 
-/* Class = "NSMenu"; title = "Layout"; ObjectID = "1220"; */
+/* Class:  "NSMenu"; title:  "Layout"; ObjectID:  "1220"; */
 "Layout" = "レイアウト";
 
-/* Class = "NSMenuItem"; title = "Modified Date"; ObjectID = "1235"; */
+/* Class:  "NSMenuItem"; title:  "Modified Date"; ObjectID:  "1235"; */
 "Modified Date" = "変更日";
 
-/* Class = "NSMenuItem"; title = "Traditional"; ObjectID = "1222"; */
+/* Class:  "NSMenuItem"; title:  "Traditional"; ObjectID:  "1222"; */
 "Traditional" = "トラディショナル";
 
-/* Class = "NSMenu"; title = "Export Selected"; ObjectID = "1092"; */
+/* Class:  "NSMenu"; title:  "Export Selected"; ObjectID:  "1092"; */
 "Export Selected" = "選択対象を書き出し";
 
-/* Class = "NSMenuItem"; title = "Knowledge Base"; ObjectID = "1700"; */
+/* Class:  "NSMenuItem"; title:  "Knowledge Base"; ObjectID:  "1700"; */
 "Knowledge Base" = "ナレッジベース";
 
-/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "161"; */
+/* Class:  "NSMenuItem"; title:  "Use Selection for Find"; ObjectID:  "161"; */
 "Use Selection for Find" = "選択対象を検索";
 
-/* Class = "NSMenuItem"; title = "Quit 1Password"; ObjectID = "1421"; */
+/* Class:  "NSMenuItem"; title:  "Quit 1Password"; ObjectID:  "1421"; */
 "Quit 1Password" = "1Password を終了";
 
-/* Class = "NSMenu"; title = "Services"; ObjectID = "1425"; */
+/* Class:  "NSMenu"; title:  "Services"; ObjectID:  "1425"; */
 "Services" = "サービス";
 
-/* Class = "NSMenu"; title = "File"; ObjectID = "1426"; */
+/* Class:  "NSMenu"; title:  "File"; ObjectID:  "1426"; */
 "File" = "ファイル";
 
-/* Class = "NSMenuItem"; title = "Folder"; ObjectID = "1236"; */
+/* Class:  "NSMenuItem"; title:  "Folder"; ObjectID:  "1236"; */
 "Folder" = "フォルダ";
 
-/* Class = "NSMenuItem"; title = "Install Browser Extensions..."; ObjectID = "1384"; */
+/* Class:  "NSMenuItem"; title:  "Install Browser Extensions..."; ObjectID:  "1384"; */
 "Install Browser Extensions..." = "ブラウザ拡張機能をインストール...";
 
-/* Class = "NSMenuItem"; title = "Rebuild Data File..."; ObjectID = "1677"; */
+/* Class:  "NSMenuItem"; title:  "Rebuild Data File..."; ObjectID:  "1677"; */
 "Rebuild Data File..." = "データファイルを再構築...";
 
-/* Class = "NSMenuItem"; title = "Generated Passwords"; ObjectID = "1276"; */
+/* Class:  "NSMenuItem"; title:  "Generated Passwords"; ObjectID:  "1276"; */
 "Generated Passwords" = "生成パスワード";
 
-/* Class = "NSMenuItem"; title = "Hide 1Password"; ObjectID = "1422"; */
+/* Class:  "NSMenuItem"; title:  "Hide 1Password"; ObjectID:  "1422"; */
 "Hide 1Password" = "1Password を隠す";
 
-/* Class = "NSMenuItem"; title = "Copy UUID"; ObjectID = "1374"; */
+/* Class:  "NSMenuItem"; title:  "Copy UUID"; ObjectID:  "1374"; */
 "Copy UUID" = "UUID をコピーする";
 
-/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "1416"; */
+/* Class:  "NSMenuItem"; title:  "Show All"; ObjectID:  "1416"; */
 "Show All" = "すべてを表示";
 
-/* Class = "NSMenuItem"; title = "Conceal Passwords"; ObjectID = "1628"; */
+/* Class:  "NSMenuItem"; title:  "Conceal Passwords"; ObjectID:  "1628"; */
 "Conceal Passwords" = "パスワードを表示しない";
 
-/* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
+/* Class:  "NSMenuItem"; title:  "Spelling…"; ObjectID:  "187"; */
 "Spelling…" = "スペル...";
 
-/* Class = "NSMenu"; title = "1Password"; ObjectID = "1409"; */
+/* Class:  "NSMenu"; title:  "1Password"; ObjectID:  "1409"; */
 "1Password" = "1Password";
 
-/* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "1015"; */
+/* Class:  "NSMenuItem"; title:  "New Secure Note"; ObjectID:  "1015"; */
 "New Secure Note" = "新規セキュアノート";
 
-/* Class = "NSMenu"; title = "Spelling"; ObjectID = "185"; */
+/* Class:  "NSMenu"; title:  "Spelling"; ObjectID:  "185"; */
 "Spelling" = "スペル";
 
-/* Class = "NSMenuItem"; title = "Icon"; ObjectID = "1231"; */
+/* Class:  "NSMenuItem"; title:  "Icon"; ObjectID:  "1231"; */
 "Icon" = "アイコン";
 
-/* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "1272"; */
+/* Class:  "NSMenuItem"; title:  "Wallet"; ObjectID:  "1272"; */
 "Wallet" = "ウォレット";
 
-/* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "1016"; */
+/* Class:  "NSMenuItem"; title:  "New Wallet Item…"; ObjectID:  "1016"; */
 "New Wallet Item…" = "新規ウォレット項目...";
 
-/* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "1319"; */
+/* Class:  "NSMenuItem"; title:  "Edit Smart Folder…"; ObjectID:  "1319"; */
 "Edit Smart Folder…" = "スマートフォルダを編集...";
 
-/* Class = "NSMenuItem"; title = "Show Activity"; ObjectID = "1199"; */
+/* Class:  "NSMenuItem"; title:  "Show Activity"; ObjectID:  "1199"; */
 "Show Activity" = "アクティビティを表示";
 
-/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "1486"; */
+/* Class:  "NSMenuItem"; title:  "Undo"; ObjectID:  "1486"; */
 "Undo" = "取り消し";
 
-/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "1485"; */
+/* Class:  "NSMenuItem"; title:  "Cut"; ObjectID:  "1485"; */
 "Cut" = "カット";
 
-/* Class = "NSMenuItem"; title = "Fill Login in Browser"; ObjectID = "1074"; */
+/* Class:  "NSMenuItem"; title:  "Fill Login in Browser"; ObjectID:  "1074"; */
 "Fill Login in Browser" = "ブラウザでログインを記入";
 
-/* Class = "NSMenuItem"; title = "Show 1Password Log"; ObjectID = "1702"; */
+/* Class:  "NSMenuItem"; title:  "Show 1Password Log"; ObjectID:  "1702"; */
 "Show 1Password Log" = "1Password ログを表示";
 
-/* Class = "NSMenuItem"; title = "Logins"; ObjectID = "1267"; */
+/* Class:  "NSMenuItem"; title:  "Logins"; ObjectID:  "1267"; */
 "Logins" = "ログイン";
 
-/* Class = "NSMenu"; title = "Troubleshooting"; ObjectID = "1696"; */
+/* Class:  "NSMenu"; title:  "Troubleshooting"; ObjectID:  "1696"; */
 "Troubleshooting" = "トラブルシューティング";
 
-/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "1408"; */
+/* Class:  "NSMenuItem"; title:  "Bring All to Front"; ObjectID:  "1408"; */
 "Bring All to Front" = "すべてを手前に移動";
 
-/* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "1211"; */
+/* Class:  "NSMenuItem"; title:  "New Software License"; ObjectID:  "1211"; */
 "New Software License" = "新規ライセンス";
 
-/* Class = "NSMenuItem"; title = "New Login"; ObjectID = "1027"; */
+/* Class:  "NSMenuItem"; title:  "New Login"; ObjectID:  "1027"; */
 "New Login" = "新規ログイン";
 
-/* Class = "NSMenuItem"; title = "Trash"; ObjectID = "1277"; */
+/* Class:  "NSMenuItem"; title:  "Trash"; ObjectID:  "1277"; */
 "Trash" = "ゴミ箱";
 
-/* Class = "NSMenuItem"; title = "1Password Help"; ObjectID = "1466"; */
+/* Class:  "NSMenuItem"; title:  "1Password Help"; ObjectID:  "1466"; */
 "1Password Help" = "1Password ヘルプ";
 
-/* Class = "NSMenuItem"; title = "Lock 1Password"; ObjectID = "1105"; */
+/* Class:  "NSMenuItem"; title:  "Lock 1Password"; ObjectID:  "1105"; */
 "Lock 1Password" = "1Password をロック";
 
-/* Class = "NSMenuItem"; title = "Folders"; ObjectID = "1274"; */
+/* Class:  "NSMenuItem"; title:  "Folders"; ObjectID:  "1274"; */
 "Folders" = "フォルダ";
 
-/* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "1146"; */
+/* Class:  "NSMenuItem"; title:  "New Password…"; ObjectID:  "1146"; */
 "New Password…" = "新規パスワード...";
 
-/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "1635"; */
+/* Class:  "NSMenuItem"; title:  "Enter Full Screen"; ObjectID:  "1635"; */
 "Enter Full Screen" = "フルスクリーンを入力";
 
-/* Class = "NSMenuItem"; title = "Tags"; ObjectID = "1325"; */
+/* Class:  "NSMenuItem"; title:  "Tags"; ObjectID:  "1325"; */
 "Tags" = "タグ";
 
-/* Class = "NSMenuItem"; title = "Clear Cache"; ObjectID = "1698"; */
+/* Class:  "NSMenuItem"; title:  "Clear Cache"; ObjectID:  "1698"; */
 "Clear Cache" = "キャッシュを削除";
 
-/* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "1322"; */
+/* Class:  "NSMenuItem"; title:  "New Smart Folder"; ObjectID:  "1322"; */
 "New Smart Folder" = "新規スマートフォルダ";
 
-/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "1413"; */
+/* Class:  "NSMenuItem"; title:  "Preferences…"; ObjectID:  "1413"; */
 "Preferences…" = "環境設定...";
 
-/* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
+/* Class:  "NSMenuItem"; title:  "Password Strength"; ObjectID:  "1237"; */
 "Password Strength" = "パスワード強度";
 
-/* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "1041"; */
+/* Class:  "NSMenuItem"; title:  "Empty Trash…"; ObjectID:  "1041"; */
 "Empty Trash…" = "ゴミ箱を空にする...";
 
-/* Class = "NSMenuItem"; title = "Restore…"; ObjectID = "1433"; */
+/* Class:  "NSMenuItem"; title:  "Restore…"; ObjectID:  "1433"; */
 "Restore…" = "復元...";
 
-/* Class = "NSMenuItem"; title = "Edit Selected Item"; ObjectID = "1009"; */
+/* Class:  "NSMenuItem"; title:  "Edit Selected Item"; ObjectID:  "1009"; */
 "Edit Selected Item" = "選択項目を編集";
 
-/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "1407"; */
+/* Class:  "NSMenuItem"; title:  "Minimize"; ObjectID:  "1407"; */
 "Minimize" = "最小化";
 
-/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "1014"; */
+/* Class:  "NSMenuItem"; title:  "New Folder"; ObjectID:  "1014"; */
 "New Folder" = "新規フォルダ";
 
-/* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "1262"; */
+/* Class:  "NSMenuItem"; title:  "New Account…"; ObjectID:  "1262"; */
 "New Account…" = "新規アカウント...";
 
-/* Class = "NSMenu"; title = "New Item"; ObjectID = "1329"; */
+/* Class:  "NSMenu"; title:  "New Item"; ObjectID:  "1329"; */
 "New Item" = "新規項目";
 
-/* Class = "NSMenuItem"; title = "Contact Us"; ObjectID = "1462"; */
+/* Class:  "NSMenuItem"; title:  "Contact Us"; ObjectID:  "1462"; */
 "Contact Us" = "連絡する";
 
-/* Class = "NSMenuItem"; title = "About 1Password"; ObjectID = "1424"; */
+/* Class:  "NSMenuItem"; title:  "About 1Password"; ObjectID:  "1424"; */
 "About 1Password" = "1Password について";
 
-/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "1393"; */
+/* Class:  "NSMenu"; title:  "MainMenu"; ObjectID:  "1393"; */
 "MainMenu" = "メインメニュー";
 
-/* Class = "NSMenu"; title = "Help"; ObjectID = "1459"; */
+/* Class:  "NSMenu"; title:  "Help"; ObjectID:  "1459"; */
 "Help" = "ヘルプ";
 
-/* Class = "NSMenuItem"; title = "Unlock"; ObjectID = "1412"; */
+/* Class:  "NSMenuItem"; title:  "Unlock"; ObjectID:  "1412"; */
 "Unlock" = "ロック解除";
 
-/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "1418"; */
+/* Class:  "NSMenuItem"; title:  "Hide Others"; ObjectID:  "1418"; */
 "Hide Others" = "ほかを隠す";
 
-/* Class = "NSMenuItem"; title = "Text File…"; ObjectID = "1130"; */
+/* Class:  "NSMenuItem"; title:  "Text File…"; ObjectID:  "1130"; */
 "Text File…" = "テキストファイル...";
 
-/* Class = "NSMenuItem"; title = "Show Item Counts"; ObjectID = "1207"; */
+/* Class:  "NSMenuItem"; title:  "Show Item Counts"; ObjectID:  "1207"; */
 "Show Item Counts" = "項目数を表示";
 
-/* Class = "NSMenu"; title = "Go"; ObjectID = "1266"; */
+/* Class:  "NSMenu"; title:  "Go"; ObjectID:  "1266"; */
 "Go" = "移動";
 
-/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
+/* Class:  "NSMenuItem"; title:  "Delete"; ObjectID:  "1057"; */
 "Delete" = "削除";
 
-/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
+/* Class:  "NSMenuItem"; title:  "Find Previous"; ObjectID:  "162"; */
 "Find Previous" = "前を検索";
 
-/* Class = "NSMenu"; title = "Window"; ObjectID = "1401"; */
+/* Class:  "NSMenu"; title:  "Window"; ObjectID:  "1401"; */
 "Window" = "ウインドウ";
 
-/* Class = "NSMenuItem"; title = "Add Sample Items"; ObjectID = "1391"; */
+/* Class:  "NSMenuItem"; title:  "Add Sample Items"; ObjectID:  "1391"; */
 "Add Sample Items" = "サンプル項目を追加";
 
-/* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
+/* Class:  "NSMenu"; title:  "Edit"; ObjectID:  "1469"; */
 "Edit" = "編集";
 
-/* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
+/* Class:  "NSMenuItem"; title:  "Restart Helper"; ObjectID:  "1703"; */
 "Restart Helper" = "再起動ヘルパー";
 
-/* Class = "NSMenuItem"; title = "Backup"; ObjectID = "1435"; */
+/* Class:  "NSMenuItem"; title:  "Backup"; ObjectID:  "1435"; */
 "Backup" = "バックアップ";
 
-/* Class = "NSMenuItem"; title = "Add Attachment…"; ObjectID = "1257"; */
+/* Class:  "NSMenuItem"; title:  "Add Attachment…"; ObjectID:  "1257"; */
 "Add Attachment…" = "添付ファイルを追加...";
 
-/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1482"; */
+/* Class:  "NSMenuItem"; title:  "Paste"; ObjectID:  "1482"; */
 "Paste" = "ペースト";
 
-/* Class = "NSMenuItem"; title = "Find Item"; ObjectID = "1179"; */
+/* Class:  "NSMenuItem"; title:  "Find Item"; ObjectID:  "1179"; */
 "Find Item" = "項目を検索";
 
-/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "850"; */
+/* Class:  "NSMenuItem"; title:  "Duplicate"; ObjectID:  "850"; */
 "Duplicate" = "複製";
 
-/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "155"; */
+/* Class:  "NSMenuItem"; title:  "Jump to Selection"; ObjectID:  "155"; */
 "Jump to Selection" = "選択対象に移動";
 
-/* Class = "NSMenuItem"; title = "Shelves"; ObjectID = "1221"; */
+/* Class:  "NSMenuItem"; title:  "Shelves"; ObjectID:  "1221"; */
 "Shelves" = "シェルフ";
 
-/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1487"; */
+/* Class:  "NSMenuItem"; title:  "Copy"; ObjectID:  "1487"; */
 "Copy" = "コピー";
 
-/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "1405"; */
+/* Class:  "NSMenuItem"; title:  "Zoom"; ObjectID:  "1405"; */
 "Zoom" = "拡大／縮小";
 
-/* Class = "NSMenuItem"; title = "Import…"; ObjectID = "966"; */
+/* Class:  "NSMenuItem"; title:  "Import…"; ObjectID:  "966"; */
 "Import…" = "読み込み...";
 
-/* Class = "NSMenuItem"; title = "Print..."; ObjectID = "1217"; */
+/* Class:  "NSMenuItem"; title:  "Print..."; ObjectID:  "1217"; */
 "Print..." = "印刷...";
 
-/* Class = "NSMenuItem"; title = "Secure Notes"; ObjectID = "1270"; */
+/* Class:  "NSMenuItem"; title:  "Secure Notes"; ObjectID:  "1270"; */
 "Secure Notes" = "セキュアノート";
 
-/* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "1017"; */
+/* Class:  "NSMenuItem"; title:  "New Identity"; ObjectID:  "1017"; */
 "New Identity" = "新規個人情報";
 
-/* Class = "NSMenuItem"; title = "Widescreen"; ObjectID = "1254"; */
+/* Class:  "NSMenuItem"; title:  "Widescreen"; ObjectID:  "1254"; */
 "Widescreen" = "ワイドスクリーン";
 
-/* Class = "NSMenuItem"; title = "Quick Delete"; ObjectID = "164"; */
+/* Class:  "NSMenuItem"; title:  "Quick Delete"; ObjectID:  "164"; */
 "Quick Delete" = "クイック削除";
 
-/* Class = "NSMenuItem"; title = "Accounts"; ObjectID = "1268"; */
+/* Class:  "NSMenuItem"; title:  "Accounts"; ObjectID:  "1268"; */
 "Accounts" = "アカウント";
 
-/* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
+/* Class:  "NSMenuItem"; title:  "Find"; ObjectID:  "168"; */
 "Find" = "検索";
 
-/* Class = "NSMenuItem"; title = "Website"; ObjectID = "1464"; */
+/* Class:  "NSMenuItem"; title:  "Website"; ObjectID:  "1464"; */
 "Website" = "ウェブサイト";
 
-/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "167"; */
+/* Class:  "NSMenuItem"; title:  "Find Next"; ObjectID:  "167"; */
 "Find Next" = "次を検索";
 
-/* Class = "NSMenu"; title = "Go & Fill"; ObjectID = "1108"; */
+/* Class:  "NSMenu"; title:  "Go & Fill"; ObjectID:  "1108"; */
 "Go & Fill" = "Go & Fill";
 
-/* Class = "NSMenuItem"; title = "1Password Interchange File…"; ObjectID = "1095"; */
+/* Class:  "NSMenuItem"; title:  "1Password Interchange File…"; ObjectID:  "1095"; */
 "1Password Interchange File…" = "1Password 交換ファイル...";
 
-/* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
+/* Class:  "NSMenuItem"; title:  "Title"; ObjectID:  "1232"; */
 "Title" = "タイトル";
 
-/* Class = "NSMenuItem"; title = "Tag"; ObjectID = "1338"; */
+/* Class:  "NSMenuItem"; title:  "Tag"; ObjectID:  "1338"; */
 "Tag" = "タグ";
 
-/* Class = "NSMenuItem"; title = "Add Software Licenses for Applications..."; ObjectID = "1389"; */
+/* Class:  "NSMenuItem"; title:  "Add Software Licenses for Applications..."; ObjectID:  "1389"; */
 "Add Software Licenses for Applications..." = "アプリケーションにライセンスを追加...";
 
-/* Class = "NSMenuItem"; title = "Close"; ObjectID = "1444"; */
+/* Class:  "NSMenuItem"; title:  "Close"; ObjectID:  "1444"; */
 "Close" = "閉じる";
 
-/* Class = "NSMenuItem"; title = "Main Window"; ObjectID = "1403"; */
+/* Class:  "NSMenuItem"; title:  "Main Window"; ObjectID:  "1403"; */
 "Main Window" = "メインウインドウ";
 
-/* Class = "NSMenuItem"; title = "Lock"; ObjectID = "1043"; */
+/* Class:  "NSMenuItem"; title:  "Lock"; ObjectID:  "1043"; */
 "Lock" = "ロック";
 
-/* Class = "NSMenuItem"; title = "Show Helper Log"; ObjectID = "1697"; */
+/* Class:  "NSMenuItem"; title:  "Show Helper Log"; ObjectID:  "1697"; */
 "Show Helper Log" = "ヘルパーログを表示";
 
-/* Class = "NSMenu"; title = "Columns"; ObjectID = "1226"; */
+/* Class:  "NSMenu"; title:  "Columns"; ObjectID:  "1226"; */
 "Columns" = "カラム";
 
-/* Class = "NSMenuItem"; title = "Location"; ObjectID = "1233"; */
+/* Class:  "NSMenuItem"; title:  "Location"; ObjectID:  "1233"; */
 "Location" = "場所";
 
-/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1475"; */
+/* Class:  "NSMenuItem"; title:  "Select All"; ObjectID:  "1475"; */
 "Select All" = "すべてを選択";
 
-/* Class = "NSMenuItem"; title = "Software"; ObjectID = "1271"; */
+/* Class:  "NSMenuItem"; title:  "Software"; ObjectID:  "1271"; */
 "Software" = "ソフトウェア";
 
-/* Class = "NSMenuItem"; title = "Print All…"; ObjectID = "991"; */
+/* Class:  "NSMenuItem"; title:  "Print All…"; ObjectID:  "991"; */
 "Print All…" = "全て印刷...";
 

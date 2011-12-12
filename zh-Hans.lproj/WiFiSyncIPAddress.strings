@@ -1,21 +1,21 @@
-/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "16"; */
+/* Class:  "NSButtonCell"; title:  "Cancel"; ObjectID:  "16"; */
 "Cancel" = "取消";
 
-/* Class = "NSTextFieldCell"; title = "If your Mac cannot find the iPhone using Bonjour service then you can enter the address information manually.\n\nIn 1Password touch, select Settings > Wi-Fi Sync > Advanced and type the shown IP Address and Port."; ObjectID = "4"; */
+/* Class:  "NSTextFieldCell"; title:  "If your Mac cannot find the iPhone using Bonjour service then you can enter the address information manually.\n\nIn 1Password touch, select Settings > Wi-Fi Sync > Advanced and type the shown IP Address and Port."; ObjectID:  "4"; */
 "If your Mac cannot find the iPhone using Bonjour service then you can enter the address information manually.\n\nIn 1Password touch, select Settings > Wi-Fi Sync > Advanced and type the shown IP Address and Port." = "如果您的 Mac 无法使用 Bonjour 服务找到 iPhone，您可以手动输入地址信息。\n\n在 1Password touch 中，选择设置 > Wi-Fi 同步 > 高级，输入所显示的 IP 地址和端口。";
 
-/* Class = "NSTextFieldCell"; title = "65535"; ObjectID = "10"; */
+/* Class:  "NSTextFieldCell"; title:  "65535"; ObjectID:  "10"; */
 "65535" = "65535";
 
-/* Class = "NSTextFieldCell"; title = "999.999.999.999"; ObjectID = "6"; */
+/* Class:  "NSTextFieldCell"; title:  "999.999.999.999"; ObjectID:  "6"; */
 "999.999.999.999" = "999.999.999.999";
 
-/* Class = "NSButtonCell"; title = "Add"; ObjectID = "14"; */
+/* Class:  "NSButtonCell"; title:  "Add"; ObjectID:  "14"; */
 "Add" = "添加";
 
-/* Class = "NSTextFieldCell"; title = "IP Address:"; ObjectID = "8"; */
+/* Class:  "NSTextFieldCell"; title:  "IP Address:"; ObjectID:  "8"; */
 "IP Address:" = "IP 地址：";
 
-/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "12"; */
+/* Class:  "NSTextFieldCell"; title:  "Port:"; ObjectID:  "12"; */
 "Port:" = "端口：";
 

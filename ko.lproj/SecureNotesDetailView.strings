@@ -1,24 +1,24 @@
-/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4863"; */
+/* Class:  "NSImageView"; ibExternalAccessibilityDescription: "Tags"; ObjectID:  "4863"; */
 "Tags" = "태그";
 
-/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4803"; */
+/* Class:  "NSScrollView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID:  "4803"; */
 "Attachments" = "첨부파일";
 
-/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4865"; */
+/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "title"; ObjectID:  "4865"; */
 "title" = "제목";
 
-/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3152"; */
+/* Class:  "NSTextFieldCell"; title:  "Created on"; ObjectID:  "3152"; */
 "Created on" = "생성일";
 
-/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4483"; */
+/* Class:  "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID:  "4483"; */
 "tags" = "태그";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4904"; */
+/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Title"; ObjectID:  "4904"; */
 "Title" = "제목";
 
-/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Secure Notes"; ObjectID = "3177"; */
+/* Class:  "NSTextView"; ibExternalAccessibilityDescription: "Secure Notes"; ObjectID:  "3177"; */
 "Secure Notes" = "안심 노트";
 
-/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3151"; */
+/* Class:  "NSTextFieldCell"; title:  "Last modified"; ObjectID:  "3151"; */
 "Last modified" = "최종 수정";
 

@@ -1,39 +1,39 @@
-/* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
+/* Class:  "NSTextFieldCell"; title:  "Last synced"; ObjectID:  "17"; */
 "Last synced" = "Последняя синхронизация";
 
-/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
+/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "title"; ObjectID:  "13"; */
 "title" = "название";
 
-/* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
+/* Class:  "NSTextFieldCell"; title:  "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID:  "103"; */
 "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Запустите и разблокируйте 1Password Touch на iPhone, чтобы выполнить синхронизацию Wi-Fi";
 
-/* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
+/* Class:  "NSButtonCell"; title:  "Sync all items"; ObjectID:  "27"; */
 "Sync all items" = "Синхронизировать все объекты";
 
-/* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
+/* Class:  "NSButtonCell"; title:  "Sync only selected folders"; ObjectID:  "26"; */
 "Sync only selected folders" = "Синхронизировать только выбранные папки";
 
-/* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
+/* Class:  "NSTextFieldCell"; title:  "Wi-Fi Status"; ObjectID:  "19"; */
 "Wi-Fi Status" = "Статус Wi-Fi";
 
-/* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
+/* Class:  "NSTextFieldCell"; title:  "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID:  "94"; */
 "When checked, 1Password will replace information on this iPhone with information from this computer." = "Если помечено, 1Password заменит информацию на iPhone данными с этого компьютера.";
 
-/* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
+/* Class:  "NSButtonCell"; title:  "Replace information on this iPhone"; ObjectID:  "92"; */
 "Replace information on this iPhone" = "Заменить информацию на этом iPhone";
 
-/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
+/* Class:  "NSMenuItem"; title:  "Manually"; ObjectID:  "83"; */
 "Manually" = "Вручную";
 
-/* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
+/* Class:  "NSButtonCell"; title:  "Sync Now"; ObjectID:  "23"; */
 "Sync Now" = "Синхронизировать";
 
-/* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
+/* Class:  "NSTextFieldCell"; title:  "Device type"; ObjectID:  "16"; */
 "Device type" = "Тип устройства";
 
-/* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
+/* Class:  "NSMenuItem"; title:  "Automatically"; ObjectID:  "82"; */
 "Automatically" = "Автоматически";
 
-/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
+/* Class:  "NSTextField"; ibExternalAccessibilityDescription: "Wi-Fi status"; ObjectID:  "7"; */
 "Wi-Fi status" = "Статус Wi-Fi";
 

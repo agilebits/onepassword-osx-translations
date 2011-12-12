@@ -1,30 +1,30 @@
-/* Class = "NSTokenFieldCell"; placeholderString = "Tags"; ObjectID = "4892"; */
+/* Class:  "NSTokenFieldCell"; placeholderString: "Tags"; ObjectID:  "4892"; */
 "Tags" = "태그";
 
-/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4808"; */
+/* Class:  "NSCollectionView"; ibExternalAccessibilityDescription: "Attachments"; ObjectID:  "4808"; */
 "Attachments" = "첨부파일";
 
-/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4932"; */
+/* Class:  "NSTextFieldCell"; title:  "Display"; ObjectID:  "4932"; */
 "Display" = "표시";
 
-/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3219"; */
+/* Class:  "NSTextFieldCell"; title:  "Created on"; ObjectID:  "3219"; */
 "Created on" = "생성일";
 
-/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4891"; */
+/* Class:  "NSTokenField"; ibExternalAccessibilityDescription: "tags"; ObjectID:  "4891"; */
 "tags" = "태그";
 
-/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4819"; */
+/* Class:  "NSTextView"; ibExternalAccessibilityDescription: "Notes"; ObjectID:  "4819"; */
 "Notes" = "노트";
 
-/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4918"; */
+/* Class:  "IBBindingConnection"; ibShadowedIsNilPlaceholder: "Title"; ObjectID:  "4918"; */
 "Title" = "제목";
 
-/* Class = "NSMenuItem"; title = "Always"; ObjectID = "4930"; */
+/* Class:  "NSMenuItem"; title:  "Always"; ObjectID:  "4930"; */
 "Always" = "항상";
 
-/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4931"; */
+/* Class:  "NSMenuItem"; title:  "Never Display in Browser"; ObjectID:  "4931"; */
 "Never Display in Browser" = "브라우저에 표시 안함";
 
-/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3220"; */
+/* Class:  "NSTextFieldCell"; title:  "Last modified"; ObjectID:  "3220"; */
 "Last modified" = "최종 수정";
 
