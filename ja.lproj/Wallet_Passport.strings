@@ -1,0 +1,34 @@
+"__title__" = "パスポート";
+"__description__" = "政府発行のパスポート。";
+
+"type" = "種類";
+"fullname" = "氏名";
+"number" = "番号";
+"birthdate" = "生年月日";
+"birthplace" = "出生地";
+"nationality" = "国籍";
+"code" = "コード";
+"sex" = "性別";
+"issuing_country" = "発行国";
+"issuing_authority" = "発行機関";
+"issue_date" = "発行日";
+"expiry_date" = "有効期限日";
+
+"menu.sex." = "";
+"menu.sex.male" = "男性";
+"menu.sex.female" = "女性";
+
+
+
+"type#9" = "種類";
+"fullname#9" = "名前";
+"number#9" = "番号";
+"birthdate#9" = "生年月日";
+"birthplace#9" = "出生地";
+"nationality#9" = "国。";
+"code#9" = "コード";
+"sex#9" = "性別";
+"issuing_country#9" = "国";
+"issuing_authority#9" = "機関";
+"issue_date#9" = "発行";
+"expiry_date#9" = "有効期限";

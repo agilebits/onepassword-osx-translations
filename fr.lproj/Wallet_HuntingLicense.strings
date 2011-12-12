@@ -1,0 +1,13 @@
+"__title__" = "Permis de chasse";
+
+"name" = "Nom complet";
+"valid_from" = "Valide à partir de";
+"valid_from#9" = "Valide";
+"expires" = "Expire le";
+"game" = "Gibier autorisé";
+"game#9" = "Gibier";
+"quota" = "Quota maximum";
+"quota#9" = "Quota";
+"state" = "État";
+"country" = "Pays";
+

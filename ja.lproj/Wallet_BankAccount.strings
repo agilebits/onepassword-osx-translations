@@ -1,0 +1,28 @@
+"__title__" = "銀行口座";
+"__description__" = "銀行口座情報";
+
+"bankName" = "銀行名";
+"owner" = "口座名義";
+"owner#9" = "所有者";
+"accountType" = "種類";
+"routingNo" = "銀行支店コード";
+"routingNo#9" = "銀行支店#";
+"accountNo" = "口座番号";
+"accountNo#9" = "口座#";
+"swift" = "SWIFT コード";
+"swift#9" = "SWIFT";
+"iban" = "IBAN 番号";
+"iban#9" = "IBAN";
+"branchInfo" = "支店情報";
+"branchInfo#9" = "支店";
+"branchPhone" = "電話番号";
+"branchAddress" = "住所";
+"telephonePin" = "暗証番号";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "ATM";
+"menu.accountType.checking" = "当座預金";
+"menu.accountType.savings" = "普通預金";
+"menu.accountType.loc" = "信用与信枠";
+"menu.accountType.money_market" = "マネーマーケット";
+"menu.accountType.other" = "その他";

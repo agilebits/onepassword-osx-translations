@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "32"; */
+"Cancel" = "취소";
+
+/* Class = "NSButtonCell"; title = "Export…"; ObjectID = "18"; */
+"Export…" = "내보내기...";
+
+/* Class = "NSWindow"; title = "Export Text File"; ObjectID = "5"; */
+"Export Text File" = "텍스트 파일 내보내기";
+
+/* Class = "NSTextFieldCell"; title = "Data will be exported to a tab-delimited text file."; ObjectID = "61"; */
+"Data will be exported to a tab-delimited text file." = "데이터는 탭 구분 형식 텍스트 파일로 저장됩니다.";
+
+/* Class = "NSTextFieldCell"; title = "Select the data you want to export."; ObjectID = "20"; */
+"Select the data you want to export." = "내보낼 데이터를 선택하세요.";
+

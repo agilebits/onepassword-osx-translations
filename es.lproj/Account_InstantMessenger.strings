@@ -1,0 +1,28 @@
+"__title__" = "Mensajería instantánea";
+"__description__" = "Información de cuenta y de conexión para todos sus programas distintos de mensajería instantánea.";
+
+"account_type" = "Tipo de cuenta";
+"account_type#9" = "Tipo";
+"username" = "Nombre de usuario/Correo electrónico/ID";
+"username#9" = "ID";
+"password" = "Contraseña";
+"server" = "Servidor";
+"port" = "Puerto";
+ 
+"menu.account_type." = "";
+"menu.account_type.aol" = "Mensajería instantánea de AOL";
+"menu.account_type.jabber" = "Jabber";
+"menu.account_type.msn" = "MSN Messenger";
+"menu.account_type.yahoo" = "Yahoo! Messenger";
+"menu.account_type.mobileme" = "MobileMe";
+"menu.account_type.dotmac" = "Mac.com";
+"menu.account_type.gadu" = "Gadu-Gadu";
+"menu.account_type.gtalk" = "Google Talk";
+"menu.account_type.icq" = "ICQ";
+"menu.account_type.livejournal" = "LiveJournal";
+"menu.account_type.sametime" = "Lotus Sametime";
+"menu.account_type.groupwise" = "Novell GroupWise";
+"menu.account_type.qq" = "QQ";
+"menu.account_type.sip" = "SIP/SIMPLE";
+"menu.account_type.skype" = "Skype";
+"menu.account_type.gizmo" = "Gizmo";

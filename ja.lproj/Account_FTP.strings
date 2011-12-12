@@ -1,0 +1,18 @@
+"__title__" = "FTP アカウント";
+"__description__" = "FTP アカウントのログイン情報";
+ 
+"server" = "サーバー";
+"path" = "パス";
+"username" = "ユーザー名";
+"password" = "パスワード";
+"Contact Information" = "連絡先情報";
+"Contact Information#9" = "連絡先";
+"provider" = "プロバイダ";
+"provider_website" = "プロバイダのウェブサイト";
+"provider_website#9" = "ウェブサイト";
+"phone_tollfree" = "電話番号（フリーダイヤル）";
+"phone_tollfree#9" = "フリーダイヤル";
+"phone_local" = "電話番号（ローカル）";
+"phone_local#9" = "電話番号";
+ 
+ 

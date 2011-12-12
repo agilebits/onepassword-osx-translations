@@ -1,0 +1,21 @@
+"__title__" = "Conto bancario (Australia)";
+"__description__" = "Informazioni sul conto bancario australiano.";
+ 
+"bankName" = "Nome banca";
+"owner" = "Nome del conto";
+"accountType" = "Tipo";
+"bankNo" = "BSB (Codice bancario)";
+"accountNo" = "Numero del conto";
+"swift" = "Codice SWIFT";
+"iban" = "Numero IBAN";
+"branchInfo" = "Informazioni agenzia";
+"branchPhone" = "Telefono";
+"branchAddress" = "Indirizzo";
+"telephonePin" = "PIN telefonico";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Conto corrente";
+"menu.accountType.savings" = "Libretto di risparmio";
+"menu.accountType.loc" = "Fido bancario";
+"menu.accountType.money_market" = "Mercato monetario";
+"menu.accountType.other" = "Altro";

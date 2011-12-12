@@ -1,0 +1,24 @@
+"__title__" = "Compte bancaire (CA)";
+"__description__" = "Information compte bancaire canadien.";
+
+"bankName" = "Nom de la banque";
+"owner" = "Titulaire du compte";
+"accountType" = "Type";
+"transitNo" = "Numéro de transit";
+"instNo" = "Code de la banque";
+"accountNo" = "Numéro de compte";
+"swift" = "Code SWIFT";
+"iban" = "Numéro IBAN";
+"branchInfo" = "Informations sur l'agence";
+"branchPhone" = "Téléphone";
+"branchAddress" = "Adresse";
+"telephonePin" = "Téléphone PIN";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Compte-chèque";
+"menu.accountType.savings" = "Épargne";
+"menu.accountType.loc" = "Crédit";
+"menu.accountType.money_market" = "Marché boursier";
+"menu.accountType.other" = "Autre";
+
+

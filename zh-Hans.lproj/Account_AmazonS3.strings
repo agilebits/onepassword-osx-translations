@@ -1,0 +1,12 @@
+"__title__" = "亚马逊 Web 服务";
+"__description__" = "亚马逊 Web 服务的访问密钥。";
+ 
+"path" = "路径";
+"email" = "电子邮件";
+"password" = "密码";
+"access_key_id" = "访问密钥 ID";
+"access_key" = "安全访问密钥";
+
+"access_key_id#9" = "密钥 ID";
+"access_key#9" = "安全访问密钥";
+ 

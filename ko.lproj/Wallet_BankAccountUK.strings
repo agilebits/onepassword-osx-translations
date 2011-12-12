@@ -1,0 +1,21 @@
+"__title__" = "은행계좌 (영국)";
+"__description__" = "영국 은행 계좌정보";
+
+"bankName" = "은행명";
+"owner" = "계좌주";
+"accountTypeUK" = "유형";
+"bankNo" = "은행 지점 분류번호";
+"accountNo" = "계좌번호";
+"swift" = "SWIFT 코드";
+"iban" = "IBAN 번호";
+"branchInfo" = "지점 정보";
+"branchPhone" = "전화번호";
+"branchAddress" = "주소";
+"telephonePin" = "전화 PIN";
+
+"menu.accountTypeUK." = "";
+"menu.accountTypeUK.current" = "당좌계좌";
+"menu.accountTypeUK.savings" = "예금계좌";
+"menu.accountTypeUK.loc" = "신용거래계좌";
+"menu.accountTypeUK.money_market" = "금융상품계좌";
+"menu.accountTypeUK.other" = "기타";

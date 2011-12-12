@@ -1,0 +1,21 @@
+"__title__" = "Счет в банке";
+"__description__" = "Сведения о счете в швейцарском банке";
+ 
+"bankName" = "Название банка";
+"owner" = "Имя владельца счета";
+"accountType" = "Тип";
+"clearingNo" = "Номер выравнивания";
+"accountNo" = "Номер счета";
+"swift" = "Код SWIFT";
+"iban" = "Номер IBAN";
+"branchInfo" = "Информация об отделении";
+"branchPhone" = "Телефон";
+"branchAddress" = "Адрес";
+"telephonePin" = "PIN-код";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Текущий";
+"menu.accountType.savings" = "Сберегательный";
+"menu.accountType.loc" = "Кредитная линия";
+"menu.accountType.money_market" = "Счет для денежного рынка";
+"menu.accountType.other" = "Другой";

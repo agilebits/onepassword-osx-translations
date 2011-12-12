@@ -1,0 +1,21 @@
+"__title__" = "Conto bancario (Regno Unito)";
+"__description__" = "Informazioni su conto bancario britannico.";
+
+"bankName" = "Nome banca";
+"owner" = "Intestatario del conto";
+"accountTypeUK" = "Tipo";
+"bankNo" = "CAB (Sort Number)";
+"accountNo" = "Numero di conto";
+"swift" = "Codice SWIFT";
+"iban" = "Numero IBAN";
+"branchInfo" = "Informazioni agenzia";
+"branchPhone" = "Telefono";
+"branchAddress" = "Indirizzo";
+"telephonePin" = "PIN telefono";
+
+"menu.accountTypeUK." = "";
+"menu.accountTypeUK.current" = "Conto corrente";
+"menu.accountTypeUK.savings" = "Libretto di risparmio";
+"menu.accountTypeUK.loc" = "Fido bancario";
+"menu.accountTypeUK.money_market" = "Mercato monetario";
+"menu.accountTypeUK.other" = "Altro";

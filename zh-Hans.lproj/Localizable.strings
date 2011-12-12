@@ -1,0 +1,1225 @@
+/* Activity message */
+"%1$d of %2$d - %3$@" = "%1$d/%2$d - %3$@";
+
+/* error description */
+"1Password can only run from the Applications folder" = "1Password 仅可在应用程序文件中运行";
+
+/* alert message */
+"1Password could not be unlocked with the password you provided. Please verify the password and try again." = "无法使用您提供的密码解锁 1Password，请检查密码并重试。";
+
+/* error title */
+"1Password failed to start its helper" = "1Password 无法启动帮助程序";
+
+/* error */
+"1Password File '%@' is incorrect or damaged. Please choose another file." = "1Password 文件 '%@' 不正确或已损坏。请选择另一个文件。";
+
+/* alert title
+   error */
+"1Password Interchange Format" = "1Password 交换格式";
+
+/* message */
+"A backup copy of your data was created before the merge." = "合并之前已为您的数据创建备份副本。";
+
+/* message */
+"A backup copy of your original data was also created" = "同时亦为您的原始数据创建了备份副本";
+
+/* No comment provided by engineer. */
+"A Ruby interpreter is required to perform your request, however Ruby cannot be found on this system. Please contact AgileBits for assistance." = "需要使用 Ruby 解释器来执行您的请求，但未在此系统上发现 Ruby。请联系 AgileBits 以获得帮助。";
+
+/* adding sample data activity */
+"Adding Sample Data" = "正在添加样本数据";
+
+/* info */
+"Apply to all" = "全部应用";
+
+/* error */
+"Backup failed: %@" = "备份失败：%@";
+
+/* info */
+"Backup up existing data..." = "备份现有数据...";
+
+/* button */
+"Cancel" = "取消";
+
+/* message */
+"Cannot merge selected file with your data" = "无法将所选文件与您的数据进行合并";
+
+/* button */
+"Continue" = "继续";
+
+/* button */
+"Continue, Dropbox sync is complete!" = "继续，Dropbox 同步完成！";
+
+/* info */
+"Copying file..." = "正在复制文件...";
+
+/* info */
+"Copying new file..." = "正在复制新文件...";
+
+/* button */
+"Create New" = "新建";
+
+/* info */
+"Deleting existing file..." = "正在删除现有文件...";
+
+/* info */
+"Do you want to create another entry?" = "您是否要创建另一个条目？";
+
+/* error */
+"E-mail address is not valid." = "电子邮件地址无效。";
+
+/* error */
+"E-mail should be of the format name@domain.com." = "电子邮件格式应为 name@domain.com。";
+
+/* unlock prompt */
+"Enter your master password to change this setting" = "请输入您的主密码以更改此设置";
+
+/* unlock prompt */
+"Enter your master password to unlock 1Password." = "请输入主密码以解锁 1Password。";
+
+/* error */
+"Failed to copy '%1$@' to '%2$@': %3$@" = "无法复制'%1$@'至'%2$@'：%3$@";
+
+/* message */
+"Failed to copy selected file" = "无法复制所选文件";
+
+/* info */
+"Failed to Go & Fill" = "无法自动登录";
+
+/* info */
+"Failed to launch browser for the url: %@" = "无法启动浏览器打开 URL：%@";
+
+/* info */
+"Failed to open web page: %@" = "无法打开网页：%@";
+
+/* error */
+"Failed to rename '%1$@' to '%2$@': %3$@" = "无法重命名'%1$@' 至'%2$@'：%3$@";
+
+/* error */
+"Failed to resolve URL bookmark." = "无法解析 URL 书签。";
+
+/* error */
+"Failed to resolve URL bookmark: %@" = "无法解析 URL 书签：%@";
+
+/* window title */
+"Find Existing 1Password File" = "查找现有 1Password 文件";
+
+/* Go and Fill menu */
+"Folders" = "文件夹";
+
+/* button */
+"Go Back" = "返回";
+
+/* product web page */
+"http://agilebits.com/products/1Password" = "http://agilebits.com/products/1Password";
+
+/* product store page */
+"https://agilebits.com/store" = "https://agilebits.com/store";
+
+/* message */
+"I have found a new data file in Dropbox:\n%@\n\nIt looks like you've recently synced your data with Dropbox. Would you like me to use this data file (recommended)?\n" = "我在 Dropbox 中发现了一个新数据文件：\n%@\n\n您最近似乎与 Dropbox 进行了数据同步。您想使用这个数据文件吗？（推荐）\n";
+
+/* info */
+"Importing..." = "正在导入...";
+
+/* alert title */
+"Incorrect File Type" = "文件类型不正确";
+
+/* error */
+"Invalid path: %@" = "路径无效：%@";
+
+/* title */
+"Is the Dropbox Sync Complete?" = "是否完成 Dropbox 同步？";
+
+/* button */
+"Learn How to Resolve This" = "了解如何解决此问题";
+
+/* menu item */
+"Lock 1Password" = "锁定 1Password";
+
+/* info */
+"Master Password Does Not Match" = "主密码不匹配";
+
+/* button */
+"Merge" = "合并";
+
+/* alert message */
+"Merge will combine the contents of the selected file with your current data.\n\nReplace will remove your existing data and copy over the selected file." = "合并会将所选文件的内容与您的当前数据合并。\n\n替换会删除您的现有数据并使用所选文件替换。";
+
+/* info */
+"Merging data..." = "正在合并数据...";
+
+/* title */
+"Newer 1Password File Found In Dropbox" = "在 Dropbox 找到较新的 1Password 文件";
+
+/* button */
+"No, do not change data file" = "否，请勿更改数据文件";
+
+/* status message */
+"One moment please..." = "请稍候...";
+
+/* message */
+"Operation Failed" = "操作失败";
+
+/* alert message */
+"Password Hint" = "密码提示";
+
+/* info */
+"Password Hint is Missing" = "未填写密码提示";
+
+/* info */
+"Password is too long for Login" = "密码对于登录过长";
+
+/* info */
+"Please enter at least one character." = "请至少输入一个字符。";
+
+/* info */
+"Please enter the master password again." = "请再次输入主密码。";
+
+/* info */
+"Please enter the password hint." = "请输入密码提示。";
+
+/* error title */
+"Please install 1Password in Applications" = "请将 1Password 安装在应用程序文件夹下";
+
+/* message */
+"Please make sure that the Dropbox icon in your menu bar at the top of your screen is not spinning (it animates while syncing).\n\nClick the icon and make sure that \"All files up to date\" is displayed in the Dropbox menu.\n\nIf you do not see the Dropbox icon, please make sure Dropbox application is started." = "请确保屏幕上方菜单栏的 Dropbox 图标非处于旋转状态（同步时显示的动画效果）。\n\n点击该图标，并确保 Dropbox 菜单显示\"所有文件已是最新\"。\n\n如果未看到 Dropbox 图标，请确认 Dropbox 应用程序是否已启动。";
+
+/* alert message */
+"Please select another file" = "请选择另一个文件";
+
+/* info */
+"Please wait..." = "请稍候...";
+
+/* rebuild progress */
+"Processing Data" = "正在处理数据";
+
+/* button */
+"Quit" = "退出";
+
+/* button */
+"Replace" = "替换";
+
+/* button */
+"Restore" = "还原";
+
+/* alert title */
+"Restore Backup" = "还原备份";
+
+/* button */
+"Save" = "保存";
+
+/* button */
+"Shorten Password and Fill" = "缩短密码并填充";
+
+/* Activity message */
+"Starting..." = "正在开始...";
+
+/* Activity message */
+"Stopping..." = "正在停止...";
+
+/* Go and Fill menu */
+"Tags" = "标签";
+
+/* info */
+"The application will update all items in the data file. This might take a few minutes..." = "应用程序将更新数据文件中的所有项目。这可能需要几分钟的时间...";
+
+/* info */
+"The data file has been rebuilt. The application will now reload the data." = "数据文件已经重建。应用程序现在将重新加载数据。";
+
+/* message */
+"The file you selected was copied and is ready to use." = "所选文件已复制并就绪。";
+
+/* message */
+"The original file will remain intact." = "原始文件将保留不变。";
+
+/* info */
+"The password can not be blank" = "密码不能为空";
+
+/* alert title */
+"This data file is not valid and cannot be used by 1Password" = "此数据文件无效，无法用于 1Password";
+
+/* message */
+"This file is a 1Password Interchange File.\nUse File > Import menu to import this file." = "此文件为 1Password 交换格式文件。\n请使用文件 > 导入菜单以导入此文件。";
+
+/* message */
+"This file is not a 1Password backup.\nPlease select a .agilekeychain_zip or .agilekeychain_backup file." = "此文件不是 1Password 备份文件。\n请选择一个 .agilekeychain_zip 或 .agilekeychain_backup 文件。";
+
+/* error message */
+"This problem is often caused by incorrect file permissions.\n\nPlease search 1Password Knowledge Base for 'helper startup' or contact us at support@agilebits.com for more information.\n" = "此问题通常是由不正确的文件权限造成。\n\n请在 1Password 知识库搜索“启动帮手程序”或联系 support@agilebits.com 了解更多信息。\n";
+
+/* info */
+"This web page accepts passwords up to %jd characters in length." = "此网页接受的密码长度最长为 %jd 个字符。";
+
+/* message */
+"This will replace your current 1Password data with the selected backup." = "此操作将使用所选备份文件替换
+当前 1Password 数据。";
+
+/* error */
+"To import this file, set up 1Password as a new user and then choose File > Import..." = "要导入此文件，请为 1Password 设置一个新用户，然后选择文件 > 导入...";
+
+/* button */
+"Try Again" = "重试";
+
+/* alert message */
+"Unable to unlock 1Password" = "无法解锁 1Password";
+
+/* menu item */
+"Unlock 1Password" = "解锁 1Password";
+
+/* unlock prompt */
+"Unlock 1Password to Autosave the Login." = "解锁 1Password 以自动保存登录信息。";
+
+/* unlock prompt */
+"Unlock 1Password to edit the item." = "解锁 1Password 以编辑项目。";
+
+/* unlock prompt */
+"Unlock 1Password to fill credit card." = "解锁 1Password 以填充信用卡信息。";
+
+/* unlock prompt */
+"Unlock 1Password to fill Login." = "解锁 1Password 以填充登录信息。";
+
+/* unlock prompt */
+"Unlock 1Password to fill the generated password." = "解锁 1Password 以填充生成的密码。";
+
+/* unlock prompt */
+"Unlock 1Password to import passwords." = "解锁 1Password 以导入密码。";
+
+/* unlock prompt */
+"Unlock 1Password to remove the item." = "解锁 1Password 以移除项目。";
+
+/* unlock prompt */
+"Unlock 1Password to save the generated password." = "解锁 1Password 以保存生成的密码。";
+
+/* unlock prompt */
+"Unlock 1Password to save the Login." = "解锁 1Password 以保存登录信息。";
+
+/* unlock prompt */
+"Unlock 1Password to update Login." = "解锁 1Password 以更新登录信息。";
+
+/* unlock prompt */
+"Unlock 1Password to use Identity." = "解锁 1Password 以使用身份标识。";
+
+/* prompt */
+"Unlock chosen file to merge with your data" = "解锁所选文件以和您的数据进行合并";
+
+/* prompt */
+"Unlock current data to merge" = "解锁当前数据以进行合并";
+
+/* menu item */
+"Unlock..." = "解锁...";
+
+/* button */
+"Update Existing" = "更新现有";
+
+/* Activity status */
+"Updating Previews" = "正在更新预览";
+
+/* alert title */
+"Would you like to merge or replace your data with the selected file?" = "您想使用所选文件合并或替换您的数据吗？";
+
+/* button */
+"Yes, use this data file" = "是，请使用此数据文件";
+
+/* info */
+"You already have a software license entry for %@." = "您的%@已经有了一份软件许可。";
+
+/* message */
+"Your data was merged with the contents of the selected file." = "您的数据已和所选文件合并。";
+
+/* message */
+"Your data was replaced with the contents of the selected file." = "您的数据已使用所选文件内容替换。";
+
+/* context menu */
+" (Low Security)" = " （低安全性）";
+
+/* file size */
+"%.1f GB" = "%.1f GB";
+
+/* file size */
+"%.1f MB" = "%.1f MB";
+
+/* number of items sorted by ... */
+"%@ items by" = "%@ 项，排序方式：";
+
+/* alert title */
+"%d attachments will be Deleted" = "%d 附件将被删除";
+
+/* time */
+"%d days ago" = "%d 天前";
+
+/* time */
+"%d days from now" = "%d 天后";
+
+/* time */
+"%d hours ago" = "%d 小时前";
+
+/* time */
+"%d hours from now" = "%d 小时后";
+
+/* alert info */
+"%d item(s) will be permanently destroyed. You cannot undo this action." = "%d 项将被永久删除。您无法撤销此操作。";
+
+/* alert title */
+"%d items will be deleted" = "%d 项将被删除";
+
+/* time */
+"%d minutes ago" = "%d 分钟前";
+
+/* time */
+"%d minutes from now" = "%d 分钟后";
+
+/* alert message */
+"%d objects will be moved to the Trash" = "%d 对象将被移至垃圾桶";
+
+/* time */
+"%d seconds ago" = "%d 秒前";
+
+/* time */
+"%d seconds from now" = "%d 秒后";
+
+/* time */
+"%d weeks ago" = "%d 周前";
+
+/* time */
+"%d weeks from now" = "%d 周后";
+
+/* time */
+"%d years ago" = "%d 年前";
+
+/* time */
+"%d years from now" = "%d 年后";
+
+/* file size */
+"%llu bytes" = "%llu 字节";
+
+/* file size */
+"%llu KB" = "%llu KB";
+
+/* No comment provided by engineer. */
+"(Multiple)" = "（多个）";
+
+/* No comment provided by engineer. */
+"(None)" = "（无）";
+
+/* unlock error message */
+"(try disabling the caps lock key)" = "（请尝试禁用 Caps Lock 键）";
+
+/* *** Digest Password Required *** */
+"*** Digest Password Required ***" = "***需要使用摘要密码***";
+
+/* credit card month */
+"01 (January)" = "01（一月）";
+
+/* credit card month */
+"02 (February)" = "02（二月）";
+
+/* credit card month */
+"03 (March)" = "03（三月）";
+
+/* credit card month */
+"04 (April)" = "04（四月）";
+
+/* credit card month */
+"05 (May)" = "05（五月）";
+
+/* credit card month */
+"06 (June)" = "06（六月）";
+
+/* credit card month */
+"07 (July)" = "07（七月）";
+
+/* credit card month */
+"08 (August)" = "08（八月）";
+
+/* credit card month */
+"09 (September)" = "09（九月）";
+
+/* credit card month */
+"10 (October)" = "10（十月）";
+
+/* credit card month */
+"11 (November)" = "11（十一月）";
+
+/* credit card month */
+"12 (December)" = "12（十二月）";
+
+/* info */
+"1Password will download all missing icons and previews" = "1Password 将下载缺少的图标和预览";
+
+/* info */
+"1Password will visit every website stored in Logins as if you visited that website in Safari. The website could save your IP address, general location, and operating system information. Note that 1Password will NOT log into the site, only capture a picture of the login page. If you have privacy concerns about connecting to any of your saved sites from your current location, please Cancel.\n\nDepending on the number of saved Logins the download can take several hours and use significant network bandwidth." = "1Password 将访问储存在登录项目中的每一个网站，就像您使用 Safari 访问网站一样。一些网站可能会保存您的 IP 地址、大致位置和操作系统信息。请注意，1Password 不会登录进网站，只会抓取登录页面为图片。如果您对从您的当前位置连接到所保存的网站有任何隐私顾虑，请选择取消。\n\n视所保存的登录项目数量而定，下载可能需要几个小时，并使用大量的网络带宽。";
+
+/* alert title */
+"\"%@\" will be Deleted" = "\"%@\"将被删除";
+
+/* alert message */
+"\"%@\" will be moved to Trash" = "\"%@\"将被移至垃圾桶";
+
+/* alert message */
+"\n\nPassword Hint: %@\n" = "\n\n密码提示：%@\n";
+
+/* warning */
+"\nNOTE: CAPS LOCK KEY IS PRESSED" = "\n注意：CAPS LOCK 键已打开";
+
+/* time */
+"a minute ago" = "一分钟前";
+
+/* time */
+"a minute from now" = "一分钟后";
+
+/* time */
+"a year ago" = "一年前";
+
+/* time */
+"a year from now" = "一年后";
+
+/* Sidebar category */
+"Accounts" = "账户";
+
+/* panel title */
+"ACTIVITY" = "活动";
+
+/* attachment warning */
+"Add Attachment" = "添加附件";
+
+/* button */
+"Add Both" = "全部添加";
+
+/* pref pane */
+"Advanced" = "高级";
+
+/* info */
+"All login icons and previews will be deleted" = "所有登录图标和预览都将被删除";
+
+/* alert message */
+"An attachment named %@ already exists.\nDo you want to replace it with the one you are moving?" = "已存在名为%@的附件。\n是否要使用您正在移动的附件替换它？";
+
+/* time */
+"an hour ago" = "一小时前";
+
+/* time */
+"an hour from now" = "一小时后";
+
+/* alert message */
+"An item named %@ already exists at this location.\nDo you want to replace it with the one you are moving?" = "此位置已存在名为%@的项目。\n是否要使用您正在移动的项目替换它？";
+
+/* alert message */
+"Are you sure you want to permanently remove all items in the Trash?" = "您确定要永久删除垃圾桶中的所有项目吗？";
+
+/* attachment warning */
+"Attachment is too big" = "附件太大";
+
+/* alert message */
+"Attachment named %@ failed to export." = "无法导出命名为%@的附件。";
+
+/* alert title */
+"Attachment with the same name already exists" = "存在同名附件";
+
+/* Label in item detail view */
+"Attachments" = "附件";
+
+/* iPhone status */
+"Available" = "可用";
+
+/* error */
+"Backup directory is not writeable." = "备份目录不可写。";
+
+/* error */
+"Backup path exists but it is not a directory." = "备份路径存在，但非目录。";
+
+/* button */
+"Begin downloading" = "开始下载";
+
+/* sidebar category */
+"Browser Extensions" = "浏览器扩展";
+
+/* accessibility description */
+"calendar picker" = "日期选取器";
+
+/* button */
+"Cancel" = "取消";
+
+/* intro message */
+"Catalog your Software licenses, including related files and confirmation emails." = "对您的软件许可（包括相关的文件和确认电子邮件）进行编目。";
+
+/* Software Licenses Image Menu */
+"Clear Icon" = "清除图标";
+
+/* Identities Image Menu */
+"Clear Image" = "清除图像";
+
+/* Login Preview Image Menu */
+"Clear Preview" = "清除预览";
+
+/* tooltip */
+"Click to show in Finder" = "点击以在 Finder 中显示";
+
+/* search scope */
+"Common" = "通用";
+
+/* button */
+"Continue" = "继续";
+
+/* button */
+"Copy" = "复制";
+
+/* status message */
+"Created on %@" = "创建时间 %@";
+
+/* table column */
+"Date Created" = "创建日期";
+
+/* accessibility description */
+"date field enabled" = "已启用日期字段";
+
+/* table column */
+"Date Modified" = "修改日期";
+
+/* button */
+"Delete" = "删除";
+
+/* Alert Panel */
+"Diagnostic script failed." = "诊断脚本出错。";
+
+/* alert */
+"Discard Changes and Reload?" = "放弃修改并重新加载？";
+
+/* Login Preview Image Menu */
+"Download Preview" = "下载预览";
+
+/* title */
+"Dropbox process is not running" = "Dropbox 进程未运行";
+
+/* main window edit button
+   menu item
+   menu undo edit */
+"Edit" = "编辑";
+
+/* menu item */
+"Edit Selected Item" = "编辑所选项";
+
+/* search scope */
+"Edit Smart Folder \"%@\"" = "编辑智能文件夹\"%@\"";
+
+/* Identities Image Menu */
+"Edit..." = "编辑...";
+
+/* alert title */
+"Empty import file" = "清空导入文件";
+
+/* search scope */
+"Everything" = "全部";
+
+/* search scope */
+"Everywhere" = "所有位置";
+
+/* Password strength — Excellent */
+"Excellent" = "很好";
+
+/* exported
+   file prompt
+   Save Panel prompt */
+"Export" = "导出";
+
+/* Save Panel field label */
+"Export As:" = "导出为：";
+
+/* exporter */
+"Export Failed" = "导出失败";
+
+/* window title */
+"Export Passwords" = "导出密码";
+
+/* exporter */
+"Export To 1Password Interchange File" = "导出为 1Password 交换格式文件";
+
+/* status message */
+"Exporting Attachments" = "正在导出附件";
+
+/* pref pane */
+"Extensions" = "扩展";
+
+/* alert title */
+"Failed to add attachment" = "无法添加附件";
+
+/* exporter */
+"Failed to create 1Password Interchange File" = "无法创建 1Password 交换格式文件";
+
+/* alert title */
+"Failed to export attachment" = "无法导出附件";
+
+/* error */
+"Failed to interpret the output of the import script." = "无法解析导入脚本的输出。";
+
+/* info */
+"Failed to obtain user attributes." = "无法获得用户属性。";
+
+/* error message */
+"Failed to open '%1$@' using %2$@ encoding.\n\nError code: %3$d\n\nPlease choose another Character Encoding from the list." = "无法使用%2$@编码打开'%1$@'。\n\n错误代码：%3$d\n\n请从列表选择另一种字符编码。";
+
+/* error message */
+"Failed to restore '%@', no encryption keys file found in the backup" = "无法还原'%@'，未在备份文件中发现加密密钥文件";
+
+/* error message */
+"Failed to restore from backup, cannot move %1$@ to %2$@\nError: %3$@" = "无法从备份文件中进行还原，无法移动%1$@至%2$@\n错误：%3$@";
+
+/* error message */
+"Failed to restore from backup, cannot remove old data file '%1$@'\nError: %2$@" = "无法从备份文件中进行还原，无法删除旧的数据文件'%1$@'\n错误：%2$@";
+
+/* error */
+"Failed to run import script" = "无法运行导入脚本";
+
+/* Password strength — Fantastic */
+"Fantastic" = "极佳";
+
+/* alert message */
+"File added successfully" = "文件添加成功";
+
+/* alert title */
+"File exists at path" = "文件存在于路径";
+
+/* attachment warning */
+"File is a bundle or folder" = "文件为捆绑包或文件夹";
+
+/* exporter */
+"File name:" = "文件名：";
+
+/* attachment warning */
+"File size is larger than 2 MB" = "文件大小大于 2 MB";
+
+/* alert message */
+"Files added successfully" = "文件添加成功";
+
+/* menu item */
+"Finish Editing" = "完成编辑";
+
+/* menu item */
+"Finish Editing Selected Item" = "完成编辑所选项";
+
+/* Sidebar group */
+"Folders" = "文件夹";
+
+/* pref pane */
+"General" = "一般";
+
+/* generate password button */
+"Generate" = "生成";
+
+/* sidebar category */
+"Generated Passwords" = "生成密码";
+
+/* menu item */
+"Go & Fill Login" = "自动登录";
+
+/* Password strength — Good */
+"Good" = "好";
+
+/* menu item */
+"Hide Activity" = "隐藏活动";
+
+/* menu item */
+"Hide Toolbar" = "隐藏工具栏";
+
+/* Sidebar category */
+"Identities" = "身份标识";
+
+/* button */
+"Import %d Selected Objects" = "导入%d所选对象";
+
+/* button */
+"Import Selected Object" = "导入所选对象";
+
+/* folder name */
+"Imported" = "导入";
+
+/* status message */
+"Importing Attachments" = "正在导入附件";
+
+/* error message */
+"Incorrect Password" = "密码不正确";
+
+/* error message */
+"Invalid Agile Keychain backup file" = "无效的 Agile Keychain 备份文件";
+
+/* error */
+"Invalid backup file name" = "无效的备份文件名";
+
+/* error */
+"Invalid backup file, encryption keys not found" = "无效的备份文件，未找到加密密钥";
+
+/* alert title */
+"Invalid import file" = "无效的导入文件";
+
+/* prompt */
+"It might take a while for Dropbox to finish syncing. Please make sure the sync is fully completed before using 1Password on other computers and devices." = "Dropbox 完成同步可能需要一些时间。请确保在其他电脑和设备使用 1Password 之前完成同步操作。";
+
+/* Item import status */
+"Item Exists" = "项目存在";
+
+/* intro message */
+"Keep name and address information to quickly register online with just one click in the browser." = "保存姓名和地址信息，只需在浏览器中点击一下即可进行快速在线注册。";
+
+/* status message */
+"Last modified %@" = "修改时间%@";
+
+/* search scope
+   table column */
+"Location" = "位置";
+
+/* pref pane
+   Sidebar category */
+"Logins" = "登录";
+
+/* info */
+"Master Password has been changed" = "主密码已更改";
+
+/* button */
+"Move items to Unfiled" = "将项目移至未归档";
+
+/* button */
+"Move to Trash" = "移至垃圾桶";
+
+/* status message */
+"Moving Items..." = "正在移动项目...";
+
+/* info */
+"Moving..." = "正在移动...";
+
+/* Last synced message */
+"Never" = "从不";
+
+/* folder */
+"New Folder" = "新建文件夹";
+
+/* Item import status */
+"New Item" = "新建项目";
+
+/* new password title */
+"New Password" = "新建密码";
+
+/* folder */
+"New Saved Search" = "新建保存搜索";
+
+/* Item import status */
+"Newer Item Exists" = "存在较新的项目";
+
+/* alert title */
+"No file format was selected" = "未选择文件格式";
+
+/* iPhone status */
+"Not Authorized (Allow New Connections in Settings > Sync > Wi-Fi)" = "未授权（在设置 > 同步 > Wi-Fi 中允许新建连接）";
+
+/* iPhone status */
+"Not reachable" = "无法访问";
+
+/* placeholder */
+"Notes" = "注释";
+
+/* button */
+"Nothing To Import" = "不导入";
+
+/* iPhone status */
+"Offline" = "离线";
+
+/* dialog */
+"OK" = "确定";
+
+/* Item import status */
+"Older Item Exists" = "存在较旧的项目";
+
+/* prompt */
+"Other computers sharing the same Dropbox will lose 1Password data. Please use File > Restore on other computers." = "共享同一 Dropbox 的其他电脑将丢失 1Password 数据。请在其他电脑上使用文件 > 还原操作。";
+
+/* form field
+   search scope */
+"Password" = "密码";
+
+/* error */
+"Password hint required" = "密码提示为必填项";
+
+/* table column */
+"Password Strength" = "密码强度";
+
+/* info */
+"Please contact AgileBits support." = "请联系 AgileBits 客户支持。";
+
+/* error */
+"Please enter at least one character." = "请至少输入一个字符。";
+
+/* error */
+"Please enter password hint." = "请输入密码提示。";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nExtended Attributes will be repaired," = "请输入您的 Mac OS X 密码。\n\n扩展属性将被修复，";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nFolder permissions will be reset," = "请输入您的 Mac OS X 密码。\n\n文件夹权限将被重置，";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nThe Launch Services database will be reset," = "请输入您的 Mac OS X 密码。\n\n启动服务数据库将被重置，";
+
+/* message */
+"Please make sure Dropbox is installed and running." = "请确保已安装并运行 Dropbox。";
+
+/* error */
+"Please make sure the file you are using for import is correct." = "请确认用于导入的文件是否正确。";
+
+/* info */
+"Please memorize the new master password." = "请记住新的主密码。";
+
+/* info */
+"Please restart 1Password." = "请重启 1Password。";
+
+/* error */
+"Please try again." = "请重试";
+
+/* prompt */
+"Please type your Mac OS X password" = "请输入您的 Mac OS X 密码";
+
+/* info */
+"Please wait..." = "请稍候...";
+
+/* alert message */
+"Previously imported objects were removed from the list." = "先前导入的对象已从列表移除。";
+
+/* alert info
+   alert message */
+"Proceed?" = "是否继续？";
+
+/* status message */
+"Processing" = "正在处理";
+
+/* export progress */
+"Processing Attachments (step 2 of 2)" = "正在处理附件（步骤 2/2）";
+
+/* export progress */
+"Processing Data (step 1 of 2)" = "正在处理数据（步骤 1/2）";
+
+/* button */
+"Replace" = "替换";
+
+/* object list menu */
+"Reverse Sort Order" = "反向排序";
+
+/* Item import status */
+"Same Item Exists" = "存在相同项";
+
+/* main window edit button */
+"Save" = "保存";
+
+/* search field placeholder */
+"Search" = "搜索";
+
+/* search scope */
+"Search:" = "搜索：";
+
+/* Sidebar category */
+"Secure Notes" = "安全备注";
+
+/* intro message */
+"Secure storage for any free-form text." = "安全存储任何自由格式的文本。";
+
+/* intro message */
+"Secure storage for computer accounts, including email, file sharing and MobileMe credentials." = "安全存储电脑帐户，包括电子邮件、文件共享和 MobileMe 凭证。";
+
+/* intro message */
+"Secure storage for financial and personal information, including credit cards and bank accounts." = "安全存储金融和个人信息，包括信用卡和银行帐户。";
+
+/* pref pane */
+"Security" = "安全";
+
+/* dropdown item */
+"Select Import Format" = "选择导入格式";
+
+/* search scope */
+"Selected Section" = "所选部分";
+
+/* button */
+"Send items to Trash" = "发送项目至垃圾桶";
+
+/* new password location */
+"Service or Application Name" = "服务或应用程序名称";
+
+/* accessibility description */
+"Shelves" = "货架";
+
+/* menu item */
+"Show Activity" = "显示活动";
+
+/* menu item */
+"Show Toolbar" = "显示工具栏";
+
+/* button
+   dialog */
+"Skip" = "跳过";
+
+/* Sidebar category */
+"Software" = "软件";
+
+/* button */
+"Stop using Dropbox" = "停止使用 Dropbox";
+
+/* title */
+"Stop Using Dropbox?" = "停止使用 Dropbox？";
+
+/* Sidebar group */
+"Sync" = "同步";
+
+/* sync detail view label */
+"Sync with %@" = "与%@同步";
+
+/* table column */
+"Tag" = "标签";
+
+/* Sidebar group */
+"Tags" = "标签";
+
+/* Password strength — Terrible */
+"Terrible" = "极弱";
+
+/* error */
+"The current password is not correct" = "当前密码不正确";
+
+/* info */
+"The extended attributes have been repaired successfully." = "扩展属性已成功修复。";
+
+/* alert message */
+"The file %1$@ failed to import: %2$@." = "无法导入文件%1$@：%2$@。";
+
+/* attachment warning */
+"The file %1$@ is (%2$@) in size.\nIt is going to be encrypted and stored in your data file. Adding a large attachment may slow and complicate data syncing.text" = "文件%1$@的大小为(%2$@)。\n其将在数据文件中进行加密和存储。添加过大的附件可能会导致数据同步变慢并变复杂。";
+
+/* attachment warning */
+"The file %1$@ is too large (%2$@).\nAttachments must be under 20 MB in size." = "文件%1$@太大（%2$@）。\n附件的大小必须小于 20 MB。";
+
+/* attachment warning */
+"The file %@ is a bundle or folder.\nAttachments must be regular files." = "文件%@是一个捆绑包或文件夹。\n附件必须是一个普通文件。";
+
+/* alert message */
+"The file could not be imported because the format was not selected. Try the import process again and be sure to specify the format." = "由于未选择格式，文件无法导入。请再次进行导入操作，并确保指定其格式。";
+
+/* alert message */
+"The file has been added as a secure attachment.\nYou can safely delete the original file." = "文件已被添加为安全附件。\n您可以安全地删除其原始文件。";
+
+/* alert message */
+"The file you are trying to import appears to be a binary file. Please try to open and view the contents of the file in TextEdit to make sure its contents is valid.\n\nIf you are opening the file directly from a network drive or USB disk then try to copy it to your local disk first." = "您要导入的文件似乎是一个二进制文件。请尝试在 TextEdit 打开并查看文件内容，以确保其内容有效。\n\n如果您是直接从网络驱动器或 U 盘打开文件，请先将其复制到本地硬盘。";
+
+/* alert message */
+"The files have been added as secure attachments.\nYou can safely delete the original files." = "文件已被添加为安全附件。\n您可以安全地删除其原始文件。";
+
+/* alert title */
+"The folder '%@' will be deleted" = "文件夹'%@'将被删除";
+
+/* info */
+"The folder permissions have been reset successfully." = "文件夹权限已成功重置。";
+
+/* alert */
+"The import file data has been edited." = "导入文件数据已被编辑";
+
+/* alert title */
+"The import was canceled" = "导入被取消";
+
+/* exporter */
+"The interchange file can be used to merge different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "交换格式文件可用于合并不同的 1Password 数据库\n，或作为未加密的备份文件。\n\n重要事项：文件未加密，必须进行保护。";
+
+/* alert title */
+"The item \"%@\" will be deleted" = "\"%@\"项将被删除";
+
+/* info */
+"The Launch Services database has been successfully reset." = "启动服务数据库已成功重置。";
+
+/* error */
+"The password can not be blank" = "密码不能为空";
+
+/* alert message */
+"There are 0 passwords to import." = "要导入的密码个数为 0。";
+
+/* alert message */
+"This operation can not be undone." = "此操作无法撤消。";
+
+/* search scope
+   table column */
+"Title" = "标题";
+
+/* time */
+"tomorrow" = "明天";
+
+/* accessibility description */
+"Traditional" = "传统";
+
+/* sidebar category */
+"Trash" = "垃圾桶";
+
+/* table column */
+"Type" = "类型";
+
+/* iPhone/iPod touch type */
+"Unknown" = "未知";
+
+/* button */
+"Use Dropbox" = "使用 Dropbox";
+
+/* title */
+"Use Dropbox?" = "使用 Dropbox？";
+
+/* form field
+   search scope */
+"Username" = "用户名称";
+
+/* intro message */
+"Usernames and passwords for websites. Use browser extensions to save and fill Logins for you." = "网站用户名和密码。可使用浏览器扩展保存并填充登录信息。";
+
+/* Sidebar group */
+"Vault" = "保管库";
+
+/* Sidebar category */
+"Wallet" = "钱包";
+
+/* Password strength — Weak */
+"Weak" = "弱";
+
+/* accessibility description */
+"Widescreen" = "宽屏幕";
+
+/* info */
+"Would you like to continue?" = "是否要继续？";
+
+/* alert message */
+"Would you like to move the folder items to Unfiled folder or send them to Trash?" = "您想将文件夹项目移至未归档文件夹还是发送到垃圾桶？";
+
+/* time */
+"yesterday" = "昨天";
+
+/* info */
+"You can now install 1Password from the App Store." = "您现在可以从 App Store 安装 1Password。";
+
+/* error message */
+"You have selected the current data file instead of a backup file." = "您选择了当前数据文件而非备份文件。";
+
+/* title */
+"Your data is not stored in Dropbox anymore" = "您的数据已不再存储于 Dropbox";
+
+/* title */
+"Your data is now in Dropbox" = "您的数据现已保存到 Dropbox";
+
+/* prompt */
+"Your data will be moved into the Dropbox folder for easy syncing with other computers and devices.\n\n1Password will also make an additional backup copy of your data." = "您的数据将保存到 Dropbox 文件夹以便与其他电脑和设备同步。\n\n1Password 亦将为您的数据保存一分额外备份副本。";
+
+/* prompt */
+"Your data will be moved out of the Dropbox folder.\n\nIMPORTANT: If you have other computers using Dropbox, make sure they all have a backup copy (File > Backup menu)." = "您的数据将从 Dropbox 文件夹中移除。\n\n重要事项：如果您有其他电脑在使用 Dropbox，请确保它们都有一份备份副本（文件 > 备份菜单）。";
+
+/* error */
+"Your new password is not the same as the verify password" = "您的新密码与验证密码不同";
+
+/* Title for the duplicated item */
+"%@ Copy" = "%@ 拷贝";
+
+/* Hot Keys: Key Combo text for 'empty' combo */
+"(None)" = "（无）";
+
+/* No comment provided by engineer. */
+"Account" = "账户";
+
+/* folder */
+"All" = "所有";
+
+/* change folder security level */
+"Apply security level to folder contents?" = "应用安全级别至文件夹内容？";
+
+/* menu */
+"Choose All from %@" = "从%@选择全部";
+
+/* menu */
+"Choose from %@" = "从%@选择";
+
+/* change folder security level */
+"Don't Change Folder Contents" = "请勿更改文件夹内容";
+
+/* error */
+"Encryption keys file exist but cannot be loaded from '%@'" = "加密密钥文件存在，但不能从'%@' 加载";
+
+/* error */
+"Failed to load encryption key from '%1$@', error: %2$@" = "无法从'%1$@加载加密密钥，错误：%2$@";
+
+/* alert title */
+"Failed to open attachment." = "无法打开附件。";
+
+/* item type */
+"Generated Password" = "生成密码";
+
+/* iPhone Security Level */
+"High (Master Password)" = "高（主密码）";
+
+/* item type */
+"Identity" = "身份标识";
+
+/* info */
+"In 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again." = "在您的 iPhone 或 iPod touch 上的 1Password 中，选择设置 >  Wi-Fi 同步 > 允许新建连接，然后重试。";
+
+/* error */
+"Incorrect response received from iPhone. Please restart Mac and iPhone applications and try to sync again" = "未从 iPhone 收到正确的响应。请重启 Mac 和 iPhone 应用程序，并重新进行同步";
+
+/* alert title */
+"Incorrect secret" = "安全码不正确";
+
+/* item type */
+"Login" = "登录";
+
+/* iPhone Security Level */
+"Low (4-Digit Code)" = "低（4 位数字代码）";
+
+/* change folder security level */
+"Make Folder Contents High Security" = "将文件内容设置为高安全级别";
+
+/* info */
+"New connections are disabled by 1Password touch" = "1Password touch 禁用了新建连接";
+
+/* info */
+"New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "新建连接被 1Password touch 禁用。\n\n请在您 iPhone 或 iPod touch 的 1Password 中，选择设置 > Wi-Fi 同步 > 允许新建连接，然后重试。";
+
+/* label */
+"Password" = "密码";
+
+/* alert message */
+"Please enter the secret as it is shown on iPhone" = "请输入 iPhone 中显示的安全码";
+
+/* item type */
+"Secure Note" = "安全备注";
+
+/* item type */
+"Software" = "软件";
+
+/* alert title */
+"Sync Conflict Resolver Window" = "同步冲突解决程序窗口";
+
+/* error */
+"Sync failed, 1Password is locked" = "无法同步，1Password 已锁定";
+
+/* alert message */
+"The attachment %1$@ failed to open: %2$@.x" = "附件%1$@无法打开：%2$@。x";
+
+/* error */
+"The encryption keys file does not exist at '%@'" = "'%@' 不存在加密密钥文件";
+
+/* folder */
+"Trash" = "垃圾桶";
+
+/* smart folder */
+"Unfiled" = "未归档";
+
+/* Unknown wallet type */
+"Unknown" = "未知";
+
+/* smart folder */
+"Untagged" = "未标记";
+
+/* No comment provided by engineer. */
+"Wallet" = "钱包";
+
+/* error */
+"Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "Wi-Fi 连接失败。请在您的 iPhone 上重启并解锁 1Password touch。";
+
+/* change folder security level */
+"You are changing the folder \"%@\" to high security mode.\nDo you also want to set the items in this folder to high security?" = "您正在更改文件夹\"%@\"为高安全性模式。\n您是否想将该文件夹中的项目也设置成高安全性？";
+

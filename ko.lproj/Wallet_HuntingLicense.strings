@@ -1,0 +1,13 @@
+"__title__" = "수렵면허";
+
+"name" = "성명";
+"valid_from" = "취득일";
+"valid_from#9" = "유효";
+"expires" = "만료";
+"game" = "1종면허";
+"game#9" = "2종면허";
+"quota" = "3종면허";
+"quota#9" = "수렵한도";
+"state" = "주";
+"country" = "국가";
+

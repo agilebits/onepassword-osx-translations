@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
+"Last synced" = "Ultima sincronizzazione:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
+"title" = "titolo";
+
+/* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Avvia e sblocca 1Password touch su iPhone per eseguire la sincronizzazione Wi-Fi";
+
+/* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
+"Sync all items" = "Sincronizza tutti gli elementi";
+
+/* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
+"Sync only selected folders" = "Sincronizza solo le cartelle selezionate";
+
+/* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
+"Wi-Fi Status" = "Stato Wi-Fi";
+
+/* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "Se spuntata, 1Password sostituirà le informazioni su questo iPhone con quelle di questo computer.";
+
+/* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
+"Replace information on this iPhone" = "Sostituisci informazioni su questo iPhone";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
+"Manually" = "Manuale";
+
+/* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
+"Sync Now" = "Sincronizza ora";
+
+/* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
+"Device type" = "Tipo di dispositivo";
+
+/* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
+"Automatically" = "Automatico";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
+"Wi-Fi status" = "Stato Wi-Fi";
+

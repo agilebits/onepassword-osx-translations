@@ -1,0 +1,21 @@
+"__title__" = "운전면허증";
+
+"fullname" = "성명";
+"address" = "주소";
+"birthdate" = "출생일";
+"birthdate#9" = "생일";
+"sex" = "성별";
+"height" = "신장";
+"number" = "번호";
+"class" = "면허 종류";
+"class#9" = "종류";
+"conditions" = "요건 / 제약";
+"conditions#9" = "요건";
+"state" = "주";
+"country" = "국가";
+"expiry_date" = "만료일";
+"expiry_date#9" = "만료";
+
+"menu.sex." = "";
+"menu.sex.male" = "남";
+"menu.sex.female" = "여";

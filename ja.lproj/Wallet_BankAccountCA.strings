@@ -1,0 +1,24 @@
+"__title__" = "銀行口座 (CA)";
+"__description__" = "カナダの銀行口座情報";
+
+"bankName" = "銀行名";
+"owner" = "口座名義";
+"accountType" = "種類";
+"transitNo" = "支店番号";
+"instNo" = "銀行番号";
+"accountNo" = "口座番号";
+"swift" = "SWIFT コード";
+"iban" = "IBAN 番号";
+"branchInfo" = "支店情報";
+"branchPhone" = "電話番号";
+"branchAddress" = "住所";
+"telephonePin" = "電話PIN";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "当座預金";
+"menu.accountType.savings" = "普通預金";
+"menu.accountType.loc" = "信用与信枠";
+"menu.accountType.money_market" = "マネーマーケット";
+"menu.accountType.other" = "その他";
+
+

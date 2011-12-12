@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Agile"; ObjectID = "260"; */
+"Agile" = "Agile";
+
+/* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "248"; */
+"Email" = "电子邮件";
+
+/* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "不要错过 1Password 的重要更新和了解新功能和改进之处的机会。\n\n我们所有的电子邮件订阅都提供了一个简单的退订链接，如果您随后改变了主意，点击一下即可。";
+
+/* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
+"Stay In Touch" = "保持联系";
+
+/* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
+"No, thanks" = "不用，谢谢！";
+
+/* Class = "NSTextFieldCell"; title = "Copied from your Address Book card"; ObjectID = "269"; */
+"Copied from your Address Book card" = "从您的通讯录名片复制";
+
+/* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "242"; */
+"Sign Up" = "注册";
+
+/* Class = "NSTextFieldCell"; title = "News & Updates"; ObjectID = "258"; */
+"News & Updates" = "新闻与更新";
+

@@ -1,0 +1,39 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "password hint"; ObjectID = "44"; */
+"password hint" = "recordatorio de contraseña";
+
+/* Class = "NSWindow"; title = "Welcome to 1Password"; ObjectID = "1"; */
+"Welcome to 1Password" = "Bienvenido a 1Password";
+
+/* Class = "NSTextFieldCell"; title = "Re-type Password"; ObjectID = "88"; */
+"Re-type Password" = "Vuelva a introducir la contraseña";
+
+/* Class = "NSTextFieldCell"; title = "Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place."; ObjectID = "78"; */
+"Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place." = "Su información se encriptará con la contraseña principal que introduzca a continuación. La contraseña principal es la única contraseña que tiene que recordar. Le sugerimos utilizar como contraseña principal una frase fácil de recordar además de guardar una copia escrita de la misma en un lugar seguro.";
+
+/* Class = "NSButtonCell"; title = "Sync encrypted data with Dropbox"; ObjectID = "113"; */
+"Sync encrypted data with Dropbox" = "Datos encriptadas de sincronización con Dropbox";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "master password"; ObjectID = "32"; */
+"master password" = "contraseña principal";
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "86"; */
+"Master Password" = "Contraseña principal";
+
+/* Class = "NSButtonCell"; title = "Find It"; ObjectID = "107"; */
+"Find It" = "Buscarla";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint"; ObjectID = "90"; */
+"Password Hint" = "Recordatorio de contraseña";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "109"; */
+"help" = "ayuda";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "7"; */
+"Continue" = "Continuar";
+
+/* Class = "NSTextFieldCell"; title = "Have information from a previous installation?"; ObjectID = "105"; */
+"Have information from a previous installation?" = "¿Tiene información de una instalación anterior?";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "re-type password"; ObjectID = "38"; */
+"re-type password" = "vuelva a introducir la contraseña";
+

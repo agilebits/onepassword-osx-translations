@@ -1,0 +1,9 @@
+"__title__" = "MySQL 데이터베이스";
+"__description__" = "MySQL 데이터베이스 연결 정보";
+
+"hostname" = "호스트명";
+"port" = "포트 (3306)";
+"database" = "데이터베이스";
+"username" = "아이디";
+"password" = "비밀번호";
+ 

@@ -1,0 +1,34 @@
+"__title__" = "Passaporto";
+"__description__" = "Passaporto emesso dal governo.";
+
+"type" = "Tipo";
+"fullname" = "Nome completo";
+"number" = "Numero";
+"birthdate" = "Data di nascita";
+"birthplace" = "Luogo di nascita";
+"nationality" = "Nazionalità";
+"code" = "Codice";
+"sex" = "Sesso";
+"issuing_country" = "Paese di emissione";
+"issuing_authority" = "Ente di emissione";
+"issue_date" = "Emesso il";
+"expiry_date" = "Data di scadenza";
+
+"menu.sex." = "";
+"menu.sex.male" = "Maschio";
+"menu.sex.female" = "Femmina";
+
+
+
+"type#9" = "Tipo";
+"fullname#9" = "Nome";
+"number#9" = "Numero";
+"birthdate#9" = "Nato il";
+"birthplace#9" = "Luogo";
+"nationality#9" = "Nazion.";
+"code#9" = "Codice";
+"sex#9" = "Sesso";
+"issuing_country#9" = "Paese";
+"issuing_authority#9" = "Ente";
+"issue_date#9" = "Emesso";
+"expiry_date#9" = "Scadenza";

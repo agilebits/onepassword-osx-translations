@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
+"Last synced" = "Dernière synchronisation";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
+"title" = "titre";
+
+/* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Démarrez et déverrouillez 1Password touch sur votre iPhone pour lancer la synchronisation Wi-Fi";
+
+/* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
+"Sync all items" = "Synchroniser tous les objets";
+
+/* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
+"Sync only selected folders" = "Synchroniser uniquement les dossiers sélectionnés";
+
+/* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
+"Wi-Fi Status" = "Statut Wi-Fi";
+
+/* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "Cocher cette option pour que 1Password remplace les informations de cet iPhone par d'autres provenant de cet ordinateur.";
+
+/* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
+"Replace information on this iPhone" = "Remplacer les informations sur cet iPhone";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
+"Manually" = "Manuellement";
+
+/* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
+"Sync Now" = "Synchroniser maintenant";
+
+/* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
+"Device type" = "Type de système";
+
+/* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
+"Automatically" = "Automatiquement";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
+"Wi-Fi status" = "Statut Wi-Fi";
+

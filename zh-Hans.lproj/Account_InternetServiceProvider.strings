@@ -1,0 +1,16 @@
+"__title__" = "互联网服务提供商";
+"__description__" = "由您的互联网服务提供商 (ISP) 提供的互联网连接信息。";
+
+"userid" = "用户 ID";
+"password" = "密码";
+"pin" = "PIN";
+"dialup_number" = "拨号接入号码";
+"dialup_number#9" = "拨号 ＃";
+"Contact Information" = "联系信息";
+"Contact Information#9" = "联系人";
+"website" = "网站";
+"phone_local" = "电话（本地）";
+"phone_local#9" = "电话";
+"phone_tollfree" = "电话（免费）";
+"phone_tollfree#9" = "免费电话";
+ 

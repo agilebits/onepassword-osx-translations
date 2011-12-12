@@ -1,0 +1,25 @@
+"__title__" = "Programa de bonificaciones";
+"__description__" = "Programas de fidelidad del cliente, incluyendo frecuentes folletos y bonificaciones de hotel";
+
+"company_name" = "Nombre de empresa";
+"member_name" = "Nombre de miembro";
+"member_since" = "Miembro desde";
+"membership_no" = "Nº de miembro";
+"additional_no" = "Nº de miembro (adicional)";
+"pin" = "PIN";
+"customer_service_phone" = "Teléfono de atención al cliente";
+"reservations_phone" = "Teléfono de reservas";
+"website" = "Página web";
+"extra" = "Más información";
+
+
+"company_name#9" = "Empresa";
+"member_name#9" = "Nombre";
+"member_since#9" = "Desde";
+"membership_no#9" = "Número";
+"additional_no#9" = "Número 2";
+"pin#9" = "PIN";
+"customer_service_phone#9" = "Serv. al client.";
+"reservations_phone#9" = "Reserv.";
+"website#9" = "Página web";
+"extra#9" = "Más información";

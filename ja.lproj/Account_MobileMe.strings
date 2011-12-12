@@ -1,0 +1,14 @@
+"__title__" = "MobileMe";
+"__description__" = "Apple の MobileMe サービスの登録およびログイン情報";
+ 
+"email" = "メール（name@me.com）";
+"email#9" = "メール";
+"member_name" = "メンバー";
+"password" = "パスワード";
+"idisk_storage" = "iDisk の空き容量";
+"idisk_storage#9" = "容量";
+"renewal_date" = "更新日";
+"renewal_date#9" = "更新";
+"activation_key" = "アクティベーションキー";
+"activation_key#9" = "アクティベーション";
+ 

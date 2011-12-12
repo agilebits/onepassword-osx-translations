@@ -1,0 +1,1210 @@
+/* Activity message */
+"%1$d of %2$d - %3$@" = "%2$dの%1$d- %3$@";
+
+/* error description */
+"1Password can only run from the Applications folder" = "1Password がアプリケーションフォルダからでないと実行できない";
+
+/* alert message */
+"1Password could not be unlocked with the password you provided. Please verify the password and try again." = "1Password は提供されたパスワードでロック解除ができませんでした。パスワードを確認し、もう一度試してください。";
+
+/* error title */
+"1Password failed to start its helper" = "1Password がヘルパーの起動に失敗";
+
+/* error */
+"1Password File '%@' is incorrect or damaged. Please choose another file." = "1Password ファイル '%@' は不正または破損しています。別のファイルを選択してください。";
+
+/* alert title
+   error */
+"1Password Interchange Format" = "1Password の互換形式";
+
+/* message */
+"A backup copy of your data was created before the merge." = "データのバックアップコピーがマージ前に作成されました。";
+
+/* message */
+"A backup copy of your original data was also created" = "元のデータのバックアップコピーも作成されました";
+
+/* No comment provided by engineer. */
+"A Ruby interpreter is required to perform your request, however Ruby cannot be found on this system. Please contact AgileBits for assistance." = "Ruby インタプリタがあなたの要求を実行する必要がありますが、Ruby はこのシステム上にみつかりません。ご質問は AgileBits にお問い合わせください。";
+
+/* adding sample data activity */
+"Adding Sample Data" = "サンプルデータ追加";
+
+/* info */
+"Apply to all" = "すべてに適用";
+
+/* error */
+"Backup failed: %@" = "バックアップ失敗: %@";
+
+/* info */
+"Backup up existing data..." = "既存データのバックアップ...";
+
+/* button */
+"Cancel" = "キャンセル";
+
+/* message */
+"Cannot merge selected file with your data" = "自分のデータで選択したファイルをマージすることはできません";
+
+/* button */
+"Continue" = "続行";
+
+/* button */
+"Continue, Dropbox sync is complete!" = "続行、Dropbox 同期完了！";
+
+/* info */
+"Copying file..." = "ファイルをコピー...";
+
+/* info */
+"Copying new file..." = "新規ファイルをコピー...";
+
+/* button */
+"Create New" = "新規作成";
+
+/* info */
+"Deleting existing file..." = "既存ファイルの削除...";
+
+/* info */
+"Do you want to create another entry?" = "別のエントリを作成しますか？";
+
+/* error */
+"E-mail address is not valid." = "E メールアドレスが有効ではありません。";
+
+/* error */
+"E-mail should be of the format name@domain.com." = "E メールの書式は name@domain.com にしてください。";
+
+/* unlock prompt */
+"Enter your master password to change this setting" = "この設定を変更するにはマスターパスワードを入力してください。";
+
+/* unlock prompt */
+"Enter your master password to unlock 1Password." = "マスターパスワードを入力し、1Password のロックを解除してください。";
+
+/* error */
+"Failed to copy '%1$@' to '%2$@': %3$@" = "'%1$@’を'%2$@へコピーすることに失敗しました：%3$@";
+
+/* message */
+"Failed to copy selected file" = "選択したファイルのコピーに失敗しました";
+
+/* info */
+"Failed to Go & Fill" = "Go & Fill に失敗しました";
+
+/* info */
+"Failed to launch browser for the url: %@" = "次の URL に対してブラウザを起動できませんでした：%@";
+
+/* info */
+"Failed to open web page: %@" = "ウェブページを開くことに失敗しました： %@";
+
+/* error */
+"Failed to rename '%1$@' to '%2$@': %3$@" = "'%1$@' を '%2$@'に名前を変更することに失敗しました： %3$@";
+
+/* error */
+"Failed to resolve URL bookmark." = "URL のブックマークの解決ができませんでした。";
+
+/* error */
+"Failed to resolve URL bookmark: %@" = "URL のブックマークの解決に失敗しました：%@";
+
+/* window title */
+"Find Existing 1Password File" = "既存の 1Password ファイルを検索する";
+
+/* Go and Fill menu */
+"Folders" = "フォルダ";
+
+/* button */
+"Go Back" = "戻る";
+
+/* product web page */
+"http://agilebits.com/products/1Password" = "http://agilebits.com/products/1Password";
+
+/* product store page */
+"https://agilebits.com/store" = "https://agilebits.com/store";
+
+/* message */
+"I have found a new data file in Dropbox:\n%@\n\nIt looks like you've recently synced your data with Dropbox. Would you like me to use this data file (recommended)?\n" = "Dropbox:
+%@
+
+に新しいデータファイルがみつかりました。あなたはどうやら最近 Dropbox とデータを同期したようです。このデータファイルを使いますか（推奨）？
+";
+
+/* info */
+"Importing..." = "インポート...";
+
+/* alert title */
+"Incorrect File Type" = "不正なファイルタイプ";
+
+/* error */
+"Invalid path: %@" = "不正なパス: %@";
+
+/* title */
+"Is the Dropbox Sync Complete?" = "Dropbox の同期は完了しましたか？";
+
+/* button */
+"Learn How to Resolve This" = "解決方法を学ぶ";
+
+/* menu item */
+"Lock 1Password" = "1Password をロック";
+
+/* info */
+"Master Password Does Not Match" = "マスターパスワードが一致しません";
+
+/* button */
+"Merge" = "マージ";
+
+/* alert message */
+"Merge will combine the contents of the selected file with your current data.\n\nReplace will remove your existing data and copy over the selected file." = "マージは選択したファイルのコンテンツと現在のデータを組み合わせます。\n\n置換は既存のデータを削除し、選択されたファイルをコピーします。";
+
+/* info */
+"Merging data..." = "データのマージ...";
+
+/* title */
+"Newer 1Password File Found In Dropbox" = "Dropbox に最新の 1Password ファイルがある";
+
+/* button */
+"No, do not change data file" = "いいえ、データファイルを変更しません";
+
+/* status message */
+"One moment please..." = "しばらくお待ちください...";
+
+/* message */
+"Operation Failed" = "操作は失敗しました";
+
+/* alert message */
+"Password Hint" = "パスワードのヒント";
+
+/* info */
+"Password Hint is Missing" = "パスワードのヒントがありません";
+
+/* info */
+"Password is too long for Login" = "ログインのパスワードが長すぎます";
+
+/* info */
+"Please enter at least one character." = "最低でも 1 文字入力してください。";
+
+/* info */
+"Please enter the master password again." = "もう一度マスターパスワードをご入力ください。";
+
+/* info */
+"Please enter the password hint." = "パスワードヒントをご入力ください。";
+
+/* error title */
+"Please install 1Password in Applications" = "1Password はアプリケーションにインストールしてください";
+
+/* message */
+"Please make sure that the Dropbox icon in your menu bar at the top of your screen is not spinning (it animates while syncing).\n\nClick the icon and make sure that \"All files up to date\" is displayed in the Dropbox menu.\n\nIf you do not see the Dropbox icon, please make sure Dropbox application is started." = "画面上部のメニューバーの Dropbox アイコンが回転しないようにします（同期中は動きます）。
+
+アイコンをクリックし、\”全てのデータを更新\”が Dropbox メニューに表示されていることを確認してください。
+
+Dropbox アイコンがない場合は、Dropbox アプリケーションが起動していることを確認してください。";
+
+/* alert message */
+"Please select another file" = "他のファイルを選択してください";
+
+/* info */
+"Please wait..." = "しばらくお待ちください...";
+
+/* rebuild progress */
+"Processing Data" = "データを処理中です";
+
+/* button */
+"Quit" = "終了";
+
+/* button */
+"Replace" = "置換";
+
+/* button */
+"Restore" = "復元";
+
+/* alert title */
+"Restore Backup" = "バックアップを復元する";
+
+/* button */
+"Save" = "保存";
+
+/* button */
+"Shorten Password and Fill" = "パスワードを短縮して入力";
+
+/* Activity message */
+"Starting..." = "開始...";
+
+/* Activity message */
+"Stopping..." = "終了...";
+
+/* Go and Fill menu */
+"Tags" = "タグ";
+
+/* info */
+"The application will update all items in the data file. This might take a few minutes..." = "アプリケーションはデータファイル内のすべての項目をアップデートします。これには数分かかります...";
+
+/* info */
+"The data file has been rebuilt. The application will now reload the data." = "データファイルが再構築されました。アプリケーションはデータをリロードします。";
+
+/* message */
+"The file you selected was copied and is ready to use." = "選択したファイルがコピーされ、使用できるようになりました。";
+
+/* message */
+"The original file will remain intact." = "元のファイルはそのまま残ります。";
+
+/* info */
+"The password can not be blank" = "パスワードは空白にすることはできません";
+
+/* alert title */
+"This data file is not valid and cannot be used by 1Password" = "このデータファイルは有効ではなく、1Password で使用できません。";
+
+/* message */
+"This file is a 1Password Interchange File.\nUse File > Import menu to import this file." = "このファイルは1Password Interchange ファイルです。
+ファイル使用 > インポートメニューでこのファイルをインポートします。";
+
+/* message */
+"This file is not a 1Password backup.\nPlease select a .agilekeychain_zip or .agilekeychain_backup file." = "このファイルはこのファイルは1Password\n のバックアップではありません。
+.agilekeychain_zip または .agilekeychain_backup ファイルを選択してください。";
+
+/* error message */
+"This problem is often caused by incorrect file permissions.\n\nPlease search 1Password Knowledge Base for 'helper startup' or contact us at support@agilebits.com for more information.\n" = "この問題は、しばしば誤ったファイルアクセス権によって起ります。\n\n1Password Knowledge Base で「ヘルパーの起動」を検索するか、さらに詳しい情報についてはsupport@agilebits.com にお問い合わせください。\n";
+
+/* info */
+"This web page accepts passwords up to %jd characters in length." = "このウェブページは %jd 文字までの長さのパスワードを受け入れます。";
+
+/* message */
+"This will replace your current 1Password data with the selected backup." = "これは現在の 1Password データを選択されたバックアップと置換します。";
+
+/* error */
+"To import this file, set up 1Password as a new user and then choose File > Import..." = "このファイルをインポートするには、1Password を新規ユーザーとして選択し、それからファイル>インポート…を選択します。";
+
+/* button */
+"Try Again" = "やり直す";
+
+/* alert message */
+"Unable to unlock 1Password" = "1Password をロック解除できません";
+
+/* menu item */
+"Unlock 1Password" = "1Password をロック解除";
+
+/* unlock prompt */
+"Unlock 1Password to Autosave the Login." = "ログインを自動保存するには 1Password をロック解除してください。";
+
+/* unlock prompt */
+"Unlock 1Password to edit the item." = "その項目を編集するには 1Password をロック解除してください。";
+
+/* unlock prompt */
+"Unlock 1Password to fill credit card." = "クレジットカード情報を入力するには、 1Password を解除してください。";
+
+/* unlock prompt */
+"クレジットカードを入力するには 1Password をロック解除してください。ログイン情報を入力するには 1Password をロック解除してください。";
+
+/* unlock prompt */
+"Unlock ログインを入力するには 1Password をロック解除してください。password." = "生成されたパスワードを入力するには 1Password をロック解除してください。";
+
+/* unlock pr生成されたパスワードを入力するには 1Password をロック解除してください。 "パスワードを読み込むには 1Password をロック解除してください。";
+
+/* unlock prompt */
+"Unlock 1Password to remove the item." = "その項目を取り除くには 1Password をロック解除してください。";
+
+/* unlock prompt */
+"Unlock 1Password to save the generated password." = "生成されたパスワードを保存するには 1Password をロック解除してください。";
+
+/* unlock prompt */
+"Unlock 1Password to save the Login." = "ログインを保存するには 1Password をロック解除してください。";
+
+/* unlock prompt */
+"Unlock 1Password to update Login." = "ログインをアップデートするには 1Password をロック解除してください。";
+
+/* unlock prompt */
+"Unlock 1Password to use Identity." = "個人情報を使用するには 1Password をロック解除してください。";
+
+/* prompt */
+"Unlock chosen file to merge with your data" = "あなたのデータとマージするには選択されたファイルをロック解除します";
+
+/* prompt */
+"Unlock current data to merge" = "現在のデータをロック解除してマージします";
+
+/* menu item */
+"Unlock..." = "ロック解除...";
+
+/* button */
+"Update Existing" = "既存の更新";
+
+/* Activity status */
+"Updating Previews" = "プレビューの更新";
+
+/* alert title */
+"Would you like to merge or replace your data with the selected file?" = "選択したファイルとデータをマージまたは置換しますか？";
+
+/* button */
+"Yes, use this data file" = "はい、このデータファイルを使います";
+
+/* info */
+"You already have a software license entry for %@." = "%@のソフトウェアエントリが既にあります。";
+
+/* message */
+"Your data was merged with the contents of the selected file." = "あなたのデータは選択したファイルのコンテンツとマージされました。";
+
+/* message */
+"Your data was replaced with the contents of the selected file." = "あなたのデータは選択したファイルのコンテンツと置換されました。";
+
+/* context menu */
+" (Low Security)" = " (低セキュリティ)";
+
+/* file size */
+"%.1f GB" = "%.1f GB";
+
+/* file size */
+"%.1f MB" = "%.1f MB";
+
+/* number of items sorted by ... */
+"%@ items by" = "%@ 項目：";
+
+/* alert title */
+"%d attachments will be Deleted" = "%d 添付ファイルが削除されます";
+
+/* time */
+"%d days ago" = "%d 日前";
+
+/* time */
+"%d days from now" = "今から%d 日後";
+
+/* time */
+"%d hours ago" = "%d 時間前";
+
+/* time */
+"%d hours from now" = "今から%d 時間後";
+
+/* alert info */
+"%d item(s) will be permanently destroyed. You cannot undo this action." = "%d 項目が破棄されます。この操作は取り消しできません。";
+
+/* alert title */
+"%d items will be deleted" = "%d 項目が削除されます";
+
+/* time */
+"%d minutes ago" = "%d 分前";
+
+/* time */
+"%d minutes from now" = "今から%d 分後";
+
+/* alert message */
+"%d objects will be moved to the Trash" = "%d  オブジェクトがゴミ箱に移動されます";
+
+/* time */
+"%d secon%d オブジェクトがゴミ箱に移動されます%d 秒前";
+
+/* time */
+"%d seconds from now" = "今から%d 秒後";
+
+/* time */
+"%d weeks ago" = "%d 週間前";
+
+/* time */
+"%d weeks from now" = "今から%d週間後";
+
+/* time */
+"%d years ago" = "%d 年前";
+
+/* time */
+"%d years from now" = "今から%d 年後";
+
+/* file size */
+"%llu bytes" = "%llu bytes";
+
+/* file size */
+"%llu KB" = "%llu KB";
+
+/* No comment provided by engineer. */
+"(Multiple)" = "（複数）";
+
+/* No comment provided by engineer. */
+"(None)" = "（なし）";
+
+/* unlock error message */
+"(try disabling the caps lock key)" = "（キャップロックキーを無効にしてみてください）";
+
+/* *** Digest Password Required *** */
+"*** Digest Password Required ***" = "*** ダイジェストパスワードが必要です ***";
+
+/* credit card month */
+"01 (January)" = "01 (１月)";
+
+/* credit card month */
+"02 (February)" = "02 (２月)";
+
+/* credit card month */
+"03 (March)" = "03 (３月)";
+
+/* credit card month */
+"04 (April)" = "04 (４月)";
+
+/* credit card month */
+"05 (May)" = "05 (５月)";
+
+/* credit card month */
+"06 (June)" = "06 (６月)";
+
+/* credit card month */
+"07 (July)" = "07 (７月)";
+
+/* credit card month */
+"08 (August)" = "08 (８月)";
+
+/* credit card month */
+"09 (September)" = "09 (９月)";
+
+/* credit card month */
+"10 (October)" = "10 (１０月)";
+
+/* credit card month */
+"11 (November)" = "11 (１１月)";
+
+/* credit card month */
+"12 (December)" = "12 (１２月)";
+
+/* info */
+"1Password will download all missing icons and previews" = "1Password はすべての欠けているアイコンやプレビューをダウンロードします";
+
+/* info */
+"1Password will visit every website stored in Logins as if you visited that website in Safari. The website could save your IP address, general location, and operating system information. Note that 1Password will NOT log into the site, only capture a picture of the login page. If you have privacy concerns about connecting to any of your saved sites from your current location, please Cancel.\n\nDepending on the number of saved Logins the download can take several hours and use significant network bandwidth." = "1Password は皆さんが Safari でウェブサイトを訪れるのと同じくログインに保存したすべてのウェブサイトを訪問します。そのウェブサイトは皆さんの IP アドレス、場所、オペレーティングシステム情報を保存できます。1Password はサイトにはログインしません。ログインページの画面ショットを撮るだけです。保存してあるサイトに今の場所から接続する際、プライバシーが気になる場合は、キャンセルしてください。\n\n保存されたログインの数によって、ダウンロードに数時間かかったり、ネットワークの帯域幅を消費したりすることがあります。1Password は皆さんが Safari でウェブサイトを訪れるのと同じくログインに保存したすべてのウェブサイトを訪問します。そのウェブサイトは皆さんの IP アドレス、場所、オペレーティングシステム情報を保存できます。1Password はサイトにはログインしません。ログインページの画面ショットを撮るだけです。保存してあるサイトに今の場所から接続する際、プライバシーが気になる場合は、キャンセルしてください。\n\n保存されたログインの数によって、ダウンロードに数時間かかったり、ネットワークの帯域幅を消費したりすることがあります。\"%@\" は削除されます";
+
+/* alert message */
+"\"%@\" will be moved to Trash" = "\"%@\" をゴミ箱へ移動します";
+
+/* alert message */
+"\n\nPassword Hint: %@\n" = "\n\nパスワードのヒント：%@\n";
+
+/* warning */
+"\nNOTE: CAPS LOCK KEY IS PRESSED" = "\n注：CAPS LOCKキーが押されています";
+
+/* time */
+"a minute ago" = "1 分前";
+
+/* time */
+"a minute from now" = "今から 1 分後";
+
+/* time */
+"a year ago" = "1 年前";
+
+/* time */
+"a year from now" = "今から 1 年後";
+
+/* Sidebar category */
+"Accounts" = "アカウント";
+
+/* panel title */
+"ACTIVITY" = "アクティビティ";
+
+/* attachment warning */
+"Add Attachment" = "添付ファイルを追加";
+
+/* button */
+"Add Both" = "両方追加";
+
+/* pref pane */
+"Advanced" = "詳細設定";
+
+/* info */
+"All login icons and previews will be deleted" = "すべてのログインアイコンとプレビューが削除されます";
+
+/* alert message */
+"An attachment named %@ already exists.\nDo you want to replace it with the one you are moving?" = "%@ という名称の添付ファイルは既に存在します。\nこれを移動中のファイルと置き換えますか？読み込まれたオブジェクトは既にリストから取り除かれました。e you are moving?";
+
+/* time */
+"an hour ago" = "1 時間前";
+
+/* time */
+"an hour from now" = "今から1 時間後";
+
+/* alert message */
+"An item named %@ already exists at this location.\nDo you want to replace it with the one you are moving?" = "%@ という名前の項目はこの場所に既に存在します。\nこれを移動中の項目と置き換えますか？";
+
+/* alert message */
+"Are you sure you want to permanently remove all items in the Trash?" = "ゴミ箱のすべての項目を取り除いてもよろしいですか？";
+
+/* attachment warning */
+"Attachment is too big" = "添付ファイルが大きすぎます";
+
+/* alert message */
+"Attachment named %@ failed to exすべての項目を取り除いてもよろしいですか？%@ という名前の添付ファイルを書き出しできませんでした。";
+
+/* alert title */
+"Attachment with the same name already exists" = "同じ名前の添付ファイルが既に存在します添付ファイルが大きすぎますe name already exists";
+
+/* Label in item detail view */
+"Attachments" = "添付ファイル";
+
+/* iPhone status */
+"Available" = "利用可能";
+
+/* error */
+"Backup directory is not writeable." = "バックアップディレクトリは書き込みできません。";
+
+/* error */
+"Backup path exists but it is not a directory." = "バックアップパスは存在しますが、ディレクトリではありません。";
+
+/* button */
+"Begin downloading" = "ダウンロードを開始";
+
+/* sidebar category */
+"Browser Extensions" = "ブラウザ拡張機能";
+
+/* accessibility description */
+"calendar picker" = "カレンダーピッカー";
+
+/* button */
+"Cancel" = "キャンセル";
+
+/* intro message */
+"Catalog your Software licenses, including related files and confirmation emails." = "関連ファイルや確認の E メールも含めた、ソフトウェアライセンスの一覧を作成します。";
+
+/* Software Licenses Image Menu */
+"Clear Icon" = "アイコンを消去";
+
+/* Identities Image Menu */
+"Clear Image" = "画像を消去";
+
+/* Login Preview Image Menu */
+"Clear Preview" = "プレビューを消去";
+
+/* tooltip */
+"Click to show in Finder" = "クリックして Finder で表示します";
+
+/* search scope */
+"Common" = "一般";
+
+/* button */
+"Continue" = "続ける";
+
+/* button */
+"Copy" = "コピー";
+
+/* status message */
+"Created on %@" = "%@ に作成";
+
+/* table column */
+"Date Created" = "作成日";
+
+/* accessibility description */
+"date field enabled" = "日付フィールドは有効です";
+
+/* table column */
+"Date Modified" = "変更日";
+
+/* button */
+"Delete" = "削除";
+
+/* Alert Panel */
+"Diagnostic script failed." = "診断スクリプトが失敗しました。";
+
+/* alert別々の名前と住所情報で複数の個人情報を作成し、登録やオンラインショッピングに活用してください。変更を破棄して再度読み込みますか？";
+
+/* Login Preview Image Menu */
+"Download Preview" = "プレビューをダウンロード";
+
+/* title */
+"Dropbox process is not running" = "Dropbox のプロセスが実行されていません";
+
+/* main window edit button
+   menu item
+   menu undo edit */
+"Edit" = "編集";
+
+/* menu item */
+"Edit Selected Item" = "選択した項目を編集";
+
+/* search scope */
+"Edit Smart Folder \"%@\"" = "スマートフォルダ \"%@\”を編集";
+
+/* Identities Image Menu */
+"Edit..." = "編集...";
+
+/* alert title */
+"Empty import file" = "空のインポートファイル";
+
+/* search scope */
+"Everything" = "すべて";
+
+/* search scope */
+"Everywhere" = "すべての場所";
+
+/* Password strength — Excellent */
+"Excellent" = "優良";
+
+/* exported
+   file prompt
+   Save Panel prompt */
+"Export" = "書き出し";
+
+/* Save Panel field label */
+"Export As:" = "書き出し：";
+
+/* exporter */
+"Export Failed" = "エクスポート失敗";
+
+/* window title */
+"Export Passwords" = "エクスポートのパスワード";
+
+/* exporter */
+"Export To 1Password Interchange File" = "1Password 互換ファイルへのエクスポート";
+
+/* status message */
+"Exporting Attachments" = "添付ファイルを書き出し中";
+
+/* pref pane */
+"Extensions" = "拡張機能";
+
+/* alert title */
+"Failed to add attachment" = "添付ファイル追加に失敗しました";
+
+/* exporter */
+"Failed to create 1Password Interchange File" = "1Password 互換ファイル作成に失敗しました";
+
+/* alert title */
+"Failed to export attachment" = "添付ファイルのエクスポートに失敗しました";
+
+/* error */
+"Failed to interpret the output of the import script." = "読み込みスクリプトのアウトプットを解釈できませんでした。";
+
+/* info */
+"Failed to obtain user attributes." = "ユーザー属性の取得に失敗しました。";
+
+/* error message */
+"Failed to open '%1$@' using %2$@ encoding.\n\nError code: %3$d\n\nPlease choose another Character Encoding from the list." = "%2$@エンコーディングを使って 「%1$@」を開くことに失敗しました。\n\nエラーコード: %3$d\n\n別の文字エンコーディングをリストから選択してください。";
+
+/* error message */
+"Failed to restore '%@', no encryption keys file found in the backup" = "'%@' を復旧できませんでした。バックアップ内に暗号化キーファイルが見つかりませんでした";
+
+/* error message */
+"Failed to restore from backup, cannot move %1$@ to %2$@\nError: %3$@" = "バックアップからの復元に失敗しました。 %1$@ を %2$@に移動できません\nエラー: %3$@";
+
+/* error message */
+"Failed to restore from backup, cannot remo'%1$@' を %2$@ エンコーディングを用いて開くことができませんでした。\n\nエラーコード：%3$d\n\nリストから別の文字エンコーディングを選択してください。 バックアップから復旧できませんでした。古いデータファイル '%1$@’を削除できませんでした\nエラー: %2$@";
+
+/* error */
+"Failed to run import script" = "読み込みスクリプトを実行できませんでした";
+
+/* Password strength — Fantastic */
+"Fantastic" = "Fantastic";
+
+/* alert message */
+"File added successfully" = "ファイルが正常に追加されました";
+
+/* alert title */
+"File exists at pathバックアップから復旧できませんでした。%1$@ を %2$@ に移動できません\nエラー：%3$@パス上にファイルが存在します";
+
+/* attachment warning */
+"File is a bundle or folder" = "ファイルがバンドルまたはフォルダです";
+
+/* exporter */
+"File name:" = "ファイル名：";
+
+/* attachmenバックアップから復旧できませんでした。古いデータファイル '%1$@' を取り除けません\nエラー：%2$@ファイルサイズが 2MB を超えています";
+
+/* alert message */
+"Files added successfully" = "ファイルが正常に追加されました";
+
+/* menu item */
+"Finish Editing" = "編集を終了";
+
+/* menu item */
+"Finish Editing Selected Item" = "選択項目の編集を終了";
+
+/* Sidebar group */
+"Folders" = "フォルダ";
+
+/* pref pane */
+"General" = "一般";
+
+/* generate password button */
+"Generate" = "生成";
+
+/* sidebar category */
+"Generated Passwords" = "生成されたパスワード";
+
+/* menu item */
+"Go & Fill Login" = "ログインを Go & Fill ";
+
+/* Password strength — Good */
+"Good" = "良好";
+
+/* menu item */
+"Hide Activity" = "アクティビティを隠す";
+
+/* menu item */
+"Hide Toolbar" = "ツールバーを隠す";
+
+/* Sidebar category */
+"Identities" = "個人情報";
+
+/* button */
+"Import %d Selected Objects" = "%d 個の選択されたオブジェクトを読み込み";
+
+/* button */
+"Import Selected Object" = "選択されたオブジェクトを読み込み";
+
+/* folder name */
+"Imported" = "読み込み済み";
+
+/* status message */
+"Importing Attachments" = "添付ファイルを読み込み中";
+
+/* error message */
+"Incorrect Password" = "誤ったパスワード";
+
+/* error message */
+"Invalid Agile Keychain backup file" = "不正な Agile キーチェーンバックアップファイル";
+
+/* error */
+"Invalid backup file name" = "不正なバックアップファイル名";
+
+/* error */
+"Invalid backup file, encryption keys not found" = "不正なバックアップファイル、暗号キーがみつかりません";
+
+/* alert title */
+"Invalid import file" = "不正な読み込みファイル";
+
+/* prompt */
+"It might take a while for Dropbox to finish syncing. Please make sure the sync is fully completed before using 1Password on other computers and devices." = "Dropbox が同期を完了するまでしばらくかかります。1Password を他のコンピュータやデバイスでお遣いになる前に、同期が完了していることを確かめてください。";
+
+/* Item import status */
+"Item Exists" = "項目が存在します";
+
+/* intro message */
+"Keep name and address information to quickly register online with just one click in the browser." = "ブラウザ上でワンクリックで登録を行えるように名前や住所情報を保存します。";
+
+/* status message */
+"Last modified %@" = "前回変更日 %@";
+
+/* search scope
+   table column */
+"Location" = "場所";
+
+/* pref pane
+   Sidebar category */
+"Logins" = "ログイン";
+
+/* info */
+"Master Password has been changed" = "マスターパスワードが変更されています";
+
+/* button */
+"Move items to Unfiled" = "項目を未整理に移動";
+
+/* button */
+"Move to Trash" = "ゴミ箱に移動";
+
+/* status message */
+"Moving Items..." = "項目を移動中...";
+
+/* info */
+"Moving..." = "移動...";
+
+/* Last synced message */
+"Never" = "しない";
+
+/* folder */
+"New Folder" = "新規フォルダ";
+
+/* Item import status */
+"New Item" = "新規項目";
+
+/* new password title */
+"New Password" = "新規パスワード";
+
+/* folder */
+"New Saved Search" = "新しく保存された検索";
+
+/* Item import status */
+"Newer Item Exists" = "より新しい項目が存在します";
+
+/* alert title */
+"No file format was selected" = "ファイル形式が選択されませんでした";
+
+/* iPhone status */
+"Not Authorized (Allow New Connections in Settings > Sync > Wi-Fi)" = "権限がありません（設定権限がありません（設定で新しい接続を許可 > 同期 > Wi - Fi）";
+
+/* iPhone status */
+"Not reachable" = "利用不可";
+
+/* placeholder */
+"Notes" = "Notes";
+
+/* button */
+"ドアの鍵番号やかばんのロック番号などを保管する安全な場所が必要ですか？セキュアノートをご使用ください。何も読み込まない";
+
+/* iPhone status */
+"Offline" = "オフライン";
+
+/* dialog */
+"OK" = "OK";
+
+/* Item import status */
+"Older Item Exists" = "古い項目が存在します";
+
+/* prompt */
+"Other computers sharing the same Dropbox will lose 1Password data. Please use File > Restore on other computers." = "同じ Dropbox を共有する他のコンピュータが1Password データを失います。コンピュータのファイル>復旧をお使いください。";
+
+/* form field
+   search scope */
+"Password" = "パスワード";
+
+/* error */
+"Password hint required" = "パスワードのヒントが必要です";
+
+/* table column */
+"Password Strength" = "パスワード強度";
+
+/* info */
+"Please contact AgileBits support." = "AgileBits サポートにお問い合わせください。";
+
+/* error */
+"Please enter at least one character." = "少なくとも 1 文字入力してください。";
+
+/* error */
+"Please enter password hint." = "パスワードのヒントを入力してください。";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nExtended Attributes will be repaired," = "Mac OS X パスワードをご入力ください。\n\n拡張属性は修復されます,";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nFolder permissions will be reset," = "Mac OS X のパスワードをご入力ください。\n\nフォルダ権限がリセットされます";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nThe Launch Services database will be reset," = "Mac OS X のパスワードをご入力ください。\n\n起動サービスのデータベースがリセットされます,";
+
+/* message */
+"Please make sure Dropbox is installed and running." = "Dropbox がインストールされ、実行されていることを確認してください。";
+
+/* error */
+"Please make sure the file you are using for import is correct." = "読み込みに使用しているファイルが正しいものかどうかご確認ください。";
+
+/* info */
+"Please memorize the new master password." = "新しいマスターパスワードを覚えておいてください。";
+
+/* info */
+"Please restart 1Password." = "1Password を再起動してください。";
+
+/* error */
+"Please try again." = "もう一度やり直してください。";
+
+/* prompt */
+"Please type your Mac OS X password" = "Mac OS X のパスワードをご入力ください。";
+
+/* info */
+"Please wait..." = "しばらくお待ちください...";
+
+/* alert message */
+"Previously imported objects were removed from the list." = "以前にインポートされたオブジェクトがリストから削除されました。";
+
+/* alert info
+   alert message */
+"Proceed?" = "続けますか？";
+
+/* status message */
+"Processing" = "処理中";
+
+/* export progress */
+"Processing Attachments (step 2 of 2)" = "添付ファイルを処理中（ステップ 2/2)";
+
+/* export progress */
+"Processing Data (step 1 of 2)" = "データを処理中（ステップ 1/2）";
+
+/* button */
+"Replace" = "置換";
+
+/* object list menu */
+"Reverse Sort Order" = "並べ替え順序を逆にする";
+
+/* Item import status */
+"Same Item Exists" = "同じ項目が存在します";
+
+/* main window edit button */
+"Save" = "保存";
+
+/* search field placeholder */
+"Search" = "検索";
+
+/* search scope */
+"Search:" = "検索";
+
+/* Sidebar category */
+"Secure Notes" = "セキュアノート";
+
+/* intro message */
+"Secure storage for any free-form text." = "任意のテキストのための安全な保管場所です。";
+
+/* intro message */
+"Secure storage for computer accounts, including email, file sharing and MobileMe credentials." = "メール、ファイル共有および MobileMe のアカウント情報など、コンピュータアカウントのためのセキュアストレージ。";
+
+/* intro message */
+"Secure storage for financial and personal information, including credit cards and bank accounts." = "クレジットカードや銀行口座など、金融情報や個人情報の安全な保管場所です。";
+
+/* pref pane */
+"Security" = "セキュリティ";
+
+/* dropdown item */
+"Select Import Format" = "読み込み形式を選択E メールやファイル共有、MobileMe などで使用するために、アカウントを保存します。選択されたセクション";
+
+/* button */
+"Send items to Trash" = "項目をゴミ箱に移動";
+
+/* new password location */
+"Service or Application Name" = "サービスまたはアプリケーションの名前";
+
+/* accessibili1Password のブラウザ拡張機能をインストールし、いつものようにログインして、ウェブサイトのログインを保存します。手動でログインを作成することもできます。Shelves";
+
+/* menu item */
+"Show Activity" = "アクティビティを表示";
+
+/* menu item */
+"Show Toolbar" = "ツールバーを表示";
+
+/* button
+   dialog */
+"Skip" = "スキップ";
+
+/* Sidebar category */
+"Software" = "ソフトウェア";
+
+/* button */
+"Stop using Dropbox" = "Dropbox 使用を中止";
+
+/* title */
+"Stop Using Dropbox?" = "Dropbox の使用を中止しますか？";
+
+/* Sidebar group */
+"Sync" = "同期";
+
+/* sync detail view label */
+"Sync with %@" = "%@ と同期";
+
+/* table column */
+"Tag" = "タグ";
+
+/* Sidebar group */
+"Tags"E メール、ファイル共有、MobileMe 証明書といったコンピュータアカウントの安全な保管場所です。タグ";
+
+/* Password strength — Terrible */
+"Terrible" = "弱過ぎ";
+
+/* error */
+"The current password is not correct" = "現在のパスワードは正しくありません";
+
+/* info */
+"The extended attributes have been repaired successfully." = "拡張属性は正常に修復されています。";
+
+/* alert message */
+"The file %1$@ failed to import: %2$@." = "ファイル %1$@ がインポートに失敗しました: %2$@。購入したソフトウェアライセンスの安全な保管場所です。$@ is (%2$@) in size.\nIt is going to be encrypted and stored in your data file. Adding a large attachment may slow and complicate data syncing.text" = "ファイル %1$@ は(%2$@)のサイズです。\nそれは暗号化されデータファイルに格納されます。大きな添付ファイルの追加はデータ同期を遅らせ、複雑かすることがあります。テキスト銀行口座、運転免許などの金融情報や個人情報を安全に保管します。クレジットカードも保管でき、ショッピングサイトではワンクリックでカード番号を入力できます。ファイル %1$@ は大きすぎます(%2$@)。\n添付ファイルは 20 MB 未満である必要があります。";
+
+/* attachment warning */
+"The file %@ is a bundle or folder.\nAttachments must be regular files." = "ファイル %@ はバンドルまたはフォルダです。\n添付ファイルは通常のファイルである必要があります。";
+
+/* alert message */
+"The file could not be imported because the format was not selected. Try the import process again and be sure to specify the format." = "形式が選択されていなかったため、そのファイルは読み込めませんでした。もう一度形式を指定して読み込みをやり直してください。";
+
+/* alert message */
+"The file has been added as a secure attachment.\nYou can safely delete the original file." = "ファイルはセキュリティで保護された添付ファイルとして追加されています。\n安全に元のファイルを削除することができます。";
+
+/* alert message */
+"The file you are trying to import appears to be a binary file. Please try to open and view the contents of the file in TextEdit to make sure its contents is valid.\n\nIf you are opening the file directly from a network drive or USB disk then try to copy it to your local disk first." = "読み込もうとしているファイルはバイナリファイルです。テキストエディットでファイルの内容を見て、有効なものであることをご確認ください。\n\nネットワークドライブや USB ディスクから直接ファイルを開こうとしている場合は、まずローカルディスクにファイルをコピーしてください。ファイル %1$@ はインポートできませんでした：%2$@sk then try to copy it to your local disk first.";
+
+/* alert message */
+"The files have been added as secure attachments.\nYou can safely delete the original files." = "ファイルはセキュリティで保護された添付ファイルとして追加されています。\n安全に元のファイルを削除することができます。ファイル %1$@ はサイズが (%2$@) です。\nこれは暗号化されてデータファイルに保管されます。大きなサイズの添付ファイルを追加すると処理が遅くなり、データの同期を困難にします。フォルダ '%@' は削除されます";
+
+/* info */
+"The folder permissions have been reset successfully." = "フォルダ権限は正しくリセットされました。";
+
+/* alert */
+"The import file data has been edited." = "読み込みファイルのデータが編集されました。";
+
+/* alert title */
+"The import was canceled" = "読み込みはキャンセルされましたファイル %1$@ は大きすぎます (%2$@)。\n添付ファイルのサイズは 20 MB 未満である必要があります。different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "互換ファイルは異なる 1Password データベース
+をマージしたり、暗号化されていないバックアップファイルとしての保管に使用できます。\n\n重要: ファイルは暗号化されないので保護する必要があります。";
+
+/* alert title */
+"The item \"%@\" will be deleted" = "項目 \"%@\" は削除されます";
+
+/* info */
+"The Launch Services database has been successfully reset." = "起動サービスのデータベースは正常にリセットされました。";
+
+/* error */
+"The password can not be blank" = "パスワードを空白にすることはできません";
+
+/* alert message */
+"There are 0 passwords to import." = "インポートするパスワードが 0 あります。";
+
+/* alert message */
+"This operation can not be undone." = "この操作はやり直しできません。";読み込もうとしているファイルはバイナリファイルです。テキストエディットでファイルの内容を見て、有効なものであることをご確認ください。\n\nネットワークドライブや USB ディスクから直接ファイルを開こうとしている場合は、まずローカルディスクにファイルをコピーしてください。タイトル";
+
+/* time */
+"tomorrow" = "明日";
+
+/* accessibility description */
+"Traditional" = "従来の";
+
+/* sidebar category */
+"Trash" = "ゴミ箱";
+
+/* table column */
+"Type" = "種類";
+
+/* iPhone/iPod touch type */
+"Unknown" = "不明";
+
+/* button */
+"Use Dropbox" = "Dropbox を使う";
+
+/* title */
+"Use Dropbox?" = "Dropbox を使いますか？";
+
+/* form field
+   search scope */
+"Username" = "ユーザ名";
+
+/* intro message */
+"Usernames and passwords for websites. Use browser extensions to save and fill Logins for you." = "ウェブサイト用のユーザ名とパスワードです。ログインを保存して入力に使用するには、ブラウザ拡張機能をご使用ください。";
+
+/* Sidebar group */
+"Vault" = "保管庫";
+
+/* Sidebar category */
+"Wallet" = "ウォレット";
+
+/* Password strength — Weak */
+"Weak" = "Weak";
+
+/* accessibility description */
+"Widescreen" = "ワイドスクリーン";
+
+/* info */
+"Would you like to continue?" = "続けてもよろしいですか？";
+
+/* alert message */
+"Would you like to move the folder items to Unfiled folder or send them to Trash?" = "そのフォルダの項目を未整理フォルダに移動しますか？それともゴミ箱に移動しますか？";
+
+/* time */
+"yesterday" = "yesterday";
+
+/* info */
+"You can now install 1Password from the App Store." = "App Store から 1Password をインストールできるようになりました。";
+
+/* error message */
+"You have selected the current data file instead of a backup file." = "バックアップファイルではなく現在のデータファイルが選択されました。";
+
+/* title */
+"Your data is not stored in Dropbox anymore" = "データは既に Dropbox 内に格納されていません";
+
+/* title */
+"Your data is now in Dropbox" = "データは Dropbox 内に格納されています";
+
+/* prompt */
+"Your data will be moved into the Dropbox folder for easy syncing with other computers and devices.\n\n1Password will also make an additional backup copy of your data." = "データは他のコンピュータやデバイスとの同期を容易にするためDropboxフォルダに移されます。\n\n1Passwordは、さらに、データの追加のバックアップコピーを作成します。";
+
+/* prompt */
+"Your data will be moved out of the Dropbox folder.\n\nIMPORTANT: If you have other computers using Dropbox, make sure they all have a backup copy (File > Backup menu)." = "データはDropbox フォルダから移動されます。\n\n 重要：Dropbox を使っている他のコンピュータがある場合は、全てのバックアップコピーがあることを確認してください（ファイル>バックアップメニュー）。";
+
+/* error */
+"Your new password is not the same as the verify password" = "新しいパスワードは、確認用パスワードと同じではありません。";
+
+/* Title for the duplicated item */
+"%@ Copy" = "%@ コピー";
+
+/* Hot Keys: Key Combo text for 'empty' combo */
+"(None)" = "（なし）";
+
+/* No comment provided by engineer. */
+"Account" = "アカウント";
+
+/* folder */
+"All" = "すべて";
+
+/* change folder security level */
+"Apply security level to folder contents?" = "フォルダのコンテンツにセキュリティレベルを適用しますか？";
+
+/* menu */
+"Choose All from %@" = "%@ からすべてを選択";
+
+/* menu */
+"Choose from %@" = "%@ から選択";
+
+/* change folder security level */
+"Don't Change Folder Contents" = "フォルダのコンテンツを変更しないでください";
+
+/* error */
+"Encryption keys file exist but cannot be loaded from '%@'" = "暗号化キーファイルは存在しますが '%@' からは読み込めません";
+
+/* error */
+"Failed to load encryption key from '%1$@', error: %2$@" = "'%1$@’から暗号化キーのロードに失敗しました。エラー: %2$@";
+
+/* alert title */
+"Failed to open attachment." = "添付ファイルを開けませんでした。";
+
+/* item type */
+"Generated Password" = "生成されたパスワード";
+
+/* iPhone Security Level */
+"High (Master Password)" = "高（マスターパスワード）";
+
+/* item type */
+"Identity" = "個人情報";
+
+/* info */
+"In 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again." = "お使いの iPhone または iPod touch 上の 1Password で、設定 > Wi-Fi 同期 > 新しい接続を許可するを選択してもう一度試してください。";
+
+/* error */
+"Incorrect response received from iPhone. Please restart Mac and iPhone applications and try to sync again" = "iPhone から不正な応答を受信しました。Mac と iPhone のアプリケーションを再起動して、もう一度同期してください";
+
+/* alert title */
+"Incorrect secret" = "不正な秘密";
+
+/* item type */
+"Login" = "ログイン";
+
+/* iPhone Security Level */
+"Low (4-Digit Code)" = "低（4 桁コード）";
+
+/* change folder security level */
+"Make Folder Contents High Security" = "フォルダのコンテンツを高セキュリティにする";
+
+/* info */
+"New connections are disabled by 1Password touch" = "新しい接続は 1Password touch によって無効にされています。";
+
+/* info */
+"New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "新しい接続は 1Password touch によって無効にされています。\n\niPhone または iPod touch の 1Password で、Settings > Wi-Fi Sync > Allow New Connections を選択し、もう一度やり直してください";
+
+/* label */
+"Password" = "パスワード";
+
+/* alert message */
+"Please enter the secret as it is shown on iPhone" = "iPhone の表示通り、秘密を入力してください";
+
+/* item type */
+"Secure Note" = "セキュアノート";
+
+/* item type */
+"Software" = "ソフトウェア";
+
+/* alert title */
+"Sync Conflict Resolver Window" = "Sync Conflict Resolver ウィンドウ";
+
+/* error */
+"Sync failed, 1Password is locked" = "同期に失敗しました。1Password はロックされています";
+
+/* alert message */
+"The attachment %1$@ failed to open: %2$@.x" = "添付ファイル %1$@ を開くことに失敗しました: %2$@.x";
+
+/* error */
+"The encryption keys file does not exist at '%@'" = "暗号化キーファイルは '%@' に存在しません";
+
+/* folder */
+"Trash" = "ゴミ箱";
+
+/* smart folder */
+"Unfiled" = "未整理";
+
+/* Unknown wallet type */
+"Unknown" = "不明";
+
+/* smart folder */
+"Untagged" = "タグなし";
+
+/* No comment provided by engineer. */
+"Wallet" = "ウォレット";
+
+/* error */
+"Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "Wi-Fi 接続に失敗しました。iPhone の 1Password touch を再起動してロック解除してください。";
+
+/* change folder security level */
+"You are changing the folder \"%@\" to high security mode.\nDo you also want to set the items in this folder to high security?" = "フォルダ \"%@\" を高セキュリティモードに変更しようとしています。\n このフォルダの項目も高セキュリティに設定しますか？";
+
+添付ファイル %1$@ は開きませんでした：%2$@

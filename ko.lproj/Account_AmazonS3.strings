@@ -1,0 +1,12 @@
+"__title__" = "아마존 웹 서비스";
+"__description__" = "아마존 웹 서비스 액세스 키";
+ 
+"path" = "경로";
+"email" = "이메일";
+"password" = "비밀번호";
+"access_key_id" = "액세스 키 아이디";
+"access_key" = "보안 액세스 키";
+
+"access_key_id#9" = "키 아이디";
+"access_key#9" = "보안 키";
+ 

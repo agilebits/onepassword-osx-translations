@@ -1,0 +1,96 @@
+/* Class = "NSTableColumn"; headerCell.title = "Field Name"; ObjectID = "3098"; */
+"Field Name" = "Nom du champ";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4411"; */
+"Tags" = "Mot-clés";
+
+/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4875"; */
+"Attachments" = "Pièces jointes";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Display"; ObjectID = "3384"; */
+"Display" = "Affichage";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "http://www.website.com"; ObjectID = "5025"; */
+"http://www.website.com" = "http://www.website.com";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "username"; ObjectID = "4555"; */
+"username" = "nom d'utilisateur";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "4945"; */
+"Time" = "Heure";
+
+/* Class = "NSMenuItem"; title = "Checkbox"; ObjectID = "4043"; */
+"Checkbox" = "Case";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "4564"; */
+"password" = "mot de passe";
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
+"Generate" = "Générer";
+
+/* Class = "NSTableColumn"; headerCell.title = "Field Value"; ObjectID = "3101"; */
+"Field Value" = "Valeur de champ";
+
+/* Class = "NSButtonCell"; title = "All Fields"; ObjectID = "3043"; */
+"All Fields" = "Tous les champs";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Submit"; ObjectID = "3390"; */
+"Submit" = "Envoyer";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Username"; ObjectID = "5026"; */
+"Username" = "Nom d'utilisateur";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Password"; ObjectID = "5030"; */
+"Password" = "Mot de passe";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2834"; */
+"Created on" = "Créé sur";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "4030"; */
+"Type" = "Type";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "3692"; */
+"Notes" = "Remarques";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4406"; */
+"tags" = "mots-clés";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5029"; */
+"Title" = "Titre";
+
+/* Class = "NSTextFieldCell"; title = "http://www.google.com"; ObjectID = "3088"; */
+"http://www.google.com" = "http://www.google.com";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "3394"; */
+"Always" = "Toujours";
+
+/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
+"Password Strength" = "Sécurité du mot de passe";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
+"Text" = "Texte";
+
+/* Class = "NSMenuItem"; title = "For Web Pages Only"; ObjectID = "3388"; */
+"For Web Pages Only" = "Pour pages Internet uniquement";
+
+/* Class = "NSButtonCell"; title = "Password History"; ObjectID = "4896"; */
+"Password History" = "Historique mot de passe";
+
+/* Class = "NSMenuItem"; title = "Show in Every HTTP Auth Prompt"; ObjectID = "5006"; */
+"Show in Every HTTP Auth Prompt" = "Afficher dans toutes les demandes d'autorisation HTTP";
+
+/* Class = "NSMenuItem"; title = "For HTTP Auth Prompts Only"; ObjectID = "3396"; */
+"For HTTP Auth Prompts Only" = "Pour demandes d'autorisation HTTP seulement";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
+"Never Display in Browser" = "Ne jamais afficher dans le navigateur";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
+"Never" = "Jamais";
+
+/* Class = "NSMenuItem"; title = "If Autosubmit is ON"; ObjectID = "3395"; */
+"If Autosubmit is ON" = "Si l'envoi automatique est activé";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2825"; */
+"Last modified" = "Date de modification";
+

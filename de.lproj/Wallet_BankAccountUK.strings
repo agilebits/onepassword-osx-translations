@@ -1,0 +1,21 @@
+"__title__" = "Bankkonto (GB)";
+"__description__" = "Daten für britisches Bankkonto";
+
+"bankName" = "Bankname";
+"owner" = "Kontoinhaber";
+"accountTypeUK" = "Typ";
+"bankNo" = "Filialen-Nr. (Sort Number)";
+"accountNo" = "Kontonummer";
+"swift" = "SWIFT-Code";
+"iban" = "IBAN-Nummer";
+"branchInfo" = "Filiale";
+"branchPhone" = "Telefon";
+"branchAddress" = "Adresse";
+"telephonePin" = "Telefon-PIN";
+
+"menu.accountTypeUK." = "";
+"menu.accountTypeUK.current" = "Girokonto";
+"menu.accountTypeUK.savings" = "Sparkonto";
+"menu.accountTypeUK.loc" = "Kreditgrenze";
+"menu.accountTypeUK.money_market" = "Geldmarkt";
+"menu.accountTypeUK.other" = "Andere";

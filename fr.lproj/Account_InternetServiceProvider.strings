@@ -1,0 +1,16 @@
+"__title__" = "Fournisseur d'accès Internet";
+"__description__" = "Information de connexion fournie par votre fournisseur d'accès Internet (FAI) pour vous connecter à Internet.";
+
+"userid" = "Identifiant utilisateur";
+"password" = "Mot de passe";
+"pin" = "PIN";
+"dialup_number" = "Numéro d'accès à la numérotation";
+"dialup_number#9" = "Composer le #";
+"Contact Information" = "Coordonnées";
+"Contact Information#9" = "Contact";
+"website" = "Site Internet";
+"phone_local" = "Téléphone (local)";
+"phone_local#9" = "Téléphone";
+"phone_tollfree" = "Téléphone (gratuit)";
+"phone_tollfree#9" = "Numéro gratuit";
+ 

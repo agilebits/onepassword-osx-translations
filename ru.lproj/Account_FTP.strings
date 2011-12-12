@@ -1,0 +1,18 @@
+"__title__" = "Учетная запись FTP";
+"__description__" = "Данные учетных записей FTP.";
+ 
+"server" = "Сервер";
+"path" = "Путь";
+"username" = "Имя пользователя";
+"password" = "Пароль";
+"Contact Information" = "Контактная информация";
+"Contact Information#9" = "Контакт";
+"provider" = "Поставщик";
+"provider_website" = "Веб-сайт поставщика";
+"provider_website#9" = "Веб-сайт";
+"phone_tollfree" = "Номер телефона (бесплатный)";
+"phone_tollfree#9" = "Бесплатный номер";
+"phone_local" = "Номер телефона (местный)";
+"phone_local#9" = "Телефон";
+ 
+ 

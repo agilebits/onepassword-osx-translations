@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Agile"; ObjectID = "260"; */
+"Agile" = "Agile";
+
+/* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "248"; */
+"Email" = "Эл. почта";
+
+/* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "Не пропустите важные обновления 1Password и узнайте о новых функциях и усовершенствованиях. Все новости рассылаются на английском языке.";
+
+/* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
+"Stay In Touch" = "Оставайтесь на связиОставайтесь на связи";
+
+/* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
+"No, thanks" = "Нет, спасибо";
+
+/* Class = "NSTextFieldCell"; title = "Copied from your Address Book card"; ObjectID = "269"; */
+"Copied from your Address Book card" = "Скопировано из Вашей Адресной книги";
+
+/* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "242"; */
+"Sign Up" = "ПодписатьсяРегистрация";
+
+/* Class = "NSTextFieldCell"; title = "News & Updates"; ObjectID = "258"; */
+"News & Updates" = "Новости и обновления";
+

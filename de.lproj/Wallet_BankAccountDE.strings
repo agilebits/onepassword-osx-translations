@@ -1,0 +1,21 @@
+"__title__" = "Bankkonto (DE)";
+"__description__" = "Daten für deutsches Bankkonto";
+
+"bankName" = "Bankname";
+"owner" = "Kontoinhaber";
+"accountType" = "Typ";
+"bankNo" = "Bankleitzahl (BLZ)";
+"accountNo" = "Kontonummer";
+"swift" = "SWIFT-Code";
+"iban" = "IBAN-Nummer";
+"branchInfo" = "Filiale";
+"branchPhone" = "Telefon";
+"branchAddress" = "Adresse";
+"telephonePin" = "Telefon-PIN";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Girokonto";
+"menu.accountType.savings" = "Sparkonto";
+"menu.accountType.loc" = "Kreditgrenze";
+"menu.accountType.money_market" = "Geldmarkt";
+"menu.accountType.other" = "Andere";

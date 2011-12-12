@@ -1,0 +1,21 @@
+"__title__" = "Счет в банке (DE)";
+"__description__" = "Информация о счете в немецком банке";
+
+"bankName" = "Название банка";
+"owner" = "Имя владельца счета";
+"accountType" = "Тип";
+"bankNo" = "Номер банка (BLZ)";
+"accountNo" = "Номер счета";
+"swift" = "Код SWIFT";
+"iban" = "Номер IBAN";
+"branchInfo" = "Информация об отделении";
+"branchPhone" = "Телефон";
+"branchAddress" = "Адрес";
+"telephonePin" = "PIN-код для доступа по телефону";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Текущий";
+"menu.accountType.savings" = "Сберегательный";
+"menu.accountType.loc" = "Кредитная линия";
+"menu.accountType.money_market" = "Счет для денежного рынка";
+"menu.accountType.other" = "Другой";

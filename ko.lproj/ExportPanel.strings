@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100"; */
+"Cancel" = "취소";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID = "61"; */
+"Turn this checkbox on to keep the access code in your login keychain for future exports." = "내보내기용으로 해당 액세스 코드를 로그인 열쇠고리에 보관하려면 여기를 체크하세요.";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "99"; */
+"Continue" = "계속";
+
+/* Class = "NSWindow"; title = "Enter Access Code"; ObjectID = "57"; */
+"Enter Access Code" = "액세스 코드 입력";
+
+/* Class = "NSTextFieldCell"; title = "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID = "91"; */
+"The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information." = "액세스 코드는 사용자 정보의 암호화에 사용됩니다. 내보낸 정보를 잠금 해제하려면 본 액세스 코드가 필요합니다.";
+
+/* Class = "NSTextFieldCell"; title = "Access Code:"; ObjectID = "98"; */
+"Access Code:" = "액세스 코드:";
+
+/* Class = "NSButtonCell"; title = "Remember this access code in my keychain"; ObjectID = "96"; */
+"Remember this access code in my keychain" = "내 열쇠고리에 액세스 코드 저장";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID = "97"; */
+"Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information." = "액세스 코드를 입력하세요. 액세스 코드는 사용자 정보의 암호화에 사용되며, 내보낸 정보를 잠금 해제할 때 필요합니다.";
+

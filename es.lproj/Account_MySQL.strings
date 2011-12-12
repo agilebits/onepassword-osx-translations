@@ -1,0 +1,9 @@
+"__title__" = "Base de datos MySQL";
+"__description__" = "Información de conexión a base de datos MySQL.";
+
+"hostname" = "Nombre de servidor";
+"port" = "Puerto (3306)";
+"database" = "Base de datos";
+"username" = "Nombre de usuario";
+"password" = "Contraseña";
+ 

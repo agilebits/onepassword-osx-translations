@@ -1,0 +1,21 @@
+"__title__" = "Cuenta bancaria (UK)";
+"__description__" = "Información de cuenta bancaria británica.";
+
+"bankName" = "Nombre del banco";
+"owner" = "Nombre del titular de la cuenta";
+"accountTypeUK" = "Tipo";
+"bankNo" = "Número de clasificación de sucursal bancaria";
+"accountNo" = "Número de cuenta";
+"swift" = "Código SWIFT";
+"iban" = "Número IBAN";
+"branchInfo" = "Información de sucursal";
+"branchPhone" = "Teléfono";
+"branchAddress" = "Dirección";
+"telephonePin" = "PIN del teléfono";
+
+"menu.accountTypeUK." = "";
+"menu.accountTypeUK.current" = "Cuenta corriente";
+"menu.accountTypeUK.savings" = "Cuenta de ahorros";
+"menu.accountTypeUK.loc" = "Línea de crédito";
+"menu.accountTypeUK.money_market" = "Mercado monetario";
+"menu.accountTypeUK.other" = "Otros";

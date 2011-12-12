@@ -1,0 +1,12 @@
+"__title__" = "Servizi Web di Amazon";
+"__description__" = "Codici di accesso ai Servizi Web di Amazon.";
+ 
+"path" = "Percorso";
+"email" = "Indirizzo e-mail";
+"password" = "Password";
+"access_key_id" = "ID codice di accesso";
+"access_key" = "Codice di accesso segreto";
+
+"access_key_id#9" = "ID codice";
+"access_key#9" = "Segreto";
+ 

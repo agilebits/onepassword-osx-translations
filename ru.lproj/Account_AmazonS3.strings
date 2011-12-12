@@ -1,0 +1,12 @@
+"__title__" = "Amazon Web Services";
+"__description__" = "Ключи доступа для Amazon Web Services";
+ 
+"path" = "Путь";
+"email" = "Эл. почта";
+"password" = "Пароль";
+"access_key_id" = "ИД ключа доступа";
+"access_key" = "Секретный ключ доступа";
+
+"access_key_id#9" = "ИД ключа";
+"access_key#9" = "Секрет";
+ 

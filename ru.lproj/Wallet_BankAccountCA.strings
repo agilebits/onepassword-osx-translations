@@ -1,0 +1,24 @@
+"__title__" = "Счет в банке (CA)";
+"__description__" = "Информация о счете в канадском банке";
+
+"bankName" = "Название банка";
+"owner" = "Имя владельца счета";
+"accountType" = "Тип";
+"transitNo" = "Транзитный номер";
+"instNo" = "Номер учреждения";
+"accountNo" = "Номер счета";
+"swift" = "Код SWIFT";
+"iban" = "Номер IBAN";
+"branchInfo" = "Информация об отделении";
+"branchPhone" = "Телефон";
+"branchAddress" = "Адрес";
+"telephonePin" = "PIN-код для доступа через телефон";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Текущий";
+"menu.accountType.savings" = "Сберегательный";
+"menu.accountType.loc" = "Кредитная линия";
+"menu.accountType.money_market" = "Счет для денежного рынка";
+"menu.accountType.other" = "Другой";
+
+

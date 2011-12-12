@@ -1,0 +1,9 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "10"; */
+"Cancel" = "Отменить";
+
+/* Class = "NSButtonCell"; title = "Move to Trash"; ObjectID = "24"; */
+"Move to Trash" = "Отправить в корзину";
+
+/* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "8"; */
+"Save Changes" = "СохранитьСохранить изменения";
+

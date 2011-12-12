@@ -1,0 +1,28 @@
+"__title__" = "Conto bancario";
+"__description__" = "Informazioni sul conto bancario.";
+
+"bankName" = "Nome banca";
+"owner" = "Nome conto";
+"owner#9" = "Intestatario";
+"accountType" = "Tipo";
+"routingNo" = "CAB";
+"routingNo#9" = "CAB";
+"accountNo" = "Numero di conto";
+"accountNo#9" = "Conto n.";
+"swift" = "Codice SWIFT";
+"swift#9" = "SWIFT";
+"iban" = "Numero IBAN";
+"iban#9" = "IBAN";
+"branchInfo" = "Informazioni agenzia";
+"branchInfo#9" = "Agenzia";
+"branchPhone" = "Telefono";
+"branchAddress" = "Indirizzo";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "Bancomat";
+"menu.accountType.checking" = "Conto corrente";
+"menu.accountType.savings" = "Libretto di risparmio";
+"menu.accountType.loc" = "Fido bancario";
+"menu.accountType.money_market" = "Mercato monetario";
+"menu.accountType.other" = "Altro";

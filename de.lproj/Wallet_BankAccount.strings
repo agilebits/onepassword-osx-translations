@@ -1,0 +1,28 @@
+"__title__" = "Bankkonto";
+"__description__" = "Bankkontodaten";
+
+"bankName" = "Bankname";
+"owner" = "Kontoinhaber";
+"owner#9" = "Besitzer";
+"accountType" = "Typ";
+"routingNo" = "Bankleitzahl";
+"routingNo#9" = "BLZ";
+"accountNo" = "Kontonummer";
+"accountNo#9" = "Konto-Nr.";
+"swift" = "SWIFT-Code";
+"swift#9" = "SWIFT";
+"iban" = "IBAN-Nummer";
+"iban#9" = "IBAN";
+"branchInfo" = "Filiale";
+"branchInfo#9" = "Filliale";
+"branchPhone" = "Telefon";
+"branchAddress" = "Adresse";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "Geldautomat";
+"menu.accountType.checking" = "Girokonto";
+"menu.accountType.savings" = "Sparkonto";
+"menu.accountType.loc" = "Kreditgrenze";
+"menu.accountType.money_market" = "Geldmarkt";
+"menu.accountType.other" = "Andere";

@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "166"; */
+"Cancel" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "... unlock reason message will be displayed here..."; ObjectID = "169"; */
+"... unlock reason message will be displayed here..." = "...解锁原因信息将显示在此处...";
+
+/* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "165"; */
+"Unlock" = "解锁";
+
+/* Class = "NSWindow"; title = "Unlock 1Password"; ObjectID = "84"; */
+"Unlock 1Password" = "解锁 1Password";
+
+/* Class = "NSTextFieldCell"; title = "Master Password:"; ObjectID = "164"; */
+"Master Password:" = "主密码";
+

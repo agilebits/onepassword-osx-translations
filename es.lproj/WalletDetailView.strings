@@ -1,0 +1,30 @@
+/* Class = "NSTokenFieldCell"; placeholderString = "Tags"; ObjectID = "4892"; */
+"Tags" = "Etiquetas";
+
+/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4808"; */
+"Attachments" = "Documentos adjuntos";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4932"; */
+"Display" = "Mostrar";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3219"; */
+"Created on" = "Creado el";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4891"; */
+"tags" = "etiquetas";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4819"; */
+"Notes" = "Notas";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4918"; */
+"Title" = "Título";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "4930"; */
+"Always" = "Siempre";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4931"; */
+"Never Display in Browser" = "No mostrar nunca en el navegador";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3220"; */
+"Last modified" = "Modificado por última vez el día";
+

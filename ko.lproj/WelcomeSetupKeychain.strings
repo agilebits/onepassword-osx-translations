@@ -1,0 +1,39 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "password hint"; ObjectID = "44"; */
+"password hint" = "비밀번호 힌트";
+
+/* Class = "NSWindow"; title = "Welcome to 1Password"; ObjectID = "1"; */
+"Welcome to 1Password" = "안녕하세요! 1Password입니다.";
+
+/* Class = "NSTextFieldCell"; title = "Re-type Password"; ObjectID = "88"; */
+"Re-type Password" = "비밀번호 재입력";
+
+/* Class = "NSTextFieldCell"; title = "Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place."; ObjectID = "78"; */
+"Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place." = "모든 사용자 정보는 아래 입력하는 마스터 비밀번호를 통해 암호화되며, 기억하셔야 할 유일한 비밀번호는 마스터 비밀번호뿐입니다. 마스터 비밀번호는 기억하기 쉬운 문구를 사용하시되 안전한 곳에 별도로 기록해두시기를 권장합니다.";
+
+/* Class = "NSButtonCell"; title = "Sync encrypted data with Dropbox"; ObjectID = "113"; */
+"Sync encrypted data with Dropbox" = "암호화 데이터와 Dropbox 동기화";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "master password"; ObjectID = "32"; */
+"master password" = "마스터 비밀번호";
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "86"; */
+"Master Password" = "마스터 비밀번호";
+
+/* Class = "NSButtonCell"; title = "Find It"; ObjectID = "107"; */
+"Find It" = "찾기";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint"; ObjectID = "90"; */
+"Password Hint" = "비밀번호 힌트";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "109"; */
+"help" = "도움말";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "7"; */
+"Continue" = "계속";
+
+/* Class = "NSTextFieldCell"; title = "Have information from a previous installation?"; ObjectID = "105"; */
+"Have information from a previous installation?" = "저장해둔 기존 데이터가 있으신가요?";
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "re-type password"; ObjectID = "38"; */
+"re-type password" = "비밀번호 재입력";
+

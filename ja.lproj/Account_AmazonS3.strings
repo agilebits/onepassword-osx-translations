@@ -1,0 +1,12 @@
+"__title__" = "Amazon ウェブサービス";
+"__description__" = "Amazon ウェブサービスのアクセスキー";
+ 
+"path" = "パス";
+"email" = "メール";
+"password" = "パスワード";
+"access_key_id" = "アクセスキーID";
+"access_key" = "秘密のアクセスキー";
+
+"access_key_id#9" = "キー ID";
+"access_key#9" = "秘密";
+ 

@@ -1,0 +1,24 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100"; */
+"Cancel" = "Annulla";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID = "61"; */
+"Turn this checkbox on to keep the access code in your login keychain for future exports." = "Spunta questa casella per conservare il codice di accesso nel Keychain dei tuoi dati di accesso per successive esportazioni.";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "99"; */
+"Continue" = "Continua";
+
+/* Class = "NSWindow"; title = "Enter Access Code"; ObjectID = "57"; */
+"Enter Access Code" = "Inserisci il codice di accesso";
+
+/* Class = "NSTextFieldCell"; title = "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID = "91"; */
+"The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information." = "Il Codice di accesso verrà utilizzato per crittografare le informazioni. Ti verrà chiesto di inserirlo per sbloccare le informazioni esportate.";
+
+/* Class = "NSTextFieldCell"; title = "Access Code:"; ObjectID = "98"; */
+"Access Code:" = "Codice di accesso:";
+
+/* Class = "NSButtonCell"; title = "Remember this access code in my keychain"; ObjectID = "96"; */
+"Remember this access code in my keychain" = "Ricorda il codice di accesso nel mio Keychain";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID = "97"; */
+"Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information." = "Inserisci il Codice di accesso. Questo codice verrà utilizzato per crittografare le informazioni. Ti verrà chiesto di inserirlo per sbloccare le informazioni esportate.";
+

@@ -1,0 +1,9 @@
+"__title__" = "MySQL 数据库";
+"__description__" = "MySQL 数据库连接信息。";
+
+"hostname" = "主机名称";
+"port" = "端口 (3306)";
+"database" = "数据库";
+"username" = "用户名称";
+"password" = "密码";
+ 

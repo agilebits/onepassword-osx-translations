@@ -1,0 +1,13 @@
+"__title__" = "Hunting License";
+
+"name" = "Full name";
+"valid_from" = "Valid From";
+"valid_from#9" = "Valid";
+"expires" = "Expires";
+"game" = "Approved Wildlife";
+"game#9" = "Wildlife";
+"quota" = "Maximum Quota";
+"quota#9" = "Quota";
+"state" = "State";
+"country" = "Country";
+

@@ -1,0 +1,14 @@
+"__title__" = "MobileMe";
+"__description__" = "Registrierungs- und Login-Daten für MobileMe von Apple";
+ 
+"email" = "E-Mail (name@me.com)";
+"email#9" = "E-Mail";
+"member_name" = "Mitglied";
+"password" = "Passwort";
+"idisk_storage" = "Verfügbarer iDisk-Speicher";
+"idisk_storage#9" = "Speicher";
+"renewal_date" = "Verlängerungsdatum";
+"renewal_date#9" = "Verlängerung";
+"activation_key" = "Aktivierungsschlüssel";
+"activation_key#9" = "Aktivierung";
+ 

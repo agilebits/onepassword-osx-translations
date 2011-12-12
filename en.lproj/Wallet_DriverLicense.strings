@@ -1,0 +1,21 @@
+"__title__" = "Driver's License";
+
+"fullname" = "Full Name";
+"address" = "Address";
+"birthdate" = "Date of Birth";
+"birthdate#9" = "Birthday";
+"sex" = "Sex";
+"height" = "Height";
+"number" = "Number";
+"class" = "License Class";
+"class#9" = "Class";
+"conditions" = "Conditions / Restrictions";
+"conditions#9" = "Conditions";
+"state" = "State";
+"country" = "Country";
+"expiry_date" = "Expiry Date";
+"expiry_date#9" = "Expires";
+
+"menu.sex." = "";
+"menu.sex.male" = "Male";
+"menu.sex.female" = "Female";

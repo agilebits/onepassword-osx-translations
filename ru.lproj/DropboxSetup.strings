@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "11"; */
+"Cancel" = "Отмена";
+
+/* Class = "NSTextFieldCell"; title = "The Dropbox authorization has been completed. 1Password will now move your data file to the shared folder.\n\nAfter all changes are fully synced (watch the Dropbox icon in your menubar!) you will be able to sync 1Password on your iPhone or iPad with Dropbox."; ObjectID = "6"; */
+"The Dropbox authorization has been completed. 1Password will now move your data file to the shared folder.\n\nAfter all changes are fully synced (watch the Dropbox icon in your menubar!) you will be able to sync 1Password on your iPhone or iPad with Dropbox." = "Авторизация Dropbox выполнена. 1Password переместит данные в общую папку.\n\nПосле полной синхронизации изменений (см. значок Dropbox в строке меню!) вы сможете выполнить синхронизация 1Password с iPhone или iPad через Dropbox.";
+
+/* Class = "NSTextFieldCell"; title = "Congratulations!"; ObjectID = "4"; */
+"Congratulations!" = "Поздравляем!";
+
+/* Class = "NSWindow"; title = "Dropbox Sync Setup"; ObjectID = "1"; */
+"Dropbox Sync Setup" = "Настройка синхронизации с Dropbox";
+
+/* Class = "NSButtonCell"; title = "Complete Setup"; ObjectID = "9"; */
+"Complete Setup" = "Завершить установку";
+

@@ -1,0 +1,25 @@
+"__title__" = "Routeur sans fil";
+"__description__" = "Information compte pour votre AirPort Extreme ou d'autres routeurs sans fil.";
+
+"network_name" = "Nom du réseau";
+"network_name#9" = "Réseau";
+"name" = "Nom de station de base";
+"name#9" = "Station";
+"password" = "Mot-de-passe station de base";
+"password#9" = "Mot de passe";
+"server" = "Serveur / Adresse IP";
+"server#9" = "Adresse IP";
+"airport_id" = "ID AirPort";
+"wireless_security" = "Sécurité réseau sans fil";
+"wireless_security#9" = "Sécurité";
+"wireless_password" = "Mot de passe réseau sans fil";
+"wireless_password#9" = "Mdp réseau";
+"disk_password" = "Mot de passe serveur de stockage associé";
+"disk_password#9" = "Mdp serveur de stockage";
+ 
+"menu.wireless_security." = "";
+"menu.wireless_security.none" = "Aucune sécurité";
+"menu.wireless_security.wep" = "WEP";
+"menu.wireless_security.wpa" = "WPA";
+"menu.wireless_security.wpa2p" = "WPA2 personnel";
+"menu.wireless_security.wpa2e" = "WPA2 entreprise";

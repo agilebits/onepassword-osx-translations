@@ -1,0 +1,21 @@
+"__title__" = "Счет в банке (UK)";
+"__description__" = "Информация о счете в британском банке";
+
+"bankName" = "Название банка";
+"owner" = "Имя владельца счета";
+"accountTypeUK" = "Тип";
+"bankNo" = "Сортировочный номер отделения";
+"accountNo" = "Номер счета";
+"swift" = "Код SWIFT";
+"iban" = "Номер IBAN";
+"branchInfo" = "Информация об отделении";
+"branchPhone" = "Телефон";
+"branchAddress" = "Адрес";
+"telephonePin" = "PIN-код для доступа через телефон";
+
+"menu.accountTypeUK." = "";
+"menu.accountTypeUK.current" = "Текущий";
+"menu.accountTypeUK.savings" = "Сберегательный";
+"menu.accountTypeUK.loc" = "Кредитная линия";
+"menu.accountTypeUK.money_market" = "Счет для денежного рынка";
+"menu.accountTypeUK.other" = "Другой";

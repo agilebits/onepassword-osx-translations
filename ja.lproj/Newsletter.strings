@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Agile"; ObjectID = "260"; */
+"Agile" = "Agile";
+
+/* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "248"; */
+"Email" = "E メール";
+
+/* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "1Password の重要なアップデートを見逃さず、新しい機能や改善点について知ってください。\n\nすべてのニュースレターにはワンクリックの購読中止リンクが用意されています。";
+
+/* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
+"Stay In Touch" = "最新ニュースを入手最新ニュースを入手";
+
+/* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
+"No, thanks" = "不要";
+
+/* Class = "NSTextFieldCell"; title = "Copied from your Address Book card"; ObjectID = "269"; */
+"Copied from your Address Book card" = "アドレスブックカードからコピーされました";
+
+/* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "242"; */
+"Sign Up" = "サインアップサインアップ";
+
+/* Class = "NSTextFieldCell"; title = "News & Updates"; ObjectID = "258"; */
+"News & Updates" = "ニュース & アップデート";
+

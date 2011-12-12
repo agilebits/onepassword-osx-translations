@@ -1,0 +1,36 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4901"; */
+"Tags" = "태그";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4842"; */
+"Attachments" = "첨부파일";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4936"; */
+"Display" = "표시";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Photograph"; ObjectID = "4905"; */
+"Photograph" = "사진";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "name"; ObjectID = "4582"; */
+"name" = "이름";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2888"; */
+"Created on" = "생성 일시";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4440"; */
+"tags" = "태그";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4893"; */
+"Notes" = "노트";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "4935"; */
+"Always" = "항상";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Name"; ObjectID = "4921"; */
+"Name" = "이름";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4933"; */
+"Never Display in Browser" = "브라우저에 표시 안함";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2887"; */
+"Last modified" = "최종 수정";
+

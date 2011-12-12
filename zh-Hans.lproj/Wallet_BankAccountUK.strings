@@ -1,0 +1,21 @@
+"__title__" = "银行账户 (UK)";
+"__description__" = "英国银行账户信息。";
+
+"bankName" = "银行名称";
+"owner" = "账户名称";
+"accountTypeUK" = "类型";
+"bankNo" = "银行分类代码";
+"accountNo" = "账号";
+"swift" = "SWIFT 代码";
+"iban" = "IBAN 编号";
+"branchInfo" = "分行信息";
+"branchPhone" = "电话";
+"branchAddress" = "地址";
+"telephonePin" = "电话 PIN";
+
+"menu.accountTypeUK." = "";
+"menu.accountTypeUK.current" = "现金";
+"menu.accountTypeUK.savings" = "储蓄";
+"menu.accountTypeUK.loc" = "信用额度";
+"menu.accountTypeUK.money_market" = "货币市场";
+"menu.accountTypeUK.other" = "其他";

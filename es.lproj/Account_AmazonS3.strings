@@ -1,0 +1,12 @@
+"__title__" = "Servicios web de Amazon";
+"__description__" = "Claves de acceso para servicios web de Amazon.";
+ 
+"path" = "Ruta";
+"email" = "Correo electrónico";
+"password" = "Contraseña";
+"access_key_id" = "ID de clave de acceso";
+"access_key" = "Clave de acceso secreta";
+
+"access_key_id#9" = "ID de clave";
+"access_key#9" = "Secreta";
+ 

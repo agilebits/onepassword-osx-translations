@@ -1,0 +1,1224 @@
+/* Activity message */
+"%1$d of %2$d - %3$@" = "%1$d de %2$d - %3$@";
+
+/* error description */
+"1Password can only run from the Applications folder" = "1Password sólo puede ejecutarse desde la carpeta Aplicaciones";
+
+/* alert message */
+"1Password could not be unlocked with the password you provided. Please verify the password and try again." = "No ha sido posible desbloquear 1Password con la contraseña introducida. Verifique la contraseña e inténtelo de nuevo.";
+
+/* error title */
+"1Password failed to start its helper" = "1Password no ha podido iniciar su asistente";
+
+/* error */
+"1Password File '%@' is incorrect or damaged. Please choose another file." = "El archivo 1Password “%@” no es correcto o está dañado. Elija otro archivo.";
+
+/* alert title
+   error */
+"1Password Interchange Format" = "Formato de intercambio de 1Password";
+
+/* message */
+"A backup copy of your data was created before the merge." = "Se creó una copia de seguridad de sus datos antes de la fusión.";
+
+/* message */
+"A backup copy of your original data was also created" = "También se creó una copia de seguridad de sus datos originales";
+
+/* No comment provided by engineer. */
+"A Ruby interpreter is required to perform your request, however Ruby cannot be found on this system. Please contact AgileBits for assistance." = "Es necesario un intérprete de Ruby para ejecutar su solicitud, sin embargo, no ha sido posible localizar Ruby en este sistema. Póngase en contacto con AgileBits para obtener ayuda.";
+
+/* adding sample data activity */
+"Adding Sample Data" = "Añadiendo datos de muestra";
+
+/* info */
+"Apply to all" = "Aplicar a todos";
+
+/* error */
+"Backup failed: %@" = "Error de copia de seguridad: %@";
+
+/* info */
+"Backup up existing data..." = "Datos existentes de copia de seguridad.";
+
+/* button */
+"Cancel" = "Cancelar";
+
+/* message */
+"Cannot merge selected file with your data" = "No es posible fusionar el archivo seleccionado con sus datos";
+
+/* button */
+"Continue" = "Continuar";
+
+/* button */
+"Continue, Dropbox sync is complete!" = "Continuar. ¡La sincronización de Dropbox se ha completado!";
+
+/* info */
+"Copying file..." = "Copiando archivo…";
+
+/* info */
+"Copying new file..." = "Copiando nuevo archivo…";
+
+/* button */
+"Create New" = "Crear nuevo";
+
+/* info */
+"Deleting existing file..." = "Eliminando archivo existente…";
+
+/* info */
+"Do you want to create another entry?" = "¿Desea crear otra entrada?";
+
+/* error */
+"E-mail address is not valid." = "La dirección de correo electrónico no es válida.";
+
+/* error */
+"E-mail should be of the format name@domain.com." = "El correo electrónico debe seguir el formato nombre@dominio.com.";
+
+/* unlock prompt */
+"Enter your master password to change this setting" = "Introduzca su contraseña principal para cambiar este ajuste";
+
+/* unlock prompt */
+"Enter your master password to unlock 1Password." = "Introduzca su contraseña principal para desbloquear 1Password.";
+
+/* error */
+"Failed to copy '%1$@' to '%2$@': %3$@" = "Error al copiar “%1$@” a “%2$@”: %3$@";
+
+/* message */
+"Failed to copy selected file" = "Error al copiar el archivo seleccionado";
+
+/* info */
+"Failed to Go & Fill" = "Error de Go & Fill";
+
+/* info */
+"Failed to launch browser for the url: %@" = "Error al ejecutar el navegador para la URL: %@";
+
+/* info */
+"Failed to open web page: %@" = "Error al abrir página web: %@";
+
+/* error */
+"Failed to rename '%1$@' to '%2$@': %3$@" = "Error al cambiar el nombre de “%1$@” a “%2$@”: %3$@";
+
+/* error */
+"Failed to resolve URL bookmark." = "Error al resolver el marcador URL.";
+
+/* error */
+"Failed to resolve URL bookmark: %@" = "Error al resolver marcador URL: %@";
+
+/* window title */
+"Find Existing 1Password File" = "Buscar archivo de 1Password existente";
+
+/* Go and Fill menu */
+"Folders" = "Carpetas";
+
+/* button */
+"Go Back" = "Volver";
+
+/* product web page */
+"http://agilebits.com/products/1Password" = "http://agilebits.com/products/1Password";
+
+/* product store page */
+"https://agilebits.com/store" = "https://agilebits.com/store";
+
+/* message */
+"I have found a new data file in Dropbox:\n%@\n\nIt looks like you've recently synced your data with Dropbox. Would you like me to use this data file (recommended)?\n" = "He detectado un nuevo archivo de datos en Dropbox:\n%@\n\nParece que ha sincronizado recientemente sus datos con Dropbox. ¿Le gustaría que utilizara este archivo de datos (recomendado)?\n";
+
+/* info */
+"Importing..." = "Importando…";
+
+/* alert title */
+"Incorrect File Type" = "Tipo de archivo incorrecto";
+
+/* error */
+"Invalid path: %@" = "Ruta no válida: %@";
+
+/* title */
+"Is the Dropbox Sync Complete?" = "¿Se ha completado la sincronización de Dropbox?";
+
+/* button */
+"Learn How to Resolve This" = "Aprenda a resolver este problema";
+
+/* menu item */
+"Lock 1Password" = "Bloquear 1Password";
+
+/* info */
+"Master Password Does Not Match" = "La contraseña principal no coincide";
+
+/* button */
+"Merge" = "Fusionar";
+
+/* alert message */
+"Merge will combine the contents of the selected file with your current data.\n\nReplace will remove your existing data and copy over the selected file." = "El comando Fusionar fusionará los contenidos del archivo seleccionado con sus datos actuales.\n\nEl comando Remplazar eliminará los datos existentes y copiará sobre ellos el archivo seleccionado.";
+
+/* info */
+"Merging data..." = "Fusionando datos…";
+
+/* title */
+"Newer 1Password File Found In Dropbox" = "Nuevo archivo 1Password detectado en Dropbox";
+
+/* button */
+"No, do not change data file" = "No, no cambiar el archivo de datos";
+
+/* status message */
+"One moment please..." = "Un momento…";
+
+/* message */
+"Operation Failed" = "Operación cancelada";
+
+/* alert message */
+"Password Hint" = "Recordatorio de contraseña";
+
+/* info */
+"Password Hint is Missing" = "Falta el recordatorio de contraseñas";
+
+/* info */
+"Password is too long for Login" = "La contraseña es demasiado larga para el inicio de sesión";
+
+/* info */
+"Please enter at least one character." = "Introduzca al menos un carácter.";
+
+/* info */
+"Please enter the master password again." = "Vuelva a introducir la contraseña principal.";
+
+/* info */
+"Please enter the password hint." = "Introduzca el recordatorio de contraseña.";
+
+/* error title */
+"Please install 1Password in Applications" = "Instale 1Password en Aplicaciones";
+
+/* message */
+"Please make sure that the Dropbox icon in your menu bar at the top of your screen is not spinning (it animates while syncing).\n\nClick the icon and make sure that \"All files up to date\" is displayed in the Dropbox menu.\n\nIf you do not see the Dropbox icon, please make sure Dropbox application is started." = "Asegúrese de que el icono de Dropbox de su barra de menú de la parte superior de su pantalla no esté girando (se anima durante la sincronización).\n\nHaga clic en el icono y asegúrese de que \ “Todos los archivos hasta la fecha\” aparezca en el menú de Dropbox.\n\nSi no puede ver el icono de Dropbox, asegúrese de que la aplicación Dropbox esté activa.";
+
+/* alert message */
+"Please select another file" = "Elija otro archivo.";
+
+/* info */
+"Please wait..." = "Espere por favor ...";
+
+/* rebuild progress */
+"Processing Data" = "Procesando datos";
+
+/* button */
+"Quit" = "Salir";
+
+/* button */
+"Replace" = "Remplazar";
+
+/* button */
+"Restore" = "Restablecer";
+
+/* alert title */
+"Restore Backup" = "Restablecer copia de seguridad";
+
+/* button */
+"Save" = "Guardar";
+
+/* button */
+"Shorten Password and Fill" = "Acortar contraseña y rellenar";
+
+/* Activity message */
+"Starting..." = "Iniciando…";
+
+/* Activity message */
+"Stopping..." = "Deteniendo…";
+
+/* Go and Fill menu */
+"Tags" = "Etiquetas";
+
+/* info */
+"The application will update all items in the data file. This might take a few minutes..." = "La aplicación actualizará todos los elementos del archivo de datos. Esta acción podría llevar varios minutos…";
+
+/* info */
+"The data file has been rebuilt. The application will now reload the data." = "Se ha reconstruido el archivo de datos. La aplicación volverá a cargar los datos ahora.";
+
+/* message */
+"The file you selected was copied and is ready to use." = "El archivo que ha seleccionado ha sido copiado y está preparado para su uso.";
+
+/* message */
+"The original file will remain intact." = "El archivo original se mantendrá intacto.";
+
+/* info */
+"The password can not be blank" = "El campo de contraseña no puede estar en blanco";
+
+/* alert title */
+"This data file is not valid and cannot be used by 1Password" = "Este archivo de datos no es válido por lo que 1Password no podrá utilizarlo";
+
+/* message */
+"This file is a 1Password Interchange File.\nUse File > Import menu to import this file." = "Este archivo es un archivo de intercambio de 1Password.\nEntre en Archivo > Importar para importar este archivo.";
+
+/* message */
+"This file is not a 1Password backup.\nPlease select a .agilekeychain_zip or .agilekeychain_backup file." = "Este archivo no es una copia de seguridad de 1Password.\nSeleccione un archivo .agilekeychain_zip o .agilekeychain_backup.";
+
+/* error message */
+"This problem is often caused by incorrect file permissions.\n\nPlease search 1Password Knowledge Base for 'helper startup' or contact us at support@agilebits.com for more information.\n" = "Este problema se produce a menudo porque los permisos del archivo son incorrectos.\n\nBusque en la base de conocimiento de 1Password “inicio de asistente” o póngase en contacto con nosotros en support@agilebits.com para obtener más información.\n";
+
+/* info */
+"This web page accepts passwords up to %jd characters in length." = "Esta página web acepta contraseñas de hasta %jd caracteres.";
+
+/* message */
+"This will replace your current 1Password data with the selected backup." = "Esta acción reemplazará sus datos actuales de 1Password por la copia de seguridad seleccionada.";
+
+/* error */
+"To import this file, set up 1Password as a new user and then choose File > Import..." = "Para importar este archivo, establezca 1Password como nuevo usuario y, a continuación, elija Archivo > Importar…";
+
+/* button */
+"Try Again" = "Inténtelo de nuevo";
+
+/* alert message */
+"Unable to unlock 1Password" = "No es posible desbloquear 1Password";
+
+/* menu item */
+"Unlock 1Password" = "Desbloquear 1Password";
+
+/* unlock prompt */
+"Unlock 1Password to Autosave the Login." = "Desbloquear 1Password para guardar automáticamente el inicio de sesión.";
+
+/* unlock prompt */
+"Unlock 1Password to edit the item." = "Desbloquear 1Password para editar el elemento.";
+
+/* unlock prompt */
+"Unlock 1Password to fill credit card." = "Desbloquear 1Password para rellenar la tarjeta de crédito.";
+
+/* unlock prompt */
+"Unlock 1Password to fill Login." = "Desbloquear 1Password para introducir el inicio de sesión.";
+
+/* unlock prompt */
+"Unlock 1Password to fill the generated password." = "Desbloquear 1Password para introducir la contraseña generada.";
+
+/* unlock prompt */
+"Unlock 1Password to import passwords." = "Desbloquear 1Password para importar contraseñas.";
+
+/* unlock prompt */
+"Unlock 1Password to remove the item." = "Desbloquear 1Password para eliminar el elemento.";
+
+/* unlock prompt */
+"Unlock 1Password to save the generated password." = "Desbloquear 1Password para guardar la contraseña generada.";
+
+/* unlock prompt */
+"Unlock 1Password to save the Login." = "Desbloquear 1Password para guardar el inicio de sesión.";
+
+/* unlock prompt */
+"Unlock 1Password to update Login." = "Desbloquear 1Password para actualizar el inicio de sesión.";
+
+/* unlock prompt */
+"Unlock 1Password to use Identity." = "Desbloquear 1Password para usar Identidad.";
+
+/* prompt */
+"Unlock chosen file to merge with your data" = "Desbloquear el archivo seleccionado para fusionar con sus datos";
+
+/* prompt */
+"Unlock current data to merge" = "Desbloquear datos actuales para fusionar";
+
+/* menu item */
+"Unlock..." = "Desbloquear…";
+
+/* button */
+"Update Existing" = "Actualizar existente";
+
+/* Activity status */
+"Updating Previews" = "Actualizando vistas previas";
+
+/* alert title */
+"Would you like to merge or replace your data with the selected file?" = "¿Le gustaría fusionar o reemplazar sus datos por el archivo seleccionado?";
+
+/* button */
+"Yes, use this data file" = "Sí, utilizar este archivo de datos";
+
+/* info */
+"You already have a software license entry for %@." = "Ya tiene una entrada de licencia de software para %@.";
+
+/* message */
+"Your data was merged with the contents of the selected file." = "Sus datos se han fusionado con los contenidos del archivo seleccionado.";
+
+/* message */
+"Your data was replaced with the contents of the selected file." = "Sus datos han sido reemplazados por los contenidos del archivo seleccionado.";
+
+/* context menu */
+" (Low Security)" = " (Seguridad baja)";
+
+/* file size */
+"%.1f GB" = "%.1f GB";
+
+/* file size */
+"%.1f MB" = "%.1f MB";
+
+/* number of items sorted by ... */
+"%@ items by" = "%@ elementos por";
+
+/* alert title */
+"%d attachments will be Deleted" = "%d documentos adjuntos serán eliminados";
+
+/* time */
+"%d days ago" = "hace %d días";
+
+/* time */
+"%d days from now" = "%d días desde hoy";
+
+/* time */
+"%d hours ago" = "hace %d horas";
+
+/* time */
+"%d hours from now" = "%d horas desde ahora";
+
+/* alert info */
+"%d item(s) will be permanently destroyed. You cannot undo this action." = "%d elementos serán destruidos permanentemente. No podrá deshacer esta acción.";
+
+/* alert title */
+"%d items will be deleted" = "%d elementos serán eliminados";
+
+/* time */
+"%d minutes ago" = "hace %d minutos";
+
+/* time */
+"%d minutes from now" = "%d minutos desde ahora";
+
+/* alert message */
+"%d objects will be moved to the Trash" = "%d objetos serán movidos a la Papelera";
+
+/* time */
+"%d seconds ago" = "hace %d segundos";
+
+/* time */
+"%d seconds from now" = "%d segundos desde ahora";
+
+/* time */
+"%d weeks ago" = "hace %d días";
+
+/* time */
+"%d weeks from now" = "%d semanas desde ahora";
+
+/* time */
+"%d years ago" = "hace %d años";
+
+/* time */
+"%d years from now" = "%d años desde ahora";
+
+/* file size */
+"%llu bytes" = "%llu bytes";
+
+/* file size */
+"%llu KB" = "%llu KB";
+
+/* No comment provided by engineer. */
+"(Multiple)" = "(Múltiple)";
+
+/* No comment provided by engineer. */
+"(None)" = "(Ninguno)";
+
+/* unlock error message */
+"(try disabling the caps lock key)" = "(intente deshabilitar la tecla de bloqueo de mayúscula)";
+
+/* *** Digest Password Required *** */
+"*** Digest Password Required ***" = "*** Contraseña Digest obligatoria ***";
+
+/* credit card month */
+"01 (January)" = "01 (Enero)";
+
+/* credit card month */
+"02 (February)" = "02 (Febrero)";
+
+/* credit card month */
+"03 (March)" = "03 (Marzo)";
+
+/* credit card month */
+"04 (April)" = "04 (Abril)";
+
+/* credit card month */
+"05 (May)" = "05 (Mayo)";
+
+/* credit card month */
+"06 (June)" = "06 (Junio)";
+
+/* credit card month */
+"07 (July)" = "07 (Julio)";
+
+/* credit card month */
+"08 (August)" = "08 (Agosto)";
+
+/* credit card month */
+"09 (September)" = "09 (Septiembre)";
+
+/* credit card month */
+"10 (October)" = "10 (Octubre)";
+
+/* credit card month */
+"11 (November)" = "11 (Noviembre)";
+
+/* credit card month */
+"12 (December)" = "12 (Diciembre)";
+
+/* info */
+"1Password will download all missing icons and previews" = "1Password descargará todos los iconos y vistas previas que falten";
+
+/* info */
+"1Password will visit every website stored in Logins as if you visited that website in Safari. The website could save your IP address, general location, and operating system information. Note that 1Password will NOT log into the site, only capture a picture of the login page. If you have privacy concerns about connecting to any of your saved sites from your current location, please Cancel.\n\nDepending on the number of saved Logins the download can take several hours and use significant network bandwidth." = "1Password visitará cada página web almacenada en Inicios de sesión como si usted visitara esa página web en Safari. La página web podría guardar su dirección IP, ubicación general e información del sistema operativo. Recuerde que 1Password NO iniciará sesión en el sitio, sólo capturará una imagen de la página de inicio de sesión. Si le preocupa que su privacidad pueda verse comprometida por conectar con cualquiera de los sitios guardados desde su ubicación actual, cancele la operación.\n\nDependiendo del número de inicios de sesión guardados, la descarga puede llevar varias horas y utilizar un significativo ancho de banda de red.";
+
+/* alert title */
+"\"%@\" will be Deleted" = "\"%@\" será eliminado";
+
+/* alert message */
+"\"%@\" will be moved to Trash" = "\"%@\" será movido a Papelera";
+
+/* alert message */
+"\n\nPassword Hint: %@\n" = "\n\nRecordatorio de contraseña: %@\n";
+
+/* warning */
+"\nNOTE: CAPS LOCK KEY IS PRESSED" = "\nNOTA: LA TECLA DE BLOQUEO DE MAYÚSCULAS ESTÁ PULSADA";
+
+/* time */
+"a minute ago" = "hace un minuto";
+
+/* time */
+"a minute from now" = "un minuto desde ahora";
+
+/* time */
+"a year ago" = "hace un año";
+
+/* time */
+"a year from now" = "un año desde ahora";
+
+/* Sidebar category */
+"Accounts" = "Cuentas";
+
+/* panel title */
+"ACTIVITY" = "ACTIVIDAD";
+
+/* attachment warning */
+"Add Attachment" = "Añadir documento adjunto";
+
+/* button */
+"Add Both" = "Añadir ambos";
+
+/* pref pane */
+"Advanced" = "Avanzado";
+
+/* info */
+"All login icons and previews will be deleted" = "Todos los iconos y vistas previas de inicio de sesión será eliminados";
+
+/* alert message */
+"An attachment named %@ already exists.\nDo you want to replace it with the one you are moving?" = "Ya existe un documento adjunto con el nombre %@.\n¿Desea reemplazarlo por el que está moviendo?";
+
+/* time */
+"an hour ago" = "hace una hora";
+
+/* time */
+"an hour from now" = "una hora desde ahora";
+
+/* alert message */
+"An item named %@ already exists at this location.\nDo you want to replace it with the one you are moving?" = "Ya existe un elemento con el nombre %@ en esta ubicación.\n¿Desea reemplazarlo por el que está moviendo?";
+
+/* alert message */
+"Are you sure you want to permanently remove all items in the Trash?" = "¿Está seguro de que desea eliminar permanentemente todos los elementos de la Papelera?";
+
+/* attachment warning */
+"Attachment is too big" = "El documento adjunto es demasiado grande";
+
+/* alert message */
+"Attachment named %@ failed to export." = "Error al exportar el documento adjunto con el nombre %@.";
+
+/* alert title */
+"Attachment with the same name already exists" = "Ya existe un documento adjunto con el mismo nombre";
+
+/* Label in item detail view */
+"Attachments" = "Documentos adjuntos";
+
+/* iPhone status */
+"Available" = "Disponible";
+
+/* error */
+"Backup directory is not writeable." = "El directorio de copia de seguridad es de sólo lectura.";
+
+/* error */
+"Backup path exists but it is not a directory." = "La ruta de copia de seguridad existe pero no es un directorio.";
+
+/* button */
+"Begin downloading" = "Empezar a descargar";
+
+/* sidebar category */
+"Browser Extensions" = "Extensiones del navegador";
+
+/* accessibility description */
+"calendar picker" = "selector de calendario";
+
+/* button */
+"Cancel" = "Cancelar";
+
+/* intro message */
+"Catalog your Software licenses, including related files and confirmation emails." = "Catalogue sus licencias de software, incluyendo los archivos relacionados y los correos electrónicos de confirmación.";
+
+/* Software Licenses Image Menu */
+"Clear Icon" = "Borrar icono";
+
+/* Identities Image Menu */
+"Clear Image" = "Borrar imagen";
+
+/* Login Preview Image Menu */
+"Clear Preview" = "Borrar vista previa";
+
+/* tooltip */
+"Click to show in Finder" = "Haga clic para mostrar en Finder";
+
+/* search scope */
+"Common" = "Común";
+
+/* button */
+"Continue" = "Continuar";
+
+/* button */
+"Copy" = "Copiar";
+
+/* status message */
+"Created on %@" = "Creado el %@";
+
+/* table column */
+"Date Created" = "Fecha de creación";
+
+/* accessibility description */
+"date field enabled" = "campo de fecha habilitado";
+
+/* table column */
+"Date Modified" = "Fecha de modificación";
+
+/* button */
+"Delete" = "Eliminar";
+
+/* Alert Panel */
+"Diagnostic script failed." = "Error de secuencia de comandos de diagnóstico.";
+
+/* alert */
+"Discard Changes and Reload?" = "¿Desea descartar los cambios y volver a cargar?";
+
+/* Login Preview Image Menu */
+"Download Preview" = "Descargar vista previa";
+
+/* title */
+"Dropbox process is not running" = "El proceso de Dropbox no está activo";
+
+/* main window edit button
+   menu item
+   menu undo edit */
+"Edit" = "Editar";
+
+/* menu item */
+"Edit Selected Item" = "Editar elemento seleccionado";
+
+/* search scope */
+"Edit Smart Folder \"%@\"" = "Editar carpeta inteligente \"%@\"";
+
+/* Identities Image Menu */
+"Edit..." = "Editar…";
+
+/* alert title */
+"Empty import file" = "Archivo de importación vacío";
+
+/* search scope */
+"Everything" = "Todo";
+
+/* search scope */
+"Everywhere" = "Todas las ubicaciones";
+
+/* Password strength — Excellent */
+"Excellent" = "Excelente";
+
+/* exported
+   file prompt
+   Save Panel prompt */
+"Export" = "Exportar";
+
+/* Save Panel field label */
+"Export As:" = "Exportar como:";
+
+/* exporter */
+"Export Failed" = "Error al exportar";
+
+/* window title */
+"Export Passwords" = "Exportar contraseñas";
+
+/* exporter */
+"Export To 1Password Interchange File" = "Exportar a archivo de intercambio de 1Password";
+
+/* status message */
+"Exporting Attachments" = "Exportando documentos adjuntos";
+
+/* pref pane */
+"Extensions" = "Extensiones";
+
+/* alert title */
+"Failed to add attachment" = "Error al añadir documento adjunto";
+
+/* exporter */
+"Failed to create 1Password Interchange File" = "Error al crear archivo de intercambio de 1Password";
+
+/* alert title */
+"Failed to export attachment" = "Error al exportar documento adjunto";
+
+/* error */
+"Failed to interpret the output of the import script." = "Error al interpretar la salida de la secuencia de comandos de importación.";
+
+/* info */
+"Failed to obtain user attributes." = "Error al obtener los atributos del usuario.";
+
+/* error message */
+"Failed to open '%1$@' using %2$@ encoding.\n\nError code: %3$d\n\nPlease choose another Character Encoding from the list." = "Error al abrir ”%1$@” utilizando la codificación %2$@.\n\nCódigo de error: %3$d\n\nseleccione otra codificación de caracteres de la lista.";
+
+/* error message */
+"Failed to restore '%@', no encryption keys file found in the backup" = "Error al restablecer “%@”, no se han detectado claves de encriptación en la copia de seguridad";
+
+/* error message */
+"Failed to restore from backup, cannot move %1$@ to %2$@\nError: %3$@" = "Error al restablecer desde copia de seguridad; no es posible mover %1$@ a %2$@\nError: %3$@";
+
+/* error message */
+"Failed to restore from backup, cannot remove old data file '%1$@'\nError: %2$@" = "Error al restablecer desde copia de seguridad; no es posible eliminar el archivo de datos antiguo “%1$@”\nError: %2$@";
+
+/* error */
+"Failed to run import script" = "Error al ejecutar la secuencia de comandos de importación";
+
+/* Password strength — Fantastic */
+"Fantastic" = "Fantástico";
+
+/* alert message */
+"File added successfully" = "Archivo añadido correctamente";
+
+/* alert title */
+"File exists at path" = "El archivo existe en la ruta";
+
+/* attachment warning */
+"File is a bundle or folder" = "El archivo es un paquete o carpeta";
+
+/* exporter */
+"File name:" = "Nombre de archivo:";
+
+/* attachment warning */
+"File size is larger than 2 MB" = "El tamaño del archivo es superior a 2 MB";
+
+/* alert message */
+"Files added successfully" = "Archivos añadidos correctamente";
+
+/* menu item */
+"Finish Editing" = "Finalizar edición";
+
+/* menu item */
+"Finish Editing Selected Item" = "Finalizar edición de elemento seleccionado";
+
+/* Sidebar group */
+"Folders" = "Carpetas";
+
+/* pref pane */
+"General" = "Información general";
+
+/* generate password button */
+"Generate" = "Generar";
+
+/* sidebar category */
+"Generated Passwords" = "Contraseñas generadas";
+
+/* menu item */
+"Go & Fill Login" = "Inicio de sesión en Go & Fill";
+
+/* Password strength — Good */
+"Good" = "Bueno";
+
+/* menu item */
+"Hide Activity" = "Ocultar actividad";
+
+/* menu item */
+"Hide Toolbar" = "Ocultar barra de herramientas";
+
+/* Sidebar category */
+"Identities" = "Identidades";
+
+/* button */
+"Import %d Selected Objects" = "Importar %d objetos seleccionados";
+
+/* button */
+"Import Selected Object" = "Importar objeto seleccionado";
+
+/* folder name */
+"Imported" = "Importado";
+
+/* status message */
+"Importing Attachments" = "Importando documentos adjuntos";
+
+/* error message */
+"Incorrect Password" = "Contraseña incorrecta";
+
+/* error message */
+"Invalid Agile Keychain backup file" = "Archivo de copia de seguridad del llavero Agile no válido";
+
+/* error */
+"Invalid backup file name" = "Nombre de archivo de copia de seguridad no válido";
+
+/* error */
+"Invalid backup file, encryption keys not found" = "Archivo de copia de seguridad no válido, no se han detectado claves de encriptación";
+
+/* alert title */
+"Invalid import file" = "Archivo de importación no válido";
+
+/* prompt */
+"It might take a while for Dropbox to finish syncing. Please make sure the sync is fully completed before using 1Password on other computers and devices." = "Dropbox podría necesitar unos minutos para completar la sincronización. Asegúrese de que la sincronización se haya completado totalmente antes de utilizar 1Password en otros equipos y dispositivos.";
+
+/* Item import status */
+"Item Exists" = "El elemento existe";
+
+/* intro message */
+"Keep name and address information to quickly register online with just one click in the browser." = "Guarde la información de nombre y dirección para registrarla rápidamente en línea con un solo clic en el navegador.";
+
+/* status message */
+"Last modified %@" = "Modificado por última vez el día %@";
+
+/* search scope
+   table column */
+"Location" = "Localización";
+
+/* pref pane
+   Sidebar category */
+"Logins" = "Inicios de sesión";
+
+/* info */
+"Master Password has been changed" = "La contraseña principal ha sido modificada";
+
+/* button */
+"Move items to Unfiled" = "Mover elementos a Sin archivar";
+
+/* button */
+"Move to Trash" = "Mover a Papelera";
+
+/* status message */
+"Moving Items..." = "Moviendo elementos…";
+
+/* info */
+"Moving..." = "Moviendo…";
+
+/* Last synced message */
+"Never" = "Nunca";
+
+/* folder */
+"New Folder" = "Nueva carpeta";
+
+/* Item import status */
+"New Item" = "Nuevo elemento";
+
+/* new password title */
+"New Password" = "Nueva contraseña";
+
+/* folder */
+"New Saved Search" = "Nueva búsqueda guardada";
+
+/* Item import status */
+"Newer Item Exists" = "Existe un elemento más reciente";
+
+/* alert title */
+"No file format was selected" = "No se ha seleccionado ningún formato de archivo";
+
+/* iPhone status */
+"Not Authorized (Allow New Connections in Settings > Sync > Wi-Fi)" = "No autorizado (Permita nuevas conexiones en Ajustes > Sincronizar > Wi-Fi)";
+
+/* iPhone status */
+"Not reachable" = "No accesible";
+
+/* placeholder */
+"Notes" = "Notas";
+
+/* button */
+"Nothing To Import" = "Nada que importar";
+
+/* iPhone status */
+"Offline" = "Fuera de línea";
+
+/* dialog */
+"OK" = "Aceptar";
+
+/* Item import status */
+"Older Item Exists" = "Existe un elemento más antiguo";
+
+/* prompt */
+"Other computers sharing the same Dropbox will lose 1Password data. Please use File > Restore on other computers." = "El resto de equipos que comparten el mismo Dropbox perderá los datos de 1Password. Utilice Archivo > Restablecer en otros equipos.";
+
+/* form field
+   search scope */
+"Password" = "Contraseña";
+
+/* error */
+"Password hint required" = "El recordatorio de contraseña es obligatorio";
+
+/* table column */
+"Password Strength" = "Nivel de seguridad de la contraseña";
+
+/* info */
+"Please contact AgileBits support." = "Póngase en contacto con el servicio de asistencia técnica de AgileBits.";
+
+/* error */
+"Please enter at least one character." = "Introduzca al menos un carácter.";
+
+/* error */
+"Please enter password hint." = "Introduzca el recordatorio de contraseña.";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nExtended Attributes will be repaired," = "Introduzca su contraseña de Mac OS X.\n\nLos atributos ampliados se repararán,";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nFolder permissions will be reset," = "Introduzca su contraseña de Mac OS X.\n\nLos permisos de carpeta se restablecerán,";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nThe Launch Services database will be reset," = "Introduzca su contraseña de Mac OS X.\n\nLa base de datos Launch Services se restablecerá,";
+
+/* message */
+"Please make sure Dropbox is installed and running." = "Asegúrese de que Dropbox esté instalado y funcionando.";
+
+/* error */
+"Please make sure the file you are using for import is correct." = "Asegúrese de que el archivo que está utilizando para la importación sea correcto.";
+
+/* info */
+"Please memorize the new master password." = "Memorice la nueva contraseña principal.";
+
+/* info */
+"Please restart 1Password." = "Vuelva a iniciar 1Password.";
+
+/* error */
+"Please try again." = "Inténtelo de nuevo.";
+
+/* prompt */
+"Please type your Mac OS X password" = "Introduzca su contraseña de Mac OS X";
+
+/* info */
+"Please wait..." = "Espere...";
+
+/* alert message */
+"Previously imported objects were removed from the list." = "Los objetos importados previamente han sido eliminados de la lista.";
+
+/* alert info
+   alert message */
+"Proceed?" = "¿Quieres continuar?";
+
+/* status message */
+"Processing" = "Procesando";
+
+/* export progress */
+"Processing Attachments (step 2 of 2)" = "Procesando documentos adjuntos (paso 2 de 2)";
+
+/* export progress */
+"Processing Data (step 1 of 2)" = "Procesando datos (paso 1 de 2)";
+
+/* button */
+"Replace" = "Reemplazar";
+
+/* object list menu */
+"Reverse Sort Order" = "Revertir orden de clasificación";
+
+/* Item import status */
+"Same Item Exists" = "Existe un elemento igual";
+
+/* main window edit button */
+"Save" = "Guardar";
+
+/* search field placeholder */
+"Search" = "Buscar";
+
+/* search scope */
+"Search:" = "Buscar:";
+
+/* Sidebar category */
+"Secure Notes" = "Notas seguras";
+
+/* intro message */
+"Secure storage for any free-form text." = "Almacenamiento seguro para cualquier texto de formato libre.";
+
+/* intro message */
+"Secure storage for computer accounts, including email, file sharing and MobileMe credentials." = "Almacenamiento seguro para cuentas electrónicas, incluyendo correo electrónico, archivos compartidos y credenciales de MobileMe.";
+
+/* intro message */
+"Secure storage for financial and personal information, including credit cards and bank accounts." = "Almacenamiento seguro para información financiera y personal, incluyendo tarjetas de crédito y cuentas bancarias.";
+
+/* pref pane */
+"Security" = "Seguridad";
+
+/* dropdown item */
+"Select Import Format" = "Seleccionar formato de importación";
+
+/* search scope */
+"Selected Section" = "Sección seleccionada";
+
+/* button */
+"Send items to Trash" = "Enviar elementos a la Papelera";
+
+/* new password location */
+"Service or Application Name" = "Nombre de servicio o aplicación";
+
+/* accessibility description */
+"Shelves" = "Estantes";
+
+/* menu item */
+"Show Activity" = "Mostrar actividad";
+
+/* menu item */
+"Show Toolbar" = "Mostrar barra de herramientas";
+
+/* button
+   dialog */
+"Skip" = "Saltar";
+
+/* Sidebar category */
+"Software" = "Software";
+
+/* button */
+"Stop using Dropbox" = "Dejar de utilizar Dropbox";
+
+/* title */
+"Stop Using Dropbox?" = "¿Desea dejar de utilizar Dropbox?";
+
+/* Sidebar group */
+"Sync" = "Sincronización";
+
+/* sync detail view label */
+"Sync with %@" = "Sincronización con %@";
+
+/* table column */
+"Tag" = "Etiqueta";
+
+/* Sidebar group */
+"Tags" = "Etiquetas";
+
+/* Password strength — Terrible */
+"Terrible" = "Terrible";
+
+/* error */
+"The current password is not correct" = "La contraseña actual no es correcta";
+
+/* info */
+"The extended attributes have been repaired successfully." = "Los atributos ampliados se han reparado correctamente.";
+
+/* alert message */
+"The file %1$@ failed to import: %2$@." = "Error al importar el archivo %1$@: %2$@.";
+
+/* attachment warning */
+"The file %1$@ is (%2$@) in size.\nIt is going to be encrypted and stored in your data file. Adding a large attachment may slow and complicate data syncing.text" = "El archivo %1$@ tiene un tamaño de (%2$@).\nSe encriptará y almacenará en su archivo de datos. Añadir un archivo de gran tamaño puede ralentizar y complicar la sincronización de datos.";
+
+/* attachment warning */
+"The file %1$@ is too large (%2$@).\nAttachments must be under 20 MB in size." = "El archivo %1$@ es demasiado grande (%2$@).\nLos documentos adjuntos deben tener un tamaño inferior a 20 MB.";
+
+/* attachment warning */
+"The file %@ is a bundle or folder.\nAttachments must be regular files." = "El archivo %@ es un paquete o carpeta.\nLos documentos adjuntos deben ser archivos normales.";
+
+/* alert message */
+"The file could not be imported because the format was not selected. Try the import process again and be sure to specify the format." = "Es posible que no pueda importar el archivo porque no ha seleccionado el formato. Vuelva a intentar el proceso de importación y asegúrese de especificar el formato.";
+
+/* alert message */
+"The file has been added as a secure attachment.\nYou can safely delete the original file." = "El archivo ha sido añadido como documento adjunto seguro.\nYa puede eliminar con seguridad el archivo original.";
+
+/* alert message */
+"The file you are trying to import appears to be a binary file. Please try to open and view the contents of the file in TextEdit to make sure its contents is valid.\n\nIf you are opening the file directly from a network drive or USB disk then try to copy it to your local disk first." = "El archivo que está intentando importar parecer ser un archivo binario. Intente abrir y ver los contenidos del archivo en TextEdit para asegurarse de que sus contenidos sean válidos.\n\nSi está abriendo el archivo directamente desde una unidad de red o un disco USB, intente copiarlo a su disco local primero.";
+
+/* alert message */
+"The files have been added as secure attachments.\nYou can safely delete the original files." = "Los archivos ha sido añadido como documentos adjuntos seguros.\nYa puede eliminar con seguridad los archivos originales.";
+
+/* alert title */
+"The folder '%@' will be deleted" = "La carpeta \"%@\" será eliminada";
+
+/* info */
+"The folder permissions have been reset successfully." = "Los permisos de carpeta se han restablecido correctamente.";
+
+/* alert */
+"The import file data has been edited." = "Se ha editado el archivo de importación.";
+
+/* alert title */
+"The import was canceled" = "La importación se ha cancelado";
+
+/* exporter */
+"The interchange file can be used to merge different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "El archivo de intercambio puede utilizarse para fusionar bases de datos distintas de 1Password\no para guardar una copia de seguridad sin encriptar.\n\nIMPORTANTE: el archivo no estará encriptado y debe protegerse.";
+
+/* alert title */
+"The item \"%@\" will be deleted" = "El elemento \"%@\" será eliminado";
+
+/* info */
+"The Launch Services database has been successfully reset." = "La base de datos Launch Services se ha restablecido correctamente.";
+
+/* error */
+"The password can not be blank" = "El campo de contraseña no puede estar en blanco";
+
+/* alert message */
+"There are 0 passwords to import." = "Hay 0 contraseñas para importar.";
+
+/* alert message */
+"This operation can not be undone." = "Esta operación no puede deshacerse.";
+
+/* search scope
+   table column */
+"Title" = "Título";
+
+/* time */
+"tomorrow" = "mañana";
+
+/* accessibility description */
+"Traditional" = "Tradicional";
+
+/* sidebar category */
+"Trash" = "Papelera";
+
+/* table column */
+"Type" = "Tipo";
+
+/* iPhone/iPod touch type */
+"Unknown" = "Desconocido";
+
+/* button */
+"Use Dropbox" = "Utilizar Dropbox";
+
+/* title */
+"Use Dropbox?" = "¿Desea utilizar Dropbox?";
+
+/* form field
+   search scope */
+"Username" = "Nombre de usuario";
+
+/* intro message */
+"Usernames and passwords for websites. Use browser extensions to save and fill Logins for you." = "Nombres de usuario y contraseñas para páginas web. Utilice las extensiones del navegador para guardar e introducir sus inicios de sesión.";
+
+/* Sidebar group */
+"Vault" = "Vault";
+
+/* Sidebar category */
+"Wallet" = "Wallet";
+
+/* Password strength — Weak */
+"Weak" = "Débil";
+
+/* accessibility description */
+"Widescreen" = "Pantalla ancha";
+
+/* info */
+"Would you like to continue?" = "¿Desea continuar?";
+
+/* alert message */
+"Would you like to move the folder items to Unfiled folder or send them to Trash?" = "¿Le gustaría mover los elementos de la carpeta a la carpeta Sin archivar o enviarlos a la Papelera?";
+
+/* time */
+"yesterday" = "ayer";
+
+/* info */
+"You can now install 1Password from the App Store." = "Ahora puede instalar 1Password desde App Store.";
+
+/* error message */
+"You have selected the current data file instead of a backup file." = "Ha seleccionado el archivo de datos actual en lugar de un archivo de copia de seguridad.";
+
+/* title */
+"Your data is not stored in Dropbox anymore" = "Sus datos dejarán de almacenarse en Dropbox";
+
+/* title */
+"Your data is now in Dropbox" = "Sus datos están ahora en Dropbox";
+
+/* prompt */
+"Your data will be moved into the Dropbox folder for easy syncing with other computers and devices.\n\n1Password will also make an additional backup copy of your data." = "Sus datos se moverán a la carpeta de Dropbox para facilitar la sincronización con otros equipos y dispositivos.\n\n1Password también realizará una copia de seguridad adicional de sus datos.";
+
+/* prompt */
+"Your data will be moved out of the Dropbox folder.\n\nIMPORTANT: If you have other computers using Dropbox, make sure they all have a backup copy (File > Backup menu)." = "Sus datos se moverán de la carpeta de Dropbox.\n\nIMPORTANTE: si tiene otros equipos utilizando Dropbox, asegúrese de que todos tengan una copia de seguridad (menú Archivo > Copia de seguridad).";
+
+/* error */
+"Your new password is not the same as the verify password" = "Su nueva contraseña es distinta a la contraseña verificada";
+
+/* Title for the duplicated item */
+"%@ Copy" = "%@ Copia";
+
+/* Hot Keys: Key Combo text for 'empty' combo */
+"(None)" = "(Ninguno)";
+
+/* No comment provided by engineer. */
+"Account" = "Cuenta";
+
+/* folder */
+"All" = "Todos";
+
+/* change folder security level */
+"Apply security level to folder contents?" = "¿Desea aplicar el nivel de seguridad a los contenidos de la carpeta?";
+
+/* menu */
+"Choose All from %@" = "Elegir todos de %@";
+
+/* menu */
+"Choose from %@" = "Elegir de %@";
+
+/* change folder security level */
+"Don't Change Folder Contents" = "No modificar los contenidos de la carpeta";
+
+/* error */
+"Encryption keys file exist but cannot be loaded from '%@'" = "El archivo de claves de encriptación ya existe pero no puede cargarse desde ”%@”";
+
+/* error */
+"Failed to load encryption key from '%1$@', error: %2$@" = "Error al cargar clave de encriptación desde ”%1$@”, error: %2$@";
+
+/* alert title */
+"Failed to open attachment." = "Error al abrir documento adjunto.";
+
+/* item type */
+"Generated Password" = "Contraseña generada";
+
+/* iPhone Security Level */
+"High (Master Password)" = "Alta (Contraseña principal)";
+
+/* item type */
+"Identity" = "Identidad";
+
+/* info */
+"In 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again." = "En 1Password, en su iPhone o iPod, seleccione Ajustes > Sincronizar Wi-Fi > Permitir nuevas conexiones y, a continuación, inténtelo de nuevo.";
+
+/* error */
+"Incorrect response received from iPhone. Please restart Mac and iPhone applications and try to sync again" = "Respuesta incorrecta recibida desde el iPhone. Reinicie las aplicaciones Mac y iPhone y vuelva a intentar la sincronización.";
+
+/* alert title */
+"Incorrect secret" = "secreto incorrecto";
+
+/* item type */
+"Login" = "Inicio de sesión";
+
+/* iPhone Security Level */
+"Low (4-Digit Code)" = "Baja (código de 4 dígitos)";
+
+/* change folder security level */
+"Make Folder Contents High Security" = "Elevar el nivel de seguridad de los contenidos de carpeta a alto";
+
+/* info */
+"New connections are disabled by 1Password touch" = "1Password táctil ha deshabilitado nuevas conexiones";
+
+/* info */
+"New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "1Password táctil ha deshabilitado nuevas conexiones.\n\nEn 1Password, en su iPhone o iPod, seleccione Ajustes > Sincronizar Wi-Fi > Permitir nuevas conexiones e inténtelo de nuevo.";
+
+/* label */
+"Password" = "Contraseña";
+
+/* alert message */
+"Please enter the secret as it is shown on iPhone" = "Introduzca la contraseña secreta como aparece en el iPhone";
+
+/* item type */
+"Secure Note" = "Nota segura";
+
+/* item type */
+"Software" = "Software";
+
+/* alert title */
+"Sync Conflict Resolver Window" = "Ventana del solucionador de conflictos de sincronización";
+
+/* error */
+"Sync failed, 1Password is locked" = "Error al sincronizar, 1Password se ha bloqueado";
+
+/* alert message */
+"The attachment %1$@ failed to open: %2$@.x" = "Error al abrir el documento adjunto %1$@: %2$@.x";
+
+/* error */
+"The encryption keys file does not exist at '%@'" = "El archivo de claves de encriptación no existe en ”%@”";
+
+/* folder */
+"Trash" = "Papelera";
+
+/* smart folder */
+"Unfiled" = "Sin archivar";
+
+/* Unknown wallet type */
+"Unknown" = "Desconocido";
+
+/* smart folder */
+"Untagged" = "Sin etiquetar";
+
+/* No comment provided by engineer. */
+"Wallet" = "Wallet";
+
+/* error */
+"Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "Error de conexión Wi-Fi. Reinicie y desbloquee 1Password táctil en su iPhone.";
+
+/* change folder security level */
+"You are changing the folder \"%@\" to high security mode.\nDo you also want to set the items in this folder to high security?" = "Está cambiando la carpeta \"%@\" al modo de seguridad alto.\n¿Desea elevar también los elementos de esta carpeta al nivel de seguridad alto?";
+

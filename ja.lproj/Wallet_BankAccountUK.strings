@@ -1,0 +1,21 @@
+"__title__" = "銀行口座（UK)）";
+"__description__" = "英国の銀行口座情報";
+
+"bankName" = "銀行名";
+"owner" = "口座名義";
+"accountTypeUK" = "種類";
+"bankNo" = "銀行支店ソートコード";
+"accountNo" = "口座番号";
+"swift" = "SWIFT コード";
+"iban" = "IBAN 番号";
+"branchInfo" = "支店情報";
+"branchPhone" = "電話番号";
+"branchAddress" = "住所";
+"telephonePin" = "電話 PIN";
+
+"menu.accountTypeUK." = "";
+"menu.accountTypeUK.current" = "当座預金";
+"menu.accountTypeUK.savings" = "普通預金";
+"menu.accountTypeUK.loc" = "信用与信枠";
+"menu.accountTypeUK.money_market" = "マネーマーケット";
+"menu.accountTypeUK.other" = "その他";

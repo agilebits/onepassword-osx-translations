@@ -1,0 +1,13 @@
+"__title__" = "Jagdschein";
+
+"name" = "Vollständiger Name";
+"valid_from" = "Gültig ab";
+"valid_from#9" = "Gültig";
+"expires" = "Läuft ab";
+"game" = "Anerkannte Wildtiere";
+"game#9" = "Wildtiere";
+"quota" = "Höchstkontingent";
+"quota#9" = "Kontingent";
+"state" = "Bundesland";
+"country" = "Land";
+

@@ -1,0 +1,45 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "5025"; */
+"Tags" = "标签";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4881"; */
+"Attachments" = "附件";
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
+"License Key:" = "许可证密钥：";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
+"title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
+"View Version" = "查看版本";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
+"Created on" = "创建时间";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4509"; */
+"tags" = "标签";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4939"; */
+"Notes" = "备注";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5066"; */
+"Title" = "标题";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
+"Version Number" = "版本号";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
+"license key" = "许可证密钥";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
+"version" = "版本";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "icon"; ObjectID = "3918"; */
+"icon" = "图标";
+
+/* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
+"Edit Version" = "编辑版本";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */
+"Last modified" = "修改时间";
+

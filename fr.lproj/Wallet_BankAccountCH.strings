@@ -1,0 +1,21 @@
+"__title__" = "Compte bancaire (CH)";
+"__description__" = "Information compte bancaire suisse";
+ 
+"bankName" = "Nom de la banque";
+"owner" = "Titulaire du compte";
+"accountType" = "Type";
+"clearingNo" = "Numéro de compensation";
+"accountNo" = "Numéro de compte";
+"swift" = "Code SWIFT";
+"iban" = "Numéro IBAN";
+"branchInfo" = "Infos agence";
+"branchPhone" = "Téléphone";
+"branchAddress" = "Adresse";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Compte-chèque";
+"menu.accountType.savings" = "Compte-épargne";
+"menu.accountType.loc" = "Ligne de crédit";
+"menu.accountType.money_market" = "Marché boursier";
+"menu.accountType.other" = "Autre";

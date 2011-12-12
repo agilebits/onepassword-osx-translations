@@ -1,0 +1,23 @@
+"__title__" = "Serveur";
+"__description__" = "Information de compte pour serveurs dédiés Linux et FreeBSD, systèmes VPS, etc.";
+
+"url" = "URL";
+"username" = "Nom d'utilisateur";
+"password" = "Mot de passe";
+"url" = "URL";
+"hosting_provider_details" = "Infos fournisseur d'hébergement";
+"hosting_provider_details#9" = "Fournisseur";
+"admin_console" = "Console d'administration";
+"admin_console#9" = "Console";
+"admin_console_url" = "URL console d'admin.";
+"admin_console_url#9" = "URL console";
+"admin_console_username" = "Nom d'utilisateur console d'admin.";
+"admin_console_username#9" = "Nom d'utilisateur cons.";
+"admin_console_password" = "Mot de passe console";
+"admin_console_password#9" = "Mdp cons.";
+"name" = "Nom";
+"website" = "Site Internet";
+"support_contact_url" = "Assistance URL";
+"support_contact_url#9" = "Assistance URL";
+"support_contact_phone" = "N° téléphone assistance";
+"support_contact_phone#9" = "N° assistance";

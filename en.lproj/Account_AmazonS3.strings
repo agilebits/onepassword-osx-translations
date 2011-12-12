@@ -1,0 +1,12 @@
+"__title__" = "Amazon Web Services";
+"__description__" = "Access Keys for Amazon Web Services.";
+ 
+"path" = "Path";
+"email" = "Email";
+"password" = "Password";
+"access_key_id" = "Access Key Id";
+"access_key" = "Secret Access Key";
+
+"access_key_id#9" = "Key Id";
+"access_key#9" = "Secret";
+ 

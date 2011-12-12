@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "Agile"; ObjectID = "260"; */
+"Agile" = "Agile";
+
+/* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "248"; */
+"Email" = "이메일";
+
+/* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "1Password에 관한 중요 업데이트 및 새로운 소식을 발빠르게 전해드립니다.\n\n뉴스레터 수신을 원치 않으시면 언제든 자유롭게 클릭 한번으로 즉시 구독을 해지하실 수 있습니다.";
+
+/* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
+"Stay In Touch" = "뉴스레터 구독";
+
+/* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
+"No, thanks" = "구독 안함";
+
+/* Class = "NSTextFieldCell"; title = "Copied from your Address Book card"; ObjectID = "269"; */
+"Copied from your Address Book card" = "사용자 주소록 카드에서 복사";
+
+/* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "242"; */
+"Sign Up" = "등록";
+
+/* Class = "NSTextFieldCell"; title = "News & Updates"; ObjectID = "258"; */
+"News & Updates" = "뉴스 및 업데이트";
+

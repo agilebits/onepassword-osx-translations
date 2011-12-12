@@ -1,0 +1,24 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4863"; */
+"Tags" = "Tags";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4803"; */
+"Attachments" = "Anhänge";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4865"; */
+"title" = "Titel";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3152"; */
+"Created on" = "Erstellt am";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4483"; */
+"tags" = "Tags";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4904"; */
+"Title" = "Titel";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Secure Notes"; ObjectID = "3177"; */
+"Secure Notes" = "Sichere Notizen";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3151"; */
+"Last modified" = "Zuletzt geändert";
+

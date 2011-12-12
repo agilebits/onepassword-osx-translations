@@ -1,0 +1,28 @@
+"__title__" = "Интернет-пейджер";
+"__description__" = "Учетные данные и параметры подключения для различных интернет-пейджеров";
+
+"account_type" = "Тип учетной записи";
+"account_type#9" = "Тип";
+"username" = "Имя пользователя / эл. почта / ИД";
+"username#9" = "ИД";
+"password" = "Пароль";
+"server" = "Сервер";
+"port" = "Порт";
+ 
+"menu.account_type." = "";
+"menu.account_type.aol" = "AOL Instant Messenger";
+"menu.account_type.jabber" = "Jabber";
+"menu.account_type.msn" = "MSN Messenger";
+"menu.account_type.yahoo" = "Yahoo! Messenger";
+"menu.account_type.mobileme" = "MobileMe";
+"menu.account_type.dotmac" = "Mac.com";
+"menu.account_type.gadu" = "Gadu-Gadu";
+"menu.account_type.gtalk" = "Gadu-Gadu";
+"menu.account_type.icq" = "ICQ";
+"menu.account_type.livejournal" = "LiveJournal";
+"menu.account_type.sametime" = "Lotus Sametime";
+"menu.account_type.groupwise" = "Lotus Sametime";
+"menu.account_type.qq" = "QQ";
+"menu.account_type.sip" = "SIP / SIMPLE";
+"menu.account_type.skype" = "Skype";
+"menu.account_type.gizmo" = "Gizmo";

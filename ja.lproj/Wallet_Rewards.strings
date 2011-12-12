@@ -1,0 +1,25 @@
+"__title__" = "報酬プログラム";
+"__description__" = "フリークエントフライヤーとホテルリワードを含む顧客ロイヤリティプログラム";
+
+"company_name" = "会社名";
+"member_name" = "メンバー名";
+"member_since" = "登録日";
+"membership_no" = "メンバーシップ #";
+"additional_no" = "メンバーシップ # （追加）";
+"pin" = "暗証番号";
+"customer_service_phone" = "カスタマーサービスの電話番号";
+"reservations_phone" = "予約の電話番号";
+"website" = "ウェブサイト";
+"extra" = "詳細情報";
+
+
+"company_name#9" = "会社";
+"member_name#9" = "名前";
+"member_since#9" = "以来";
+"membership_no#9" = "番号";
+"additional_no#9" = "番号 2";
+"pin#9" = "暗証番号";
+"customer_service_phone#9" = "Cust Serv";
+"reservations_phone#9" = "Reservs.";
+"website#9" = "ウェブサイト";
+"extra#9" = "詳細情報";

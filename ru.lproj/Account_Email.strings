@@ -1,0 +1,64 @@
+"__title__" = "Учетная запись эл. почты";
+"__description__" = "Параметры учетной записи эл. почты";
+ 
+"pop_username" = "Имя пользователя";
+"pop_password" = "Пароль";
+"pop_server" = "Сервер";
+"pop_type" = "Тип";
+"pop_port" = "Номер порта";
+"pop_port#9" = "Порт";
+"pop_use_ssl" = "Используется SSL";
+"pop_use_ssl#9" = "SSL";
+"pop_authentication" = "Метод аутентификации";
+"pop_authentication#9" = "Аутентификация";
+"SMTP" = "SMTP";
+"smtp_username" = "Имя пользователя";
+"smtp_password" = "Пароль";
+"smtp_server" = "Сервер";
+"smtp_type" = "Тип";
+"smtp_port" = "Номер порта";
+"smtp_port#9" = "Порт";
+"smtp_use_ssl" = "Используется SSL";
+"smtp_use_ssl#9" = "SSL";
+"smtp_authentication" = "Метод аутентификации";
+"smtp_authentication#9" = "Аутентификация";
+"Contact Information" = "Контактная информация";
+"Contact Information#9" = "Контакт";
+"provider" = "Поставщик";
+"provider_website" = "Веб-сайт поставщика";
+"provider_website#9" = "Веб-сайт";
+"phone_tollfree" = "Номер телефона (бесплатный)";
+"phone_tollfree#9" = "Бесплатный";
+"phone_local" = "Номер телефона (местный)";
+"phone_local#9" = "Телефон";
+
+"menu.pop_type." = "";
+"menu.pop_type.pop3" = "POP3";
+"menu.pop_type.imap" = "IMAP";
+"menu.pop_type.either" = "POP3 или IMAP";
+
+"menu.pop_use_ssl." = "";
+"menu.pop_use_ssl.no" = "Нет";
+"menu.pop_use_ssl.yes" = "Да";
+
+"menu.pop_authentication." = "";
+"menu.pop_authentication.none" = "Нет";
+"menu.pop_authentication.password" = "Пароль";
+"menu.pop_authentication.md5_challenge_response" = "Ответ на вызов MD5";
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.pop_authentication.kerberos_v4" = "Kerberos версии 4";
+"menu.pop_authentication.kerberos_v5" = "Kerberos версии 5 (GSSAPI)";
+"menu.pop_authentication.ntlm" = "NTLM";
+
+"menu.smtp_use_ssl." = "";
+"menu.smtp_use_ssl.no" = "Нет";
+"menu.smtp_use_ssl.yes" = "Да";
+
+"menu.smtp_authentication." = "";
+"menu.smtp_authentication.none" = "Нет";
+"menu.smtp_authentication.password" = "Пароль";
+"menu.smtp_authentication.md5_challenge_response" = "Ответ на вызов MD5";
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos версии 4";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos версии 5 (GSSAPI)";
+"menu.smtp_authentication.ntlm" = "NTLM";

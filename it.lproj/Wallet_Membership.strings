@@ -1,0 +1,23 @@
+"__title__" = "Iscrizione";
+"__description__" = "Iscrizione a community o a club";
+ 
+"org_name" = "Ente";
+"phone" = "Telefono";
+"website" = "Sito Web";
+"member_name" = "Nome iscritto";
+"member_since" = "Iscritto dal";
+"expiry_date" = "Data di scadenza";
+"membership_no" = "Iscrizione n.";
+"pin" = "Password";
+ 
+
+
+"org_name#9" = "Ente";
+"phone#9" = "Telefono";
+"website#9" = "Sito Web";
+"member_name#9" = "Nome";
+"member_since#9" = "Dal";
+"expiry_date#9" = "Scade il";
+"membership_no#9" = "Numero";
+"pin#9" = "Password";
+ 

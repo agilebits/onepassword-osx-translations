@@ -1,0 +1,28 @@
+"__title__" = "Compte bancaire";
+"__description__" = "Informations compte bancaire.";
+
+"bankName" = "Nom de la banque";
+"owner" = "Titulaire du compte";
+"owner#9" = "Titulaire";
+"accountType" = "Type";
+"routingNo" = "N° de domiciliation bancaire";
+"routingNo#9" = "N° domiciliation";
+"accountNo" = "N° de compte";
+"accountNo#9" = "N° compte";
+"swift" = "Code SWIFT";
+"swift#9" = "SWIFT";
+"iban" = "Numéro IBAN";
+"iban#9" = "IBAN";
+"branchInfo" = "Infos agence";
+"branchInfo#9" = "Agence";
+"branchPhone" = "Téléphone";
+"branchAddress" = "Adresse";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.atm" = "GAB";
+"menu.accountType.checking" = "Compte-chèque";
+"menu.accountType.savings" = "Épargne";
+"menu.accountType.loc" = "Ligne de crédit";
+"menu.accountType.money_market" = "Marché boursier";
+"menu.accountType.other" = "Autre";

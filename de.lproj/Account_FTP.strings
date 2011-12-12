@@ -1,0 +1,18 @@
+"__title__" = "FTP-Account";
+"__description__" = "Login-Daten für FTP-Accounts";
+ 
+"server" = "Server";
+"path" = "Pfad";
+"username" = "Benutzername";
+"password" = "Passwort";
+"Contact Information" = "Kontaktdaten";
+"Contact Information#9" = "Kontakt";
+"provider" = "Anbieter";
+"provider_website" = "Anbieterwebsite";
+"provider_website#9" = "Website";
+"phone_tollfree" = "Telefonnummer (gebührenfrei)";
+"phone_tollfree#9" = "Gebührenfrei";
+"phone_local" = "Telefonnummer (lokal)";
+"phone_local#9" = "Telefon";
+ 
+ 

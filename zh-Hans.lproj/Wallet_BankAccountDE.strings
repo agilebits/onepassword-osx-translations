@@ -1,0 +1,21 @@
+"__title__" = "银行账户 (DE)";
+"__description__" = "德国银行账户信息。";
+
+"bankName" = "银行名称";
+"owner" = "账户名称";
+"accountType" = "类型";
+"bankNo" = "银行名称 (BLZ)";
+"accountNo" = "账号";
+"swift" = "SWIFT 代码";
+"iban" = "IBAN 编号";
+"branchInfo" = "分行信息";
+"branchPhone" = "电话";
+"branchAddress" = "地址";
+"telephonePin" = "电话 PIN";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "支票";
+"menu.accountType.savings" = "储蓄";
+"menu.accountType.loc" = "信用额度";
+"menu.accountType.money_market" = "货币市场";
+"menu.accountType.other" = "其他";

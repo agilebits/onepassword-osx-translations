@@ -1,0 +1,23 @@
+"__title__" = "서버";
+"__description__" = "Linux, FreeBSD 서버, VPS 시스템 (및 기타) 계정 정보";
+
+"url" = "URL";
+"username" = "사용자명";
+"password" = "비밀번호";
+"url" = "URL";
+"hosting_provider_details" = "호스트 제공자 정보";
+"hosting_provider_details#9" = "제공자";
+"admin_console" = "관리자 콘솔";
+"admin_console#9" = "콘솔";
+"admin_console_url" = "관리자 콘솔 URL";
+"admin_console_url#9" = "콘솔 URL";
+"admin_console_username" = "관리자 콘솔 사용자명";
+"admin_console_username#9" = "콘솔 사용자";
+"admin_console_password" = "콘솔 비밀번호";
+"admin_console_password#9" = "콘솔 비밀번호";
+"name" = "이름";
+"website" = "웹사이트";
+"support_contact_url" = "고객지원 URL";
+"support_contact_url#9" = "지원 URL";
+"support_contact_phone" = "고객지원 전화번호";
+"support_contact_phone#9" = "지원 전화번호";

@@ -1,0 +1,13 @@
+"__title__" = "Licencia de caza";
+
+"name" = "Nombre completo";
+"valid_from" = "Válido desde";
+"valid_from#9" = "Válido";
+"expires" = "Caduca";
+"game" = "Habita salvaje aprobado";
+"game#9" = "Habita salvaje";
+"quota" = "Cupo máximo";
+"quota#9" = "Cupo";
+"state" = "Estado";
+"country" = "País";
+

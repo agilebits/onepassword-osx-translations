@@ -1,0 +1,28 @@
+"__title__" = "온라인 메신저";
+"__description__" = "각종 온라인 메신저용 계정 및 연결 정보";
+
+"account_type" = "계정 유형";
+"account_type#9" = "유형";
+"username" = "사용자명 / 이메일 / 아이디";
+"username#9" = "아이디";
+"password" = "비밀번호";
+"server" = "서버";
+"port" = "포트";
+ 
+"menu.account_type." = "";
+"menu.account_type.aol" = "AOL 인스턴트 메신저";
+"menu.account_type.jabber" = "Jabber";
+"menu.account_type.msn" = "MSN 메신저";
+"menu.account_type.yahoo" = "야후! 메신저";
+"menu.account_type.mobileme" = "MobileMe";
+"menu.account_type.dotmac" = "Mac.com";
+"menu.account_type.gadu" = "Gadu-Gadu";
+"menu.account_type.gtalk" = "구글 토크";
+"menu.account_type.icq" = "ICQ";
+"menu.account_type.livejournal" = "LiveJournal";
+"menu.account_type.sametime" = "Lotus Sametime";
+"menu.account_type.groupwise" = "Novell GroupWise";
+"menu.account_type.qq" = "QQ";
+"menu.account_type.sip" = "SIP / SIMPLE";
+"menu.account_type.skype" = "스카이프";
+"menu.account_type.gizmo" = "Gizmo";

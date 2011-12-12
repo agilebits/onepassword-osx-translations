@@ -1,0 +1,96 @@
+/* Class = "NSTableColumn"; headerCell.title = "Field Name"; ObjectID = "3098"; */
+"Field Name" = "필드 이름";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4411"; */
+"Tags" = "태그";
+
+/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4875"; */
+"Attachments" = "첨부파일";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Display"; ObjectID = "3384"; */
+"Display" = "표시";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "http://www.website.com"; ObjectID = "5025"; */
+"http://www.website.com" = "http://www.website.com";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "username"; ObjectID = "4555"; */
+"username" = "사용자명";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "4945"; */
+"Time" = "시간";
+
+/* Class = "NSMenuItem"; title = "Checkbox"; ObjectID = "4043"; */
+"Checkbox" = "체크 상자";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "4564"; */
+"password" = "비밀번호";
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
+"Generate" = "생성";
+
+/* Class = "NSTableColumn"; headerCell.title = "Field Value"; ObjectID = "3101"; */
+"Field Value" = "필드 값";
+
+/* Class = "NSButtonCell"; title = "All Fields"; ObjectID = "3043"; */
+"All Fields" = "전체 필드";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Submit"; ObjectID = "3390"; */
+"Submit" = "전송";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Username"; ObjectID = "5026"; */
+"Username" = "사용자명";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Password"; ObjectID = "5030"; */
+"Password" = "비밀번호";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2834"; */
+"Created on" = "생성일시";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "4030"; */
+"Type" = "유형";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "3692"; */
+"Notes" = "노트";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4406"; */
+"tags" = "태그";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5029"; */
+"Title" = "제목";
+
+/* Class = "NSTextFieldCell"; title = "http://www.google.com"; ObjectID = "3088"; */
+"http://www.google.com" = "http://www.google.com";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "3394"; */
+"Always" = "항상";
+
+/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
+"Password Strength" = "비밀번호 보안성";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
+"Text" = "텍스트";
+
+/* Class = "NSMenuItem"; title = "For Web Pages Only"; ObjectID = "3388"; */
+"For Web Pages Only" = "웹 페이지에만 적용";
+
+/* Class = "NSButtonCell"; title = "Password History"; ObjectID = "4896"; */
+"Password History" = "비밀번호 이력";
+
+/* Class = "NSMenuItem"; title = "Show in Every HTTP Auth Prompt"; ObjectID = "5006"; */
+"Show in Every HTTP Auth Prompt" = "모든 HTTP 인증 입력창에 표시";
+
+/* Class = "NSMenuItem"; title = "For HTTP Auth Prompts Only"; ObjectID = "3396"; */
+"For HTTP Auth Prompts Only" = "HTTP 인증 입력창에만 표시";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
+"Never Display in Browser" = "브라우저에 표시 안함";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
+"Never" = "사용 안함";
+
+/* Class = "NSMenuItem"; title = "If Autosubmit is ON"; ObjectID = "3395"; */
+"If Autosubmit is ON" = "자동전송 활성화 시";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2825"; */
+"Last modified" = "최종 수정";
+

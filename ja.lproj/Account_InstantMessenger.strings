@@ -1,0 +1,28 @@
+"__title__" = "Instant Messenger";
+"__description__" = "様々なインスタントメッセンジャーのすべてのアカウントおよび接続情報";
+
+"account_type" = "アカウントの種類";
+"account_type#9" = "種類";
+"username" = "ユーザー名 / メール / ID";
+"username#9" = "ID";
+"password" = "パスワード";
+"server" = "サーバー";
+"port" = "ポート";
+ 
+"menu.account_type." = "";
+"menu.account_type.aol" = "AOL Instant Messenger";
+"menu.account_type.jabber" = "Jabber";
+"menu.account_type.msn" = "MSN Messenger";
+"menu.account_type.yahoo" = "Yahoo!メッセンジャー";
+"menu.account_type.mobileme" = "MobileMe";
+"menu.account_type.dotmac" = "Mac.com";
+"menu.account_type.gadu" = "Gadu-Gadu";
+"menu.account_type.gtalk" = "Google Talk™";
+"menu.account_type.icq" = "ICQ";
+"menu.account_type.livejournal" = "LiveJournal";
+"menu.account_type.sametime" = "Lotus Sametime";
+"menu.account_type.groupwise" = "Novell GroupWise";
+"menu.account_type.qq" = "QQ";
+"menu.account_type.sip" = "SIP / SIMPLE";
+"menu.account_type.skype" = "Skype";
+"menu.account_type.gizmo" = "Gizmo";

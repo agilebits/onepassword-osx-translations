@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
+"Last synced" = "上次同步";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
+"title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "请将您 iPhone 的 1Password touch 打开并解锁以执行 Wi-Fi 同步";
+
+/* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
+"Sync all items" = "同步所有项目";
+
+/* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
+"Sync only selected folders" = "仅同步所选文件夹";
+
+/* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
+"Wi-Fi Status" = "Wi-Fi 状态";
+
+/* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "勾选后，1Password 将使用此台电脑的信息替换此部 iPhone 的信息。";
+
+/* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
+"Replace information on this iPhone" = "替换此部 iPhone 的信息";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
+"Manually" = "手动";
+
+/* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
+"Sync Now" = "立即同步";
+
+/* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
+"Device type" = "设备类型";
+
+/* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
+"Automatically" = "自动";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
+"Wi-Fi status" = "Wi-Fi 状态";
+

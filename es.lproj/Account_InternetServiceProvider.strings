@@ -1,0 +1,16 @@
+"__title__" = "Proveedor de Internet";
+"__description__" = "La información de conexión proporcionada por su proveedor de servicios de Internet (ISP) para conectarse a Internet.";
+
+"userid" = "ID de usuario";
+"password" = "Contraseña";
+"pin" = "PIN";
+"dialup_number" = "Número de acceso por marcación";
+"dialup_number#9" = "Nº de marcación";
+"Contact Information" = "Información de contacto";
+"Contact Information#9" = "Contacto";
+"website" = "Página web";
+"phone_local" = "Teléfono (local)";
+"phone_local#9" = "Teléfono";
+"phone_tollfree" = "Teléfono (gratuito)";
+"phone_tollfree#9" = "Llamada gratuita";
+ 

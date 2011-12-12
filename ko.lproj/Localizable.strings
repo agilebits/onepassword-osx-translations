@@ -1,0 +1,1224 @@
+/* Activity message */
+"%1$d of %2$d - %3$@" = "총 %2$d 중 %1$d - %3$@";
+
+/* error description */
+"1Password can only run from the Applications folder" = "1Password는 애플리케이션 폴더에서만 구동 가능합니다.";
+
+/* alert message */
+"1Password could not be unlocked with the password you provided. Please verify the password and try again." = "입력한 암호로 1Password를 잠금 해제할 수 없습니다. 확인 후 다시 시도하세요.";
+
+/* error title */
+"1Password failed to start its helper" = "1Password 도움말을 불러올 수 없습니다.";
+
+/* error */
+"1Password File '%@' is incorrect or damaged. Please choose another file." = "1Password 파일 '%@' 오류 또는 손상이 확인되었습니다. 다른 파일을 선택하세요.";
+
+/* alert title
+   error */
+"1Password Interchange Format" = "1Password 인터체인지 포맷";
+
+/* message */
+"A backup copy of your data was created before the merge." = "병합 이전 데이터의 백업 사본이 생성되었습니다.";
+
+/* message */
+"A backup copy of your original data was also created" = "원본 데이터의 백업 사본도 함께 생성되었습니다.";
+
+/* No comment provided by engineer. */
+"A Ruby interpreter is required to perform your request, however Ruby cannot be found on this system. Please contact AgileBits for assistance." = "요청 수행에 필요한 루비 인터프리터가 현재 시스템에 존재하지 않습니다. 도움이 필요하시면 AgileBits로 문의해주세요.";
+
+/* adding sample data activity */
+"Adding Sample Data" = "샘플 데이터 추가중";
+
+/* info */
+"Apply to all" = "모두 적용";
+
+/* error */
+"Backup failed: %@" = "백업 실패: %@";
+
+/* info */
+"Backup up existing data..." = "현재 데이터 백업중...";
+
+/* button */
+"Cancel" = "취소";
+
+/* message */
+"Cannot merge selected file with your data" = "선택된 파일과 사용자 데이터를 병합할 수 없습니다.";
+
+/* button */
+"Continue" = "계속";
+
+/* button */
+"Continue, Dropbox sync is complete!" = "Dropbox 동기화가 완료되었습니다.";
+
+/* info */
+"Copying file..." = "파일 복사중...";
+
+/* info */
+"Copying new file..." = "새 파일 복사중...";
+
+/* button */
+"Create New" = "신규 작성";
+
+/* info */
+"Deleting existing file..." = "기존 파일 삭제중...";
+
+/* info */
+"Do you want to create another entry?" = "다른 항목을 추가 생성하시겠습니까?";
+
+/* error */
+"E-mail address is not valid." = "메일 주소가 올바르지 않습니다.";
+
+/* error */
+"E-mail should be of the format name@domain.com." = "name@domain.com 형식만 허용됩니다.";
+
+/* unlock prompt */
+"Enter your master password to change this setting" = "마스터 암호를 입력하면 설정이 변경됩니다.";
+
+/* unlock prompt */
+"Enter your master password to unlock 1Password." = "마스터 암호를 입력하면 1Password 잠금이 해제됩니다.";
+
+/* error */
+"Failed to copy '%1$@' to '%2$@': %3$@" = "'%1$@'에서 '%2$@'로 복사 실패: %3$@";
+
+/* message */
+"Failed to copy selected file" = "선택 파일 복사에 실패했습니다.";
+
+/* info */
+"Failed to Go & Fill" = "로그인 자동완성 실패";
+
+/* info */
+"Failed to launch browser for the url: %@" = "다음 URL을 위한 브라우저 구동에 실패했습니다: %@";
+
+/* info */
+"Failed to open web page: %@" = "해당 페이지를 열 수 없습니다: %@";
+
+/* error */
+"Failed to rename '%1$@' to '%2$@': %3$@" = "'%1$@'의 이름을 '%2$@'(으)로 변경할 수 없습니다: %3$@";
+
+/* error */
+"Failed to resolve URL bookmark." = "URL 즐겨찾기 열기 실패.";
+
+/* error */
+"Failed to resolve URL bookmark: %@" = "URL 즐겨찾기 열기 실패: %@";
+
+/* window title */
+"Find Existing 1Password File" = "기존 1Password 파일 찾기";
+
+/* Go and Fill menu */
+"Folders" = "폴더";
+
+/* button */
+"Go Back" = "이전";
+
+/* product web page */
+"http://agilebits.com/products/1Password" = "http://agilebits.com/products/1Password";
+
+/* product store page */
+"https://agilebits.com/store" = "https://agilebits.com/store";
+
+/* message */
+"I have found a new data file in Dropbox:\n%@\n\nIt looks like you've recently synced your data with Dropbox. Would you like me to use this data file (recommended)?\n" = "Dropbox에 새로운 데이터 파일 발견:\n%@\n\nDropbox 동기화 데이터가 갱신되었습니다. 해당 데이터 파일을 사용할까요? (권장)\n";
+
+/* info */
+"Importing..." = "불러오는 중...";
+
+/* alert title */
+"Incorrect File Type" = "파일 유형이 올바르지 않습니다.";
+
+/* error */
+"Invalid path: %@" = "잘못된 경로: %@";
+
+/* title */
+"Is the Dropbox Sync Complete?" = "Dropbox 동기화를 완료하시겠습니까?";
+
+/* button */
+"Learn How to Resolve This" = "문제 해결방법 보기";
+
+/* menu item */
+"Lock 1Password" = "1Password 잠금";
+
+/* info */
+"Master Password Does Not Match" = "마스터 비밀번호 불일치";
+
+/* button */
+"Merge" = "병합";
+
+/* alert message */
+"Merge will combine the contents of the selected file with your current data.\n\nReplace will remove your existing data and copy over the selected file." = "병합을 진행하면 선택된 파일의 내용이 현재 데이터와 합쳐집니다.\n\n교체를 진행하면 기존 데이터가 삭제되고 선택된 파일이 덮어쓰기됩니다.";
+
+/* info */
+"Merging data..." = "데이터 병합중...";
+
+/* title */
+"Newer 1Password File Found In Dropbox" = "Dropbox 내 새 1Password 파일 발견";
+
+/* button */
+"No, do not change data file" = "아니오, 파일을 변경하지 않습니다.";
+
+/* status message */
+"One moment please..." = "잠시만 기다려주세요...";
+
+/* message */
+"Operation Failed" = "작업 실패";
+
+/* alert message */
+"Password Hint" = "비밀번호 힌트";
+
+/* info */
+"Password Hint is Missing" = "비밀번호 힌트 없음";
+
+/* info */
+"Password is too long for Login" = "비밀번호가 너무 깁니다.";
+
+/* info */
+"Please enter at least one character." = "최소 1글자를 반드시 입력하세요.";
+
+/* info */
+"Please enter the master password again." = "마스터 비밀번호를 다시 입력하세요.";
+
+/* info */
+"Please enter the password hint." = "비밀번호 힌트를 입력하세요.";
+
+/* error title */
+"Please install 1Password in Applications" = "1Password를 애플리케이션 내에 설치해주세요.";
+
+/* message */
+"Please make sure that the Dropbox icon in your menu bar at the top of your screen is not spinning (it animates while syncing).\n\nClick the icon and make sure that \"All files up to date\" is displayed in the Dropbox menu.\n\nIf you do not see the Dropbox icon, please make sure Dropbox application is started." = "화면 상단 메뉴 바의 Dropbox 아이콘이 정지 상태인지 확인합니다. (동기화 중에는 애니메이션 표시됨)\n\n다음 Dropbox 아이콘을 클릭해 메뉴에 \"All files up to date\" 메시지가 표시되는지 확인합니다.\n\n아이콘이 보이지 않을 경우 Dropbox를 우선 실행해야 합니다.";
+
+/* alert message */
+"Please select another file" = "다른 파일을 선택하세요.";
+
+/* info */
+"Please wait..." = "잠시 기다려주세요...";
+
+/* rebuild progress */
+"Processing Data" = "데이터 처리중";
+
+/* button */
+"Quit" = "종료";
+
+/* button */
+"Replace" = "교체";
+
+/* button */
+"Restore" = "복원";
+
+/* alert title */
+"Restore Backup" = "백업 복원";
+
+/* button */
+"Save" = "저장";
+
+/* button */
+"Shorten Password and Fill" = "비밀번호 줄이기 및 자동완성";
+
+/* Activity message */
+"Starting..." = "시작중...";
+
+/* Activity message */
+"Stopping..." = "정지중...";
+
+/* Go and Fill menu */
+"Tags" = "태그";
+
+/* info */
+"The application will update all items in the data file. This might take a few minutes..." = "데이터 파일 내 모든 항목을 업데이트합니다. 수 분이 걸릴 수 있습니다...";
+
+/* info */
+"The data file has been rebuilt. The application will now reload the data." = "데이터 파일이 재구성되었습니다. 이제 새로운 데이터를 불러옵니다.";
+
+/* message */
+"The file you selected was copied and is ready to use." = "이제 복사한 선택 파일을 사용할 수 있습니다.";
+
+/* message */
+"The original file will remain intact." = "원본 파일은 그대로 보존됩니다.";
+
+/* info */
+"The password can not be blank" = "비밀번호는 필히 입력해야 합니다.";
+
+/* alert title */
+"This data file is not valid and cannot be used by 1Password" = "데이터 파일이 유효하지 않아 1Password에서 사용할 수 없습니다.";
+
+/* message */
+"This file is a 1Password Interchange File.\nUse File > Import menu to import this file." = "해당 파일은 1Password 인터체인지 파일입니다.\n불러오려면 파일 > 불러오기 메뉴를 선택하세요.";
+
+/* message */
+"This file is not a 1Password backup.\nPlease select a .agilekeychain_zip or .agilekeychain_backup file." = "올바른 1Password 백업 파일이 아닙니다.\n.agilekeychain_zip 또는 .agilekeychain_backup 형식 파일을 선택하세요.";
+
+/* error message */
+"This problem is often caused by incorrect file permissions.\n\nPlease search 1Password Knowledge Base for 'helper startup' or contact us at support@agilebits.com for more information.\n" = "이러한 문제는 파일 권한 오류로 인해 자주 발생합니다.\n\n1Password 지식 베이스에서 '도움말 시작'을 검색하시거나 support@agilebits.com으로 문의 바랍니다.\n";
+
+/* info */
+"This web page accepts passwords up to %jd characters in length." = "해당 웹페이지에서는 최대 %jd글자인 비밀번호까지 허용됩니다.";
+
+/* message */
+"This will replace your current 1Password data with the selected backup." = "계속 진행하면 현재의 1Password 데이터가 선택한 백업 데이터로 대체됩니다.";
+
+/* error */
+"To import this file, set up 1Password as a new user and then choose File > Import..." = "해당 파일을 불러오려면 새 사용자로 1Password 구성을 변경한 후 파일 > 불러오기를 선택하세요...";
+
+/* button */
+"Try Again" = "재시도";
+
+/* alert message */
+"Unable to unlock 1Password" = "1Password 잠금 해제 실패";
+
+/* menu item */
+"Unlock 1Password" = "1Password 잠금 해제";
+
+/* unlock prompt */
+"Unlock 1Password to Autosave the Login." = "로그인을 자동 저장하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to edit the item." = "항목을 편집하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to fill credit card." = "신용카드를 입력하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to fill Login." = "로그인 정보를 입력하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to fill the generated password." = "비밀번호를 입력하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to import passwords." = "비밀번호를 불러오려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to remove the item." = "항목을 삭제하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to save the generated password." = "비밀번호를 저장하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to save the Login." = "로그인 정보를 저장하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to update Login." = "로그인 정보를 갱신하려면 1Password 잠금을 해제하세요.";
+
+/* unlock prompt */
+"Unlock 1Password to use Identity." = "프로필 센터를 사용하려면 1Password 잠금을 해제하세요.";
+
+/* prompt */
+"Unlock chosen file to merge with your data" = "기존 데이터와 병합하려면 파일 잠금을 해제하세요.";
+
+/* prompt */
+"Unlock current data to merge" = "병합하려면 현재 데이터의 잠금을 해제하세요.";
+
+/* menu item */
+"Unlock..." = "잠금 해제...";
+
+/* button */
+"Update Existing" = "기존 정보 업데이트";
+
+/* Activity status */
+"Updating Previews" = "미리보기 업데이트중";
+
+/* alert title */
+"Would you like to merge or replace your data with the selected file?" = "기존 데이터와 선택한 파일을 병합 또는 교체하시겠습니까?";
+
+/* button */
+"Yes, use this data file" = "예, 이 데이터 파일을 사용합니다.";
+
+/* info */
+"You already have a software license entry for %@." = "%@용 소프트웨어 라이선스 항목이 이미 존재합니다.";
+
+/* message */
+"Your data was merged with the contents of the selected file." = "기존 데이터와 선택한 파일이 병합되었습니다.";
+
+/* message */
+"Your data was replaced with the contents of the selected file." = "기존 데이터가 선택한 파일로 교체되었습니다.";
+
+/* context menu */
+" (Low Security)" = " (보안수준 낮음)";
+
+/* file size */
+"%.1f GB" = "%.1f GB";
+
+/* file size */
+"%.1f MB" = "%.1f MB";
+
+/* number of items sorted by ... */
+"%@ items by" = "%@개 항목 발견";
+
+/* alert title */
+"%d attachments will be Deleted" = "%d개의 첨부파일이 삭제됩니다.";
+
+/* time */
+"%d days ago" = "%d일 전";
+
+/* time */
+"%d days from now" = "%d일 후";
+
+/* time */
+"%d hours ago" = "%d시간 전";
+
+/* time */
+"%d hours from now" = "%d시간 후";
+
+/* alert info */
+"%d item(s) will be permanently destroyed. You cannot undo this action." = "%d개의 항목이 영구 삭제됩니다. 이후 복원은 불가능합니다.";
+
+/* alert title */
+"%d items will be deleted" = "%d개의 항목이 삭제됩니다.";
+
+/* time */
+"%d minutes ago" = "%d분 전";
+
+/* time */
+"%d minutes from now" = "%d분 후";
+
+/* alert message */
+"%d objects will be moved to the Trash" = "%d개의 항목을 휴지통으로 이동합니다.";
+
+/* time */
+"%d seconds ago" = "%d초 전";
+
+/* time */
+"%d seconds from now" = "%d초 후";
+
+/* time */
+"%d weeks ago" = "%d주 전";
+
+/* time */
+"%d weeks from now" = "%d주 후";
+
+/* time */
+"%d years ago" = "%d년 전";
+
+/* time */
+"%d years from now" = "%d년 후";
+
+/* file size */
+"%llu bytes" = "%llu 바이트";
+
+/* file size */
+"%llu KB" = "%llu KB";
+
+/* No comment provided by engineer. */
+"(Multiple)" = "(다중)";
+
+/* No comment provided by engineer. */
+"(None)" = "(없음)";
+
+/* unlock error message */
+"(try disabling the caps lock key)" = "(Caps Lock 키를 해제하세요)";
+
+/* *** Digest Password Required *** */
+"*** Digest Password Required ***" = "*** 다이제스트 비밀번호 필요 ***";
+
+/* credit card month */
+"01 (January)" = "01 (1월)";
+
+/* credit card month */
+"02 (February)" = "02 (2월)";
+
+/* credit card month */
+"03 (March)" = "03 (3월)";
+
+/* credit card month */
+"04 (April)" = "04 (4월)";
+
+/* credit card month */
+"05 (May)" = "05 (5월)";
+
+/* credit card month */
+"06 (June)" = "06 (6월)";
+
+/* credit card month */
+"07 (July)" = "07 (7월)";
+
+/* credit card month */
+"08 (August)" = "08 (8월)";
+
+/* credit card month */
+"09 (September)" = "09 (9월)";
+
+/* credit card month */
+"10 (October)" = "10 (10월)";
+
+/* credit card month */
+"11 (November)" = "11 (11월)";
+
+/* credit card month */
+"12 (December)" = "12 (12월)";
+
+/* info */
+"1Password will download all missing icons and previews" = "1Password가 사라진 아이콘 및 미리보기 전체를 다운로드합니다.";
+
+/* info */
+"1Password will visit every website stored in Logins as if you visited that website in Safari. The website could save your IP address, general location, and operating system information. Note that 1Password will NOT log into the site, only capture a picture of the login page. If you have privacy concerns about connecting to any of your saved sites from your current location, please Cancel.\n\nDepending on the number of saved Logins the download can take several hours and use significant network bandwidth." = "1Password는 Safari 브라우저를 사용해 특정 웹사이트를 방문하는 것과 마찬가지로 로그인에 저장된 모든 웹사이트를 방문합니다. 해당 웹사이트에는 사용자의 IP 주소, 대략적인 위치 및 OS 정보가 저장될 수 있습니다. 1Password는 절대 해당 웹사이트 로그인을 시도하지 않으며 오직 로그인 화면만 캡처합니다. 현재 위치에서 저장된 모든 웹사이트에 대한 개인정보 유출이 우려될 경우 취소를 선택하세요.\n\n저장된 로그인 개수에 따라 다운로드에 수 시간이 소요될 수 있으며 네트워크 사용량이 소모될 수 있습니다.";
+
+/* alert title */
+"\"%@\" will be Deleted" = "\"%@\" 항목이 삭제됩니다.";
+
+/* alert message */
+"\"%@\" will be moved to Trash" = "\"%@\" 항목이 휴지통으로 이동됩니다.";
+
+/* alert message */
+"\n\nPassword Hint: %@\n" = "\n\n비밀번호 힌트: %@\n";
+
+/* warning */
+"\nNOTE: CAPS LOCK KEY IS PRESSED" = "\n알림: CAPS LOCK 키가 작동중입니다";
+
+/* time */
+"a minute ago" = "1분 전";
+
+/* time */
+"a minute from now" = "1분 후";
+
+/* time */
+"a year ago" = "1년 전";
+
+/* time */
+"a year from now" = "1년 후";
+
+/* Sidebar category */
+"Accounts" = "계정";
+
+/* panel title */
+"ACTIVITY" = "활동";
+
+/* attachment warning */
+"Add Attachment" = "첨부파일 추가";
+
+/* button */
+"Add Both" = "모두 추가";
+
+/* pref pane */
+"Advanced" = "고급";
+
+/* info */
+"All login icons and previews will be deleted" = "모든 로그인 아이콘과 미리보기가 삭제됩니다";
+
+/* alert message */
+"An attachment named %@ already exists.\nDo you want to replace it with the one you are moving?" = "%@ 이름의 첨부파일이 이미 존재합니다.\n이동하려는 파일로 대체할까요?";
+
+/* time */
+"an hour ago" = "1시간 전";
+
+/* time */
+"an hour from now" = "1시간 후";
+
+/* alert message */
+"An item named %@ already exists at this location.\nDo you want to replace it with the one you are moving?" = "%@ 이름의 항목이 이미 존재합니다.\n이동하려는 파일로 대체할까요?";
+
+/* alert message */
+"Are you sure you want to permanently remove all items in the Trash?" = "휴지통 내 모든 항목을 완전히 삭제합니다. 계속할까요?";
+
+/* attachment warning */
+"Attachment is too big" = "첨부파일 용량 초과";
+
+/* alert message */
+"Attachment named %@ failed to export." = "%@ 첨부파일을 내보내지 못했습니다.";
+
+/* alert title */
+"Attachment with the same name already exists" = "같은 이름의 첨부파일이 있습니다";
+
+/* Label in item detail view */
+"Attachments" = "첨부파일";
+
+/* iPhone status */
+"Available" = "사용 가능";
+
+/* error */
+"Backup directory is not writeable." = "백업 디렉토리에는 저장할 수 없습니다.";
+
+/* error */
+"Backup path exists but it is not a directory." = "백업 경로가 존재하지만 디렉토리 형태가 아닙니다.";
+
+/* button */
+"Begin downloading" = "다운로드 시작";
+
+/* sidebar category */
+"Browser Extensions" = "브라우저 확장도구";
+
+/* accessibility description */
+"calendar picker" = "요일 선택";
+
+/* button */
+"Cancel" = "취소";
+
+/* intro message */
+"Catalog your Software licenses, including related files and confirmation emails." = "소프트웨어 라이선스, 관련 파일 및 확인 메일을 일목요연하게 정리할 수 있습니다.";
+
+/* Software Licenses Image Menu */
+"Clear Icon" = "아이콘 비우기";
+
+/* Identities Image Menu */
+"Clear Image" = "이미지 비우기";
+
+/* Login Preview Image Menu */
+"Clear Preview" = "미리보기 비우기";
+
+/* tooltip */
+"Click to show in Finder" = "검색창에 표시하려면 클릭하세요";
+
+/* search scope */
+"Common" = "보통";
+
+/* button */
+"Continue" = "계속";
+
+/* button */
+"Copy" = "복사";
+
+/* status message */
+"Created on %@" = "%@ 생성";
+
+/* table column */
+"Date Created" = "생성일";
+
+/* accessibility description */
+"date field enabled" = "날짜 필드 활성화";
+
+/* table column */
+"Date Modified" = "수정일";
+
+/* button */
+"Delete" = "삭제";
+
+/* Alert Panel */
+"Diagnostic script failed." = "진단 스크립트 실패.";
+
+/* alert */
+"Discard Changes and Reload?" = "변경 없이 내용을 갱신할까요?";
+
+/* Login Preview Image Menu */
+"Download Preview" = "미리보기 다운로드";
+
+/* title */
+"Dropbox process is not running" = "Dropbox 프로세스가 정지 상태입니다.";
+
+/* main window edit button
+   menu item
+   menu undo edit */
+"Edit" = "편집";
+
+/* menu item */
+"Edit Selected Item" = "선택항목 편집";
+
+/* search scope */
+"Edit Smart Folder \"%@\"" = "스마트 폴더 \"%@\" 편집";
+
+/* Identities Image Menu */
+"Edit..." = "편집...";
+
+/* alert title */
+"Empty import file" = "불러올 파일이 없습니다.";
+
+/* search scope */
+"Everything" = "전체 항목";
+
+/* search scope */
+"Everywhere" = "전체 범위";
+
+/* Password strength — Excellent */
+"Excellent" = "매우 높음";
+
+/* exported
+   file prompt
+   Save Panel prompt */
+"Export" = "내보내기";
+
+/* Save Panel field label */
+"Export As:" = "다른 이름으로 내보내기:";
+
+/* exporter */
+"Export Failed" = "내보내기 실패";
+
+/* window title */
+"Export Passwords" = "비밀번호 내보내기";
+
+/* exporter */
+"Export To 1Password Interchange File" = "1Password 인터체인지 파일로 내보내기";
+
+/* status message */
+"Exporting Attachments" = "첨부파일 내보내기중";
+
+/* pref pane */
+"Extensions" = "확장도구";
+
+/* alert title */
+"Failed to add attachment" = "첨부파일 추가 실패";
+
+/* exporter */
+"Failed to create 1Password Interchange File" = "1Password 인터체인지 파일 생성 실패";
+
+/* alert title */
+"Failed to export attachment" = "첨부파일 내보내기 실패";
+
+/* error */
+"Failed to interpret the output of the import script." = "불러오기 스크립트 결과를 해석할 수 없습니다.";
+
+/* info */
+"Failed to obtain user attributes." = "사용자 속성을 불러올 수 없습니다.";
+
+/* error message */
+"Failed to open '%1$@' using %2$@ encoding.\n\nError code: %3$d\n\nPlease choose another Character Encoding from the list." = "%2$@ 인코딩으로 '%1$@' 항목을 열 수 없습니다.\n\n오류 코드: %3$d\n\n목록에서 다른 인코딩 옵션을 선택하세요.";
+
+/* error message */
+"Failed to restore '%@', no encryption keys file found in the backup" = "'%@' 복원 불가, 백업된 암호화 키 파일을 찾을 수 없습니다.";
+
+/* error message */
+"Failed to restore from backup, cannot move %1$@ to %2$@\nError: %3$@" = "백업 복원 실패, %1$@에서 %2$@ 위치로 이동 불가\n오류: %3$@";
+
+/* error message */
+"Failed to restore from backup, cannot remove old data file '%1$@'\nError: %2$@" = "백업 복원 실패, '%1$@' 기존 데이터 파일 제거 불가\n오류: %2$@";
+
+/* error */
+"Failed to run import script" = "불러오기 스크립트를 실행할 수 없습니다.";
+
+/* Password strength — Fantastic */
+"Fantastic" = "매우 높음";
+
+/* alert message */
+"File added successfully" = "파일 추가 완료";
+
+/* alert title */
+"File exists at path" = "경로 내 파일 중복";
+
+/* attachment warning */
+"File is a bundle or folder" = "번들 및 폴더 첨부 불가";
+
+/* exporter */
+"File name:" = "파일명:";
+
+/* attachment warning */
+"File size is larger than 2 MB" = "제한용량 (2MB) 초과";
+
+/* alert message */
+"Files added successfully" = "파일 추가 완료";
+
+/* menu item */
+"Finish Editing" = "편집 종료";
+
+/* menu item */
+"Finish Editing Selected Item" = "선택항목 편집 종료";
+
+/* Sidebar group */
+"Folders" = "폴더";
+
+/* pref pane */
+"General" = "일반";
+
+/* generate password button */
+"Generate" = "생성";
+
+/* sidebar category */
+"Generated Passwords" = "생성된 비밀번호";
+
+/* menu item */
+"Go & Fill Login" = "로그인 자동완성";
+
+/* Password strength — Good */
+"Good" = "보통";
+
+/* menu item */
+"Hide Activity" = "활동 숨김";
+
+/* menu item */
+"Hide Toolbar" = "도구모음 숨김";
+
+/* Sidebar category */
+"Identities" = "프로필 센터";
+
+/* button */
+"Import %d Selected Objects" = "%d 선택항목 불러오기";
+
+/* button */
+"Import Selected Object" = "선택항목 불러오기";
+
+/* folder name */
+"Imported" = "불러온 데이터";
+
+/* status message */
+"Importing Attachments" = "첨부파일 불러오기중";
+
+/* error message */
+"Incorrect Password" = "비밀번호 오류";
+
+/* error message */
+"Invalid Agile Keychain backup file" = "Agile 열쇠고리 백업 파일 오류";
+
+/* error */
+"Invalid backup file name" = "백업 파일명 오류";
+
+/* error */
+"Invalid backup file, encryption keys not found" = "백업 파일 오류, 암호화 키 없음";
+
+/* alert title */
+"Invalid import file" = "불러오기 파일 오류";
+
+/* prompt */
+"It might take a while for Dropbox to finish syncing. Please make sure the sync is fully completed before using 1Password on other computers and devices." = "Dropbox 동기화에는 다소 시간이 소요됩니다. 다른 컴퓨터 및 기기에서 1Password를 사용하려면 우선 동기화가 완료되어야 합니다.";
+
+/* Item import status */
+"Item Exists" = "기존 항목 중복";
+
+/* intro message */
+"Keep name and address information to quickly register online with just one click in the browser." = "이름과 주소 정보를 저장해두면 브라우저에서 한 번의 클릭으로 빠르게 등록할 수 있습니다.";
+
+/* status message */
+"Last modified %@" = "최종 수정 %@";
+
+/* search scope
+   table column */
+"Location" = "위치";
+
+/* pref pane
+   Sidebar category */
+"Logins" = "로그인";
+
+/* info */
+"Master Password has been changed" = "마스터 비밀번호가 변경되었습니다";
+
+/* button */
+"Move items to Unfiled" = "미분류 폴더로 항목 이동";
+
+/* button */
+"Move to Trash" = "휴지통으로 이동";
+
+/* status message */
+"Moving Items..." = "항목 이동중...";
+
+/* info */
+"Moving..." = "이동중...";
+
+/* Last synced message */
+"Never" = "항상 안함";
+
+/* folder */
+"New Folder" = "새 폴더";
+
+/* Item import status */
+"New Item" = "새 항목";
+
+/* new password title */
+"New Password" = "새 비밀번호";
+
+/* folder */
+"New Saved Search" = "새로 저장된 검색";
+
+/* Item import status */
+"Newer Item Exists" = "새 항목 발견";
+
+/* alert title */
+"No file format was selected" = "선택된 파일 포맷이 없습니다";
+
+/* iPhone status */
+"Not Authorized (Allow New Connections in Settings > Sync > Wi-Fi)" = "미인증 상태 (설정 > 동기화 > 와이파이에서 새 연결을 허용해야 합니다)";
+
+/* iPhone status */
+"Not reachable" = "연결 불능";
+
+/* placeholder */
+"Notes" = "노트";
+
+/* button */
+"Nothing To Import" = "불러올 항목이 없습니다";
+
+/* iPhone status */
+"Offline" = "오프라인";
+
+/* dialog */
+"OK" = "확인";
+
+/* Item import status */
+"Older Item Exists" = "기존 항목 발견";
+
+/* prompt */
+"Other computers sharing the same Dropbox will lose 1Password data. Please use File > Restore on other computers." = "진행하면 Dropbox와 연동된 다른 컴퓨터에서 1Password 데이터가 삭제됩니다. 다른 컴퓨터에서 파일 > 복원을 사용하세요.";
+
+/* form field
+   search scope */
+"Password" = "비밀번호";
+
+/* error */
+"Password hint required" = "비밀번호 힌트가 필요합니다";
+
+/* table column */
+"Password Strength" = "비밀번호 보안성";
+
+/* info */
+"Please contact AgileBits support." = "AgileBits 고객지원으로 문의 바랍니다.";
+
+/* error */
+"Please enter at least one character." = "최소 1글자를 입력하세요.";
+
+/* error */
+"Please enter password hint." = "비밀번호 힌트를 입력하세요.";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nExtended Attributes will be repaired," = "맥 OS X 비밀번호를 입력하세요.\n\n확장 속성은 복구됩니다.";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nFolder permissions will be reset," = "맥 OS X 비밀번호를 입력하세요.\n\n폴더 권한은 초기화됩니다.";
+
+/* prompt (must finish with ',') */
+"Please enter your Mac OS X password.\n\nThe Launch Services database will be reset," = "맥 OS X 비밀번호를 입력하세요.\n\n시작 서비스 데이터베이스는 초기화됩니다.";
+
+/* message */
+"Please make sure Dropbox is installed and running." = "Dropbox 설치 및 실행 여부를 확인하세요.";
+
+/* error */
+"Please make sure the file you are using for import is correct." = "불러오고자 하는 파일이 유효한지 확인하세요.";
+
+/* info */
+"Please memorize the new master password." = "새 마스터 비밀번호를 기억해두세요.";
+
+/* info */
+"Please restart 1Password." = "1Password를 재시작하세요.";
+
+/* error */
+"Please try again." = "다시 시도하세요.";
+
+/* prompt */
+"Please type your Mac OS X password" = "맥 OS X 비밀번호를 입력하세요.";
+
+/* info */
+"Please wait..." = "잠시 기다려주세요...";
+
+/* alert message */
+"Previously imported objects were removed from the list." = "이전 불러오기 항목들은 목록에서 제거되었습니다.";
+
+/* alert info
+   alert message */
+"Proceed?" = "진행할까요?";
+
+/* status message */
+"Processing" = "진행중";
+
+/* export progress */
+"Processing Attachments (step 2 of 2)" = "첨부파일 처리중 (2/2단계)";
+
+/* export progress */
+"Processing Data (step 1 of 2)" = "첨부파일 처리중 (1/2단계)";
+
+/* button */
+"Replace" = "교체";
+
+/* object list menu */
+"Reverse Sort Order" = "정렬순서 반전";
+
+/* Item import status */
+"Same Item Exists" = "동일 항목 발견";
+
+/* main window edit button */
+"Save" = "저장";
+
+/* search field placeholder */
+"Search" = "검색";
+
+/* search scope */
+"Search:" = "검색:";
+
+/* Sidebar category */
+"Secure Notes" = "안심 노트";
+
+/* intro message */
+"Secure storage for any free-form text." = "자유형식 텍스트 저장을 위한 안전 보관함";
+
+/* intro message */
+"Secure storage for computer accounts, including email, file sharing and MobileMe credentials." = "이메일, 파일 공유 서비스 및 MobileMe 접속 인증정보 등 각종 컴퓨터 계정을 위한 안전 보관함";
+
+/* intro message */
+"Secure storage for financial and personal information, including credit cards and bank accounts." = "신용카드, 은행계좌 등 금융정보 및 개인정보 저장을 위한 안전 보관함";
+
+/* pref pane */
+"Security" = "보안";
+
+/* dropdown item */
+"Select Import Format" = "불러오기 형식 선택";
+
+/* search scope */
+"Selected Section" = "선택 영역";
+
+/* button */
+"Send items to Trash" = "휴지통으로 항목 이동";
+
+/* new password location */
+"Service or Application Name" = "서비스 또는 애플리케이션 이름";
+
+/* accessibility description */
+"Shelves" = "선반";
+
+/* menu item */
+"Show Activity" = "활동 보기";
+
+/* menu item */
+"Show Toolbar" = "도구모음 보기";
+
+/* button
+   dialog */
+"Skip" = "건너뛰기";
+
+/* Sidebar category */
+"Software" = "소프트웨어";
+
+/* button */
+"Stop using Dropbox" = "Dropbox 사용 중지";
+
+/* title */
+"Stop Using Dropbox?" = "Dropbox 사용을 중지할까요?";
+
+/* Sidebar group */
+"Sync" = "동기화";
+
+/* sync detail view label */
+"Sync with %@" = "%@ 동기화";
+
+/* table column */
+"Tag" = "태그";
+
+/* Sidebar group */
+"Tags" = "태그";
+
+/* Password strength — Terrible */
+"Terrible" = "매우 낮음";
+
+/* error */
+"The current password is not correct" = "현재 비밀번호가 올바르지 않습니다.";
+
+/* info */
+"The extended attributes have been repaired successfully." = "확장 속성이 성공적으로 복구되었습니다.";
+
+/* alert message */
+"The file %1$@ failed to import: %2$@." = "%1$@ 파일 불러오기 실패: %2$@.";
+
+/* attachment warning */
+"The file %1$@ is (%2$@) in size.\nIt is going to be encrypted and stored in your data file. Adding a large attachment may slow and complicate data syncing.text" = "%1$@ 파일 용량은 (%2$@)입니다.\n해당 파일은 암호화된 후 데이터 파일에 저장됩니다. 대용량 첨부파일을 추가하면 속도가 느려질 수 있으며 동기화 도중 오류가 발생할 수 있습니다.";
+
+/* attachment warning */
+"The file %1$@ is too large (%2$@).\nAttachments must be under 20 MB in size." = "현재 파일 %1$@ 용량이 (%2$@)로 너무 큽니다.\n20MB 이하만 첨부 가능합니다.";
+
+/* attachment warning */
+"The file %@ is a bundle or folder.\nAttachments must be regular files." = "%@ 파일은 번들 또는 폴더 형태입니다.\n일반 파일 형태만 첨부 가능합니다.";
+
+/* alert message */
+"The file could not be imported because the format was not selected. Try the import process again and be sure to specify the format." = "선택된 형식이 없어 파일을 불러올 수 없습니다. 파일 형식을 지정하고 다시 시도하세요.";
+
+/* alert message */
+"The file has been added as a secure attachment.\nYou can safely delete the original file." = "파일이 보안 첨부파일로 추가되었습니다.\n이제 원본 파일을 안전하게 삭제할 수 있습니다.";
+
+/* alert message */
+"The file you are trying to import appears to be a binary file. Please try to open and view the contents of the file in TextEdit to make sure its contents is valid.\n\nIf you are opening the file directly from a network drive or USB disk then try to copy it to your local disk first." = "불러오려는 항목은 바이너리 파일입니다. TextEdit으로 파일을 편집해 올바른 유형으로 변경해야 합니다.\n\n네트워크 드라이브나 USB 디스크에서 곧바로 파일을 연 경우 로컬 디스크로 먼저 복사해보시기 바랍니다.";
+
+/* alert message */
+"The files have been added as secure attachments.\nYou can safely delete the original files." = "모든 파일이 보안 첨부파일로 추가되었습니다.\n이제 모든 원본 파일을 안전하게 삭제할 수 있습니다.";
+
+/* alert title */
+"The folder '%@' will be deleted" = "'%@' 폴더가 삭제됩니다.";
+
+/* info */
+"The folder permissions have been reset successfully." = "폴더 권한이 초기화되었습니다.";
+
+/* alert */
+"The import file data has been edited." = "불러오기 파일 데이터가 편집되었습니다.";
+
+/* alert title */
+"The import was canceled" = "불러오기가 취소되었습니다.";
+
+/* exporter */
+"The interchange file can be used to merge different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "인터체인지 파일을 사용하면 1Password 데이터베이스를 서로 병합하거나\n암호화되지 않은 백업 파일을 보관할 수 있습니다.\n\n경고: 해당 파일은 암호화되지 않으며 다른 보호조치가 필요합니다.";
+
+/* alert title */
+"The item \"%@\" will be deleted" = "\"%@\" 항목이 삭제됩니다.";
+
+/* info */
+"The Launch Services database has been successfully reset." = "시작 서비스 데이터베이스가 초기화되었습니다.";
+
+/* error */
+"The password can not be blank" = "비밀번호를 반드시 입력해야 합니다.";
+
+/* alert message */
+"There are 0 passwords to import." = "내보낼 비밀번호가 없습니다.";
+
+/* alert message */
+"This operation can not be undone." = "이 명령은 실행 취소할 수 없습니다.";
+
+/* search scope
+   table column */
+"Title" = "제목";
+
+/* time */
+"tomorrow" = "내일";
+
+/* accessibility description */
+"Traditional" = "기본값";
+
+/* sidebar category */
+"Trash" = "휴지통";
+
+/* table column */
+"Type" = "유형";
+
+/* iPhone/iPod touch type */
+"Unknown" = "알 수 없음";
+
+/* button */
+"Use Dropbox" = "Dropbox 열기";
+
+/* title */
+"Use Dropbox?" = "Dropbox를 실행할까요?";
+
+/* form field
+   search scope */
+"Username" = "사용자명";
+
+/* intro message */
+"Usernames and passwords for websites. Use browser extensions to save and fill Logins for you." = "웹사이트를 위한 사용자명과 비밀번호입니다. 확장도구를 사용하면 로그인 자동완성을 사용할 수 있습니다.";
+
+/* Sidebar group */
+"Vault" = "내 보관함";
+
+/* Sidebar category */
+"Wallet" = "지갑";
+
+/* Password strength — Weak */
+"Weak" = "낮음";
+
+/* accessibility description */
+"Widescreen" = "와이드 화면";
+
+/* info */
+"Would you like to continue?" = "계속 진행할까요?";
+
+/* alert message */
+"Would you like to move the folder items to Unfiled folder or send them to Trash?" = "폴더 내 항목을 미분류 폴더 또는 휴지통으로 이동할까요?";
+
+/* time */
+"yesterday" = "어제";
+
+/* info */
+"You can now install 1Password from the App Store." = "이제 앱스토어에서 1Password를 설치할 수 있습니다.";
+
+/* error message */
+"You have selected the current data file instead of a backup file." = "백업 파일이 아닌 현재 데이터 파일이 선택되었습니다.";
+
+/* title */
+"Your data is not stored in Dropbox anymore" = "사용자 데이터가 Dropbox에 존재하지 않습니다.";
+
+/* title */
+"Your data is now in Dropbox" = "사용자 데이터가 Dropbox에 저장되었습니다.";
+
+/* prompt */
+"Your data will be moved into the Dropbox folder for easy syncing with other computers and devices.\n\n1Password will also make an additional backup copy of your data." = "다른 컴퓨터 및 기기와의 편리한 동기화를 위해 사용자 데이터가 Dropbox로 이동됩니다.\n\n또한 1Password에 의해 해당 데이터에 대한 백업 사본이 추가 생성됩니다.";
+
+/* prompt */
+"Your data will be moved out of the Dropbox folder.\n\nIMPORTANT: If you have other computers using Dropbox, make sure they all have a backup copy (File > Backup menu)." = "사용자 데이터가 Dropbox 폴더에서 제거됩니다.\n\n경고: Dropbox를 사용하는 다른 컴퓨터가 존재할 경우 파일 > 백업 메뉴에서 사본이 존재하는지 확인하시기 바랍니다.";
+
+/* error */
+"Your new password is not the same as the verify password" = "새 비밀번호와 확인용 비밀번호가 일치하지 않습니다.";
+
+/* Title for the duplicated item */
+"%@ Copy" = "%@ 사본";
+
+/* Hot Keys: Key Combo text for 'empty' combo */
+"(None)" = "(없음)";
+
+/* No comment provided by engineer. */
+"Account" = "계정";
+
+/* folder */
+"All" = "전체";
+
+/* change folder security level */
+"Apply security level to folder contents?" = "폴더 콘텐츠에 보안등급을 적용할까요?";
+
+/* menu */
+"Choose All from %@" = "%@ 내 전체 항목 선택";
+
+/* menu */
+"Choose from %@" = "%@ 내 항목 선택";
+
+/* change folder security level */
+"Don't Change Folder Contents" = "폴더 콘텐츠 변경 안함";
+
+/* error */
+"Encryption keys file exist but cannot be loaded from '%@'" = "암호화 키 파일이 존재하지만 '%@'에서 불러올 수 없습니다.";
+
+/* error */
+"Failed to load encryption key from '%1$@', error: %2$@" = "'%1$@' 위치에서 암호화 키를 불러올 수 없습니다. 오류: %2$@";
+
+/* alert title */
+"Failed to open attachment." = "첨부파일 열기 실패";
+
+/* item type */
+"Generated Password" = "생성된 비밀번호";
+
+/* iPhone Security Level */
+"High (Master Password)" = "높음 (마스터 비밀번호)";
+
+/* item type */
+"Identity" = "프로필 센터";
+
+/* info */
+"In 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again." = "아이폰 또는 아이팟 터치의 1Password에서 설정 > 와이파이 동기화 > 새 연결 허용을 선택한 후 다시 시도하세요.";
+
+/* error */
+"Incorrect response received from iPhone. Please restart Mac and iPhone applications and try to sync again" = "아이폰 응답 오류. 맥 및 아이폰 애플리케이션을 재시작한 후 다시 동기화해주세요.";
+
+/* alert title */
+"Incorrect secret" = "보안코드 오류";
+
+/* item type */
+"Login" = "로그인";
+
+/* iPhone Security Level */
+"Low (4-Digit Code)" = "낮음 (4자리수 코드)";
+
+/* change folder security level */
+"Make Folder Contents High Security" = "폴더 내용 보안설정 높임";
+
+/* info */
+"New connections are disabled by 1Password touch" = "1Password Touch의 새 연결 옵션이 비활성화 상태입니다.";
+
+/* info */
+"New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "1Password Touch의 새 연결 옵션이 비활성화 상태입니다.\n\n아이폰 또는 아이팟 터치에 설치된 1Password에서 설정 > 와이파이 동기화 > 새 연결 허용을 선택한 후 다시 시도하세요.";
+
+/* label */
+"Password" = "비밀번호";
+
+/* alert message */
+"Please enter the secret as it is shown on iPhone" = "아이폰에 표시된 보안코드를 정확히 입력하세요.";
+
+/* item type */
+"Secure Note" = "안심 노트";
+
+/* item type */
+"Software" = "소프트웨어";
+
+/* alert title */
+"Sync Conflict Resolver Window" = "충돌 해결사 윈도우 동기화";
+
+/* error */
+"Sync failed, 1Password is locked" = "동기화 실패, 1Password 잠김";
+
+/* alert message */
+"The attachment %1$@ failed to open: %2$@.x" = "%1$@ 첨부파일을 열 수 없습니다: %2$@.x";
+
+/* error */
+"The encryption keys file does not exist at '%@'" = "'%@' 위치에 암호화 키 파일이 없습니다.";
+
+/* folder */
+"Trash" = "휴지통";
+
+/* smart folder */
+"Unfiled" = "미분류";
+
+/* Unknown wallet type */
+"Unknown" = "알 수 없음";
+
+/* smart folder */
+"Untagged" = "태그 없음";
+
+/* No comment provided by engineer. */
+"Wallet" = "지갑";
+
+/* error */
+"Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "와이파이 연결에 실패했습니다. 1Password를 다시 실행해 잠금을 해제하세요.";
+
+/* change folder security level */
+"You are changing the folder \"%@\" to high security mode.\nDo you also want to set the items in this folder to high security?" = "\"%@\" 폴더 보안등급을 최고 수준으로 변경합니다.\n폴더 내 모든 항목의 보안등급도 함께 변경할까요?";
+

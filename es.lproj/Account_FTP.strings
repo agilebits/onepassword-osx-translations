@@ -1,0 +1,18 @@
+"__title__" = "Cuenta FTP";
+"__description__" = "Información de inicio de sesión para cuentas FTP.";
+ 
+"server" = "Servidor";
+"path" = "Ruta";
+"username" = "Nombre de usuario";
+"password" = "Contraseña";
+"Contact Information" = "Información de contacto";
+"Contact Information#9" = "Contacto";
+"provider" = "Proveedor";
+"provider_website" = "Página web del proveedor";
+"provider_website#9" = "Página web";
+"phone_tollfree" = "Número de teléfono (gratuito)";
+"phone_tollfree#9" = "Llamada gratuita";
+"phone_local" = "Número de teléfono (local)";
+"phone_local#9" = "Teléfono";
+ 
+ 

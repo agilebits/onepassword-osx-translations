@@ -1,0 +1,21 @@
+"__title__" = "Cuenta bancaria (DE)";
+"__description__" = "Información de cuenta bancaria alemana.";
+
+"bankName" = "Nombre del banco";
+"owner" = "Nombre del titular de la cuenta";
+"accountType" = "Tipo";
+"bankNo" = "Cuenta bancaria (BLZ)";
+"accountNo" = "Número de cuenta";
+"swift" = "Código SWIFT";
+"iban" = "Número IBAN";
+"branchInfo" = "Información de sucursal";
+"branchPhone" = "Teléfono";
+"branchAddress" = "Dirección";
+"telephonePin" = "PIN del teléfono";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Cuenta corriente";
+"menu.accountType.savings" = "Cuenta de ahorros";
+"menu.accountType.loc" = "Línea de crédito";
+"menu.accountType.money_market" = "Mercado monetario";
+"menu.accountType.other" = "Otros";

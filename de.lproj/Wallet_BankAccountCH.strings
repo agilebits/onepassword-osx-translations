@@ -1,0 +1,21 @@
+"__title__" = "Bankkonto (CH)";
+"__description__" = "Daten für Schweizer Bankkonto";
+ 
+"bankName" = "Bankname";
+"owner" = "Kontoinhaber";
+"accountType" = "Art";
+"clearingNo" = "Ausgleichsnummer";
+"accountNo" = "Kontonummer";
+"swift" = "SWIFT-Code";
+"iban" = "IBAN-Nummer";
+"branchInfo" = "Filiale";
+"branchPhone" = "Telefon";
+"branchAddress" = "Adresse";
+"telephonePin" = "PIN";
+
+"menu.accountType." = "";
+"menu.accountType.checking" = "Girokonto";
+"menu.accountType.savings" = "Sparkonto";
+"menu.accountType.loc" = "Kreditgrenze";
+"menu.accountType.money_market" = "Geldmarkt";
+"menu.accountType.other" = "Andere";

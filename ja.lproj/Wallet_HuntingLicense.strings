@@ -1,0 +1,13 @@
+"__title__" = "狩猟許可証";
+
+"name" = "氏名";
+"valid_from" = "から有効";
+"valid_from#9" = "有効";
+"expires" = "有効期限";
+"game" = "許可された野生動物";
+"game#9" = "野生動物";
+"quota" = "最大割当量";
+"quota#9" = "割当量";
+"state" = "州";
+"country" = "国";
+

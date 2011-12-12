@@ -1,0 +1,28 @@
+"__title__" = "即时通讯";
+"__description__" = "各种即时通讯软件的帐户和连接信息。";
+
+"account_type" = "帐户类型";
+"account_type#9" = "类型";
+"username" = "用户名称/电子邮件/ID";
+"username#9" = "ID";
+"password" = "密码";
+"server" = "服务器";
+"port" = "端口";
+ 
+"menu.account_type." = "";
+"menu.account_type.aol" = "AOL Instant Messenger";
+"menu.account_type.jabber" = "Jabber";
+"menu.account_type.msn" = "MSN Messenger";
+"menu.account_type.yahoo" = "雅虎通";
+"menu.account_type.mobileme" = "MobileMe";
+"menu.account_type.dotmac" = "Mac.com";
+"menu.account_type.gadu" = "Gadu-Gadu";
+"menu.account_type.gtalk" = "Google Talk";
+"menu.account_type.icq" = "ICQ";
+"menu.account_type.livejournal" = "LiveJournal";
+"menu.account_type.sametime" = "Lotus Sametime";
+"menu.account_type.groupwise" = "Novell GroupWise";
+"menu.account_type.qq" = "QQ";
+"menu.account_type.sip" = "SIP / SIMPLE";
+"menu.account_type.skype" = "Skype";
+"menu.account_type.gizmo" = "Gizmo";
