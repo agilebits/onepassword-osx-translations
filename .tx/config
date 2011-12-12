@@ -2,229 +2,286 @@
 host = https://www.transifex.net
 
 [onepassword-osx-translations.About__strings]
+file_filter = <lang>.lproj/About.strings
 source_file = en.lproj/About.strings
 source_lang = en
 
 [onepassword-osx-translations.Localizable__strings]
+file_filter = <lang>.lproj/Localizable.strings
 source_file = en.lproj/Localizable.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_AmazonS3__strings]
+file_filter = <lang>.lproj/Account_AmazonS3.strings
 source_file = en.lproj/Account_AmazonS3.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_Database__strings]
+file_filter = <lang>.lproj/Account_Database.strings
 source_file = en.lproj/Account_Database.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_Email__strings]
+file_filter = <lang>.lproj/Account_Email.strings
 source_file = en.lproj/Account_Email.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_Email__v2__strings]
+file_filter = <lang>.lproj/Account_Email.v2.strings
 source_file = en.lproj/Account_Email.v2.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_FTP__strings]
+file_filter = <lang>.lproj/Account_FTP.strings
 source_file = en.lproj/Account_FTP.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_GenericAccount__strings]
+file_filter = <lang>.lproj/Account_GenericAccount.strings
 source_file = en.lproj/Account_GenericAccount.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_InstantMessenger__strings]
+file_filter = <lang>.lproj/Account_InstantMessenger.strings
 source_file = en.lproj/Account_InstantMessenger.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_InternetServiceProvider__strings]
+file_filter = <lang>.lproj/Account_InternetServiceProvider.strings
 source_file = en.lproj/Account_InternetServiceProvider.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_iTunes__strings]
+file_filter = <lang>.lproj/Account_iTunes.strings
 source_file = en.lproj/Account_iTunes.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_MobileMe__strings]
+file_filter = <lang>.lproj/Account_MobileMe.strings
 source_file = en.lproj/Account_MobileMe.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_MySQL__strings]
+file_filter = <lang>.lproj/Account_MySQL.strings
 source_file = en.lproj/Account_MySQL.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_Router__strings]
+file_filter = <lang>.lproj/Account_Router.strings
 source_file = en.lproj/Account_Router.strings
 source_lang = en
 
 [onepassword-osx-translations.Account_UnixServer__strings]
+file_filter = <lang>.lproj/Account_UnixServer.strings
 source_file = en.lproj/Account_UnixServer.strings
 source_lang = en
 
 [onepassword-osx-translations.AddWalletItem__strings]
+file_filter = <lang>.lproj/AddWalletItem.strings
 source_file = en.lproj/AddWalletItem.strings
 source_lang = en
 
 [onepassword-osx-translations.ConflictWindow__strings]
+file_filter = <lang>.lproj/ConflictWindow.strings
 source_file = en.lproj/ConflictWindow.strings
 source_lang = en
 
 [onepassword-osx-translations.ExportPanel__strings]
+file_filter = <lang>.lproj/ExportPanel.strings
 source_file = en.lproj/ExportPanel.strings
 source_lang = en
 
 [onepassword-osx-translations.ExportTXT__strings]
+file_filter = <lang>.lproj/ExportTXT.strings
 source_file = en.lproj/ExportTXT.strings
 source_lang = en
 
 [onepassword-osx-translations.GeneratedPasswordDetailView__strings]
+file_filter = <lang>.lproj/GeneratedPasswordDetailView.strings
 source_file = en.lproj/GeneratedPasswordDetailView.strings
 source_lang = en
 
 [onepassword-osx-translations.GeneratePassword__strings]
+file_filter = <lang>.lproj/GeneratePassword.strings
 source_file = en.lproj/GeneratePassword.strings
 source_lang = en
 
 [onepassword-osx-translations.IdentitiesDetailView__strings]
+file_filter = <lang>.lproj/IdentitiesDetailView.strings
 source_file = en.lproj/IdentitiesDetailView.strings
 source_lang = en
 
 [onepassword-osx-translations.ImportAssistant__strings]
+file_filter = <lang>.lproj/ImportAssistant.strings
 source_file = en.lproj/ImportAssistant.strings
 source_lang = en
 
 [onepassword-osx-translations.LoginsDetailView__strings]
+file_filter = <lang>.lproj/LoginsDetailView.strings
 source_file = en.lproj/LoginsDetailView.strings
 source_lang = en
 
 [onepassword-osx-translations.MainMenu__strings]
+file_filter = <lang>.lproj/MainMenu.strings
 source_file = en.lproj/MainMenu.strings
 source_lang = en
 
 [onepassword-osx-translations.MainWindow__strings]
+file_filter = <lang>.lproj/MainWindow.strings
 source_file = en.lproj/MainWindow.strings
 source_lang = en
 
 [onepassword-osx-translations.MessageDialog__strings]
+file_filter = <lang>.lproj/MessageDialog.strings
 source_file = en.lproj/MessageDialog.strings
 source_lang = en
 
 [onepassword-osx-translations.Newsletter__strings]
+file_filter = <lang>.lproj/Newsletter.strings
 source_file = en.lproj/Newsletter.strings
 source_lang = en
 
 [onepassword-osx-translations.OPWPopupCalendar__strings]
+file_filter = <lang>.lproj/OPWPopupCalendar.strings
 source_file = en.lproj/OPWPopupCalendar.strings
 source_lang = en
 
 [onepassword-osx-translations.Preferences__strings]
+file_filter = <lang>.lproj/Preferences.strings
 source_file = en.lproj/Preferences.strings
 source_lang = en
 
 [onepassword-osx-translations.Progress__strings]
+file_filter = <lang>.lproj/Progress.strings
 source_file = en.lproj/Progress.strings
 source_lang = en
 
 [onepassword-osx-translations.SecureNotesDetailView__strings]
+file_filter = <lang>.lproj/SecureNotesDetailView.strings
 source_file = en.lproj/SecureNotesDetailView.strings
 source_lang = en
 
 [onepassword-osx-translations.ShortcutRecorder__strings]
+file_filter = <lang>.lproj/ShortcutRecorder.strings
 source_file = en.lproj/ShortcutRecorder.strings
 source_lang = en
 
 [onepassword-osx-translations.SoftwareLicensesDetailView__strings]
+file_filter = <lang>.lproj/SoftwareLicensesDetailView.strings
 source_file = en.lproj/SoftwareLicensesDetailView.strings
 source_lang = en
 
 [onepassword-osx-translations.StandAloneDetailViewWindow__strings]
+file_filter = <lang>.lproj/StandAloneDetailViewWindow.strings
 source_file = en.lproj/StandAloneDetailViewWindow.strings
 source_lang = en
 
 [onepassword-osx-translations.UnlockKeychain__strings]
+file_filter = <lang>.lproj/UnlockKeychain.strings
 source_file = en.lproj/UnlockKeychain.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_BankAccount__strings]
+file_filter = <lang>.lproj/Wallet_BankAccount.strings
 source_file = en.lproj/Wallet_BankAccount.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_BankAccountAU__strings]
+file_filter = <lang>.lproj/Wallet_BankAccountAU.strings
 source_file = en.lproj/Wallet_BankAccountAU.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_BankAccountCA__strings]
+file_filter = <lang>.lproj/Wallet_BankAccountCA.strings
 source_file = en.lproj/Wallet_BankAccountCA.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_BankAccountCH__strings]
+file_filter = <lang>.lproj/Wallet_BankAccountCH.strings
 source_file = en.lproj/Wallet_BankAccountCH.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_BankAccountDE__strings]
+file_filter = <lang>.lproj/Wallet_BankAccountDE.strings
 source_file = en.lproj/Wallet_BankAccountDE.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_BankAccountUK__strings]
+file_filter = <lang>.lproj/Wallet_BankAccountUK.strings
 source_file = en.lproj/Wallet_BankAccountUK.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_CreditCard__strings]
+file_filter = <lang>.lproj/Wallet_CreditCard.strings
 source_file = en.lproj/Wallet_CreditCard.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_DriverLicense__strings]
+file_filter = <lang>.lproj/Wallet_DriverLicense.strings
 source_file = en.lproj/Wallet_DriverLicense.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_HuntingLicense__strings]
+file_filter = <lang>.lproj/Wallet_HuntingLicense.strings
 source_file = en.lproj/Wallet_HuntingLicense.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_Identity__strings]
+file_filter = <lang>.lproj/Wallet_Identity.strings
 source_file = en.lproj/Wallet_Identity.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_License__strings]
+file_filter = <lang>.lproj/Wallet_License.strings
 source_file = en.lproj/Wallet_License.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_Membership__strings]
+file_filter = <lang>.lproj/Wallet_Membership.strings
 source_file = en.lproj/Wallet_Membership.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_Passport__strings]
+file_filter = <lang>.lproj/Wallet_Passport.strings
 source_file = en.lproj/Wallet_Passport.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_Rewards__strings]
+file_filter = <lang>.lproj/Wallet_Rewards.strings
 source_file = en.lproj/Wallet_Rewards.strings
 source_lang = en
 
 [onepassword-osx-translations.Wallet_SSN__strings]
+file_filter = <lang>.lproj/Wallet_SSN.strings
 source_file = en.lproj/Wallet_SSN.strings
 source_lang = en
 
 [onepassword-osx-translations.WalletDetailView__strings]
+file_filter = <lang>.lproj/WalletDetailView.strings
 source_file = en.lproj/WalletDetailView.strings
 source_lang = en
 
 [onepassword-osx-translations.WelcomeChooseNewOrExisting__strings]
+file_filter = <lang>.lproj/WelcomeChooseNewOrExisting.strings
 source_file = en.lproj/WelcomeChooseNewOrExisting.strings
 source_lang = en
 
 [onepassword-osx-translations.WelcomeSetupKeychain__strings]
+file_filter = <lang>.lproj/WelcomeSetupKeychain.strings
 source_file = en.lproj/WelcomeSetupKeychain.strings
 source_lang = en
 
 [onepassword-osx-translations.WiFiSyncAuth__strings]
+file_filter = <lang>.lproj/WiFiSyncAuth.strings
 source_file = en.lproj/WiFiSyncAuth.strings
 source_lang = en
 
 [onepassword-osx-translations.WiFiSyncDetailView__strings]
+file_filter = <lang>.lproj/WiFiSyncDetailView.strings
 source_file = en.lproj/WiFiSyncDetailView.strings
 source_lang = en
 
 [onepassword-osx-translations.WiFiSyncIPAddress__strings]
+file_filter = <lang>.lproj/WiFiSyncIPAddress.strings
 source_file = en.lproj/WiFiSyncIPAddress.strings
 source_lang = en
