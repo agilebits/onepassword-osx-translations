@@ -896,9 +896,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* Item import status */
 "Same Item Exists" = "同じ項目が存在します";
 
-/* main window edit button */
-"Save" = "保存";
-
 /* search field placeholder */
 "Search" = "検索";
 
