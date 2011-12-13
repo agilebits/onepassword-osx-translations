@@ -4,7 +4,6 @@
 "url" = "URL-адрес";
 "username" = "Имя пользователя";
 "password" = "Пароль";
-"url" = "URL-адрес";
 "hosting_provider_details" = "Данные поставщика услуг хостинга";
 "hosting_provider_details#9" = "Поставщик";
 "admin_console" = "Консоль администратора";

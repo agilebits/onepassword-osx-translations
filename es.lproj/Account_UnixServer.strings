@@ -4,7 +4,6 @@
 "url" = "URL";
 "username" = "Nombre de usuario";
 "password" = "Contraseña";
-"url" = "URL";
 "hosting_provider_details" = "Detalles del proveedor de servicios de hosting";
 "hosting_provider_details#9" = "Proveedor";
 "admin_console" = "Consola de administración";
