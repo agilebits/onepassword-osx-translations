@@ -838,10 +838,8 @@
 "Please enter password hint." = "Введите подсказку.";
 
 /* prompt (must finish with ',') */
-"Please enter your Mac OS X password.\n\nExtended Attributes will be repaired," = "Введите пароль для Mac OS X.\n\nРасширенные атрибуты будут восстановлены,";
 
 /* prompt (must finish with ',') */
-"Please enter your Mac OS X password.\n\nFolder permissions will be reset," = "Пожалуйста, введите Ваш Mac OS X пароль.\n\nРазрешения папки будут сброшены,";
 
 /* prompt (must finish with ',') */
 "Please enter your Mac OS X password.\n\nThe Launch Services database will be reset," = "Введите пароль для Mac OS X.\n\nБаза данных служб запуска будет сброшена,";
@@ -1177,3 +1175,8 @@
 /* change folder security level */
 "You are changing the folder \"%@\" to high security mode.\nDo you also want to set the items in this folder to high security?" = "Выполняется настройка папки \"%@\" на высокий уровень безопасности.\nПеревести элементы в папке на высокий уровень безопасности?";
 
+
+"Error editing Smart Folder" = "Error editing Smart Folder";
+"Please enter your Mac OS X password.\n\nFolder permissions will be reset. " = "Please enter your Mac OS X password.\n\nFolder permissions will be reset. ";
+"Please enter your Mac OS X password.\n\nExtended Attributes will be repaired. " = "Please enter your Mac OS X password.\n\nExtended Attributes will be repaired. ";
+"This smart folder was created with an older version of 1Password and is no longer editable.\n\nTo make changes, create a new Smart Folder from the File menu." = "This smart folder was created with an older version of 1Password and is no longer editable.\n\nTo make changes, create a new Smart Folder from the File menu.";
