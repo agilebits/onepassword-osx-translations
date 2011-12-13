@@ -536,9 +536,6 @@
 /* accessibility description */
 "calendar picker" = "Agenda";
 
-/* button */
-"Cancel" = "Annuler";
-
 /* intro message */
 "Catalog your Software licenses, including related files and confirmation emails." = "Classez vos licences de programmes, incluant fichiers en relation et e-mails de confirmation.";
 
@@ -556,9 +553,6 @@
 
 /* search scope */
 "Common" = "Commun";
-
-/* button */
-"Continue" = "Continuer";
 
 /* button */
 "Copy" = "Copier";
@@ -695,9 +689,6 @@
 
 /* menu item */
 "Finish Editing Selected Item" = "Fin d'édition de l'objet sélectionné";
-
-/* Sidebar group */
-"Folders" = "Dossiers";
 
 /* pref pane */
 "General" = "Général";
@@ -844,9 +835,6 @@
 "Please contact AgileBits support." = "Veuillez contacter l'assistance AgileBits";
 
 /* error */
-"Please enter at least one character." = "Veuillez entrer un caractère au minimum.";
-
-/* error */
 "Please enter password hint." = "Veuillez entrer l'indice mot de passe.";
 
 /* prompt (must finish with ',') */
@@ -876,9 +864,6 @@
 /* prompt */
 "Please type your Mac OS X password" = "Veuillez entrer votre mot de passe Mac OS X";
 
-/* info */
-"Please wait..." = "Veuillez patienter...";
-
 /* alert message */
 "Previously imported objects were removed from the list." = "Les objets précédemment importés ont été effacés de la liste.";
 
@@ -895,17 +880,11 @@
 /* export progress */
 "Processing Data (step 1 of 2)" = "Traitement des données (étape 1 sur 2)";
 
-/* button */
-"Replace" = "Remplacer";
-
 /* object list menu */
 "Reverse Sort Order" = "Inverser ordre de classement";
 
 /* Item import status */
 "Same Item Exists" = "Un objet identique existe";
-
-/* main window edit button */
-"Save" = "Enregistrer";
 
 /* search field placeholder */
 "Search" = "Rechercher";
@@ -971,9 +950,6 @@
 /* table column */
 "Tag" = "Mot-clé";
 
-/* Sidebar group */
-"Tags" = "Mots-clés";
-
 /* Password strength — Terrible */
 "Terrible" = "Très mauvaise";
 
@@ -1027,9 +1003,6 @@
 
 /* info */
 "The Launch Services database has been successfully reset." = "L'initialisation de la base de données des Services de lancement a réussi.";
-
-/* error */
-"The password can not be blank" = "Le mot de passe ne peut rester vide";
 
 /* alert message */
 "There are 0 passwords to import." = "Il n'y a aucun mot de passe à importer.";
@@ -1114,9 +1087,6 @@
 /* Title for the duplicated item */
 "%@ Copy" = "%@ Copie";
 
-/* Hot Keys: Key Combo text for 'empty' combo */
-"(None)" = "(aucune)";
-
 /* No comment provided by engineer. */
 "Account" = "Compte";
 
@@ -1177,17 +1147,11 @@
 /* info */
 "New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "Nouvelles connexions sont désactivées par 1Password touch.\n\nDans 1Password sur votre iPhone ou iPod touch, sélectionnez Réglages > Synchronisation Wi-Fi > Autoriser nouvelles connexions puis réessayer à nouveau";
 
-/* label */
-"Password" = "Mot de passe";
-
 /* alert message */
 "Please enter the secret as it is shown on iPhone" = "Veuillez entrer le secret comme affiché sur iPhone";
 
 /* item type */
 "Secure Note" = "Note sécurisée";
-
-/* item type */
-"Software" = "Programme";
 
 /* alert title */
 "Sync Conflict Resolver Window" = "Synchroniser la fenêtre du solveur de conflits";
@@ -1201,20 +1165,11 @@
 /* error */
 "The encryption keys file does not exist at '%@'" = "Le fichier de clés d'encryptage n'existe pas à '%@'";
 
-/* folder */
-"Trash" = "Corbeille";
-
 /* smart folder */
 "Unfiled" = "Non classé";
 
-/* Unknown wallet type */
-"Unknown" = "Inconnu";
-
 /* smart folder */
 "Untagged" = "Non identifié";
-
-/* No comment provided by engineer. */
-"Wallet" = "Porte-monnaie";
 
 /* error */
 "Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "La connexion Wi-Fi a échoué. Veuillez redémarrer et déverrouiller 1Password touch sur votre iPhone.";

@@ -536,9 +536,6 @@
 /* accessibility description */
 "calendar picker" = "요일 선택";
 
-/* button */
-"Cancel" = "취소";
-
 /* intro message */
 "Catalog your Software licenses, including related files and confirmation emails." = "소프트웨어 라이선스, 관련 파일 및 확인 메일을 일목요연하게 정리할 수 있습니다.";
 
@@ -556,9 +553,6 @@
 
 /* search scope */
 "Common" = "보통";
-
-/* button */
-"Continue" = "계속";
 
 /* button */
 "Copy" = "복사";
@@ -695,9 +689,6 @@
 
 /* menu item */
 "Finish Editing Selected Item" = "선택항목 편집 종료";
-
-/* Sidebar group */
-"Folders" = "폴더";
 
 /* pref pane */
 "General" = "일반";
@@ -844,9 +835,6 @@
 "Please contact AgileBits support." = "AgileBits 고객지원으로 문의 바랍니다.";
 
 /* error */
-"Please enter at least one character." = "최소 1글자를 입력하세요.";
-
-/* error */
 "Please enter password hint." = "비밀번호 힌트를 입력하세요.";
 
 /* prompt (must finish with ',') */
@@ -876,9 +864,6 @@
 /* prompt */
 "Please type your Mac OS X password" = "맥 OS X 비밀번호를 입력하세요.";
 
-/* info */
-"Please wait..." = "잠시 기다려주세요...";
-
 /* alert message */
 "Previously imported objects were removed from the list." = "이전 불러오기 항목들은 목록에서 제거되었습니다.";
 
@@ -895,17 +880,11 @@
 /* export progress */
 "Processing Data (step 1 of 2)" = "첨부파일 처리중 (1/2단계)";
 
-/* button */
-"Replace" = "교체";
-
 /* object list menu */
 "Reverse Sort Order" = "정렬순서 반전";
 
 /* Item import status */
 "Same Item Exists" = "동일 항목 발견";
-
-/* main window edit button */
-"Save" = "저장";
 
 /* search field placeholder */
 "Search" = "검색";
@@ -971,9 +950,6 @@
 /* table column */
 "Tag" = "태그";
 
-/* Sidebar group */
-"Tags" = "태그";
-
 /* Password strength — Terrible */
 "Terrible" = "매우 낮음";
 
@@ -1028,9 +1004,6 @@
 /* info */
 "The Launch Services database has been successfully reset." = "시작 서비스 데이터베이스가 초기화되었습니다.";
 
-/* error */
-"The password can not be blank" = "비밀번호를 반드시 입력해야 합니다.";
-
 /* alert message */
 "There are 0 passwords to import." = "내보낼 비밀번호가 없습니다.";
 
@@ -1072,9 +1045,6 @@
 /* Sidebar group */
 "Vault" = "내 보관함";
 
-/* Sidebar category */
-"Wallet" = "지갑";
-
 /* Password strength — Weak */
 "Weak" = "낮음";
 
@@ -1113,9 +1083,6 @@
 
 /* Title for the duplicated item */
 "%@ Copy" = "%@ 사본";
-
-/* Hot Keys: Key Combo text for 'empty' combo */
-"(None)" = "(없음)";
 
 /* No comment provided by engineer. */
 "Account" = "계정";
@@ -1177,17 +1144,11 @@
 /* info */
 "New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "1Password Touch의 새 연결 옵션이 비활성화 상태입니다.\n\n아이폰 또는 아이팟 터치에 설치된 1Password에서 설정 > 와이파이 동기화 > 새 연결 허용을 선택한 후 다시 시도하세요.";
 
-/* label */
-"Password" = "비밀번호";
-
 /* alert message */
 "Please enter the secret as it is shown on iPhone" = "아이폰에 표시된 보안코드를 정확히 입력하세요.";
 
 /* item type */
 "Secure Note" = "안심 노트";
-
-/* item type */
-"Software" = "소프트웨어";
 
 /* alert title */
 "Sync Conflict Resolver Window" = "충돌 해결사 윈도우 동기화";
@@ -1201,14 +1162,8 @@
 /* error */
 "The encryption keys file does not exist at '%@'" = "'%@' 위치에 암호화 키 파일이 없습니다.";
 
-/* folder */
-"Trash" = "휴지통";
-
 /* smart folder */
 "Unfiled" = "미분류";
-
-/* Unknown wallet type */
-"Unknown" = "알 수 없음";
 
 /* smart folder */
 "Untagged" = "태그 없음";

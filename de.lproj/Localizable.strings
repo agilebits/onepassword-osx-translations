@@ -536,9 +536,6 @@
 /* accessibility description */
 "calendar picker" = "Datumsauswahl";
 
-/* button */
-"Cancel" = "Abbrechen";
-
 /* intro message */
 "Catalog your Software licenses, including related files and confirmation emails." = "Katalogisieren Sie Ihre Softwarelizenzen samt zugehöriger Dateien und Bestätigungs-E-Mails.";
 
@@ -556,9 +553,6 @@
 
 /* search scope */
 "Common" = "Allgemein";
-
-/* button */
-"Continue" = "Weiter";
 
 /* button */
 "Copy" = "Kopieren";
@@ -695,9 +689,6 @@
 
 /* menu item */
 "Finish Editing Selected Item" = "Bearbeitung des ausgewählten Objekts beendet";
-
-/* Sidebar group */
-"Folders" = "Ordner";
 
 /* pref pane */
 "General" = "Allgemein";
@@ -844,9 +835,6 @@
 "Please contact AgileBits support." = "Bitte wenden Sie sich an den Support von AgileBits.";
 
 /* error */
-"Please enter at least one character." = "Geben Sie mindestens ein Zeichen ein.";
-
-/* error */
 "Please enter password hint." = "Geben Sie den Passworthinweis ein.";
 
 /* prompt (must finish with ',') */
@@ -876,9 +864,6 @@
 /* prompt */
 "Please type your Mac OS X password" = "Geben Sie Ihr Passwort für Mac OS X ein.";
 
-/* info */
-"Please wait..." = "Bitte warten...";
-
 /* alert message */
 "Previously imported objects were removed from the list." = "Früher importierte Objekte wurden aus der Liste entfernt.";
 
@@ -895,17 +880,11 @@
 /* export progress */
 "Processing Data (step 1 of 2)" = "Daten werden verarbeitet (Schritt 1 von 2).";
 
-/* button */
-"Replace" = "Ersetzen";
-
 /* object list menu */
 "Reverse Sort Order" = "Sortierfolge umkehren";
 
 /* Item import status */
 "Same Item Exists" = "Gleiches Objekt vorhanden";
-
-/* main window edit button */
-"Save" = "Speichern";
 
 /* search field placeholder */
 "Search" = "Suchen";
@@ -971,9 +950,6 @@
 /* table column */
 "Tag" = "Markierung";
 
-/* Sidebar group */
-"Tags" = "Markierungen";
-
 /* Password strength — Terrible */
 "Terrible" = "Schrecklich";
 
@@ -1028,9 +1004,6 @@
 /* info */
 "The Launch Services database has been successfully reset." = "Die Startdienste-Datenbank wurde erfolgreich zurückgesetzt.";
 
-/* error */
-"The password can not be blank" = "Das Passwort darf nicht leer sein.";
-
 /* alert message */
 "There are 0 passwords to import." = "Es liegen 0 Passwörter für den Import vor.";
 
@@ -1052,9 +1025,6 @@
 
 /* table column */
 "Type" = "Typ";
-
-/* iPhone/iPod touch type */
-"Unknown" = "Unbekannt";
 
 /* button */
 "Use Dropbox" = "Dropbox verwenden";
@@ -1113,9 +1083,6 @@
 
 /* Title for the duplicated item */
 "%@ Copy" = "%@ Kopie";
-
-/* Hot Keys: Key Combo text for 'empty' combo */
-"(None)" = "(Keine)";
 
 /* No comment provided by engineer. */
 "Account" = "Account";
@@ -1177,17 +1144,11 @@
 /* info */
 "New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "Neue Verbindungen werden von iPassword touch verhindert.\n\nWählen Sie in 1Password auf Ihrem iPhone oder iPod touch /\"Einstellungen > Wi-Fi-Synchronisierung > Neue Verbindungen erlauben/\" und versuchen Sie er erneut.";
 
-/* label */
-"Password" = "Passwort";
-
 /* alert message */
 "Please enter the secret as it is shown on iPhone" = "Geben Sie das Geheimnis wie auf dem iPhone angezeigt ein.";
 
 /* item type */
 "Secure Note" = "Sichere Notiz";
-
-/* item type */
-"Software" = "Software";
 
 /* alert title */
 "Sync Conflict Resolver Window" = "Synchronisierungskonfiktlösungs-Fenster";
@@ -1201,9 +1162,6 @@
 /* error */
 "The encryption keys file does not exist at '%@'" = "Die Datei mit kryptografischen Schlüsseln ist in /\"%@/\" nicht vorhanden.";
 
-/* folder */
-"Trash" = "Papierkorb";
-
 /* smart folder */
 "Unfiled" = "Unerfasst";
 
@@ -1212,9 +1170,6 @@
 
 /* smart folder */
 "Untagged" = "Unmarkiert";
-
-/* No comment provided by engineer. */
-"Wallet" = "Brieftasche";
 
 /* error */
 "Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "Wi-Fi-Verbindung fehlgeschlagen. Starten Sie 1Password touch neu und schalten Sie es auf Ihrem iPhone frei.";

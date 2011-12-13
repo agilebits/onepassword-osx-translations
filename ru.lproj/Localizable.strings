@@ -536,9 +536,6 @@
 /* accessibility description */
 "calendar picker" = "календарь";
 
-/* button */
-"Cancel" = "Отменить";
-
 /* intro message */
 "Catalog your Software licenses, including related files and confirmation emails." = "Каталог Ваших лицензий программного обеспечения, включая связанные файлы и письма-подтверждения.";
 
@@ -556,9 +553,6 @@
 
 /* search scope */
 "Common" = "Общие";
-
-/* button */
-"Continue" = "Продолжить";
 
 /* button */
 "Copy" = "Копировать";
@@ -695,9 +689,6 @@
 
 /* menu item */
 "Finish Editing Selected Item" = "Завершить редактирование выбранного объекта";
-
-/* Sidebar group */
-"Folders" = "Папки";
 
 /* pref pane */
 "General" = "Основные";
@@ -844,9 +835,6 @@
 "Please contact AgileBits support." = "Обратитесь в службу поддержки AgileBits";
 
 /* error */
-"Please enter at least one character." = "Введите минимум один символ.";
-
-/* error */
 "Please enter password hint." = "Введите подсказку.";
 
 /* prompt (must finish with ',') */
@@ -876,9 +864,6 @@
 /* prompt */
 "Please type your Mac OS X password" = "Введите пароль Mac OS X";
 
-/* info */
-"Please wait..." = "Пожалуйста, подождите.";
-
 /* alert message */
 "Previously imported objects were removed from the list." = "Ранее импортированные объекты удалены из списка.";
 
@@ -895,17 +880,11 @@
 /* export progress */
 "Processing Data (step 1 of 2)" = "Обработка данных (шаг 1 из 2)";
 
-/* button */
-"Replace" = "Заменить";
-
 /* object list menu */
 "Reverse Sort Order" = "Обратный порядок сортировки";
 
 /* Item import status */
 "Same Item Exists" = "Такой элемент уже существует";
-
-/* main window edit button */
-"Save" = "Сохранить";
 
 /* search field placeholder */
 "Search" = "Поиск";
@@ -971,9 +950,6 @@
 /* table column */
 "Tag" = "тегам";
 
-/* Sidebar group */
-"Tags" = "Теги";
-
 /* Password strength — Terrible */
 "Terrible" = "Ужасно";
 
@@ -1027,9 +1003,6 @@
 
 /* info */
 "The Launch Services database has been successfully reset." = "База данных служб запуска успешно сброшена";
-
-/* error */
-"The password can not be blank" = "Пароль не может быть пустым";
 
 /* alert message */
 "There are 0 passwords to import." = "0 паролей для импорта.";
@@ -1114,9 +1087,6 @@
 /* Title for the duplicated item */
 "%@ Copy" = "%@ копия";
 
-/* Hot Keys: Key Combo text for 'empty' combo */
-"(None)" = "(Нет)";
-
 /* No comment provided by engineer. */
 "Account" = "Учётная запись";
 
@@ -1177,17 +1147,11 @@
 /* info */
 "New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "Новые соединения отключены 1Password touch.\n\nВ 1Password на Вашем iPhone или iPod touch, выберите Settings > Wi-Fi Sync > Allow New Connections и попробуйте заново";
 
-/* label */
-"Password" = "Пароль";
-
 /* alert message */
 "Please enter the secret as it is shown on iPhone" = "Введите секрет, который отображается на экране iPhone";
 
 /* item type */
 "Secure Note" = "Заметка";
-
-/* item type */
-"Software" = "ПО";
 
 /* alert title */
 "Sync Conflict Resolver Window" = "Окно разрешения конфликтов синхронизации";
@@ -1201,20 +1165,11 @@
 /* error */
 "The encryption keys file does not exist at '%@'" = "Ключи шифрования файла не существует у '%@'";
 
-/* folder */
-"Trash" = "Корзина";
-
 /* smart folder */
 "Unfiled" = "Разное";
 
-/* Unknown wallet type */
-"Unknown" = "Неизвестно";
-
 /* smart folder */
 "Untagged" = "Без ярлыков";
-
-/* No comment provided by engineer. */
-"Wallet" = "Бумажник";
 
 /* error */
 "Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "Ошибка Wi-Fi соединения. Пожалуйста, перезапустите и разблокируйте 1Password touch на Вашем iPhone.";

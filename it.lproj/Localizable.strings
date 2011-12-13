@@ -537,9 +537,6 @@ NOTA: BLOC MAIUSC ATTIVATO";
 /* accessibility description */
 "calendar picker" = "calendario";
 
-/* button */
-"Cancel" = "Annulla";
-
 /* intro message */
 "Catalog your Software licenses, including related files and confirmation emails." = "Cataloga le tue licenze software, inclusi i file relativi e le e-mail di conferma.";
 
@@ -557,9 +554,6 @@ NOTA: BLOC MAIUSC ATTIVATO";
 
 /* search scope */
 "Common" = "Comune";
-
-/* button */
-"Continue" = "Continua";
 
 /* button */
 "Copy" = "Copia";
@@ -696,9 +690,6 @@ NOTA: BLOC MAIUSC ATTIVATO";
 
 /* menu item */
 "Finish Editing Selected Item" = "Termina modifiche nell'elemento selezionato";
-
-/* Sidebar group */
-"Folders" = "Cartelle";
 
 /* pref pane */
 "General" = "Generale";
@@ -845,9 +836,6 @@ NOTA: BLOC MAIUSC ATTIVATO";
 "Please contact AgileBits support." = "Contatta AgileBits per assistenza.";
 
 /* error */
-"Please enter at least one character." = "Inserisci almeno un carattere.";
-
-/* error */
 "Please enter password hint." = "Inserisci un suggerimento password";
 
 /* prompt (must finish with ',') */
@@ -877,9 +865,6 @@ NOTA: BLOC MAIUSC ATTIVATO";
 /* prompt */
 "Please type your Mac OS X password" = "Inserisci la password per Mac OS X.";
 
-/* info */
-"Please wait..." = "Attendere...";
-
 /* alert message */
 "Previously imported objects were removed from the list." = "Gli oggetti importati in precedenza sono stati rimossi dall'elenco.";
 
@@ -896,17 +881,11 @@ NOTA: BLOC MAIUSC ATTIVATO";
 /* export progress */
 "Processing Data (step 1 of 2)" = "Elaborazione dei dati (fase 1 di 2)";
 
-/* button */
-"Replace" = "Sostituisci";
-
 /* object list menu */
 "Reverse Sort Order" = "Inverti ordine";
 
 /* Item import status */
 "Same Item Exists" = "Elemento uguale esistente";
-
-/* main window edit button */
-"Save" = "Salva";
 
 /* search field placeholder */
 "Search" = "Cerca";
@@ -972,9 +951,6 @@ NOTA: BLOC MAIUSC ATTIVATO";
 /* table column */
 "Tag" = "Tag";
 
-/* Sidebar group */
-"Tags" = "Tag";
-
 /* Password strength — Terrible */
 "Terrible" = "Terribile";
 
@@ -1028,9 +1004,6 @@ NOTA: BLOC MAIUSC ATTIVATO";
 
 /* info */
 "The Launch Services database has been successfully reset." = "Il database di Launch Services è stato reimpostato con successo.";
-
-/* error */
-"The password can not be blank" = "Il campo della password non può restare vuoto";
 
 /* alert message */
 "There are 0 passwords to import." = "Ci sono 0 password da importare";
@@ -1115,9 +1088,6 @@ NOTA: BLOC MAIUSC ATTIVATO";
 /* Title for the duplicated item */
 "%@ Copy" = "Copia di %@";
 
-/* Hot Keys: Key Combo text for 'empty' combo */
-"(None)" = "(nessuno)";
-
 /* No comment provided by engineer. */
 "Account" = "Account";
 
@@ -1178,17 +1148,11 @@ NOTA: BLOC MAIUSC ATTIVATO";
 /* info */
 "New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "Le nuove connessioni sono state disattivate da 1Password touch.\n\nIn 1Password sul tuo iPhone o iPod touch, seleziona Impostazioni > Sincronizzazione Wi-Fi > Consenti nuove connessioni, quindi riprova.";
 
-/* label */
-"Password" = "Password";
-
 /* alert message */
 "Please enter the secret as it is shown on iPhone" = "Inserisci il segreto come mostrato su iPhone";
 
 /* item type */
 "Secure Note" = "Nota sicura";
-
-/* item type */
-"Software" = "Software";
 
 /* alert title */
 "Sync Conflict Resolver Window" = "Finestra di risoluzione conflitti di sincronizzazione";
@@ -1202,20 +1166,11 @@ NOTA: BLOC MAIUSC ATTIVATO";
 /* error */
 "The encryption keys file does not exist at '%@'" = "Il file con codice di crittografia non esiste in '%@'";
 
-/* folder */
-"Trash" = "Cestino";
-
 /* smart folder */
 "Unfiled" = "Non archiviati";
 
-/* Unknown wallet type */
-"Unknown" = "Sconosciuto";
-
 /* smart folder */
 "Untagged" = "Non taggato";
-
-/* No comment provided by engineer. */
-"Wallet" = "Wallet";
 
 /* error */
 "Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "Connessione Wi-Fi non riuscita. Riavvia e sblocca 1Password touch sul tuo iPhone.";

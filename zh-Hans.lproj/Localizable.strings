@@ -537,9 +537,6 @@
 /* accessibility description */
 "calendar picker" = "日期选取器";
 
-/* button */
-"Cancel" = "取消";
-
 /* intro message */
 "Catalog your Software licenses, including related files and confirmation emails." = "对您的软件许可（包括相关的文件和确认电子邮件）进行编目。";
 
@@ -557,9 +554,6 @@
 
 /* search scope */
 "Common" = "通用";
-
-/* button */
-"Continue" = "继续";
 
 /* button */
 "Copy" = "复制";
@@ -696,9 +690,6 @@
 
 /* menu item */
 "Finish Editing Selected Item" = "完成编辑所选项";
-
-/* Sidebar group */
-"Folders" = "文件夹";
 
 /* pref pane */
 "General" = "一般";
@@ -845,9 +836,6 @@
 "Please contact AgileBits support." = "请联系 AgileBits 客户支持。";
 
 /* error */
-"Please enter at least one character." = "请至少输入一个字符。";
-
-/* error */
 "Please enter password hint." = "请输入密码提示。";
 
 /* prompt (must finish with ',') */
@@ -877,9 +865,6 @@
 /* prompt */
 "Please type your Mac OS X password" = "请输入您的 Mac OS X 密码";
 
-/* info */
-"Please wait..." = "请稍候...";
-
 /* alert message */
 "Previously imported objects were removed from the list." = "先前导入的对象已从列表移除。";
 
@@ -896,17 +881,11 @@
 /* export progress */
 "Processing Data (step 1 of 2)" = "正在处理数据（步骤 1/2）";
 
-/* button */
-"Replace" = "替换";
-
 /* object list menu */
 "Reverse Sort Order" = "反向排序";
 
 /* Item import status */
 "Same Item Exists" = "存在相同项";
-
-/* main window edit button */
-"Save" = "保存";
 
 /* search field placeholder */
 "Search" = "搜索";
@@ -972,9 +951,6 @@
 /* table column */
 "Tag" = "标签";
 
-/* Sidebar group */
-"Tags" = "标签";
-
 /* Password strength — Terrible */
 "Terrible" = "极弱";
 
@@ -1028,9 +1004,6 @@
 
 /* info */
 "The Launch Services database has been successfully reset." = "启动服务数据库已成功重置。";
-
-/* error */
-"The password can not be blank" = "密码不能为空";
 
 /* alert message */
 "There are 0 passwords to import." = "要导入的密码个数为 0。";
@@ -1115,9 +1088,6 @@
 /* Title for the duplicated item */
 "%@ Copy" = "%@ 拷贝";
 
-/* Hot Keys: Key Combo text for 'empty' combo */
-"(None)" = "（无）";
-
 /* No comment provided by engineer. */
 "Account" = "账户";
 
@@ -1178,17 +1148,11 @@
 /* info */
 "New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "新建连接被 1Password touch 禁用。\n\n请在您 iPhone 或 iPod touch 的 1Password 中，选择设置 > Wi-Fi 同步 > 允许新建连接，然后重试。";
 
-/* label */
-"Password" = "密码";
-
 /* alert message */
 "Please enter the secret as it is shown on iPhone" = "请输入 iPhone 中显示的安全码";
 
 /* item type */
 "Secure Note" = "安全备注";
-
-/* item type */
-"Software" = "软件";
 
 /* alert title */
 "Sync Conflict Resolver Window" = "同步冲突解决程序窗口";
@@ -1202,20 +1166,11 @@
 /* error */
 "The encryption keys file does not exist at '%@'" = "'%@' 不存在加密密钥文件";
 
-/* folder */
-"Trash" = "垃圾桶";
-
 /* smart folder */
 "Unfiled" = "未归档";
 
-/* Unknown wallet type */
-"Unknown" = "未知";
-
 /* smart folder */
 "Untagged" = "未标记";
-
-/* No comment provided by engineer. */
-"Wallet" = "钱包";
 
 /* error */
 "Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "Wi-Fi 连接失败。请在您的 iPhone 上重启并解锁 1Password touch。";

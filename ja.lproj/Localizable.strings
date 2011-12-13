@@ -546,9 +546,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* accessibility description */
 "calendar picker" = "カレンダーピッカー";
 
-/* button */
-"Cancel" = "キャンセル";
-
 /* intro message */
 "Catalog your Software licenses, including related files and confirmation emails." = "関連ファイルや確認の E メールも含めた、ソフトウェアライセンスの一覧を作成します。";
 
@@ -566,9 +563,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 
 /* search scope */
 "Common" = "一般";
-
-/* button */
-"Continue" = "続ける";
 
 /* button */
 "Copy" = "コピー";
@@ -705,9 +699,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 
 /* menu item */
 "Finish Editing Selected Item" = "選択項目の編集を終了";
-
-/* Sidebar group */
-"Folders" = "フォルダ";
 
 /* pref pane */
 "General" = "一般";
@@ -854,9 +845,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "Please contact AgileBits support." = "AgileBits サポートにお問い合わせください。";
 
 /* error */
-"Please enter at least one character." = "少なくとも 1 文字入力してください。";
-
-/* error */
 "Please enter password hint." = "パスワードのヒントを入力してください。";
 
 /* prompt (must finish with ',') */
@@ -886,9 +874,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* prompt */
 "Please type your Mac OS X password" = "Mac OS X のパスワードをご入力ください。";
 
-/* info */
-"Please wait..." = "しばらくお待ちください...";
-
 /* alert message */
 "Previously imported objects were removed from the list." = "以前にインポートされたオブジェクトがリストから削除されました。";
 
@@ -904,9 +889,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 
 /* export progress */
 "Processing Data (step 1 of 2)" = "データを処理中（ステップ 1/2）";
-
-/* button */
-"Replace" = "置換";
 
 /* object list menu */
 "Reverse Sort Order" = "並べ替え順序を逆にする";
@@ -981,9 +963,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* table column */
 "Tag" = "タグ";
 
-/* Sidebar group */
-"Tags" = "タグ";
-
 /* Password strength — Terrible */
 "Terrible" = "弱過ぎ";
 
@@ -1038,9 +1017,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 
 /* info */
 "The Launch Services database has been successfully reset." = "起動サービスのデータベースは正常にリセットされました。";
-
-/* error */
-"The password can not be blank" = "パスワードを空白にすることはできません";
 
 /* alert message */
 "There are 0 passwords to import." = "インポートするパスワードが 0 あります。";
@@ -1125,9 +1101,6 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* Title for the duplicated item */
 "%@ Copy" = "%@ コピー";
 
-/* Hot Keys: Key Combo text for 'empty' combo */
-"(None)" = "（なし）";
-
 /* No comment provided by engineer. */
 "Account" = "アカウント";
 
@@ -1188,17 +1161,11 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* info */
 "New connections are disabled by 1Password touch.\n\nIn 1Password on your iPhone or iPod touch, select Settings > Wi-Fi Sync > Allow New Connections and then try again" = "新しい接続は 1Password touch によって無効にされています。\n\niPhone または iPod touch の 1Password で、Settings > Wi-Fi Sync > Allow New Connections を選択し、もう一度やり直してください";
 
-/* label */
-"Password" = "パスワード";
-
 /* alert message */
 "Please enter the secret as it is shown on iPhone" = "iPhone の表示通り、秘密を入力してください";
 
 /* item type */
 "Secure Note" = "セキュアノート";
-
-/* item type */
-"Software" = "ソフトウェア";
 
 /* alert title */
 "Sync Conflict Resolver Window" = "Sync Conflict Resolver ウィンドウ";
@@ -1212,20 +1179,11 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 /* error */
 "The encryption keys file does not exist at '%@'" = "暗号化キーファイルは '%@' に存在しません";
 
-/* folder */
-"Trash" = "ゴミ箱";
-
 /* smart folder */
 "Unfiled" = "未整理";
 
-/* Unknown wallet type */
-"Unknown" = "不明";
-
 /* smart folder */
 "Untagged" = "タグなし";
-
-/* No comment provided by engineer. */
-"Wallet" = "ウォレット";
 
 /* error */
 "Wi-Fi connection failed. Please restart and unlock 1Password touch on your iPhone." = "Wi-Fi 接続に失敗しました。iPhone の 1Password touch を再起動してロック解除してください。";
