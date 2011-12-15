@@ -117,11 +117,7 @@
 "https://agilebits.com/store" = "https://agilebits.com/store";
 
 /* message */
-"I have found a new data file in Dropbox:\n%@\n\nIt looks like you've recently synced your data with Dropbox. Would you like me to use this data file (recommended)?\n" = "Dropbox:
-%@
-
-に新しいデータファイルがみつかりました。あなたはどうやら最近 Dropbox とデータを同期したようです。このデータファイルを使いますか（推奨）？
-";
+"I have found a new data file in Dropbox:\n%@\n\nIt looks like you've recently synced your data with Dropbox. Would you like me to use this data file (recommended)?\n" = "Dropbox:\n%@\n\nに新しいデータファイルがみつかりました。あなたはどうやら最近 Dropbox とデータを同期したようです。このデータファイルを使いますか（推奨）？\n";
 
 /* info */
 "Importing..." = "インポート...";
@@ -187,11 +183,7 @@
 "Please install 1Password in Applications" = "1Password はアプリケーションにインストールしてください";
 
 /* message */
-"Please make sure that the Dropbox icon in your menu bar at the top of your screen is not spinning (it animates while syncing).\n\nClick the icon and make sure that \"All files up to date\" is displayed in the Dropbox menu.\n\nIf you do not see the Dropbox icon, please make sure Dropbox application is started." = "画面上部のメニューバーの Dropbox アイコンが回転しないようにします（同期中は動きます）。
-
-アイコンをクリックし、\”全てのデータを更新\”が Dropbox メニューに表示されていることを確認してください。
-
-Dropbox アイコンがない場合は、Dropbox アプリケーションが起動していることを確認してください。";
+"Please make sure that the Dropbox icon in your menu bar at the top of your screen is not spinning (it animates while syncing).\n\nClick the icon and make sure that \"All files up to date\" is displayed in the Dropbox menu.\n\nIf you do not see the Dropbox icon, please make sure Dropbox application is started." = "画面上部のメニューバーの Dropbox アイコンが回転しないようにします（同期中は動きます）。\n\nアイコンをクリックし、\”全てのデータを更新\”が Dropbox メニューに表示されていることを確認してください。\n\nDropbox アイコンがない場合は、Dropbox アプリケーションが起動していることを確認してください。";
 
 /* alert message */
 "Please select another file" = "他のファイルを選択してください";
@@ -248,12 +240,10 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "This data file is not valid and cannot be used by 1Password" = "このデータファイルは有効ではなく、1Password で使用できません。";
 
 /* message */
-"This file is a 1Password Interchange File.\nUse File > Import menu to import this file." = "このファイルは1Password Interchange ファイルです。
-ファイル使用 > インポートメニューでこのファイルをインポートします。";
+"This file is a 1Password Interchange File.\nUse File > Import menu to import this file." = "このファイルは1Password Interchange ファイルです。\nファイル使用 > インポートメニューでこのファイルをインポートします。";
 
 /* message */
-"This file is not a 1Password backup.\nPlease select a .agilekeychain_zip or .agilekeychain_backup file." = "このファイルはこのファイルは1Password\n のバックアップではありません。
-.agilekeychain_zip または .agilekeychain_backup ファイルを選択してください。";
+"This file is not a 1Password backup.\nPlease select a .agilekeychain_zip or .agilekeychain_backup file." = "このファイルはこのファイルは1Password\n のバックアップではありません。\n.agilekeychain_zip または .agilekeychain_backup ファイルを選択してください。";
 
 /* error message */
 "This problem is often caused by incorrect file permissions.\n\nPlease search 1Password Knowledge Base for 'helper startup' or contact us at support@agilebits.com for more information.\n" = "この問題は、しばしば誤ったファイルアクセス権によって起ります。\n\n1Password Knowledge Base で「ヘルパーの起動」を検索するか、さらに詳しい情報についてはsupport@agilebits.com にお問い合わせください。\n";
@@ -1006,8 +996,7 @@ Dropbox アイコンがない場合は、Dropbox アプリケーションが起�
 "The import was canceled" = "読み込みはキャンセルされました";
 
 /* exporter */
-"The interchange file can be used to merge different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "互換ファイルは異なる 1Password データベース
-をマージしたり、暗号化されていないバックアップファイルとしての保管に使用できます。\n\n重要: ファイルは暗号化されないので保護する必要があります。";
+"The interchange file can be used to merge different 1Password databases\nor keep an unencrypted backup file.\n\nIMPORTANT: The file will not be encrypted and must be protected." = "互換ファイルは異なる 1Password データベース\nをマージしたり、暗号化されていないバックアップファイルとしての保管に使用できます。\n\n重要: ファイルは暗号化されないので保護する必要があります。";
 
 /* alert title */
 "The item \"%@\" will be deleted" = "項目 \"%@\" は削除されます";

@@ -252,8 +252,7 @@
 "This web page accepts passwords up to %jd characters in length." = "此网页接受的密码长度最长为 %jd 个字符。";
 
 /* message */
-"This will replace your current 1Password data with the selected backup." = "此操作将使用所选备份文件替换
-当前 1Password 数据。";
+"This will replace your current 1Password data with the selected backup." = "此操作将使用所选备份文件替换\n当前 1Password 数据。";
 
 /* error */
 "To import this file, set up 1Password as a new user and then choose File > Import..." = "要导入此文件，请为 1Password 设置一个新用户，然后选择文件 > 导入...";

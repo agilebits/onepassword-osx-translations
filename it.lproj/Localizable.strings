@@ -459,8 +459,7 @@
 "\n\nPassword Hint: %@\n" = "\n\nSuggerimento password: %@\n";
 
 /* warning */
-"\nNOTE: CAPS LOCK KEY IS PRESSED" = "
-NOTA: BLOC MAIUSC ATTIVATO";
+"\nNOTE: CAPS LOCK KEY IS PRESSED" = "\nNOTA: BLOC MAIUSC ATTIVATO";
 
 /* time */
 "a minute ago" = "un minuto fa";

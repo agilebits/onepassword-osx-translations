@@ -13,8 +13,7 @@
 /* error */
 "1Password File '%@' is incorrect or damaged. Please choose another file." = "Die 1Password-Datei /\"%@/\" ist fehlerhaft oder beschädigt. Bitte wählen Sie eine andere Datei.";
 
-/* alert title
-   error */
+/* alert title */
 "1Password Interchange Format" = "1Password-Austauschformat";
 
 /* message */
