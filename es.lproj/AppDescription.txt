@@ -1,0 +1,37 @@
+1Password es su contraseña y compañero de identidad. 1Password deja atrás el simple almacenamiento de contraseñas porque trabaja directamente con su navegador, guarda sus nombres de usuario y contraseñas y crea sin esfuerzo contraseñas únicas y seguras para cada sitio. De esta manera 1Password puede conectarle automáticamente y con seguridad, introducir información de tarjetas de crédito y completar formularios de registro, todo mientras encripta su información con la única contraseña que necesita recordar. 
+
+NOTA: para usuarios actuales de 1Password 3.8. Para mejores resultados, elimine la copia anterior de 1Password antes de instalar la versión desde la App Store de Mac. 
+
+★ ¡1Password ha sido galardonado con casi todos los premios bajo el sol! ★
+- Ganador del Macworld 2010 Eddy Award
+- Calificado con 4.5/5 Mice en una revisión de Macworld
+- Elección de Mac|Life Editor con una calificación de “¡Impresionante!”
+
+Pero espere, ¡hay más! Con 1Password, es más fácil: 
+
+- Utilizar múltiples usuarios para el mismo sitio
+- Crear múltiples identidades para completar formularios de registro, encuestas y carros de compra
+- Sincronizar con seguridad sus datos de forma inalámbrica entre Macs, iPhones y iPads con Dropbox, o localmente por Wi-Fi
+- Almacenar otros datos confidenciales en Notas seguras
+- Guardar licencias de software y recibos
+- Organizarlo todo con etiquetas y carpetas
+
+Esta nueva versión de 1Password ha sido rediseñada para aprovechar las excelentes funcionalidades de OS X Lion, como por ejemplo: 
+
+- Modo de pantalla completa
+- Mayor seguridad con compatibilidad para aplicar sandbox en Lion
+- Incluso mas seguridad con calibración PBKDF2
+- Soporte de 64-bit para una experiencia dinámica
+
+Esta versión también proporciona: 
+- **Nuevo** Acceso rápido para sus datos desde la barra del menú
+- Soporte mejorado para extensiones del navegador
+
+
+Las versiones móviles de 1Password están disponibles para iPhone, iPod touch y iPad. Sincronización y actualización utilizando la red inalámbrica o Wi-Fi a través de Dropbox para que su información esté siempre a tan sólo un toque. 
+
+------------------------------- 
+
+NOTA DE SOPORTE Nº 1: Hemos recibido varios informes sobre la imposibilidad de superar la pantalla de bienvenida al instalar 1Password. Si sufre este problema, consulte el artículo “1Password no continúa después de la página inicial de bienvenida” de nuestro sitio web. 
+
+NOTA DE SOPORTE Nº 2: nos encantaría conocer su opinión. Recuerde que no podemos contestar a sus comentarios en la Mac App Store. Si tiene alguna pregunta, póngase en contacto con nuestro sitio de atención al cliente. ¡Gracias!

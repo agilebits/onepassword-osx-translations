@@ -1,0 +1,1 @@
+mot-de-passe,ipassword,ipass,1passwd,coffre,sécurité,agilewebsolution,agileweb,onepassword,1password

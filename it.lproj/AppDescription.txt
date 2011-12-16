@@ -1,0 +1,37 @@
+1Password è l'alleato ideale per password e identità. 1Password va oltre la semplice archiviazione delle password perché collabora direttamente con il browser, salvando nomi utente e password e creando password sicure e univoche per ogni sito. 1Password effettuerà quindi l'accesso in modo automatico e sicuro, inserendo informazioni sulla carta di credito e completando moduli di registrazione al tuo posto, il tutto crittografando le informazioni con un'unica password che dovrai ricordare. 
+
+NOTA: per utenti che usano già 1Password 3.8. Per migliori risultati, elimina la versione precedente di 1Password prima di installare la nuova versione da Mac App Store. 
+
+★ 1Password ha vinto ogni tipo di premio! ★
+- Vincitore del Macworld 2010 Eddy Award
+- Valutazione di 4.5/5 Mice in una recensione di Macworld
+- Mac|Life Editor's Choice con la valutazione "Awesome!" (Ottimo)
+
+Ma aspetta: c'è di più! Con 1Password è più facile: 
+
+- Usare diversi dati di accesso per lo stesso sito
+- Creare diverse Identità per inserire dati in formulari di registrazione, sondaggi e carrelli dello shopping
+- Sincronizzare in tutta sicurezza i tuoi dati over-the-air tra Mac, iPhone e iPad con Dropbox oppure a livello locale in Wi-Fi
+- Archiviare altre informazioni riservate nelle Note sicure
+- Salvare licenze software e ricevute
+- Organizzare tutto grazie a tag e cartelle
+
+Questa nuova versione di 1Password è stata riprogettata sfruttando le fantastiche caratteristiche di OS X Lion, quali: 
+
+- Modalità full-screen
+- Protezione migliorata compatibile con le "regole di sperimentazione" (sandboxing rules) di Lion
+- Protezione ancora migliore grazie a PBKDF2 Calibration
+- Supporto 64-bit per un'esperienza vivace
+
+Inoltre, questa versione presenta: 
+- **Nuovo** Accesso rapido ai dati dalla barra dei menu
+- Assistenza migliorata per le estensioni del browser
+
+
+Le versioni mobile di 1Password sono disponibili per iPhone, iPod touch e iPad. Sincronizza e aggiorna tramite Dropbox in Wi-Fi oppure over-the-air; le informazioni saranno sempre a portata di dita. 
+
+------------------------------- 
+
+NOTA TECNICA n. 1: Diversi utenti ci hanno segnalato di non riuscire ad andare oltra la schermata di benvenuto durante l'installazione di 1Password. Nel caso riscontrassi questo problema, consulta l'articolo "1Password fails to continue after the initial welcome screen" (L'installazione di 1Password si blocca alla schermata di benvenuto) sul nostro sito di assistenza tecnica. 
+
+NOTA TECNICA #2: Ogni tuo feedback è prezioso per noi. Tuttavia, non ci è possibile rispondere ai commenti su Mac App Store. Se hai domande, contatta il nostro sito di assistenza tecnica. Grazie.
