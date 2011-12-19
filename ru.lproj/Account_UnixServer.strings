@@ -1,22 +1,41 @@
 "__title__" = "Сервер";
+
 "__description__" = "Учетные данные для выделенного сервера Linux и FreeBSD, систем VPS и др.";
 
 "url" = "URL-адрес";
+
 "username" = "Имя пользователя";
+
 "password" = "Пароль";
+
 "hosting_provider_details" = "Данные поставщика услуг хостинга";
+
 "hosting_provider_details#9" = "Поставщик";
+
 "admin_console" = "Консоль администратора";
+
 "admin_console#9" = "Консоль";
+
 "admin_console_url" = "URL-адрес консоли администрирования";
+
 "admin_console_url#9" = "URL-адрес консоли";
+
 "admin_console_username" = "Имя пользователя консоли администратора";
+
 "admin_console_username#9" = "Пользователь консоли";
+
 "admin_console_password" = "Пароль консоли";
+
 "admin_console_password#9" = "Пароль консоли";
+
 "name" = "Имя";
+
 "website" = "Веб-сайт";
+
 "support_contact_url" = "URL-адрес службы поддержки";
+
 "support_contact_url#9" = "URL-адрес службы поддержки";
+
 "support_contact_phone" = "Телефон службы поддержки";
+
 "support_contact_phone#9" = "Номер службы поддержи";

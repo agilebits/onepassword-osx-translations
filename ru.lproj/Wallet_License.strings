@@ -1,37 +1,67 @@
-"__title__" = "Лицензия на ПО";
+"__title__" = "Лицензия";
+
 "__description__" = "Лицензия на программный продукт, код регистрации или серийный номер.";
 
 "product_name" = "Название продукта";
+
 "product_version" = "Версия";
+
 "reg_name" = "Владелец лицензии";
+
 "reg_code" = "Лицензионный ключ";
+
 "reg_email" = "Зарегистрированный адрес эл. почты";
+
 "company" = "Компания";
+
 "download_link" = "Страница загрузки";
+
 "publisher" = "Издатель";
+
 "publisher_name" = "Издатель";
+
 "retail_price" = "Розничная цена";
+
 "publisher_website" = "Веб-сайт";
+
 "support_email" = "Адрес. эл. почты службы поддержки";
+
 "order" = "Заказ";
+
 "order_number" = "Номер заказа";
+
 "order_date" = "Дата приобретения";
+
 "order_total" = "Сумма заказа";
 
-
 "product_name#9" = "Продукт";
+
 "product_version#9" = "Версия";
+
 "reg_name#9" = "Владелец";
+
 "reg_code#9" = "Ключ";
+
 "reg_email#9" = "Эл. почта";
+
 "company#9" = "Компания";
+
 "download_link#9" = "URL-адрес загрузки";
+
 "publisher#9" = "Издатель";
+
 "publisher_name#9" = "Издатель";
+
 "retail_price#9" = "Стоимость";
+
 "publisher_website#9" = "Веб-сайт";
+
 "support_email#9" = "Поддержка";
+
 "order#9" = "Заказ";
+
 "order_number#9" = "Номер заказа";
+
 "order_date#9" = "Приобретено";
+
 "order_total#9" = "Сумма";

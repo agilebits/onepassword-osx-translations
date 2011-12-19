@@ -1,285 +1,556 @@
-"__title__" = "Удостоверение";
+"__title__" = "Личность";
+
 "__description__" = "Этот объект не принадлежит к бумажнику, его задача - формировать подробное представление.";
 
 "name" = "Идентификация";
+
 "firstname" = "Имя";
+
 "initial" = "Инициалы";
+
 "lastname" = "Фамилия";
+
 "sex" = "Пол";
+
 "birthdate" = "Дата рождения";
+
 "occupation" = "Место работы";
+
 "company" = "Компания";
+
 "department" = "Отдел";
+
 "jobtitle" = "Должность";
 
 "internet" = "Параметры Интернета";
+
 "username" = "Имя пользователя";
+
 "reminderq" = "Напоминание (Вопрос)";
+
 "remindera" = "Напоминание (Ответ)";
+
 "email" = "Эл. почта";
+
 "website" = "Веб-сайт";
+
 "icq" = "ICQ";
+
 "skype" = "Skype";
+
 "aim" = "AOL/AIM";
+
 "yahoo" = "Yahoo";
+
 "msn" = "MSN";
+
 "forumsig" = "Подпись на форуме";
 
 "address" = "Адрес";
+
 "address1" = "Адрес, строка 1";
+
 "address2" = "Адрес, строка 2";
+
 "city" = "Город";
+
 "state" = "Регион";
+
 "zip" = "Почтовый индекс";
+
 "country" = "Страна";
-"location" = "Расположение";
+
+"location" = "Местоположение";
+
 "phone" = "Телефон";
+
 "defphone" = "Телефон по умолчанию";
+
 "homephone" = "Домашний";
+
 "cellphone" = "Сотовый";
+
 "busphone" = "Рабочй";
 
-"menu.sex." = "";
+
 "menu.sex.male" = "Мужской";
+
 "menu.sex.female" = "Женский";
- 
+
 /* countries */
-"menu.country." = "";
+
 "menu.country.us" = "США";
+
 "menu.country.ca" = "Канада";
+
 "menu.country.uk" = "Великобритания";
+
 "menu.country.de" = "Германия";
+
 "menu.country.au" = "Австралия";
+
 "menu.country.nl" = "Нидерланды";
+
 "menu.country.it" = "Италия";
+
 "menu.country.fr" = "Франция";
+
 "menu.country.mx" = "Мексика";
+
 "menu.country.cn" = "Китай";
+
 "menu.country.ch" = "Швейцария";
+
 "menu.country.es" = "Испания";
+
 "menu.country.jp" = "Япония";
+
 "menu.country.at" = "Австрия";
+
 "menu.country.be" = "Бельгия";
+
 "menu.country.ad" = "Андорра";
+
 "menu.country.ae" = "Объединенные Арабские Эмираты";
+
 "menu.country.af" = "Афганистан";
+
 "menu.country.ag" = "Антигуа и Барбуда";
+
 "menu.country.ai" = "Ангилья";
+
 "menu.country.al" = "Албания";
+
 "menu.country.am" = "Армения";
+
 "menu.country.an" = "Нидерландские Антильские о-ва";
+
 "menu.country.ao" = "Ангола";
+
 "menu.country.aq" = "Антарктида";
+
 "menu.country.ar" = "Аргентина";
+
 "menu.country.as" = "Американское Самоа";
+
 "menu.country.aw" = "Аруба";
+
 "menu.country.az" = "Азербайджан";
+
 "menu.country.ba" = "Босния и Герцеговина";
+
 "menu.country.bb" = "Барбадос";
+
 "menu.country.bd" = "Бангладеш";
+
 "menu.country.bf" = "Буркина Фасо";
+
 "menu.country.bg" = "Болгария";
+
 "menu.country.bh" = "Бахрейн";
+
 "menu.country.bi" = "Бурунди";
+
 "menu.country.bj" = "Бенин";
+
 "menu.country.bm" = "Бермуды";
+
 "menu.country.bn" = "Бруней Даруссалам";
+
 "menu.country.bo" = "Боливия";
+
 "menu.country.br" = "Бразилия";
+
 "menu.country.bs" = "Багамы";
+
 "menu.country.bt" = "Бутан";
+
 "menu.country.bv" = "Остров Буве";
+
 "menu.country.bw" = "Ботсвана";
+
 "menu.country.by" = "Беларусь";
+
 "menu.country.bz" = "Белиз";
+
 "menu.country.cc" = "Кокосовые о-ва";
+
 "menu.country.cf" = "Центрально-Африканская Республика";
+
 "menu.country.cd" = "Конго, Демократическая Республика";
+
 "menu.country.cg" = "Конго";
+
 "menu.country.ci" = "Кот-д' Ивуар";
+
 "menu.country.ck" = "О-ва Кука";
+
 "menu.country.cl" = "Чили";
+
 "menu.country.cm" = "Камерун";
+
 "menu.country.co" = "Колумбия";
+
 "menu.country.cr" = "Коста-Рика";
+
 "menu.country.cu" = "Куба";
+
 "menu.country.cv" = "Кабо-Верде";
+
 "menu.country.cx" = "Остров Рождества";
+
 "menu.country.cy" = "Кипр";
+
 "menu.country.cz" = "Чешская Республика";
+
 "menu.country.dj" = "Джибути";
+
 "menu.country.dk" = "Дания";
+
 "menu.country.dm" = "Доминика";
+
 "menu.country.do" = "Доминиканская Республика";
+
 "menu.country.dz" = "Алжир";
+
 "menu.country.ec" = "Эквадор";
+
 "menu.country.ee" = "Эстония";
+
 "menu.country.eg" = "Египет";
+
 "menu.country.eh" = "Западная Сахара";
+
 "menu.country.er" = "Эритрея";
+
 "menu.country.et" = "Эфиопия";
+
 "menu.country.fi" = "Финляндия";
+
 "menu.country.fj" = "Фиджи";
+
 "menu.country.fk" = "Фолклендские о-ва";
+
 "menu.country.fm" = "Микронезия";
+
 "menu.country.fo" = "Фарерские о-ва";
+
 "menu.country.ga" = "Габон";
+
 "menu.country.gb" = "Великобритания";
+
 "menu.country.gd" = "Гренада";
+
 "menu.country.ge" = "Грузия";
+
 "menu.country.gf" = "Французская Гайана";
+
 "menu.country.gh" = "Гана";
+
 "menu.country.gi" = "Гибралтар";
+
 "menu.country.gl" = "Гренландия";
+
 "menu.country.gm" = "Гамбия";
+
 "menu.country.gn" = "Гвинея";
+
 "menu.country.gp" = "Гваделупа (Франция)";
+
 "menu.country.gq" = "Экваториальная Гвинея";
+
 "menu.country.gr" = "Греция";
+
 "menu.country.gs" = "Южная Георгия и Южные Сэндвичевы о-ва";
+
 "menu.country.gt" = "Гватемала";
+
 "menu.country.gu" = "Гуам (США)";
+
 "menu.country.gw" = "Гвинея-Бисау";
+
 "menu.country.gy" = "Гайана";
+
 "menu.country.hk" = "Гонконг";
+
 "menu.country.hm" = "О-ва Херд и Макдональд";
+
 "menu.country.hn" = "Гондурас";
+
 "menu.country.hr" = "Хорватия";
+
 "menu.country.ht" = "Гаити";
+
 "menu.country.hu" = "Венгрия";
+
 "menu.country.id" = "Индонезия";
+
 "menu.country.ie" = "Ирландия";
+
 "menu.country.il" = "Израиль";
+
 "menu.country.in" = "Индия";
+
 "menu.country.iq" = "Ирак";
+
 "menu.country.ir" = "Иран";
+
 "menu.country.is" = "Исландия";
+
 "menu.country.jm" = "Ямайка";
+
 "menu.country.jo" = "Иордания";
+
 "menu.country.ke" = "Кения";
+
 "menu.country.kg" = "Республика Кыргызстан";
+
 "menu.country.kh" = "Королевство Камбоджа";
+
 "menu.country.ki" = "Кирибати";
+
 "menu.country.km" = "Коморские Острова";
+
 "menu.country.kn" = "Сент-Китс и Невис, Ангилья";
+
 "menu.country.kp" = "Северная Корея";
+
 "menu.country.kr" = "Южная Корея";
+
 "menu.country.kw" = "Кувейт";
+
 "menu.country.ky" = "О-ва Кайман";
+
 "menu.country.kz" = "Казахстан";
+
 "menu.country.la" = "Лаос";
+
 "menu.country.lb" = "Ливан";
+
 "menu.country.lc" = "Сент-Люсия";
+
 "menu.country.li" = "Лихтенштейн";
+
 "menu.country.rs" = "Сербия";
+
 "menu.country.lk" = "Шри-Ланка";
+
 "menu.country.lr" = "Либерия";
+
 "menu.country.ls" = "Лесото";
+
 "menu.country.lt" = "Литва";
+
 "menu.country.lu" = "Люксембург";
+
 "menu.country.lv" = "Латвия";
+
 "menu.country.ly" = "Ливия";
+
 "menu.country.ma" = "Марокко";
+
 "menu.country.mc" = "Монако";
+
 "menu.country.md" = "Молдавия";
+
 "menu.country.mg" = "Мадагаскар";
+
 "menu.country.mh" = "Маршалловы о-ва";
+
 "menu.country.mk" = "Македония";
+
 "menu.country.ml" = "Мали";
+
 "menu.country.mm" = "Мьянма";
+
 "menu.country.mn" = "Монголия";
+
 "menu.country.mo" = "Макао";
+
 "menu.country.mq" = "О-в Мартиника (Франция)";
+
 "menu.country.mr" = "Мавритания";
+
 "menu.country.ms" = "Монтсеррат";
+
 "menu.country.mt" = "Мальта";
+
 "menu.country.mu" = "О-в Маврикий";
+
 "menu.country.mv" = "Мальдивы";
+
 "menu.country.mw" = "Малави";
+
 "menu.country.my" = "Малайзия";
+
 "menu.country.me" = "Черногория";
+
 "menu.country.mz" = "Мозамбик";
+
 "menu.country.na" = "Намибия";
+
 "menu.country.nc" = "Новая Каледония (Франция)";
+
 "menu.country.ne" = "Нигер";
+
 "menu.country.nf" = "О. Норфолк";
+
 "menu.country.ng" = "Нигерия";
+
 "menu.country.ni" = "Никарагуа";
+
 "menu.country.no" = "Норвегия";
+
 "menu.country.np" = "Непал";
+
 "menu.country.nr" = "Науру";
+
 "menu.country.nt" = "Нейтральная зона";
+
 "menu.country.nu" = "Ниуэ";
+
 "menu.country.nz" = "Новая Зеландия";
+
 "menu.country.om" = "Оман";
+
 "menu.country.pa" = "Панама";
+
 "menu.country.pe" = "Перу";
+
 "menu.country.pf" = "Полинезия (Французский)";
+
 "menu.country.pg" = "Папуа-Новая Гвинея";
+
 "menu.country.ph" = "Филиппины";
+
 "menu.country.pk" = "Пакистан";
+
 "menu.country.pl" = "Польша";
+
 "menu.country.pm" = "О-ва Сен-Пьер и Микелон";
+
 "menu.country.pn" = "О. Питкэрн";
+
 "menu.country.pr" = "Пуэрто-Рико";
+
 "menu.country.pt" = "Португалия";
+
 "menu.country.pw" = "Палау";
+
 "menu.country.py" = "Парагвай";
+
 "menu.country.qa" = "Катар";
+
 "menu.country.re" = "Реюньон (Франция)";
+
 "menu.country.ro" = "Румыния";
+
 "menu.country.ru" = "Российская Федерация";
+
 "menu.country.rw" = "Руанда";
+
 "menu.country.sa" = "Саудовская Аравия";
+
 "menu.country.sb" = "Соломоновы о-ва";
+
 "menu.country.sc" = "Сейшеллы";
+
 "menu.country.sd" = "Судан";
+
 "menu.country.se" = "Швеция";
+
 "menu.country.sg" = "Сингапур";
+
 "menu.country.sh" = "о. Святой Елены";
+
 "menu.country.si" = "Словения";
+
 "menu.country.sj" = "Шпицберген";
+
 "menu.country.sk" = "Словацкая Республика";
+
 "menu.country.sl" = "Сьерра-Леоне";
+
 "menu.country.sm" = "Сан-Марино";
+
 "menu.country.sn" = "Сенегал";
+
 "menu.country.so" = "Сомали";
+
 "menu.country.sr" = "Суринам";
+
 "menu.country.st" = "О-ва Сан-Томе и Принсипи";
+
 "menu.country.sv" = "Сальвадор";
+
 "menu.country.sy" = "Сирия";
+
 "menu.country.sz" = "Свазиленд";
+
 "menu.country.tc" = "О-ва Теркс и Кайкос";
+
 "menu.country.td" = "Чад";
+
 "menu.country.tg" = "Того";
+
 "menu.country.th" = "Таиланд";
+
 "menu.country.tj" = "Таджикистан";
+
 "menu.country.tk" = "Токелау";
+
 "menu.country.tm" = "Туркменистан";
+
 "menu.country.tn" = "Тунис";
+
 "menu.country.to" = "Тонга";
+
 "menu.country.tp" = "Восточный Тимор";
+
 "menu.country.tr" = "Турция";
+
 "menu.country.tt" = "Тринидад и Тобаго";
+
 "menu.country.tv" = "Тувалу";
+
 "menu.country.tw" = "Тайвань";
+
 "menu.country.tz" = "Танзания";
+
 "menu.country.ua" = "Украина";
+
 "menu.country.ug" = "Уганда";
+
 "menu.country.uy" = "Уругвай";
+
 "menu.country.uz" = "Узбекистан";
+
 "menu.country.va" = "Святой Престол (город-государство Ватикан)";
+
 "menu.country.vc" = "Сент-Винсент и Гренадины";
+
 "menu.country.ve" = "Венесуэла";
+
 "menu.country.vg" = "Виргинские о-ва (Великобритания)";
+
 "menu.country.vi" = "Виргинские о-ва (США)";
+
 "menu.country.vn" = "Вьетнам";
+
 "menu.country.vu" = "Вануату";
+
 "menu.country.wf" = "О-ва Уоллис и Футуна";
+
 "menu.country.ws" = "Самоа";
+
 "menu.country.ye" = "Йемен";
+
 "menu.country.yt" = "Майотта";
+
 "menu.country.za" = "ЮАР";
+
 "menu.country.zm" = "Замбия";
+
 "menu.country.zr" = "Заир";
+
 "menu.country.zw" = "Зимбабве";

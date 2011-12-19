@@ -1,25 +1,44 @@
 "__title__" = "Беспроводной маршрутизатор";
+
 "__description__" = "Учетные данные AirPort Extreme и других беспроводных маршрутизаторов.";
 
 "network_name" = "Имя сети";
+
 "network_name#9" = "Сеть";
+
 "name" = "Имя базовой станции";
+
 "name#9" = "Станция";
+
 "password" = "Пароль базовой станции";
+
 "password#9" = "Пароль";
+
 "server" = "Сервер / IP-адрес";
+
 "server#9" = "IP-адрес";
+
 "airport_id" = "AirPort ID";
+
 "wireless_security" = "Защита беспроводной сети";
+
 "wireless_security#9" = "Безопасность";
+
 "wireless_password" = "Пароль беспроводной сети";
+
 "wireless_password#9" = "Пароль сети";
+
 "disk_password" = "Пароль подключенного хранилища";
+
 "disk_password#9" = "Пароль хранилища";
- 
-"menu.wireless_security." = "";
+
+
 "menu.wireless_security.none" = "Нет защиты";
+
 "menu.wireless_security.wep" = "WEP";
+
 "menu.wireless_security.wpa" = "WPA";
+
 "menu.wireless_security.wpa2p" = "WPA2 Personal";
+
 "menu.wireless_security.wpa2e" = "WPA2 Enterprise";

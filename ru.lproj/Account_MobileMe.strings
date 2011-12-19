@@ -1,14 +1,23 @@
 "__title__" = "MobileMe";
+
 "__description__" = "Данные регистрации и входа для службы Apple MobileMe";
- 
+
 "email" = "Эл. почта (name@me.com)";
+
 "email#9" = "Эл. почта";
+
 "member_name" = "Участник";
+
 "password" = "Пароль";
+
 "idisk_storage" = "Доступное место в хранилище iDisk";
+
 "idisk_storage#9" = "Хранилище";
+
 "renewal_date" = "Дата продления";
+
 "renewal_date#9" = "Продление";
+
 "activation_key" = "Ключ активации";
+
 "activation_key#9" = "Активация";
- 

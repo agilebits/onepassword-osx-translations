@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Расширения браузера</title>
+	<link rel="stylesheet" href="../BrowserExtensions.css" />
+</head>
+<!--body classes = intro/helper/install-->
+<body class="">
+    
+    <div style="display:none" id="text.installed">Установлено</div>
+    <div style="display:none" id="html.install"><a href='#'>Установить</a></div>
+
+    <script>
+        if (document.location.search.indexOf("install") > 0) {
+            document.body.className = "install";
+        }
+        else {
+            document.body.className = "intro";
+        }
+    </script>
+        
+
+    <section id="intro">
+        <header>
+            <img src="../header-icon.png" alt="" />
+            <h1>Установить расширения браузера</h1>
+            <p>Наслаждайтесь подлинной интеграцией с веб-браузером.</p>
+        </header>
+        <ul>
+            <li><img src="../intro-logins.png" alt="" />
+                <p><strong>Автоматически сохраняйте и заполните Логины на веб-сайтах.</strong> 1Password определит когда вы вошли на сайт и предложит вам сохранить Логин для последующего использования.</p></li>
+            <li><img src="../intro-identities.png" alt="" />
+                <p><strong>С легкостью заполняйте адреса, контактную информацию и форумы.</strong> Вы можете сохранить все или некоторые из этих сведений в Личность 1Password, и вы можете создать столько Личностей, сколько вам нравится.</p></li>
+            <li><img src="../intro-credit-cards.png" alt="" />
+                <p><strong>С легкостью заполняйте кредитные карты при покупказ в интернет.</strong> Номера ваших кредитных карт надежно защищены и храняться их локально в зашифрованном бумажнике 1Password.</p></li>
+            <li><img src="../intro-generator.png" alt="" />
+                <p><strong>Используйте уникальные и надежные пароли повсюду</strong>. Вам не нужно их запоминать, 1Password делает это за вас. Дни использования имени или годовщины вашего питомца давно прошли.</p></li>
+        </ul>
+        <button onclick="document.body.className='helper'">Давайте начнем!</button>
+    </section>
+        
+    <section id="helper">
+        <h1>Помощник 1Password</h1>
+        <p>Помощник будет работать в вашем меню.</p>
+        
+        <img src="../helper.png" alt="Помощник 1Password в строке меню" />
+        
+        <p>Он будет держать ваши браузеры в <strong>синхронизации</strong>, позволит вам использовать <strong>сочетания клавиш</strong>, <strong>локировать</strong> и <strong>разлокировать</strong> 1Password и автоматически <strong>создавать резервную копию</strong> ваших данных даже когда 1Password не запущен.</p>
+
+        <button onclick="controller.enableHelper(); document.body.className='install';">Включить помощник и продолжить</button>
+    </section>
+        
+    <section id="install">
+        <h1>Расширения веб-браузеров</h1>
+        <ul class="buttons">
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+                <h2>Safari</h2><span id="safari.msg">Установлено</span></li>
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+                <h2>Chrome</h2><span id="chrome.msg"><a href="#">Установить</a></span></li>
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+                <h2>Firefox</h2><span id="firefox.msg"><a href="#">Установить</a></span></li>
+        </ul>
+        <footer><a href="#" onclick="controller.showSettings()">Предпочтения</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Руководство пользователя (английское)</a></footer>
+    </section>
+        
+    </body>
+    
+    <script>
+        function updateBrowser(elementID, bundleID) {
+            var el = document.getElementById(elementID);
+            el.style.display = controller.isApplicationAvailable_(bundleID) ? '' : 'none';
+
+            if (controller.isExtensionInstalled_(bundleID)) {
+                el.className = 'installed';
+                document.getElementById(elementID + ".msg").innerText = document.getElementById("text.installed").innerText;
+            }
+            else {
+                el.className = '';
+                document.getElementById(elementID + ".msg").innerHTML = document.getElementById("html.install").innerHTML;
+            }
+        }
+        
+        updateBrowser("safari", "com.apple.Safari");
+        updateBrowser("chrome", "com.google.Chrome");
+        updateBrowser("firefox", "org.mozilla.firefox");
+    </script>
+
+</html>
