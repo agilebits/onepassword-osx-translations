@@ -1,21 +1,36 @@
 "__title__" = "Permis de conduire";
 
 "fullname" = "Nom complet";
+
 "address" = "Adresse";
+
 "birthdate" = "Date de naissance";
+
 "birthdate#9" = "Anniversaire";
+
 "sex" = "Sexe";
+
 "height" = "Taille";
+
 "number" = "Numéro";
+
 "class" = "Type de permis";
+
 "class#9" = "Type";
+
 "conditions" = "Conditions / Restrictions";
+
 "conditions#9" = "Conditions";
+
 "state" = "Département/Province";
+
 "country" = "Pays";
+
 "expiry_date" = "Date d'expiration";
+
 "expiry_date#9" = "Expire le";
 
-"menu.sex." = "";
+
 "menu.sex.male" = "Homme";
+
 "menu.sex.female" = "Femme";

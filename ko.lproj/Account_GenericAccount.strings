@@ -1,6 +1,7 @@
 "__title__" = "일반 계정";
+
 "__description__" = "아이디 및 비밀번호 정보";
- 
-"username" = "아이디";
+
+"username" = "사용자명";
+
 "password" = "비밀번호";
- 

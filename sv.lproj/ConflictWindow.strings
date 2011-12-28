@@ -1,0 +1,23 @@
+/* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "138"; */
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "34"; */
+
+/* Class = "NSButtonCell"; title = "Choose This Copy"; ObjectID = "174"; */
+
+/* Class = "NSTextFieldCell"; title = "This Mac"; ObjectID = "91"; */
+
+/* Class = "NSMenuItem"; title = "Choose All iPhone Items"; ObjectID = "135"; */
+
+/* Class = "NSWindow"; title = "Sync Conflict Resolver"; ObjectID = "1"; */
+
+/* Class = "NSMenuItem"; title = "Choose All Local Mac Items"; ObjectID = "134"; */
+
+/* Class = "NSButtonCell"; title = "Resolve Conflicts"; ObjectID = "36"; */
+
+/* Class = "NSMenuItem"; title = "Choose Local"; ObjectID = "147"; */
+
+/* Class = "NSButtonCell"; title = "Detect conflicts automatically"; ObjectID = "184"; */
+
+/* Class = "NSMenuItem"; title = "Choose Remote"; ObjectID = "148"; */
+
+/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "149"; */

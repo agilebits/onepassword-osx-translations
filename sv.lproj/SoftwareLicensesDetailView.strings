@@ -1,0 +1,29 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "5025"; */
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4881"; */
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
+
+/* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4509"; */
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4939"; */
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5066"; */
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "icon"; ObjectID = "3918"; */
+
+/* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */

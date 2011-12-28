@@ -1,37 +1,67 @@
 "__title__" = "소프트웨어 라이선스";
+
 "__description__" = "소프트웨어 제품 라이선스, 등록 코드 또는 시리얼 번호";
 
 "product_name" = "제품 이름";
+
 "product_version" = "버전";
+
 "reg_name" = "라이선스 소유자";
+
 "reg_code" = "라이선스 키";
+
 "reg_email" = "등록 이메일";
+
 "company" = "회사";
+
 "download_link" = "다운로드 페이지";
+
 "publisher" = "발행사";
+
 "publisher_name" = "발행사";
+
 "retail_price" = "판매가격";
+
 "publisher_website" = "웹사이트";
+
 "support_email" = "고객지원 메일";
+
 "order" = "주문";
+
 "order_number" = "주문번호";
+
 "order_date" = "구매일시";
+
 "order_total" = "주문 총계";
 
-
 "product_name#9" = "제품";
+
 "product_version#9" = "버전";
-"reg_name#9" = "소유자";
+
+"reg_name#9" = "보유주";
+
 "reg_code#9" = "키";
-"reg_email#9" = "메일";
+
+"reg_email#9" = "이메일";
+
 "company#9" = "회사";
+
 "download_link#9" = "다운로드 URL";
+
 "publisher#9" = "발행사";
+
 "publisher_name#9" = "발행사";
+
 "retail_price#9" = "가격";
+
 "publisher_website#9" = "웹사이트";
+
 "support_email#9" = "고객지원";
+
 "order#9" = "주문";
+
 "order_number#9" = "주문번호";
+
 "order_date#9" = "구매";
+
 "order_total#9" = "총계";

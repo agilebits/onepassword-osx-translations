@@ -1,0 +1,13 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "12"; */
+
+/* Class = "NSTextFieldCell"; title = "Secret 2:"; ObjectID = "36"; */
+
+/* Class = "NSTextFieldCell"; title = "Turn off to avoid the automatic prompt every time a new iPhone or iPad appears on the network."; ObjectID = "40"; */
+
+/* Class = "NSButtonCell"; title = "Show this prompt for all new devices"; ObjectID = "38"; */
+
+/* Class = "NSWindow"; title = "Wi-Fi Sync Authentication"; ObjectID = "1"; */
+
+/* Class = "NSTextFieldCell"; title = "Secret 1:"; ObjectID = "34"; */
+
+/* Class = "NSButtonCell"; title = "Authenticate"; ObjectID = "10"; */

@@ -1,13 +1,1 @@
-"Space" = "スペース";
-"Use old shortcut" = "古いショートカットを使う";
-"Type shortcut" = "ショートカットを入力する";
-"Click to record shortcut" = "ショートカットを記録するにはクリックします";
-"Pad %@" = "Pad%@";
-"The key combination %@ can't be used!" = "そのキーの組み合わせ%@は使用できません";
-"The key combination \"%@\" can't be used because %@." = "%@のため、そのキーの組み合わせ\"%@\"は使用できません";
-"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "システム全体のキーボードショートカットに使用されているので、キーの組み合わせ\"%@\"は使用できません。(どうしても使用したい場合は、ほとんどのショートカットはシステム設定の [キーボードとパネル］で変更できます。)";
-"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "キーの組み合わせ\"%@\"\はすでにメニューアイテム\"%@\"\として使用されているので、使用できません。";
-"Command + " = "コマンド+ ";
-"Option + " = "オプション(Alt)+ ";
-"Shift + " = "シフト+ ";
-"Control + " = "コントロール+ ";
+��

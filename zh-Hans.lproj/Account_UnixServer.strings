@@ -1,22 +1,41 @@
 "__title__" = "服务器";
+
 "__description__" = "专用 Linux 和 FreeBSD 服务器、VPS 系统等帐户信息。";
 
 "url" = "URL";
+
 "username" = "用户名称";
+
 "password" = "密码";
+
 "hosting_provider_details" = "主机托管服务商详情";
+
 "hosting_provider_details#9" = "服务商";
+
 "admin_console" = "管理控制台";
+
 "admin_console#9" = "控制台";
+
 "admin_console_url" = "管理控制台 URL";
+
 "admin_console_url#9" = "控制台 URL";
+
 "admin_console_username" = "管理控制台用户名称";
+
 "admin_console_username#9" = "控制台用户";
+
 "admin_console_password" = "控制台密码";
+
 "admin_console_password#9" = "控制台密码";
+
 "name" = "名称";
+
 "website" = "网站";
+
 "support_contact_url" = "支持服务 URL";
+
 "support_contact_url#9" = "支持服务 URL";
+
 "support_contact_phone" = "支持电话号码";
+
 "support_contact_phone#9" = "支持电话号码";

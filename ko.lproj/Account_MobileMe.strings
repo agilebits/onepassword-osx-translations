@@ -1,14 +1,23 @@
 "__title__" = "MobileMe";
+
 "__description__" = "애플 MobileMe 서비스 등록 및 로그인 정보";
- 
+
 "email" = "메일주소 (name@me.com)";
-"email#9" = "메일";
+
+"email#9" = "이메일";
+
 "member_name" = "회원";
+
 "password" = "비밀번호";
+
 "idisk_storage" = "가용 iDisk 스토리지";
+
 "idisk_storage#9" = "스토리지";
+
 "renewal_date" = "갱신일자";
+
 "renewal_date#9" = "갱신";
+
 "activation_key" = "활성화 키";
+
 "activation_key#9" = "활성화";
- 

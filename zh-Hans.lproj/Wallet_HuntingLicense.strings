@@ -1,13 +1,21 @@
 "__title__" = "狩猎许可证";
 
 "name" = "全名";
-"valid_from" = "有效期自";
-"valid_from#9" = "有效";
-"expires" = "至";
-"game" = "批准的野生动物";
-"game#9" = "野生动物";
-"quota" = "最高配额";
-"quota#9" = "配额";
-"state" = "州";
-"country" = "国家";
 
+"valid_from" = "有效期自";
+
+"valid_from#9" = "有效";
+
+"expires" = "有效期";
+
+"game" = "批准的野生动物";
+
+"game#9" = "野生动物";
+
+"quota" = "最高配额";
+
+"quota#9" = "配额";
+
+"state" = "州";
+
+"country" = "国家";

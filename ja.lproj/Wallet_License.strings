@@ -1,37 +1,67 @@
-"__title__" = "ソフトウェアのライセンス";
+"__title__" = "ライセンス";
+
 "__description__" = "ソフトウェア製品のライセンス、登録コードまたはシリアル番号。";
 
 "product_name" = "製品名";
+
 "product_version" = "バージョン";
+
 "reg_name" = "ライセンス供与者";
+
 "reg_code" = "ライセンスキー";
+
 "reg_email" = "登録したメールアドレス";
+
 "company" = "会社";
+
 "download_link" = "ダウンロードページ";
+
 "publisher" = "発行元";
+
 "publisher_name" = "発行元";
+
 "retail_price" = "小売価格";
+
 "publisher_website" = "ウェブサイト";
+
 "support_email" = "サポートのメールアドレス";
+
 "order" = "注文";
+
 "order_number" = "注文番号";
+
 "order_date" = "購入日";
+
 "order_total" = "注文合計";
 
-
 "product_name#9" = "製品";
+
 "product_version#9" = "バージョン";
+
 "reg_name#9" = "所有者";
+
 "reg_code#9" = "キー";
+
 "reg_email#9" = "メール";
+
 "company#9" = "会社";
+
 "download_link#9" = "Downld URL";
+
 "publisher#9" = "発行元";
+
 "publisher_name#9" = "発行元";
+
 "retail_price#9" = "価格";
+
 "publisher_website#9" = "ウェブサイト";
+
 "support_email#9" = "サポート";
+
 "order#9" = "注文";
+
 "order_number#9" = "注文 #";
+
 "order_date#9" = "購入済み";
+
 "order_total#9" = "合計";

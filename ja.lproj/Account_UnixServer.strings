@@ -1,22 +1,41 @@
 "__title__" = "サーバー";
+
 "__description__" = "専用の Linux と FreeBSD のサーバー、VPS のシステムなどのアカウント情報";
 
 "url" = "URL";
+
 "username" = "ユーザー名";
+
 "password" = "パスワード";
+
 "hosting_provider_details" = "ホスティングプロバイダの詳細";
+
 "hosting_provider_details#9" = "プロバイダ";
+
 "admin_console" = "管理コンソール";
+
 "admin_console#9" = "コンソール";
+
 "admin_console_url" = "管理コンソール URL";
+
 "admin_console_url#9" = "コンソール URL";
+
 "admin_console_username" = "管理コンソールユーザー名";
+
 "admin_console_username#9" = "Cons.ユーザー";
+
 "admin_console_password" = "コンソールパスワード";
+
 "admin_console_password#9" = "Cons. Pwd";
+
 "name" = "名前";
+
 "website" = "ウェブサイト";
+
 "support_contact_url" = "サポート URL";
+
 "support_contact_url#9" = "サポート URL";
+
 "support_contact_phone" = "サポート電話番号 #";
+
 "support_contact_phone#9" = "サポート#";

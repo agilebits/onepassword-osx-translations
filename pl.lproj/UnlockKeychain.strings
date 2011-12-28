@@ -1,0 +1,9 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "166"; */
+
+/* Class = "NSTextFieldCell"; title = "... unlock reason message will be displayed here..."; ObjectID = "169"; */
+
+/* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "165"; */
+
+/* Class = "NSWindow"; title = "Unlock 1Password"; ObjectID = "84"; */
+
+/* Class = "NSTextFieldCell"; title = "Master Password:"; ObjectID = "164"; */

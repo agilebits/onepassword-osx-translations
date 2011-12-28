@@ -1,23 +1,35 @@
 "__title__" = "Adhésion";
-"__description__" = "Communauté ou adhésion de club";
- 
-"org_name" = "Organisation";
-"phone" = "Téléphone";
-"website" = "Site Internet";
-"member_name" = "Nom de l'adhérent";
-"member_since" = "Adhérent depuis";
-"expiry_date" = "Date d'expiration";
-"membership_no" = "N° d'adhérent";
-"pin" = "Mot de passe";
- 
 
+"__description__" = "Communauté ou adhésion de club";
+
+"org_name" = "Organisation";
+
+"phone" = "Téléphone";
+
+"website" = "Site Internet";
+
+"member_name" = "Nom de l'adhérent";
+
+"member_since" = "Adhérent depuis";
+
+"expiry_date" = "Date d'expiration";
+
+"membership_no" = "N° d'adhérent";
+
+"pin" = "Mot de passe";
 
 "org_name#9" = "Organisation";
+
 "phone#9" = "Téléphone";
+
 "website#9" = "Site Internet";
+
 "member_name#9" = "Nom";
+
 "member_since#9" = "Depuis";
+
 "expiry_date#9" = "Expire le";
+
 "membership_no#9" = "Numéro";
+
 "pin#9" = "Mot de passe";
- 

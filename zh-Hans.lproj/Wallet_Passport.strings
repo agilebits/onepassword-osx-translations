@@ -1,34 +1,56 @@
 "__title__" = "护照";
+
 "__description__" = "政府签发护照。";
 
 "type" = "类型";
-"fullname" = "全名";
-"number" = "护照号码";
-"birthdate" = "出生日期";
-"birthplace" = "出生地";
-"nationality" = "国籍";
-"code" = "编码";
-"sex" = "性别";
-"issuing_country" = "签发国家";
-"issuing_authority" = "签发机关";
-"issue_date" = "签发日期";
-"expiry_date" = "有效期";
 
-"menu.sex." = "";
+"fullname" = "全名";
+
+"number" = "卡号";
+
+"birthdate" = "出生日期";
+
+"birthplace" = "出生地";
+
+"nationality" = "国籍";
+
+"code" = "编码";
+
+"sex" = "性别";
+
+"issuing_country" = "签发国家";
+
+"issuing_authority" = "签发机关";
+
+"issue_date" = "签发日期";
+
+"expiry_date" = "有效期至";
+
+
 "menu.sex.male" = "男";
+
 "menu.sex.female" = "女";
 
-
-
 "type#9" = "类型";
-"fullname#9" = "姓名";
-"number#9" = "护照号码";
+
+"fullname#9" = "名称";
+
+"number#9" = "卡号";
+
 "birthdate#9" = "生日";
+
 "birthplace#9" = "出生地";
+
 "nationality#9" = "国籍";
-"code#9" = "代码";
+
+"code#9" = "编码";
+
 "sex#9" = "性别";
+
 "issuing_country#9" = "国家";
+
 "issuing_authority#9" = "签发机关";
-"issue_date#9" = "签发日期";
+
+"issue_date#9" = "发卡行";
+
 "expiry_date#9" = "有效期";

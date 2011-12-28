@@ -1,21 +1,36 @@
 "__title__" = "Führerschein";
 
 "fullname" = "Vollständiger Name";
+
 "address" = "Adresse";
+
 "birthdate" = "Geburtsdatum";
+
 "birthdate#9" = "Geburtstag";
+
 "sex" = "Geschlecht";
+
 "height" = "Größe";
+
 "number" = "Nummer";
+
 "class" = "Führerscheinklasse";
+
 "class#9" = "Klasse";
+
 "conditions" = "Bedingungen/Beschränkungen";
+
 "conditions#9" = "Bedingungen";
+
 "state" = "Bundesland";
+
 "country" = "Staat";
+
 "expiry_date" = "Ablaufdatum";
+
 "expiry_date#9" = "Gültig bis";
 
-"menu.sex." = "";
+
 "menu.sex.male" = "Männlich";
+
 "menu.sex.female" = "Weiblich";

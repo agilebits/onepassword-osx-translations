@@ -1,0 +1,1 @@
+ Den löper förbi enkel lösenordslagring för att 1Password fungerar direkt med din webbläsare, den sparar dina användarnamn och lösenord och skapar enkelt starka, unika lösenord för varje sida.

@@ -131,10 +131,8 @@
 "New Smart Folder" = "Новая смарт-папка...";
 
 /* Class = "NSMenuItem"; title = "is"; ObjectID = "5770"; */
-"is" = "is";
 
 /* Class = "NSMenuItem"; title = "Any of the fields"; ObjectID = "5579"; */
-"Any of the fields" = "Any of the fields";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "5697"; */
 "Password Strength" = "надёжности пароля";

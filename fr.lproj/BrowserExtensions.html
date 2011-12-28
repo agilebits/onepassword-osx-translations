@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title></title>
+	<link rel="stylesheet" href="../BrowserExtensions.css" />
+</head>
+<!--body classes = intro/helper/install-->
+<body class="">
+    
+    <div style="display:none" id="text.installed"></div>
+    <div style="display:none" id="html.install"><a href='#'></a></div>
+
+    <script>
+        if (document.location.search.indexOf("install") > 0) {
+            document.body.className = "install";
+        }
+        else {
+            document.body.className = "intro";
+        }
+    </script>
+        
+
+    <section id="intro">
+        <header>
+            <img src="../header-icon.png" alt="" />
+            <h1>Installer extensions du navigateur</h1>
+            <p></p>
+        </header>
+        <ul>
+            <li><img src="../intro-logins.png" alt="" />
+                <p></p></li>
+            <li><img src="../intro-identities.png" alt="" />
+                <p></p></li>
+            <li><img src="../intro-credit-cards.png" alt="" />
+                <p></p></li>
+            <li><img src="../intro-generator.png" alt="" />
+                <p></p></li>
+        </ul>
+        <button onclick="document.body.className='helper'"></button>
+    </section>
+        
+    <section id="helper">
+        <h1></h1>
+        <p></p>
+        
+        <img src="../helper.png" alt="" />
+        
+        <p></p>
+
+        <button onclick="controller.enableHelper(); document.body.className='install';"></button>
+    </section>
+        
+    <section id="install">
+        <h1></h1>
+        <ul class="buttons">
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+                <h2></h2><span id="safari.msg"></span></li>
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+                <h2></h2><span id="chrome.msg"><a href="#"></a></span></li>
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+                <h2></h2><span id="firefox.msg"><a href="#"></a></span></li>
+        </ul>
+        <footer><a href="#" onclick="controller.showSettings()"></a><a href="#" onclick="controller.showUserGuide()"></a></footer>
+    </section>
+        
+    </body>
+    
+    <script>
+        function updateBrowser(elementID, bundleID) {
+            var el = document.getElementById(elementID);
+            el.style.display = controller.isApplicationAvailable_(bundleID) ? '' : 'none';
+
+            if (controller.isExtensionInstalled_(bundleID)) {
+                el.className = 'installed';
+                document.getElementById(elementID + ".msg").innerText = document.getElementById("text.installed").innerText;
+            }
+            else {
+                el.className = '';
+                document.getElementById(elementID + ".msg").innerHTML = document.getElementById("html.install").innerHTML;
+            }
+        }
+        
+        updateBrowser("safari", "com.apple.Safari");
+        updateBrowser("chrome", "com.google.Chrome");
+        updateBrowser("firefox", "org.mozilla.firefox");
+    </script>
+
+</html>

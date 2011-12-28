@@ -1,6 +1,7 @@
 "__title__" = "Compte générique";
+
 "__description__" = "Information nom d'utilisateur et mot de passe";
- 
+
 "username" = "Nom d'utilisateur";
+
 "password" = "Mot de passe";
- 

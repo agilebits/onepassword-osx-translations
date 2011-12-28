@@ -1,13 +1,1 @@
-"Space" = "Barra spaziatrice";
-"Use old shortcut" = "Usa scelta rapida precedente";
-"Type shortcut" = "Digita scelta rapida";
-"Click to record shortcut" = "Fai clic per salvare la scelta rapida";
-"Pad %@" = "Pad %@";
-"The key combination %@ can't be used!" = "Impossibile usare la combinazione di tasti %@.";
-"The key combination \"%@\" can't be used because %@." = "Impossibile usare la combinazione di tasti \"%@\". Motivo: %@.";
-"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "La combinazione di tasti \"%@\" non può essere usata perché già in uso in una scelta rapida a livello di sistema. (Se vuoi usare questa combinazione di tasti, puoi modificare le scelte rapide nel pannello Tastiera e Mouse in Preferenze di Sistema)";
-"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "La combinazione di tasti \"%@\" non può essere usata perché già in uso nella voce di menu \"%@\".";
-"Command + " = "Comando + ";
-"Option + " = "Opzione (Alt) + ";
-"Shift + " = "Maiuscole + ";
-"Control + " = "Ctrl + ";
+��

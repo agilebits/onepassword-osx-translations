@@ -1,16 +1,27 @@
 "__title__" = "인터넷 서비스 제공자";
+
 "__description__" = "사용중인 인터넷 서비스 업체가 제공한 인터넷 접속용 연결 정보";
 
 "userid" = "사용자 아이디";
+
 "password" = "비밀번호";
+
 "pin" = "PIN";
+
 "dialup_number" = "다이얼업 접속번호";
+
 "dialup_number#9" = "다이얼업 번호";
+
 "Contact Information" = "연락처 정보";
+
 "Contact Information#9" = "연락처";
+
 "website" = "웹사이트";
+
 "phone_local" = "전화번호 (국내)";
+
 "phone_local#9" = "전화번호";
+
 "phone_tollfree" = "전화번호 (수신자 부담)";
+
 "phone_tollfree#9" = "수신자 부담";
- 

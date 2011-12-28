@@ -1,21 +1,36 @@
 "__title__" = "驾照";
 
 "fullname" = "全名";
+
 "address" = "地址";
+
 "birthdate" = "出生日期";
+
 "birthdate#9" = "生日";
+
 "sex" = "性别";
+
 "height" = "身高";
-"number" = "编号";
+
+"number" = "卡号";
+
 "class" = "准驾车型";
+
 "class#9" = "车型";
+
 "conditions" = "条件/限制";
+
 "conditions#9" = "条件";
+
 "state" = "州";
+
 "country" = "国家";
-"expiry_date" = "有效期";
+
+"expiry_date" = "有效期至";
+
 "expiry_date#9" = "有效期";
 
-"menu.sex." = "";
+
 "menu.sex.male" = "男";
+
 "menu.sex.female" = "女";

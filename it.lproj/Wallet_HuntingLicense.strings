@@ -1,13 +1,21 @@
 "__title__" = "Licenza di caccia";
 
 "name" = "Nome completo";
-"valid_from" = "Valido dal";
-"valid_from#9" = "Validità";
-"expires" = "Scade";
-"game" = "Specie consentite";
-"game#9" = "Specie";
-"quota" = "Quantità massima";
-"quota#9" = "Qtà";
-"state" = "Provincia";
-"country" = "Paese";
 
+"valid_from" = "Valida dal";
+
+"valid_from#9" = "Validità";
+
+"expires" = "Scade il";
+
+"game" = "Specie consentite";
+
+"game#9" = "Specie";
+
+"quota" = "Quantità massima";
+
+"quota#9" = "Qtà";
+
+"state" = "Provincia";
+
+"country" = "Paese";

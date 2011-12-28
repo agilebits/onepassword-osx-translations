@@ -1,50 +1,91 @@
 "__title__" = "信用卡";
+
 "__description__" = "信用卡信息";
 
 "set.contactInfo" = "联系信息";
 
 "cardholder" = "持卡人姓名";
+
 "cardholder#9" = "持卡人";
+
 "type" = "类型";
+
 "ccnum" = "卡号";
+
 "cvv" = "验证码";
+
 "cvv#9" = "信用卡认证编号";
+
 "expiry" = "有效期至";
+
 "expiry#9" = "有效期至";
+
 "validFrom" = "有效期自";
+
 "validFrom#9" = "发卡行";
+
 "contactInfo" = "联系信息";
+
 "bank" = "发卡行";
+
 "bank#9" = "银行";
+
 "details" = "其他细节";
+
 "details#9" = "细节";
+
 "phoneLocal" = "电话（本地）";
+
 "phoneLocal#9" = "电话";
+
 "phoneTollFree" = "电话（免费）";
+
 "phoneTollFree#9" = "免费电话";
+
 "phoneIntl" = "电话（国际）";
+
 "phoneIntl#9" = "国际";
+
 "website" = "网站";
+
 "pin" = "PIN";
+
 "creditLimit" = "信用额度";
+
 "creditLimit#9" = "额度";
+
 "cashLimit" = "取款限额";
+
 "cashLimit#9" = "取款限额";
+
 "interest" = "利率";
+
 "interest#9" = "利率";
+
 "issuenumber" = "发行编号";
+
 "issuenumber#9" = "发行编号";
 
 /* credit card types */
-"menu.type." = "";
+
 "menu.type.visa" = "VISA";
+
 "menu.type.mc" = "MasterCard";
+
 "menu.type.amex" = "American Express";
+
 "menu.type.diners" = "Diners Club";
+
 "menu.type.discover" = "Discover";
+
 "menu.type.jcb" = "JCB";
+
 "menu.type.solo" = "Solo";
+
 "menu.type.switch" = "Switch";
+
 "menu.type.maestro" = "MasterCard Maestro";
+
 "menu.type.visaelectron" = "VISA Electron";
+
 "menu.type.carteblanche" = "Carte Blanche";

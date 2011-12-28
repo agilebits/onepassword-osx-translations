@@ -1,23 +1,35 @@
 "__title__" = "회원가입정보";
-"__description__" = "회원제 단체 또는 클럽 멤버십";
- 
-"org_name" = "기관";
-"phone" = "전화번호";
-"website" = "웹사이트";
-"member_name" = "회원명";
-"member_since" = "가입일";
-"expiry_date" = "만료일";
-"membership_no" = "회원번호";
-"pin" = "비밀번호";
- 
 
+"__description__" = "회원제 단체 또는 클럽 멤버십";
+
+"org_name" = "기관";
+
+"phone" = "전화번호";
+
+"website" = "웹사이트";
+
+"member_name" = "회원명";
+
+"member_since" = "가입일";
+
+"expiry_date" = "만료일";
+
+"membership_no" = "회원번호";
+
+"pin" = "비밀번호";
 
 "org_name#9" = "기관";
+
 "phone#9" = "전화번호";
+
 "website#9" = "웹사이트";
+
 "member_name#9" = "이름";
+
 "member_since#9" = "가입일";
-"expiry_date#9" = "만료일";
+
+"expiry_date#9" = "만료";
+
 "membership_no#9" = "번호";
+
 "pin#9" = "비밀번호";
- 

@@ -1,18 +1,29 @@
 "__title__" = "FTP 계정";
+
 "__description__" = "FTP 계정 로그인 정보";
- 
+
 "server" = "서버";
+
 "path" = "경로";
+
 "username" = "사용자명";
+
 "password" = "비밀번호";
+
 "Contact Information" = "연락처 정보";
+
 "Contact Information#9" = "연락처";
+
 "provider" = "제공자";
+
 "provider_website" = "제공자 웹사이트";
+
 "provider_website#9" = "웹사이트";
+
 "phone_tollfree" = "전화번호 (수신자 부담)";
+
 "phone_tollfree#9" = "수신자 부담";
+
 "phone_local" = "전화번호 (국내)";
+
 "phone_local#9" = "전화번호";
- 
- 

@@ -1,9 +1,13 @@
 "__title__" = "MySQLのデータベース";
+
 "__description__" = "MySQLのデータベースの接続情報";
 
 "hostname" = "ホスト名";
+
 "port" = "ポート (3306)";
+
 "database" = "データベース";
+
 "username" = "ユーザー名";
+
 "password" = "パスワード";
- 

@@ -1,13 +1,1 @@
-"Space" = "空格";
-"Use old shortcut" = "使用旧的快捷键";
-"Type shortcut" = "键入快捷键";
-"Click to record shortcut" = "点击以记录快捷键";
-"Pad %@" = "Pad %@";
-"The key combination %@ can't be used!" = "不能使用 %@ 组合键！";
-"The key combination \"%@\" can't be used because %@." = "不能使用 \"%@\" 组合键，因为%@。";
-"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "不能使用 \"%@\" 组合键，因为其已被系统的一个键盘快捷键使用。（如果您确实想使用这个组合键，多数快捷键可以在系统首选项的键盘和鼠标面板中进行更改。）";
-"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "不能使用 \"%@\" 组合键，因为其已被菜单项 \"%@\" 使用。";
-"Command + " = "Command + ";
-"Option + " = "Option (Alt) + ";
-"Shift + " = "Shift + ";
-"Control + " = "Control + ";
+��

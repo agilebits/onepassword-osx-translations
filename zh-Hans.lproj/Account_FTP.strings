@@ -1,18 +1,29 @@
 "__title__" = "FTP 账户";
+
 "__description__" = "FTP 账户的登录信息。";
- 
+
 "server" = "服务器";
+
 "path" = "路径";
+
 "username" = "用户名称";
+
 "password" = "密码";
+
 "Contact Information" = "联系信息";
+
 "Contact Information#9" = "联系人";
+
 "provider" = "服务商";
+
 "provider_website" = "服务商网站";
+
 "provider_website#9" = "网站";
+
 "phone_tollfree" = "电话号码（免费）";
+
 "phone_tollfree#9" = "免费电话";
+
 "phone_local" = "电话号码（本地）";
+
 "phone_local#9" = "电话";
- 
- 

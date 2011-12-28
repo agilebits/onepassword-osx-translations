@@ -1,12 +1,17 @@
 "__title__" = "iTunes";
+
 "__description__" = "Information compte iTunes.";
- 
+
 "username" = "Identifiant Apple (e-mail)";
+
 "username#9" = "E-mail";
+
 "password" = "Mot de passe";
+
 "question" = "Question de sécurité";
+
 "question#9" = "Q. de sécurité";
+
 "answer" = "Réponse de sécurité";
+
 "answer#9" = "R. de sécurité";
- 
- 

@@ -1,16 +1,27 @@
 "__title__" = "Fornitore di servizi Internet";
+
 "__description__" = "Informazioni di connessione fornite dal Fornitore di servizi Internet (ISP) per il collegamento a Internet.";
 
 "userid" = "Nome utente";
+
 "password" = "Password";
+
 "pin" = "PIN";
+
 "dialup_number" = "Numero di accesso remoto";
+
 "dialup_number#9" = "N. remoto";
+
 "Contact Information" = "Informazioni di contatto";
+
 "Contact Information#9" = "Contatto";
+
 "website" = "Sito Web";
+
 "phone_local" = "Telefono (chiamate locali)";
+
 "phone_local#9" = "Telefono";
+
 "phone_tollfree" = "Telefono (numero verde)";
+
 "phone_tollfree#9" = "Numero verde";
- 

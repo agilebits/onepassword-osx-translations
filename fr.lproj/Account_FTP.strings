@@ -1,18 +1,29 @@
 "__title__" = "Compte FTP";
+
 "__description__" = "Information de connexion aux comptes FTP.";
- 
+
 "server" = "Serveur";
+
 "path" = "Chemin";
+
 "username" = "Nom d'utilisateur";
+
 "password" = "Mot de passe";
+
 "Contact Information" = "Coordonnées";
+
 "Contact Information#9" = "Contact";
+
 "provider" = "Fournisseur";
+
 "provider_website" = "Site du fournisseur";
+
 "provider_website#9" = "Site Internet";
-"phone_tollfree" = "N° de téléphone (appel gratuit)";
-"phone_tollfree#9" = "Numéro gratuit";
+
+"phone_tollfree" = "N° de téléphone (gratuit)";
+
+"phone_tollfree#9" = "Gratuit";
+
 "phone_local" = "N° de téléphone (local)";
+
 "phone_local#9" = "Téléphone";
- 
- 

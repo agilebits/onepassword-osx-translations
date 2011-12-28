@@ -1,6 +1,7 @@
 "__title__" = "Allgemeiner Account";
+
 "__description__" = "Benutzername und Passwort";
- 
+
 "username" = "Benutzername";
+
 "password" = "Passwort";
- 

@@ -1,34 +1,56 @@
 "__title__" = "Passeport";
+
 "__description__" = "Passeport gouvernemental.";
 
 "type" = "Type";
+
 "fullname" = "Nom complet";
+
 "number" = "Numéro";
+
 "birthdate" = "Date de naissance";
+
 "birthplace" = "Lieu de naissance";
+
 "nationality" = "Nationalité";
+
 "code" = "Code";
+
 "sex" = "Sexe";
+
 "issuing_country" = "Pays d'émission";
+
 "issuing_authority" = "Autorité émettrice";
+
 "issue_date" = "Émis le";
+
 "expiry_date" = "Date d'expiration";
 
-"menu.sex." = "";
+
 "menu.sex.male" = "Homme";
+
 "menu.sex.female" = "Femme";
 
-
-
 "type#9" = "Type";
+
 "fullname#9" = "Nom";
+
 "number#9" = "Numéro";
+
 "birthdate#9" = "Anniversaire";
+
 "birthplace#9" = "Lieu de naissance";
+
 "nationality#9" = "Nation.";
+
 "code#9" = "Code";
+
 "sex#9" = "Sexe";
+
 "issuing_country#9" = "Pays";
+
 "issuing_authority#9" = "Autorité";
-"issue_date#9" = "Émis";
+
+"issue_date#9" = "Date d'émission";
+
 "expiry_date#9" = "Expire le";

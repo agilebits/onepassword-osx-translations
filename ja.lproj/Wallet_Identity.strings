@@ -1,285 +1,556 @@
 "__title__" = "個人情報";
+
 "__description__" = "これはウォレットに属するものではありませんが、詳細表示を生成するためにここに保管します。";
 
 "name" = "認証";
+
 "firstname" = "名前";
+
 "initial" = "頭文字";
+
 "lastname" = "名字";
+
 "sex" = "性別";
+
 "birthdate" = "生年月日";
+
 "occupation" = "職業";
+
 "company" = "会社";
+
 "department" = "部";
+
 "jobtitle" = "職名";
 
 "internet" = "インターネットの詳細";
+
 "username" = "ユーザー名";
+
 "reminderq" = "リマインダーの質問";
+
 "remindera" = "リマインダーの答え";
+
 "email" = "メール";
+
 "website" = "ウェブサイト";
+
 "icq" = "ICQ";
+
 "skype" = "Skype";
+
 "aim" = "AOL/AIM";
+
 "yahoo" = "Yahoo";
+
 "msn" = "MSN";
+
 "forumsig" = "フォーラムの署名";
 
 "address" = "住所";
+
 "address1" = "住所 1 行目";
+
 "address2" = "住所 2 行目";
+
 "city" = "市町村";
+
 "state" = "都道府県";
+
 "zip" = "郵便番号";
+
 "country" = "国";
-"location" = "地域";
+
+"location" = "位置";
+
 "phone" = "電話番号";
+
 "defphone" = "デフォルトの電話番号";
+
 "homephone" = "自宅";
+
 "cellphone" = "携帯";
+
 "busphone" = "勤務先";
 
-"menu.sex." = "";
+
 "menu.sex.male" = "男性";
+
 "menu.sex.female" = "女性";
- 
+
 /* countries */
-"menu.country." = "";
+
 "menu.country.us" = "米国";
+
 "menu.country.ca" = "カナダ";
+
 "menu.country.uk" = "英国";
+
 "menu.country.de" = "ドイツ";
+
 "menu.country.au" = "オーストラリア";
+
 "menu.country.nl" = "オランダ";
+
 "menu.country.it" = "イタリア";
+
 "menu.country.fr" = "フランス";
+
 "menu.country.mx" = "メキシコ";
+
 "menu.country.cn" = "中華人民共和国";
+
 "menu.country.ch" = "スイス";
+
 "menu.country.es" = "スペイン";
+
 "menu.country.jp" = "日本";
+
 "menu.country.at" = "オーストリア";
+
 "menu.country.be" = "ベルギー";
+
 "menu.country.ad" = "アンドラ";
+
 "menu.country.ae" = "アラブ首長国連邦";
+
 "menu.country.af" = "アフガニスタン";
+
 "menu.country.ag" = "アンティグア・バーブーダ";
+
 "menu.country.ai" = "アンギラ";
+
 "menu.country.al" = "アルバニア";
+
 "menu.country.am" = "アルメニア";
+
 "menu.country.an" = "オランダ領アンティラ";
+
 "menu.country.ao" = "アンゴラ";
+
 "menu.country.aq" = "南極大陸";
+
 "menu.country.ar" = "アルゼンチン";
+
 "menu.country.as" = "米領サモア";
+
 "menu.country.aw" = "アルバ";
+
 "menu.country.az" = "アゼルバイジャン";
+
 "menu.country.ba" = "ボスニア・ヘルツェゴヴィナ";
+
 "menu.country.bb" = "バルバドス";
+
 "menu.country.bd" = "バングラデッシュ";
+
 "menu.country.bf" = "ブルキナファソ";
+
 "menu.country.bg" = "ブルガリア";
+
 "menu.country.bh" = "バーレン";
+
 "menu.country.bi" = "ブルネイ";
+
 "menu.country.bj" = "ベナン";
+
 "menu.country.bm" = "バミューダ";
+
 "menu.country.bn" = "ブルネイ・ダルサーラム";
+
 "menu.country.bo" = "ボリビア";
+
 "menu.country.br" = "ブラジル";
+
 "menu.country.bs" = "バハマ";
+
 "menu.country.bt" = "ブータン";
+
 "menu.country.bv" = "ブーベ島";
+
 "menu.country.bw" = "ボツワナ";
+
 "menu.country.by" = "ベルルーシ";
+
 "menu.country.bz" = "ベリーズ";
+
 "menu.country.cc" = "ココス諸島";
+
 "menu.country.cf" = "中央アフリア共和国";
+
 "menu.country.cd" = "コンゴ民主共和国";
+
 "menu.country.cg" = "コンゴ";
+
 "menu.country.ci" = "コートジボワール";
+
 "menu.country.ck" = "クック諸島";
+
 "menu.country.cl" = "チリ";
+
 "menu.country.cm" = "カメルーン";
+
 "menu.country.co" = "コロンビア";
+
 "menu.country.cr" = "コスタリカ";
+
 "menu.country.cu" = "キューバ";
+
 "menu.country.cv" = "カーボベルデ";
+
 "menu.country.cx" = "クリスマス諸島";
+
 "menu.country.cy" = "キプロス";
+
 "menu.country.cz" = "チェコ共和国";
+
 "menu.country.dj" = "ジブチ";
+
 "menu.country.dk" = "デンマーク";
+
 "menu.country.dm" = "ドミニカ";
+
 "menu.country.do" = "ドミニカ共和国";
+
 "menu.country.dz" = "アルジェリア";
+
 "menu.country.ec" = "エクアドル";
+
 "menu.country.ee" = "エストニア";
+
 "menu.country.eg" = "エジプト";
+
 "menu.country.eh" = "西サハラ";
+
 "menu.country.er" = "エリトリア";
+
 "menu.country.et" = "エチオピア";
+
 "menu.country.fi" = "フィンランド";
+
 "menu.country.fj" = "フィジー";
+
 "menu.country.fk" = "フォークランド諸島";
+
 "menu.country.fm" = "ミクロネシア";
+
 "menu.country.fo" = "フェロー諸島";
+
 "menu.country.ga" = "ガボン";
+
 "menu.country.gb" = "英国";
+
 "menu.country.gd" = "グレナダ";
+
 "menu.country.ge" = "グルジア";
+
 "menu.country.gf" = "仏領ギアナ";
+
 "menu.country.gh" = "ガーナ";
+
 "menu.country.gi" = "ジブラルタル";
+
 "menu.country.gl" = "グリーンランド";
+
 "menu.country.gm" = "ガンビア";
+
 "menu.country.gn" = "ギニア";
+
 "menu.country.gp" = "グアドループ（仏領）";
+
 "menu.country.gq" = "赤道ギニア";
+
 "menu.country.gr" = "ギリシャ";
+
 "menu.country.gs" = "サウスジョージア・サウスサンドウィッチ諸島";
+
 "menu.country.gt" = "ガテマラ";
+
 "menu.country.gu" = "グアム（米領）";
+
 "menu.country.gw" = "ギニアビサオ";
+
 "menu.country.gy" = "ガイアナ";
+
 "menu.country.hk" = "香港";
+
 "menu.country.hm" = "ハード島とマクドナルド諸島";
+
 "menu.country.hn" = "ホンジュラス";
+
 "menu.country.hr" = "クロアチア";
+
 "menu.country.ht" = "ハイチ";
+
 "menu.country.hu" = "ハンガリー";
+
 "menu.country.id" = "インドネシア";
+
 "menu.country.ie" = "アイルランド";
+
 "menu.country.il" = "イスラエル";
+
 "menu.country.in" = "インド";
+
 "menu.country.iq" = "イラク";
+
 "menu.country.ir" = "イラン";
+
 "menu.country.is" = "アイスランド";
+
 "menu.country.jm" = "ジャマイカ";
+
 "menu.country.jo" = "ヨルダン";
+
 "menu.country.ke" = "ケニア";
+
 "menu.country.kg" = "キルギス共和国（キルギスタン）";
+
 "menu.country.kh" = "カンボジア王国";
+
 "menu.country.ki" = "キリバス";
+
 "menu.country.km" = "コモロ";
+
 "menu.country.kn" = "セントキッツ・ネイビスアンギラ";
+
 "menu.country.kp" = "北朝鮮";
+
 "menu.country.kr" = "韓国";
+
 "menu.country.kw" = "クウェート";
+
 "menu.country.ky" = "ケイマン諸島";
+
 "menu.country.kz" = "カザフスタン";
+
 "menu.country.la" = "ラオス";
+
 "menu.country.lb" = "レバノン";
+
 "menu.country.lc" = "セントルチア";
+
 "menu.country.li" = "リヒテンシュタイン";
+
 "menu.country.rs" = "セルビア";
+
 "menu.country.lk" = "スリランカ";
+
 "menu.country.lr" = "リベリア";
+
 "menu.country.ls" = "レソト王国";
+
 "menu.country.lt" = "リトアニア";
+
 "menu.country.lu" = "ルクセンブルグ";
+
 "menu.country.lv" = "ラトビア";
+
 "menu.country.ly" = "リビア";
+
 "menu.country.ma" = "モロッコ";
+
 "menu.country.mc" = "モナコ公国";
+
 "menu.country.md" = "モルダビア";
+
 "menu.country.mg" = "マダガスカル";
+
 "menu.country.mh" = "マーシャル諸島";
+
 "menu.country.mk" = "マケドニア";
+
 "menu.country.ml" = "マリ";
+
 "menu.country.mm" = "ミャンマー";
+
 "menu.country.mn" = "モンゴル";
+
 "menu.country.mo" = "マカオ";
+
 "menu.country.mq" = "マルティニーク（仏領）";
+
 "menu.country.mr" = "モーリタニア";
+
 "menu.country.ms" = "モンセラット";
+
 "menu.country.mt" = "マルタ";
+
 "menu.country.mu" = "モーリシャス";
+
 "menu.country.mv" = "モルディブ";
+
 "menu.country.mw" = "マラウイ";
+
 "menu.country.my" = "マレーシア";
+
 "menu.country.me" = "モンテネグロ";
+
 "menu.country.mz" = "モザンビーク";
+
 "menu.country.na" = "ナミビア";
+
 "menu.country.nc" = "ニューカレドニア（仏領）";
+
 "menu.country.ne" = "ニジェール";
+
 "menu.country.nf" = "ノーフォーク島";
+
 "menu.country.ng" = "ナイジェリア";
+
 "menu.country.ni" = "ニカラグア";
+
 "menu.country.no" = "ノルウェー";
+
 "menu.country.np" = "ネパール";
+
 "menu.country.nr" = "ナウル";
+
 "menu.country.nt" = "中立地帯";
+
 "menu.country.nu" = "ニウエ";
+
 "menu.country.nz" = "ニュージーランド";
+
 "menu.country.om" = "オマーン";
+
 "menu.country.pa" = "パナマ";
+
 "menu.country.pe" = "ペルー";
+
 "menu.country.pf" = "ポリネシア（仏領）";
+
 "menu.country.pg" = "パプアニューギニア";
+
 "menu.country.ph" = "フィリピン";
+
 "menu.country.pk" = "パキスタン";
+
 "menu.country.pl" = "ポーランド";
+
 "menu.country.pm" = "サンピエール島・ミクロン島";
+
 "menu.country.pn" = "ピトケルン島";
+
 "menu.country.pr" = "プエルトリコ";
+
 "menu.country.pt" = "ポルトガル";
+
 "menu.country.pw" = "パラオ";
+
 "menu.country.py" = "パラグアイ";
+
 "menu.country.qa" = "カタール";
+
 "menu.country.re" = "レユニオン（仏領）";
+
 "menu.country.ro" = "ルーマニア";
+
 "menu.country.ru" = "ロシア連邦";
+
 "menu.country.rw" = "ルワンダ";
+
 "menu.country.sa" = "サウジアラビア";
+
 "menu.country.sb" = "ソロモン諸島";
+
 "menu.country.sc" = "セイシェル";
+
 "menu.country.sd" = "スーダン";
+
 "menu.country.se" = "スウェーデン";
+
 "menu.country.sg" = "シンガポール";
+
 "menu.country.sh" = "セントヘレナ";
+
 "menu.country.si" = "スロベニア";
+
 "menu.country.sj" = "スヴァールバル・ヤンマイエン諸島";
+
 "menu.country.sk" = "スロバキア共和国";
+
 "menu.country.sl" = "シエラレオネ";
+
 "menu.country.sm" = "サンマリノ";
+
 "menu.country.sn" = "セネガル";
+
 "menu.country.so" = "ソマリア";
+
 "menu.country.sr" = "スリナム";
+
 "menu.country.st" = "サントメ・プリンシペ";
+
 "menu.country.sv" = "エルサルバドル";
+
 "menu.country.sy" = "シリア";
+
 "menu.country.sz" = "スワジランド";
+
 "menu.country.tc" = "タークス・カイコス諸島";
+
 "menu.country.td" = "チャド";
+
 "menu.country.tg" = "トーガ";
+
 "menu.country.th" = "タイ王国";
+
 "menu.country.tj" = "タジキスタン";
+
 "menu.country.tk" = "トケラウ";
+
 "menu.country.tm" = "トルクメニスタン";
+
 "menu.country.tn" = "チュニジア";
+
 "menu.country.to" = "トンガ";
+
 "menu.country.tp" = "東チモール";
+
 "menu.country.tr" = "トルコ";
+
 "menu.country.tt" = "トリニダード・トバゴ";
+
 "menu.country.tv" = "ツバル";
+
 "menu.country.tw" = "台湾";
+
 "menu.country.tz" = "タンザニア";
+
 "menu.country.ua" = "ウクライナ";
+
 "menu.country.ug" = "ウガンダ";
+
 "menu.country.uy" = "ウルグアイ";
+
 "menu.country.uz" = "ウズベキスタン";
+
 "menu.country.va" = "ローマ法王庁（バチカン市国）";
+
 "menu.country.vc" = "セントビンセント・グレナディーン諸島";
+
 "menu.country.ve" = "ベネズエラ";
+
 "menu.country.vg" = "ヴァージン諸島（英領）";
+
 "menu.country.vi" = "ヴァージン諸島（米領）";
+
 "menu.country.vn" = "ベトナム";
+
 "menu.country.vu" = "バヌアツ";
+
 "menu.country.wf" = "ウォリス・フツナ諸島";
+
 "menu.country.ws" = "サモア";
+
 "menu.country.ye" = "イエメン";
+
 "menu.country.yt" = "マヨット";
+
 "menu.country.za" = "南アフリカ";
+
 "menu.country.zm" = "ザンビア";
+
 "menu.country.zr" = "ザイール";
+
 "menu.country.zw" = "ジンバブエ";

@@ -1,0 +1,117 @@
+/* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "385"; */
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "763"; */
+
+/* Class = "NSMenuItem"; title = "UTF-8"; ObjectID = "64"; */
+
+/* Class = "NSTabViewItem"; label = "FileSelection"; ObjectID = "135"; */
+
+/* Class = "NSTextFieldCell"; title = "Step 5: Enter the name of the folder for imported objects"; ObjectID = "752"; */
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "754"; */
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "183"; */
+
+/* Class = "NSTextFieldCell"; title = "Step 4: Review and select objects that will be imported"; ObjectID = "753"; */
+
+/* Class = "NSTableColumn"; headerCell.title = "Subfolder"; ObjectID = "145"; */
+
+/* Class = "NSTabViewItem"; label = "PendingBrowserImport"; ObjectID = "786"; */
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "769"; */
+
+/* Class = "NSMenuItem"; title = "ASCII"; ObjectID = "65"; */
+
+/* Class = "NSMenuItem"; title = "Mac OS Roman"; ObjectID = "102"; */
+
+/* Class = "NSMenuItem"; title = "Import All"; ObjectID = "384"; */
+
+/* Class = "NSMenuItem"; title = "Space"; ObjectID = "509"; */
+
+/* Class = "NSMenuItem"; title = "Unicode"; ObjectID = "103"; */
+
+/* Class = "NSTextFieldCell"; title = "Delimiter character:"; ObjectID = "767"; */
+
+/* Class = "NSMenuItem"; title = "Comma"; ObjectID = "510"; */
+
+/* Class = "NSTextFieldCell"; title = "Import Folder:"; ObjectID = "748"; */
+
+/* Class = "NSWindow"; title = "Import Assistant"; ObjectID = "5"; */
+
+/* Class = "NSTextFieldCell"; title = "Import Format:"; ObjectID = "760"; */
+
+/* Class = "NSTextFieldCell"; title = "Start import at line:"; ObjectID = "764"; */
+
+/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "190"; */
+
+/* Class = "NSButtonCell"; title = "Choose File..."; ObjectID = "746"; */
+
+/* Class = "NSMenuItem"; title = "Japanese EUC"; ObjectID = "99"; */
+
+/* Class = "NSTabViewItem"; label = "FormatSelection"; ObjectID = "198"; */
+
+/* Class = "NSMenuItem"; title = "Shift JIS"; ObjectID = "100"; */
+
+/* Class = "NSTextFieldCell"; title = "Step 6: Enter the name of the folder for imported objects"; ObjectID = "758"; */
+
+/* Class = "NSTextFieldCell"; title = "Please wait while passwords are imported from the browser."; ObjectID = "790"; */
+
+/* Class = "NSButtonCell"; title = "Start Import"; ObjectID = "741"; */
+
+/* Class = "NSTextFieldCell"; title = "Step 1: Select Application to Import From"; ObjectID = "761"; */
+
+/* Class = "NSTextFieldCell"; title = "Step 4: Specify file contents format"; ObjectID = "771"; */
+
+/* Class = "NSMenuItem"; title = "Windows CP 1253 (Greek)"; ObjectID = "96"; */
+
+/* Class = "NSMenuItem"; title = "Windows CP 1254 (Latin 5)"; ObjectID = "97"; */
+
+/* Class = "NSTabViewItem"; label = "Preview"; ObjectID = "137"; */
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "144"; */
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "181"; */
+
+/* Class = "NSMenuItem"; title = "Import"; ObjectID = "804"; */
+
+/* Class = "NSMenuItem"; title = "Windows CP 1252 (Latin 1)"; ObjectID = "95"; */
+
+/* Class = "NSTextFieldCell"; title = "Step 3: Select and Verify File Encoding"; ObjectID = "745"; */
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "770"; */
+
+/* Class = "NSTextFieldCell"; title = "Item Type:"; ObjectID = "773"; */
+
+/* Class = "NSTextFieldCell"; title = "Keep changing the encoding until you see the contents of the export file displayed correctly."; ObjectID = "747"; */
+
+/* Class = "NSMenuItem"; title = "Windows CP 1250 (Latin 2)"; ObjectID = "98"; */
+
+/* Class = "NSButtonCell"; title = "Fields are Quoted"; ObjectID = "774"; */
+
+/* Class = "NSButtonCell"; title = "Import Selected Objects"; ObjectID = "749"; */
+
+/* Class = "NSTextFieldCell"; title = "Step 2: Prepare and Choose File with the Exported Information"; ObjectID = "744"; */
+
+/* Class = "NSTextFieldCell"; title = "Step 5: Review and select objects that will be imported"; ObjectID = "757"; */
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "807"; */
+
+/* Class = "NSMenuItem"; title = "ISO Latin 1"; ObjectID = "66"; */
+
+/* Class = "NSMenuItem"; title = "Windows CP 1251 (Cyrillic)"; ObjectID = "94"; */
+
+/* Class = "NSMenuItem"; title = "Foo"; ObjectID = "675"; */
+
+/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "803"; */
+
+/* Class = "NSMenuItem"; title = "Tab"; ObjectID = "508"; */
+
+/* Class = "NSTextFieldCell"; title = "Character Encoding:"; ObjectID = "742"; */
+
+/* Class = "NSTabViewItem"; label = "GenericText"; ObjectID = "470"; */
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "383"; */
+
+/* Class = "NSMenuItem"; title = "ISO 2022 JP "; ObjectID = "101"; */
+
+/* Class = "NSMenuItem"; title = "ISO Latin 2"; ObjectID = "93"; */

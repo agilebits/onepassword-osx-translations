@@ -1,14 +1,23 @@
 "__title__" = "MobileMe";
+
 "__description__" = "Informazioni su iscrizione e accesso al servizio MobileMe di Apple.";
- 
+
 "email" = "Indirizzo e-mail (nome@me.com)";
+
 "email#9" = "Indirizzo e-mail";
+
 "member_name" = "Membro";
+
 "password" = "Password";
+
 "idisk_storage" = "Dispositivo con iDisk disponibile";
+
 "idisk_storage#9" = "Dispositivo";
+
 "renewal_date" = "Data di rinnovo";
+
 "renewal_date#9" = "Rinnovo";
+
 "activation_key" = "Codice di attivazione";
+
 "activation_key#9" = "Attivazione";
- 

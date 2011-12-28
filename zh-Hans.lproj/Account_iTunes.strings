@@ -1,12 +1,17 @@
 "__title__" = "iTunes";
+
 "__description__" = "iTunes 账户信息。";
- 
+
 "username" = "Apple ID（电子邮件）";
+
 "username#9" = "电子邮件";
+
 "password" = "密码";
+
 "question" = "安全问题";
+
 "question#9" = "安全问题";
+
 "answer" = "安全问题答案";
+
 "answer#9" = "安全问题答案";
- 
- 

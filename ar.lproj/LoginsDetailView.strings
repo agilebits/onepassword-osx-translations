@@ -1,0 +1,64 @@
+/* Class = "NSTableColumn"; headerCell.title = "Field Name"; ObjectID = "3098"; */
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4411"; */
+
+/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4875"; */
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Display"; ObjectID = "3384"; */
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "http://www.website.com"; ObjectID = "5025"; */
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "username"; ObjectID = "4555"; */
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "4945"; */
+
+/* Class = "NSMenuItem"; title = "Checkbox"; ObjectID = "4043"; */
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "4564"; */
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
+
+/* Class = "NSTableColumn"; headerCell.title = "Field Value"; ObjectID = "3101"; */
+
+/* Class = "NSButtonCell"; title = "All Fields"; ObjectID = "3043"; */
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Submit"; ObjectID = "3390"; */
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Username"; ObjectID = "5026"; */
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Password"; ObjectID = "5030"; */
+"Password" = "كلمة المرور";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2834"; */
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "4030"; */
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "3692"; */
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4406"; */
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5029"; */
+
+/* Class = "NSTextFieldCell"; title = "http://www.google.com"; ObjectID = "3088"; */
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "3394"; */
+
+/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
+
+/* Class = "NSMenuItem"; title = "For Web Pages Only"; ObjectID = "3388"; */
+
+/* Class = "NSButtonCell"; title = "Password History"; ObjectID = "4896"; */
+
+/* Class = "NSMenuItem"; title = "Show in Every HTTP Auth Prompt"; ObjectID = "5006"; */
+
+/* Class = "NSMenuItem"; title = "For HTTP Auth Prompts Only"; ObjectID = "3396"; */
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
+
+/* Class = "NSMenuItem"; title = "If Autosubmit is ON"; ObjectID = "3395"; */
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2825"; */

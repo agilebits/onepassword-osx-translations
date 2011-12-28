@@ -1,50 +1,91 @@
 "__title__" = "Tarjeta de crédito";
+
 "__description__" = "Información de tarjeta de crédito";
 
 "set.contactInfo" = "Información de contacto";
 
 "cardholder" = "Nombre del titular de la tarjeta";
+
 "cardholder#9" = "Titular de la tarjeta";
+
 "type" = "Tipo";
+
 "ccnum" = "Número";
+
 "cvv" = "Número de verificación";
+
 "cvv#9" = "CVC";
+
 "expiry" = "Fecha de caducidad";
+
 "expiry#9" = "Caducidad";
+
 "validFrom" = "Válido desde";
+
 "validFrom#9" = "Expedido";
+
 "contactInfo" = "Información de contacto";
+
 "bank" = "Banco expedidor";
+
 "bank#9" = "Banco";
+
 "details" = "Detalles adicionales";
+
 "details#9" = "Detalles";
+
 "phoneLocal" = "Teléfono (local)";
+
 "phoneLocal#9" = "Teléfono";
+
 "phoneTollFree" = "Teléfono (gratuito)";
+
 "phoneTollFree#9" = "Llamada gratuita";
+
 "phoneIntl" = "Teléfono (internacional)";
+
 "phoneIntl#9" = "Intl";
+
 "website" = "Página web";
+
 "pin" = "PIN";
+
 "creditLimit" = "Límite de crédito";
+
 "creditLimit#9" = "Límite";
+
 "cashLimit" = "Límite de retirada de dinero";
+
 "cashLimit#9" = "Límite de dinero";
+
 "interest" = "Tipo de interés";
+
 "interest#9" = "Interés";
+
 "issuenumber" = "Número de expedición";
+
 "issuenumber#9" = "Nº de expedición";
 
 /* credit card types */
-"menu.type." = "";
+
 "menu.type.visa" = "VISA";
+
 "menu.type.mc" = "MasterCard";
+
 "menu.type.amex" = "American Express";
+
 "menu.type.diners" = "Diners Club";
+
 "menu.type.discover" = "Discover";
+
 "menu.type.jcb" = "JCB";
+
 "menu.type.solo" = "Solo";
+
 "menu.type.switch" = "Switch";
+
 "menu.type.maestro" = "MasterCard Maestro";
+
 "menu.type.visaelectron" = "VISA Electron";
+
 "menu.type.carteblanche" = "Carte Blanche";

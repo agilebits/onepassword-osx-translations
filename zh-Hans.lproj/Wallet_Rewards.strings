@@ -1,25 +1,43 @@
 "__title__" = "奖励活动";
+
 "__description__" = "客户忠诚度活动，包括飞行常客奖励和酒店奖励";
 
 "company_name" = "公司名称";
+
 "member_name" = "会员姓名";
+
 "member_since" = "入会日期";
+
 "membership_no" = "会员编号";
+
 "additional_no" = "会员编号（附加）";
+
 "pin" = "PIN";
+
 "customer_service_phone" = "客服电话";
+
 "reservations_phone" = "预订电话";
+
 "website" = "网站";
+
 "extra" = "更多信息";
 
-
 "company_name#9" = "公司";
-"member_name#9" = "姓名";
+
+"member_name#9" = "名称";
+
 "member_since#9" = "入会日期";
-"membership_no#9" = "编号";
+
+"membership_no#9" = "卡号";
+
 "additional_no#9" = "编号 2";
+
 "pin#9" = "PIN";
+
 "customer_service_phone#9" = "客服电话";
+
 "reservations_phone#9" = "预订电话";
+
 "website#9" = "网站";
+
 "extra#9" = "更多信息";

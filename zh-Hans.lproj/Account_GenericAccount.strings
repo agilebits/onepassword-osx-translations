@@ -1,6 +1,7 @@
 "__title__" = "通用帐户";
+
 "__description__" = "用户名称和密码信息";
- 
+
 "username" = "用户名称";
+
 "password" = "密码";
- 

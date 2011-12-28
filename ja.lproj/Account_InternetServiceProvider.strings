@@ -1,16 +1,27 @@
 "__title__" = "インターネットプロバイダ";
+
 "__description__" = "インターネットサービスプロバイダ (ISP) から提供されたインターネットへの接続情報";
 
 "userid" = "ユーザー ID";
+
 "password" = "パスワード";
+
 "pin" = "暗証番号";
+
 "dialup_number" = "ダイヤルアップアクセス番号";
+
 "dialup_number#9" = "ダイヤルアップ #";
+
 "Contact Information" = "連絡先情報";
+
 "Contact Information#9" = "連絡先";
+
 "website" = "ウェブサイト";
+
 "phone_local" = "電話番号（ローカル）";
-"phone_local#9" = "電話";
+
+"phone_local#9" = "電話番号";
+
 "phone_tollfree" = "電話番号（フリーダイヤル）";
+
 "phone_tollfree#9" = "フリーダイヤル";
- 

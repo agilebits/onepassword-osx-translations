@@ -1,13 +1,1 @@
-"Space" = "스페이스";
-"Use old shortcut" = "기존 단축키 사용";
-"Type shortcut" = "단축키 입력";
-"Click to record shortcut" = "클릭: 단축키 기록 시작";
-"Pad %@" = "패드 %@";
-"The key combination %@ can't be used!" = "%@ 키 조합은 사용할 수 없습니다!";
-"The key combination \"%@\" can't be used because %@." = "\"%@\" 키 조합은 사용할 수 없습니다. 원인: %@.";
-"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "\"%@\" 키 조합은 시스템 전체에 적용되는 범용 단축키이므로 등록할 수 없습니다. (단 시스템 환경설정의 키보드 및 마우스 패널을 통해 단축키 조합을 변경하면 범용 단축키의 조합을 변경할 수 있습니다)";
-"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "\"%@\" 키 조합은 현재 \"%@\" 메뉴 항목에서 사용중이므로 등록할 수 없습니다.";
-"Command + " = "커맨드 + ";
-"Option + " = "옵션 (Alt) + ";
-"Shift + " = "시프트 + ";
-"Control + " = "컨트롤 + ";
+��

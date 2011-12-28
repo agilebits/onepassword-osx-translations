@@ -1,18 +1,29 @@
 "__title__" = "Account FTP";
+
 "__description__" = "Informazioni di accesso per account FTP.";
- 
+
 "server" = "Server";
+
 "path" = "Percorso";
+
 "username" = "Nome utente";
+
 "password" = "Password";
+
 "Contact Information" = "Informazioni di contatto";
+
 "Contact Information#9" = "Contatto";
+
 "provider" = "Provider";
+
 "provider_website" = "Sito Web del provider";
+
 "provider_website#9" = "Sito Web";
+
 "phone_tollfree" = "Telefono (numero verde)";
+
 "phone_tollfree#9" = "Numero verde";
+
 "phone_local" = "Telefono (chiamate locali)";
+
 "phone_local#9" = "Telefono";
- 
- 

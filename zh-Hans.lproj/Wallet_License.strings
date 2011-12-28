@@ -1,37 +1,67 @@
 "__title__" = "软件许可";
+
 "__description__" = "软件产品许可、注册码或序列号。";
 
 "product_name" = "产品名称";
+
 "product_version" = "版本";
+
 "reg_name" = "授权给";
+
 "reg_code" = "许可证密钥";
+
 "reg_email" = "注册电子邮件";
+
 "company" = "公司";
+
 "download_link" = "下载页";
+
 "publisher" = "发布者";
+
 "publisher_name" = "发布者";
+
 "retail_price" = "零售价";
+
 "publisher_website" = "网站";
+
 "support_email" = "支持电子邮件";
+
 "order" = "订购";
+
 "order_number" = "订单号";
+
 "order_date" = "购买日期";
+
 "order_total" = "订单总计";
 
-
 "product_name#9" = "产品";
+
 "product_version#9" = "版本";
-"reg_name#9" = "所有者";
+
+"reg_name#9" = "开户人";
+
 "reg_code#9" = "密钥";
+
 "reg_email#9" = "电子邮件";
+
 "company#9" = "公司";
+
 "download_link#9" = "下载 URL";
+
 "publisher#9" = "发布者";
+
 "publisher_name#9" = "发布者";
+
 "retail_price#9" = "价格";
+
 "publisher_website#9" = "网站";
+
 "support_email#9" = "支持";
+
 "order#9" = "订购";
+
 "order_number#9" = "订单号";
+
 "order_date#9" = "购买日期";
+
 "order_total#9" = "总计";

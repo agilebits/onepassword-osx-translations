@@ -1,0 +1,83 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1407"; */
+
+/* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "1430"; */
+
+/* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
+
+/* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
+
+/* Class = "NSTextFieldCell"; title = "Current Password:"; ObjectID = "1393"; */
+
+/* Class = "NSButtonCell"; title = "Use Dropbox..."; ObjectID = "1847"; */
+
+/* Class = "NSButtonCell"; title = "      Browser Extensions"; ObjectID = "2028"; */
+
+/* Class = "NSButtonCell"; title = "Stop Using Dropbox..."; ObjectID = "2038"; */
+
+/* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
+
+/* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
+
+/* Class = "NSButtonCell"; title = "Change Master Password..."; ObjectID = "1365"; */
+
+/* Class = "NSTextFieldCell"; title = "123"; ObjectID = "1539"; */
+
+/* Class = "NSButtonCell"; title = "Lock when sleeping"; ObjectID = "1355"; */
+
+/* Class = "NSButtonCell"; title = "Disable Lock and Unlock Animation"; ObjectID = "1795"; */
+
+/* Class = "NSTextFieldCell"; title = "Unlocking"; ObjectID = "1451"; */
+
+/* Class = "NSTextFieldCell"; title = "Browser Extensions"; ObjectID = "2105"; */
+
+/* Class = "NSTextFieldCell"; title = "Display in Sidebar"; ObjectID = "1745"; */
+
+/* Class = "NSTextFieldCell"; title = "Unlock when helper is unlocked"; ObjectID = "2034"; */
+
+/* Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "1399"; */
+
+/* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
+
+/* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
+
+/* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
+
+/* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
+
+/* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
+
+/* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
+
+/* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "2106"; */
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "1804"; */
+
+/* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
+
+/* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
+
+/* Class = "NSTextFieldCell"; title = "Clipboard Security"; ObjectID = "1533"; */
+
+/* Class = "NSTextFieldCell"; title = "New Password:"; ObjectID = "1397"; */
+
+/* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
+
+/* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
+
+/* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
+
+/* Class = "NSTextFieldCell"; title = "Auto-Lock"; ObjectID = "1449"; */
+
+/* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "1405"; */
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1479"; */
+
+/* Class = "NSButtonCell"; title = "Lock after"; ObjectID = "1357"; */
+
+/* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
+
+/* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */

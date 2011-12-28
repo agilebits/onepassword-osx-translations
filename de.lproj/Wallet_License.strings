@@ -1,37 +1,67 @@
 "__title__" = "Softwarelizenz";
+
 "__description__" = "Softwareproduktlizenz, Registrierungscode oder Seriennummer";
 
 "product_name" = "Produktname";
+
 "product_version" = "Version";
+
 "reg_name" = "Lizenziert für";
+
 "reg_code" = "Lizenzschlüssel";
+
 "reg_email" = "Registrierte E-Mail-Adresse";
+
 "company" = "Unternehmen";
+
 "download_link" = "Download-Seite";
+
 "publisher" = "Herausgeber";
+
 "publisher_name" = "Herausgeber";
+
 "retail_price" = "Verkaufspreis";
+
 "publisher_website" = "Website";
+
 "support_email" = "Support-E-Mail-Adresse";
+
 "order" = "Auftrag";
+
 "order_number" = "Auftragsnummer";
+
 "order_date" = "Kaufdatum";
+
 "order_total" = "Auftragssumme";
 
-
 "product_name#9" = "Produkt";
+
 "product_version#9" = "Version";
+
 "reg_name#9" = "Besitzer";
+
 "reg_code#9" = "Schlüssel";
+
 "reg_email#9" = "E-Mail";
+
 "company#9" = "Unternehmen";
+
 "download_link#9" = "Download-URL";
+
 "publisher#9" = "Herausgeber";
+
 "publisher_name#9" = "Herausgeber";
+
 "retail_price#9" = "Preis";
+
 "publisher_website#9" = "Website";
+
 "support_email#9" = "Support";
+
 "order#9" = "Auftrag";
+
 "order_number#9" = "Auftragsnr.";
+
 "order_date#9" = "Gekauft";
+
 "order_total#9" = "Gesamt";

@@ -1,13 +1,1 @@
-"Space" = "Espace";
-"Use old shortcut" = "Utiliser l'ancien raccourci";
-"Type shortcut" = "Taper le racourci";
-"Click to record shortcut" = "Cliquer pour enregistrer le raccourci";
-"Pad %@" = "Pavé tactile %@";
-"The key combination %@ can't be used!" = "La clé de combinaison %@ ne peut pas être utilisée!";
-"The key combination \"%@\" can't be used because %@." = "La clé de combinaison \"%@\" ne peut pas être utilisée car %@.";
-"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "La clé de combinaison \"%@\" ne peut pas être utilisée car elle est déjà utilisée par un raccourci clavier propre à tout le systéme (si vous voulez vraiment utiliser cette combinaison, la plupart des raccourcis peuvent être changés dans le menu clavier et souris de la rubrique préférences système)";
-"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "La clé de combinaison \"%@\" ne peut pas être utilisée car elle est déjà utilisée par la section\"%@\" du menu";
-"Command + " = "Commande +  ";
-"Option + " = "Option (Alt) +  ";
-"Shift + " = "Maj +  ";
-"Control + " = "Ctrl +  ";
+��

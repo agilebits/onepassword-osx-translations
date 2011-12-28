@@ -1,16 +1,27 @@
 "__title__" = "Internetdienstanbieter";
+
 "__description__" = "Von Ihrem Internetdienstanbieter (ISP) für die Internetverbindung bereitgestellte Daten";
 
 "userid" = "Benutzer-ID";
+
 "password" = "Passwort";
+
 "pin" = "PIN";
+
 "dialup_number" = "Zugangsnummer für die Einwahlverbindung";
+
 "dialup_number#9" = "Einwahlnummer";
+
 "Contact Information" = "Kontaktdaten";
+
 "Contact Information#9" = "Kontakt";
+
 "website" = "Website";
+
 "phone_local" = "Telefon (lokal)";
+
 "phone_local#9" = "Telefon";
+
 "phone_tollfree" = "Telefon (gebührenfrei)";
+
 "phone_tollfree#9" = "Gebührenfrei";
- 

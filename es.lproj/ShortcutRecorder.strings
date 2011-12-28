@@ -1,13 +1,1 @@
-"Space" = "Espacio";
-"Use old shortcut" = "Utilizar método abreviado antiguo";
-"Type shortcut" = "Introducir método abreviado";
-"Click to record shortcut" = "Haga clic para guardar el método abreviado";
-"Pad %@" = "Pad %@";
-"The key combination %@ can't be used!" = "¡No es posible utilizar la combinación de teclas %@!";
-"The key combination \"%@\" can't be used because %@." = "No es posible utilizar la combinación de teclas \"%@\" porque %@.";
-"The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "No es posible utilizar la combinación de teclas \"%@\" porque ya está siendo utilizada por un método abreviado de teclado del sistema (si desea realmente utilizar esta combinación de teclas, la mayoría de los métodos abreviados pueden modificarse en el panel Teclado y ratón de Preferencias de sistema).";
-"The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "No es posible utilizar la combinación de teclas \"%@\" porque ya está siendo utilizada por el elemento de menú \"%@\".";
-"Command + " = "Comando + ";
-"Option + " = "Opción (Alt) + ";
-"Shift + " = "Mayús + ";
-"Control + " = "Control + ";
+��

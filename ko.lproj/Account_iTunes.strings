@@ -1,12 +1,17 @@
 "__title__" = "iTunes";
+
 "__description__" = "iTunes 계정 정보";
- 
+
 "username" = "애플 ID (메일 주소)";
+
 "username#9" = "이메일";
+
 "password" = "비밀번호";
+
 "question" = "본인 확인용 질문";
+
 "question#9" = "확인용 질문";
+
 "answer" = "본인 확인용 답변";
+
 "answer#9" = "확인용 답변";
- 
- 

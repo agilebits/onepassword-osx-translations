@@ -1,9 +1,13 @@
 "__title__" = "MySQL-Datenbank";
+
 "__description__" = "Verbindungsdaten für MySQL-Datenbank";
 
 "hostname" = "Hostname";
+
 "port" = "Port (3306)";
+
 "database" = "Datenbank";
+
 "username" = "Benutzername";
+
 "password" = "Passwort";
- 

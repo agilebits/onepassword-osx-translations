@@ -1,0 +1,545 @@
+
+"__description__" = "Det tillhör egentligen inte plånbok, vi har det det här för att generera detaljvyn.";
+
+"name" = "Identifiering";
+
+"firstname" = "Förnamn";
+
+"initial" = "Initialer";
+
+"lastname" = "Efternamn";
+
+
+"birthdate" = "Födelsedatum";
+
+"occupation" = "Yrke";
+
+"company" = "Företag";
+
+"department" = "Avdelning";
+
+"jobtitle" = "Befattning";
+
+"internet" = "Internetdetaljer";
+
+
+"reminderq" = "Påminnelsefråga";
+
+"remindera" = "Påminnelsesvar";
+
+
+"website" = "Webbplats";
+
+
+
+"aim" = "AOL/AIM";
+
+"yahoo" = "Yahoo";
+
+"msn" = "MSN";
+
+"forumsig" = "Forumssignatur";
+
+
+"address1" = "Adressrad 1";
+
+"address2" = "Adressrad 2";
+
+"city" = "Stad/ort/förort";
+
+"state" = "Län/landskap";
+
+"zip" = "Postnummer";
+
+
+
+"phone" = "Telefon";
+
+"defphone" = "Huvudtelefon";
+
+"homephone" = "Hem";
+
+"cellphone" = "Mobil";
+
+"busphone" = "Verksamhet";
+
+
+
+
+/* countries */
+
+"menu.country.us" = "USA";
+
+"menu.country.ca" = "Kanada";
+
+"menu.country.uk" = "Storbritannien";
+
+"menu.country.de" = "Tyskland";
+
+"menu.country.au" = "Australien";
+
+"menu.country.nl" = "Nederländerna";
+
+"menu.country.it" = "Italien";
+
+"menu.country.fr" = "Frankrike";
+
+"menu.country.mx" = "Mexiko";
+
+"menu.country.cn" = "Kina";
+
+"menu.country.ch" = "Schweiz";
+
+"menu.country.es" = "Spanien";
+
+"menu.country.jp" = "Japan";
+
+"menu.country.at" = "Österrike";
+
+"menu.country.be" = "Belgien";
+
+"menu.country.ad" = "Andorra";
+
+"menu.country.ae" = "Förenade Arabemiraten";
+
+"menu.country.af" = "Afghanistan";
+
+"menu.country.ag" = "Antigua och Barbuda";
+
+"menu.country.ai" = "Anguilla";
+
+"menu.country.al" = "Albanien";
+
+"menu.country.am" = "Armenien";
+
+"menu.country.an" = "Nederländska Antillerna";
+
+"menu.country.ao" = "Angola";
+
+"menu.country.aq" = "Antarktis";
+
+"menu.country.ar" = "Argentina";
+
+"menu.country.as" = "Amerikanska Samoa";
+
+"menu.country.aw" = "Aruba";
+
+"menu.country.az" = "Azerbajdzjan";
+
+"menu.country.ba" = "Bosnien-Hercegovina";
+
+"menu.country.bb" = "Barbados";
+
+"menu.country.bd" = "Bangladesh";
+
+"menu.country.bf" = "Burkina Faso";
+
+"menu.country.bg" = "Bulgarien";
+
+"menu.country.bh" = "Bahrain";
+
+"menu.country.bi" = "Burundi";
+
+"menu.country.bj" = "Benin";
+
+"menu.country.bm" = "Bermuda";
+
+"menu.country.bn" = "Brunei Darussalam";
+
+"menu.country.bo" = "Bolivia";
+
+"menu.country.br" = "Brasilien";
+
+"menu.country.bs" = "Bahamas";
+
+"menu.country.bt" = "Bhutan";
+
+"menu.country.bv" = "Bouvetön";
+
+"menu.country.bw" = "Botswana";
+
+"menu.country.by" = "Vitryssland";
+
+"menu.country.bz" = "Belize";
+
+"menu.country.cc" = "Kokosöarna";
+
+"menu.country.cf" = "Centralafrikanska republiken";
+
+"menu.country.cd" = "Republiken Kongo";
+
+"menu.country.cg" = "Kongo";
+
+"menu.country.ci" = "Elfenbenskusten";
+
+"menu.country.ck" = "Cooköarna";
+
+"menu.country.cl" = "Chile";
+
+"menu.country.cm" = "Kamerun";
+
+"menu.country.co" = "Colombia";
+
+"menu.country.cr" = "Costa Rica";
+
+"menu.country.cu" = "Kuba";
+
+"menu.country.cv" = "Kap Verde";
+
+"menu.country.cx" = "Julön";
+
+"menu.country.cy" = "Cypern";
+
+"menu.country.cz" = "Tjeckien";
+
+"menu.country.dj" = "Djibouti";
+
+"menu.country.dk" = "Danmark";
+
+"menu.country.dm" = "Dominica";
+
+"menu.country.do" = "Dominikanska republiken";
+
+"menu.country.dz" = "Algeriet";
+
+"menu.country.ec" = "Ecuador";
+
+"menu.country.ee" = "Estland";
+
+"menu.country.eg" = "Egypten";
+
+"menu.country.eh" = "Västsahara";
+
+"menu.country.er" = "Eritrea";
+
+"menu.country.et" = "Etiopien";
+
+"menu.country.fi" = "Finland";
+
+"menu.country.fj" = "Fiji";
+
+"menu.country.fk" = "Falklandsöarna";
+
+"menu.country.fm" = "Mikronesien";
+
+"menu.country.fo" = "Färöarna";
+
+"menu.country.ga" = "Gabon";
+
+"menu.country.gb" = "Storbritannien";
+
+"menu.country.gd" = "Grenada";
+
+"menu.country.ge" = "Georgien";
+
+"menu.country.gf" = "Franska Guyana";
+
+"menu.country.gh" = "Ghana";
+
+"menu.country.gi" = "Gibraltar";
+
+"menu.country.gl" = "Grönland";
+
+"menu.country.gm" = "Gambia";
+
+"menu.country.gn" = "Guinea";
+
+"menu.country.gp" = "Guadeloupe (franska)";
+
+"menu.country.gq" = "Ekvatorialguinea";
+
+"menu.country.gr" = "Grekland";
+
+"menu.country.gs" = "Sydgeorgien och Sydsandwichöarna";
+
+"menu.country.gt" = "Guatemala";
+
+"menu.country.gu" = "Guam (USA)";
+
+"menu.country.gw" = "Guinea-Bissau";
+
+"menu.country.gy" = "Guyana";
+
+"menu.country.hk" = "Hongkong";
+
+"menu.country.hm" = "Heard- och McDonaldsöarna";
+
+"menu.country.hn" = "Honduras";
+
+"menu.country.hr" = "Kroatien";
+
+"menu.country.ht" = "Haiti";
+
+"menu.country.hu" = "Ungern";
+
+"menu.country.id" = "Indonesien";
+
+"menu.country.ie" = "Irland";
+
+"menu.country.il" = "Israel";
+
+"menu.country.in" = "Indien";
+
+"menu.country.iq" = "Irak";
+
+"menu.country.ir" = "Iran";
+
+"menu.country.is" = "Island";
+
+"menu.country.jm" = "Jamaica";
+
+"menu.country.jo" = "Jordanien";
+
+"menu.country.ke" = "Kenya";
+
+"menu.country.kg" = "Republiken Kirgizistan (Kirgizistan)";
+
+"menu.country.kh" = "Konungariket Kambodja";
+
+"menu.country.ki" = "Kiribati";
+
+"menu.country.km" = "Komorerna";
+
+"menu.country.kn" = "Saint Christopher-Nevis-Anguilla";
+
+"menu.country.kp" = "Nordkorea";
+
+"menu.country.kr" = "Sydkorea";
+
+"menu.country.kw" = "Kuwait";
+
+"menu.country.ky" = "Caymanöarna";
+
+"menu.country.kz" = "Kazakstan";
+
+"menu.country.la" = "Laos";
+
+"menu.country.lb" = "Libanon";
+
+"menu.country.lc" = "Saint Lucia";
+
+"menu.country.li" = "Liechtenstein";
+
+"menu.country.rs" = "Serbien";
+
+"menu.country.lk" = "Sri Lanka";
+
+"menu.country.lr" = "Liberia";
+
+"menu.country.ls" = "Lesotho";
+
+"menu.country.lt" = "Litauen";
+
+"menu.country.lu" = "Luxemburg";
+
+"menu.country.lv" = "Lettland";
+
+"menu.country.ly" = "Libyen";
+
+"menu.country.ma" = "Marocko";
+
+"menu.country.mc" = "Monaco";
+
+"menu.country.md" = "Moldavien";
+
+"menu.country.mg" = "Madagaskar";
+
+"menu.country.mh" = "Marshallöarna";
+
+"menu.country.mk" = "Makedonien";
+
+"menu.country.ml" = "Mali";
+
+"menu.country.mm" = "Myanmar";
+
+"menu.country.mn" = "Mongoliet";
+
+"menu.country.mo" = "Macau";
+
+"menu.country.mq" = "Martinique (Franskt)";
+
+"menu.country.mr" = "Mauretanien";
+
+"menu.country.ms" = "Montserrat";
+
+"menu.country.mt" = "Malta";
+
+"menu.country.mu" = "Mauritius";
+
+"menu.country.mv" = "Maldiverna";
+
+"menu.country.mw" = "Malawi";
+
+"menu.country.my" = "Malaysia";
+
+"menu.country.me" = "Montenegro";
+
+"menu.country.mz" = "Moçambique";
+
+"menu.country.na" = "Namibia";
+
+"menu.country.nc" = "Nya Kaledonien (Franskt)";
+
+"menu.country.ne" = "Niger";
+
+"menu.country.nf" = "Norfolkön";
+
+"menu.country.ng" = "Nigeria";
+
+"menu.country.ni" = "Nicaragua";
+
+"menu.country.no" = "Norge";
+
+"menu.country.np" = "Nepal";
+
+"menu.country.nr" = "Nauru";
+
+"menu.country.nt" = "Neutral zon";
+
+"menu.country.nu" = "Niue";
+
+"menu.country.nz" = "Nya Zeeland";
+
+"menu.country.om" = "Oman";
+
+"menu.country.pa" = "Panama";
+
+"menu.country.pe" = "Peru";
+
+"menu.country.pf" = "Polynesien (Franskt)";
+
+"menu.country.pg" = "Papua Nya Guinea";
+
+"menu.country.ph" = "Filippinerna";
+
+"menu.country.pk" = "Pakistan";
+
+"menu.country.pl" = "Polen";
+
+"menu.country.pm" = "Saint-Pierre och Miquelon";
+
+"menu.country.pn" = "Pitcairnöarna";
+
+"menu.country.pr" = "Puerto Rico";
+
+"menu.country.pt" = "Portugal";
+
+"menu.country.pw" = "Palau";
+
+"menu.country.py" = "Paraguay";
+
+"menu.country.qa" = "Qatar";
+
+"menu.country.re" = "Réunion (Franskt)";
+
+"menu.country.ro" = "Rumänien";
+
+"menu.country.ru" = "Ryssland";
+
+"menu.country.rw" = "Rwanda";
+
+"menu.country.sa" = "Saudiarabien";
+
+"menu.country.sb" = "Salomonöarna";
+
+"menu.country.sc" = "Seychellerna";
+
+"menu.country.sd" = "Sudan";
+
+"menu.country.se" = "Sverige";
+
+"menu.country.sg" = "Singapore";
+
+"menu.country.sh" = "Sankta Helena";
+
+"menu.country.si" = "Slovenien";
+
+"menu.country.sj" = "Svalbard och Jan Mayen öarna";
+
+"menu.country.sk" = "Slovakien";
+
+"menu.country.sl" = "Sierra Leone";
+
+"menu.country.sm" = "San Marino";
+
+"menu.country.sn" = "Senegal";
+
+"menu.country.so" = "Somalia";
+
+"menu.country.sr" = "Surinam";
+
+"menu.country.st" = "São Tomé och Príncipe";
+
+"menu.country.sv" = "El Salvador";
+
+"menu.country.sy" = "Syrien";
+
+"menu.country.sz" = "Swaziland";
+
+"menu.country.tc" = "Turks- och Caicosöarna";
+
+"menu.country.td" = "Tchad";
+
+"menu.country.tg" = "Togo";
+
+"menu.country.th" = "Thailand";
+
+"menu.country.tj" = "Tadzjikistan";
+
+"menu.country.tk" = "Tokelauöarna";
+
+"menu.country.tm" = "Turkmenistan";
+
+"menu.country.tn" = "Tunisien";
+
+"menu.country.to" = "Tonga";
+
+"menu.country.tp" = "Östtimor";
+
+"menu.country.tr" = "Turkiet";
+
+"menu.country.tt" = "Trinidad och Tobago";
+
+"menu.country.tv" = "Tuvalu";
+
+"menu.country.tw" = "Taiwan";
+
+"menu.country.tz" = "Tanzania";
+
+"menu.country.ua" = "Ukraina";
+
+"menu.country.ug" = "Uganda";
+
+"menu.country.uy" = "Uruguay";
+
+"menu.country.uz" = "Uzbekistan";
+
+"menu.country.va" = "Vatikanstaten";
+
+"menu.country.vc" = "Saint Vincent och Grenadinerna";
+
+"menu.country.ve" = "Venezuela";
+
+"menu.country.vg" = "Jungfruöarna (Storbritannien)";
+
+"menu.country.vi" = "Jungfruöarna (USA)";
+
+"menu.country.vn" = "Vietnam";
+
+"menu.country.vu" = "Vanuatu";
+
+"menu.country.wf" = "Wallis- och Futunaöarna";
+
+"menu.country.ws" = "Samoa";
+
+"menu.country.ye" = "Jemen";
+
+"menu.country.yt" = "Mayotte";
+
+"menu.country.za" = "Sydafrika";
+
+"menu.country.zm" = "Zambia";
+
+"menu.country.zr" = "Zaire";
+
+"menu.country.zw" = "Zimbabwe";

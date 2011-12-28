@@ -1,50 +1,91 @@
 "__title__" = "クレジットカード";
+
 "__description__" = "クレジットカード情報";
 
 "set.contactInfo" = "連絡先情報";
 
 "cardholder" = "カード所有者名";
+
 "cardholder#9" = "カード所有者";
+
 "type" = "種類";
+
 "ccnum" = "番号";
+
 "cvv" = "認証コード";
+
 "cvv#9" = "CVC";
+
 "expiry" = "有効期限日";
+
 "expiry#9" = "有効期限";
+
 "validFrom" = "有効開始年";
+
 "validFrom#9" = "発行";
+
 "contactInfo" = "連絡先情報";
+
 "bank" = "発行銀行";
+
 "bank#9" = "銀行";
+
 "details" = "追加詳細";
+
 "details#9" = "詳細";
+
 "phoneLocal" = "電話番号（ローカル）";
+
 "phoneLocal#9" = "電話番号";
+
 "phoneTollFree" = "電話番号（フリーダイヤル）";
+
 "phoneTollFree#9" = "フリーダイヤル";
+
 "phoneIntl" = "電話番号（国際）";
+
 "phoneIntl#9" = "Intl";
+
 "website" = "ウェブサイト";
+
 "pin" = "暗証番号";
+
 "creditLimit" = "利用限度額";
+
 "creditLimit#9" = "限度額";
+
 "cashLimit" = "現金引出し限度額";
+
 "cashLimit#9" = "キャッシング限度額";
+
 "interest" = "金利";
+
 "interest#9" = "金利";
+
 "issuenumber" = "発行番号";
+
 "issuenumber#9" = "発行 #";
 
 /* credit card types */
-"menu.type." = "";
+
 "menu.type.visa" = "VISA";
+
 "menu.type.mc" = "MasterCard";
+
 "menu.type.amex" = "American Express";
+
 "menu.type.diners" = "Diners Club";
+
 "menu.type.discover" = "Discover";
+
 "menu.type.jcb" = "JCB";
+
 "menu.type.solo" = "Solo";
+
 "menu.type.switch" = "Switch";
+
 "menu.type.maestro" = "MasterCard Maestro";
+
 "menu.type.visaelectron" = "VISA Electron";
+
 "menu.type.carteblanche" = "Carte Blanche";

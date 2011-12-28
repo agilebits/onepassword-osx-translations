@@ -1,0 +1,25 @@
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "password hint"; ObjectID = "44"; */
+
+/* Class = "NSWindow"; title = "Welcome to 1Password"; ObjectID = "1"; */
+
+/* Class = "NSTextFieldCell"; title = "Re-type Password"; ObjectID = "88"; */
+
+/* Class = "NSTextFieldCell"; title = "Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place."; ObjectID = "78"; */
+
+/* Class = "NSButtonCell"; title = "Sync encrypted data with Dropbox"; ObjectID = "113"; */
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "master password"; ObjectID = "32"; */
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "86"; */
+
+/* Class = "NSButtonCell"; title = "Find It"; ObjectID = "107"; */
+
+/* Class = "NSTextFieldCell"; title = "Password Hint"; ObjectID = "90"; */
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "109"; */
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "7"; */
+
+/* Class = "NSTextFieldCell"; title = "Have information from a previous installation?"; ObjectID = "105"; */
+
+/* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "re-type password"; ObjectID = "38"; */
