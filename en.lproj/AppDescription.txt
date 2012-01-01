@@ -3,6 +3,9 @@
 NOTE: for existing 1Password 3.8 users. For better results, please delete the old copy of 1Password before installing the version from the Mac App Store. 
 
 ★ 1Password has won just about every award under the Sun! ★ 
+- Mac App Store: Best Apps of 2011
+- MacStories Apps of 2011: Reader’s Choice Winner
+- Cult of Mac: 10 Most Innovative Apps of 2011
 - Macworld 2010 Eddy Award Winner 
 - Scored 4.5/5 Mice in a Macworld review 
 - Mac|Life Editor’s Choice with a rating of “Awesome!” 
