@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; title = "Welcome to"; ObjectID = "4"; */
+"Welcome to" = "Velkommen til";
+
+/* Class = "NSButtonCell"; title = "I have already used 1Password"; ObjectID = "20"; */
+"I have already used 1Password" = "Jeg har allerede brukt 1Password";
+
+/* Class = "NSWindow"; title = "Welcome to 1Password"; ObjectID = "1"; */
+"Welcome to 1Password" = "Velkommen til 1Password";
+
+/* Class = "NSTextFieldCell"; title = "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID = "10"; */
+"To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "For å komme igang trenger vi å sette opp et hovedpassord. Hvis du allerede har gjort dette, klikker du \"Jeg har allerede brukt  1Password\"-knappen.";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "new data file"; ObjectID = "15"; */
+"new data file" = "Ny datafil";
+
+/* Class = "NSTextFieldCell"; title = "1Password"; ObjectID = "6"; */
+"1Password" = "1Password";
+
+/* Class = "NSButtonCell"; title = "I am a new user"; ObjectID = "18"; */
+"I am a new user" = "Jeg er en ny bruker";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "29"; */
+"help" = "help";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "find existing"; ObjectID = "13"; */
+"find existing" = "finne eksisterende";

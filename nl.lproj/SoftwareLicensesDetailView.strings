@@ -1,0 +1,44 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "5025"; */
+"Tags" = "Tags";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4881"; */
+"Attachments" = "Bijlagen";
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
+"License Key:" = "Licentiesleutel:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
+"title" = "titel";
+
+/* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
+"View Version" = "Bekijk versie";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
+"Created on" = "Gemaakt op";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4509"; */
+"tags" = "tags";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4939"; */
+"Notes" = "Notities";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5066"; */
+"Title" = "Titel";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
+"Version Number" = "Versie Nummer";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
+"license key" = "licentie sleutel";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
+"version" = "versie";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "icon"; ObjectID = "3918"; */
+"icon" = "pictogram";
+
+/* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
+"Edit Version" = "Bewerk versie";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */
+"Last modified" = "Laatst bewerkt";

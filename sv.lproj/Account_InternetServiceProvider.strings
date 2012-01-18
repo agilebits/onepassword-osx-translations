@@ -1,15 +1,27 @@
+"__title__" = "Internetleverantör";
 
+"__description__" = "Anslutningsinformation som tillhandahålls av din internetleverantör (ISP) för att ansluta till Internet.";
 
+"userid" = "Användar-ID";
 
+"password" = "Lösenord";
 
 "pin" = "PIN-kod";
 
+"dialup_number" = "Modemnummer";
 
+"dialup_number#9" = "Modemnr.";
 
+"Contact Information" = "Kontaktinformation";
 
+"Contact Information#9" = "Kontakt";
 
 "website" = "Webbplats";
 
+"phone_local" = "Telefon (fast)";
 
+"phone_local#9" = "Telefon";
 
+"phone_tollfree" = "Telefon (avgiftsfritt)";
 
+"phone_tollfree#9" = "Avgiftsfritt";

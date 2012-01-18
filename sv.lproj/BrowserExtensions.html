@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="UTF-8" />
-	<title></title>
+	<title>Browser Extensions Inro</title>
 	<link rel="stylesheet" href="../BrowserExtensions.css" />
 </head>
 <!--body classes = intro/helper/install-->
 <body class="">
     
-    <div style="display:none" id="text.installed"></div>
-    <div style="display:none" id="html.install"><a href='#'></a></div>
+    <div style="display:none" id="text.installed">Installerat</div>
+    <div style="display:none" id="html.install"><a href='#'>Installera</a></div>
 
     <script>
         if (document.location.search.indexOf("install") > 0) {
@@ -24,44 +24,44 @@
     <section id="intro">
         <header>
             <img src="../header-icon.png" alt="" />
-            <h1></h1>
-            <p></p>
+            <h1>Installera webbläsartillägg</h1>
+            <p>Njut av verklig integration med din webbläsare.</p>
         </header>
         <ul>
             <li><img src="../intro-logins.png" alt="" />
-                <p></p></li>
+                <p><strong>Spara automatiskt och fylla i webbplatsen inloggningar.</strong> Den kommer att upptäcka när du loggar in på en webbplats och du uppmanas att spara den nya inloggningen för att använda senare.</p></li>
             <li><img src="../intro-identities.png" alt="" />
-                <p></p></li>
+                <p><strong>Fyll adresser, kontaktinformation, forum, och mer.</strong> Du kan spara allt eller något av denna information i en 1Password identitet, och du kan skapa så många identiteter som du vill.</p></li>
             <li><img src="../intro-credit-cards.png" alt="" />
-                <p></p></li>
+                <p><strong>Fyll enkelt i kreditkort när du handlar online.</strong> Shoppa mer bekvämt och skydda ditt kreditkortsnummer genom att lagra dem lokalt i krypterade 1Passwords plånbok.</p></li>
             <li><img src="../intro-generator.png" alt="" />
-                <p></p></li>
+                <p><strong>Generera oerhört starka lösenord</strong> medan 1Password kommer ihåg alla lösenord så att du slipper. Dagar med att använda ditt husdjurs namn eller årsdagar är långt borta.</p></li>
         </ul>
-        <button onclick="document.body.className='helper'"></button>
+        <button onclick="document.body.className='helper'">Låt oss sätta igång!</button>
     </section>
         
     <section id="helper">
-        <h1></h1>
-        <p></p>
+        <h1>1Password Helper</h1>
+        <p>Helper kommer att köras i menyraden.</p>
         
-        <img src="../helper.png" alt="" />
+        <img src="../helper.png" alt="1Password Helper i menyraden" />
         
-        <p></p>
+        <p>Den kommer att hålla dina webbläsare <strong>synkroniserade</strong>, låter dig använda <strong>kortkommandon, </strong><strong>lås</strong> och <strong>lås upp</strong> 1Password och automatiskt <strong>säkerhetskopiera</strong> din data även när 1Password är stängd.</p>
 
-        <button onclick="controller.enableHelper(); document.body.className='install';"></button>
+        <button onclick="controller.enableHelper(); document.body.className='install';">Aktivera Helper och fortsätt</button>
     </section>
         
     <section id="install">
-        <h1></h1>
+        <h1>Webbläsartillägg</h1>
         <ul class="buttons">
             <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
-                <h2></h2><span id="safari.msg"></span></li>
+                <h2>Safari</h2><span id="safari.msg">Installerat</span></li>
             <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
-                <h2></h2><span id="chrome.msg"><a href="#"></a></span></li>
+                <h2>Chrome</h2><span id="chrome.msg"><a href="#">Installera</a></span></li>
             <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
-                <h2></h2><span id="firefox.msg"><a href="#"></a></span></li>
+                <h2>Firefox</h2><span id="firefox.msg"><a href="#">Installera</a></span></li>
         </ul>
-        <footer><a href="#" onclick="controller.showSettings()"></a><a href="#" onclick="controller.showUserGuide()"></a></footer>
+        <footer><a href="#" onclick="controller.showSettings()">Inställningar</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Användarguide</a></footer>
     </section>
         
     </body>

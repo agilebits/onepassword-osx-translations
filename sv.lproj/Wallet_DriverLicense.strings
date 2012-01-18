@@ -1,18 +1,36 @@
+"__title__" = "Körkort";
+
+"fullname" = "Fullständigt namn";
+
+"address" = "Adress";
+
+"birthdate" = "Födelsedatum";
+
+"birthdate#9" = "Födelsedag";
+
+"sex" = "Kön";
+
+"height" = "Längd";
+
+"number" = "Nummer";
+
+"class" = "Körkortsklass";
+
+"class#9" = "Klass";
+
+"conditions" = "Villkor / begränsningar";
+
+"conditions#9" = "Villkor";
+
+"state" = "Landskap";
+
+"country" = "Land";
+
+"expiry_date" = "Utgångsdatum";
+
+"expiry_date#9" = "Upphör att gälla";
 
 
+"menu.sex.male" = "Man";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"menu.sex.female" = "Kvinna";

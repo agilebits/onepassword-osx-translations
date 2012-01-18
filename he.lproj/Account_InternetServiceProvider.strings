@@ -1,0 +1,27 @@
+"__title__" = "ספק אינטרנט";
+
+"__description__" = "פרטי חיבור לאינטרנט שסופקו על-ידי ספק שירותי האינטרנט.";
+
+"userid" = "מזהה משתמש";
+
+"password" = "Password";
+
+"pin" = "PIN";
+
+"dialup_number" = "מספר גישה בחיוג";
+
+"dialup_number#9" = "Dialup #";
+
+"Contact Information" = "פרטי איש קשר";
+
+"Contact Information#9" = "איש קשר";
+
+"website" = "אתר אינטרנט";
+
+"phone_local" = "טלפון (מקומי)";
+
+"phone_local#9" = "טלפון";
+
+"phone_tollfree" = "טלפון (שיחת חינם)";
+
+"phone_tollfree#9" = "שיחת חינם";

@@ -1,0 +1,44 @@
+"__title__" = "Draadloze Router";
+
+"__description__" = "Accountgegevens voor uw AirPort Extreme of andere draadloze Routers.";
+
+"network_name" = "Netwerknaam";
+
+"network_name#9" = "Netwerk";
+
+"name" = "Naam basisstation";
+
+"name#9" = "Station";
+
+"password" = "Wachtwoord basisstation";
+
+"password#9" = "Wachtwoord";
+
+"server" = "Server / IP adres";
+
+"server#9" = "IP-adres";
+
+"airport_id" = "AirPort-ID";
+
+"wireless_security" = "Draadloze beveiliging";
+
+"wireless_security#9" = "Veiligheid";
+
+"wireless_password" = "Draadloze netwerkwachtwoord";
+
+"wireless_password#9" = "Netwerk Pw";
+
+"disk_password" = "Bijgevoegde opslag wachtwoord";
+
+"disk_password#9" = "Opslag Pw";
+
+
+"menu.wireless_security.none" = "Geen beveiliging";
+
+"menu.wireless_security.wep" = "WEP";
+
+"menu.wireless_security.wpa" = "WPA";
+
+"menu.wireless_security.wpa2p" = "WPA2 persoonlijk";
+
+"menu.wireless_security.wpa2e" = "WPA2 bedrijfsniveau";

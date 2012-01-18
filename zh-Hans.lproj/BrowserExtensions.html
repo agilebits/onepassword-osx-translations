@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="UTF-8" />
-	<title></title>
+	<title>Browser Extensions Inro</title>
 	<link rel="stylesheet" href="../BrowserExtensions.css" />
 </head>
 <!--body classes = intro/helper/install-->
 <body class="">
     
-    <div style="display:none" id="text.installed"></div>
-    <div style="display:none" id="html.install"><a href='#'></a></div>
+    <div style="display:none" id="text.installed">已安装</div>
+    <div style="display:none" id="html.install"><a href='#'>安装</a></div>
 
     <script>
         if (document.location.search.indexOf("install") > 0) {
@@ -25,43 +25,43 @@
         <header>
             <img src="../header-icon.png" alt="" />
             <h1>安装浏览器扩展</h1>
-            <p></p>
+            <p>享受与浏览器真正的一体化结合。</p>
         </header>
         <ul>
             <li><img src="../intro-logins.png" alt="" />
-                <p></p></li>
+                <p><strong>自动保存并填写网站登录信息。</strong>当您登录到网站时会自动检测并提示您保存新的登录信息以供将来使用。</p></li>
             <li><img src="../intro-identities.png" alt="" />
-                <p></p></li>
+                <p><strong>填写地址、 联系信息、 论坛以及更多。</strong>您可以在一个 1Password 身份信息中保存所有或部分的此类信息，您可以根据您的喜好创建任意数量的身份信息。</p></li>
             <li><img src="../intro-credit-cards.png" alt="" />
-                <p></p></li>
+                <p><strong>网上购物时轻松填写信用卡。</strong>购物更加方便,并且将信用卡号码本地存储在加密的 1Password 钱包中,确保您信用卡号码的安全。</p></li>
             <li><img src="../intro-generator.png" alt="" />
-                <p></p></li>
+                <p><strong>生成非常强大的密码</strong>  1Password 完全可以代替您记住所有的密码。使用您的宠物的名字或周年纪念日作为密码的时代早已成为过去。</p></li>
         </ul>
-        <button onclick="document.body.className='helper'"></button>
+        <button onclick="document.body.className='helper'">开始使用吧！</button>
     </section>
         
     <section id="helper">
-        <h1></h1>
-        <p></p>
+        <h1>1Password 助手</h1>
+        <p>助手程序将运行并显示在菜单栏中。</p>
         
-        <img src="../helper.png" alt="" />
+        <img src="../helper.png" alt="菜单栏中的 1Password 助手" />
         
-        <p></p>
+        <p>将会<strong>同步</strong>保持您的浏览器， 让您使用<strong>键盘</strong>快捷键，<strong>锁定</strong>和<strong>解锁</strong> 1Password，并且即使 1Password 关闭后也能自动<strong>备份</strong>您的数据。</p>
 
-        <button onclick="controller.enableHelper(); document.body.className='install';"></button>
+        <button onclick="controller.enableHelper(); document.body.className='install';">启用助手并继续</button>
     </section>
         
     <section id="install">
-        <h1></h1>
+        <h1>Web 浏览器扩展</h1>
         <ul class="buttons">
             <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
-                <h2></h2><span id="safari.msg"></span></li>
+                <h2>Safari</h2><span id="safari.msg">已安装</span></li>
             <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
-                <h2></h2><span id="chrome.msg"><a href="#"></a></span></li>
+                <h2>Chrome</h2><span id="chrome.msg"><a href="#">安装</a></span></li>
             <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
-                <h2></h2><span id="firefox.msg"><a href="#"></a></span></li>
+                <h2>Firefox</h2><span id="firefox.msg"><a href="#">安装</a></span></li>
         </ul>
-        <footer><a href="#" onclick="controller.showSettings()"></a><a href="#" onclick="controller.showUserGuide()"></a></footer>
+        <footer><a href="#" onclick="controller.showSettings()">偏好设置</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">用户指南</a></footer>
     </section>
         
     </body>

@@ -1,29 +1,44 @@
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "5025"; */
+"Tags" = "Tagi";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4881"; */
+"Attachments" = "Załączniki";
 
 /* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
+"License Key:" = "License Key:";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
+"title" = "tytuł";
 
 /* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
+"View Version" = "View Version";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
+"Created on" = "Utworzone";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4509"; */
+"tags" = "tagi";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4939"; */
+"Notes" = "Notatki";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5066"; */
+"Title" = "Tytuł";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
+"Version Number" = "Version Number";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
+"license key" = "license key";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
+"version" = "wersja";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "icon"; ObjectID = "3918"; */
+"icon" = "ikona";
 
 /* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
+"Edit Version" = "Edit Version";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */
+"Last modified" = "Ostatnio zmieniane";

@@ -1,0 +1,23 @@
+"__title__" = "MobileMe";
+
+"__description__" = "Apple MobileMe 服務註冊與登錄資訊";
+
+"email" = "電子郵件 (name@me.com)";
+
+"email#9" = "電子郵件帳號";
+
+"member_name" = "會員";
+
+"password" = "密碼";
+
+"idisk_storage" = "iDisk 可用的儲存空間";
+
+"idisk_storage#9" = "容量";
+
+"renewal_date" = "續訂日期";
+
+"renewal_date#9" = "續訂";
+
+"activation_key" = "啟用金鑰";
+
+"activation_key#9" = "啟用";

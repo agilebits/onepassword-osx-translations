@@ -1,0 +1,41 @@
+1Password 是您的密码和身份助手。 1Password 超越了以往简单的密码存储，因为它可直接配合您的浏览器使用以保存您的用户名和密码，并可轻而易举地为各个站点创建独特的强密码。 随后 1Password 可自动且安全地让您进行登录、输入信用卡信息以及填写注册表单，而您仅需记住一个密码即可加密您所有的信息。 
+
+注意：对于使用 1Password 3.8 的用户， 为了获得更好的使用体验，请在从 Mac App Store 安装本版本之前删除旧版本的 1Password。 
+
+★ 1Password 几乎赢得了业界所有的奖项！ ★
+ - Mac App Store: Best Apps of 2011
+- Macworld 2010 Eddy 奖获得者
+ - MacStories Apps of 2011: Reader’s Choice Winner
+- 在 Macworld 评测中获得 4.5 分（总分 5 分）
+ - Cult of Mac: 10 Most Innovative Apps of 2011
+- Mac|Life 编辑推荐奖，并获得了该杂志““真棒！”的评价.
+ 
+别急，还有更多！ 1Password 可以让您轻而易举地：
+ 
+- 在同一站点使用不同的登录信息
+ - 创建多项身份标识，用于填写注册表单、调查问卷和购物车信息
+ - 可使你的数据在 Mac、iPhone、iPad 与 Dropbox 间进行安全的云端数据同步，或在本地通过 Wi-Fi 进行同步
+ - 在安全备注中存储其他敏感信息
+ - 保存软件许可和收据信息
+ - 使用标签和文件夹进行数据组织
+ 
+本版本的 1Password 进行了重新设计，充分利用了 OS X Lion 系统的强大功能，例如：
+ 
+- 全屏模式
+ - 兼容 Lion 系统的沙盒，更加安全
+ - 使用 PBKDF2 校准，安全性进一步增强
+ - 支持 64 位，用户体验更为迅捷
+ 
+本版本还提供：
+ - **新**从菜单栏快速访问您的数据
+ - 对浏览器扩展的增强支持
+ 
+
+我们为 iPhone、iPod touch 和 iPad 提供了 1Password 移动版本。 使用 Wi-Fi 或在云端通过 Dropbox 进行同步和更新，只需指尖轻按，您的信息就会出现。 
+
+-------------------------------
+ 
+支持备注 1：我们收到了一些在安装 1Password 时进入“欢迎”屏幕后就无法继续的报告。  如果您遇到此问题，请参阅我们支持站点上的文章“1Password fails to continue after the initial welcome screen” (1Password 在进入初始欢迎屏幕后无法继续)。  
+
+
+客户支持备注 2：我们期待您的反馈。 请注意，我们无法在 Mac App Store 上回复您的评论。 如果您有任何问题， 请从我们的支持站点联系我们。 谢谢！

@@ -1,0 +1,41 @@
+1Password est le compagnon de vos identités et vos mots de passe. Il dépasse le simple stockage de mots de passe, car 1Password travaille directement avec votre navigateur, enregistre vos noms d'utilisateur et mots de passe et crée sans effort des mots de passe sécurisés et uniques pour chaque site. 1Password peut ensuite vous identifier automatiquement et de manière sécurisée, entrez les informations de carte de crédit et remplir les formulaires d'inscription, tout en les cryptant avec le seul mot de passe dont vous devez vous souvenir. 
+
+NOTE: pour les utilisateurs actuels de 1Password 3.8. Pour de meilleurs résultats, veuillez supprimer l'ancienne version de 1Password avant d'installer la version du Mac App Store. 
+
+★ 1Password a remporté presque tous les prix sous le soleil ! ★
+ - Mac App Store: Best Apps of 2011
+- Gagnant d'un prix Eddy Award à Macworld 2010
+ - MacStories Apps of 2011: Reader’s Choice Winner
+- Noté 4.5/5 Souris dans une revue Macworld
+ - Cult of Mac: 10 Most Innovative Apps of 2011
+- Choix de l'éditeur de Mac|Life avec une note de « Impressionnant! »
+ 
+Mais attendez, il y a plus ! 1Password rend facile de :
+ 
+- Utiliser de multiples identifiants pour le même site
+ - Créer de multiples identifiants pour le remplissage des formulaires d'inscription, des sondages et panier d'achats
+ - Synchroniser de manière sécurisée et sans-fil vos données entre Mac, iPhone et iPads via DropBox, ou localement en Wi-Fi
+ - Stocker d'autres informations sensibles dans les Notes Sécurisées
+ - Enregistrer des licences de logiciels et des reçus
+ - Organiser le tout avec des étiquettes et des dossiers
+ 
+Cette nouvelle version de 1Password a été repensée pour exploiter les fonctionnalités incontournables dans OS X Lion, telles que :
+ 
+- Le mode plein écran
+ - Amélioration de la sécurité avec la compatibilité du bac à sable dans Lion
+ - Encore plus de sécurité avec la calibration PBKDF2
+ - Prise en charge du 64-bit pour une expérience sans anicroches
+ 
+Cette version fournit également :
+ - ** Nouveau ** un accès rapide à vos données depuis la barre de menu
+ - Support des extensions de navigateurs amélioré
+ 
+
+Des versions mobiles de 1Password sont disponibles pour iPhone, iPod touch et iPad. Synchroniser et mettre à jour via Wi-Fi ou sans-fil via DropBox afin que vos informations soient toujours à portée de mains. 
+
+-------------------------------
+ 
+NOTE DE SUPPORT # 1: Nous avons eu plusieurs remontées sur le fait de ne pas être en mesure de passer l'écran de bienvenue lors de l'installation de 1Password. Si vous rencontrez ce problème, consultez l'article « 1Password ne parvient pas à poursuivre après l'écran de bienvenue initial » sur notre site de support. 
+
+
+NOTE DE SUPPORT #2: Nous aimons entendre vos commentaires et avis. N'oubliez pas, nous ne pouvons répondre à vos commentaires dans le Mac App Store. Si vous avez des questions, veuillez nous contacter par notre site de support. Merci !

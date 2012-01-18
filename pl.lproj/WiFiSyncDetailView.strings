@@ -1,25 +1,38 @@
 /* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
+"Last synced" = "Ostatnio synchronizowane";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
+"title" = "tytuł";
 
 /* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Uruchom i odblokuj 1Password touch, by  dokonać synchronizacji Wi-Fi";
 
 /* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
+"Sync all items" = "Synchronizuj wszystkie elementy";
 
 /* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
+"Sync only selected folders" = "Synchronizuj tylko wybrane foldery";
 
 /* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
+"Wi-Fi Status" = "Stan Wi-Fi";
 
 /* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "Gdy opcja jest zaznaczona, 1Password zamieni informacje na tym iPhone informacjami z tego komputera.";
 
 /* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
+"Replace information on this iPhone" = "Zastąp informacje na tym iPhone";
 
 /* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
+"Manually" = "Ręcznie";
 
 /* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
+"Sync Now" = "Synchronizuj teraz";
 
 /* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
+"Device type" = "Typ urządzenia";
 
 /* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
+"Automatically" = "Automatycznie";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
+"Wi-Fi status" = "Stan Wi-Fi";

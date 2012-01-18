@@ -1,0 +1,35 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4901"; */
+"Tags" = "Tags";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4842"; */
+"Attachments" = "Vedhæftede filer";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4936"; */
+"Display" = "Skærm";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Photograph"; ObjectID = "4905"; */
+"Photograph" = "Fotografi";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "name"; ObjectID = "4582"; */
+"name" = "navn";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2888"; */
+"Created on" = "Oprettet den";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4440"; */
+"tags" = "tags";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4893"; */
+"Notes" = "Noter";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "4935"; */
+"Always" = "Always";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Name"; ObjectID = "4921"; */
+"Name" = "Navn";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4933"; */
+"Never Display in Browser" = "Never Display in Browser";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2887"; */
+"Last modified" = "Senest ændret";

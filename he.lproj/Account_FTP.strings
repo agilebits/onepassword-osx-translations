@@ -1,0 +1,29 @@
+"__title__" = "חשבון FTP";
+
+"__description__" = "פרטי התחברות עבור חשבונות FTP.";
+
+"server" = "שרת";
+
+"path" = "Path";
+
+"username" = "שם משתמש";
+
+"password" = "Password";
+
+"Contact Information" = "פרטי איש קשר";
+
+"Contact Information#9" = "איש קשר";
+
+"provider" = "ספק";
+
+"provider_website" = "אתר האינטרנט של הספק";
+
+"provider_website#9" = "אתר אינטרנט";
+
+"phone_tollfree" = "מספר טלפון (שיחת חינם)";
+
+"phone_tollfree#9" = "שיחת חינם";
+
+"phone_local" = "מספר טלפון (מקומי)";
+
+"phone_local#9" = "טלפון";

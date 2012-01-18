@@ -1,5 +1,8 @@
 /* Class = "NSButtonCell"; title = "Don't show this message again"; ObjectID = "30"; */
+"Don't show this message again" = "Visa inte det här meddelandet igen";
 
 /* Class = "NSTextFieldCell"; title = "Small System Font Text"; ObjectID = "26"; */
+"Small System Font Text" = "Litet systemteckensnitt";
 
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "28"; */
+"OK" = "OK";

@@ -1,0 +1,41 @@
+1Password is your password and identity companion. It leaps past simple password storage because 1Password works directly with your browser, saves your user names and passwords, and effortlessly creates strong, unique passwords for each site. 1Password potrafi następnie automatycznie i bezpiecznie zalogować cie, wprowadzić dane do karty kredytowej, oraz wypełnić formularz logowania, a wszystko to podczas gdy te informacje są zabezpieczone jedynym głównym hasłem, które musisz pamiętać. 
+
+INFO: dla bieżących użytkowników 1Password 3.8. Dla lepszych rezultatów, proszę skasuj starą kopię 1Password przed zainstalowaniem jej z Mac App Store. 
+
+★ 1Password zdobyło dotychczas prawie każdą nagrodę pod słońcem! ★
+ - Mac App Store: Best Apps of 2011
+- Macworld 2010 Eddy Award Winner
+ - MacStories Apps of 2011: Reader’s Choice Winner
+- Scored 4.5/5 Mice in a Macworld review
+ - Cult of Mac: 10 Most Innovative Apps of 2011
+- Mac|Life Editor’s Choice with a rating of “Awesome!”
+ 
+Chwileczka, to nie wszystko! 1Password upraszcza:
+ 
+- Używaj wielu loginów dla tej samej strony
+ - Stwórz wiele szablonów danych osobowych do wypełnienia podczas rejestracji, wypełniania ankiet lub kupowania w sklepach
+ - Bezpiecznie synchronizuj swoje dane bezprzewodowo pomiędzy Makami, iPhonami oraz iPadami poprzez Dropbox'a albo lokalnie poprzez Wi-Fi
+ - Przechowuj inne ważne informacje w "Bezpiecznych notatkach"
+ - Zapisz licencje do programów i rachunki
+ - Uporządkuj wszystko za pomocą tagów i folderów
+ 
+Ta nowa wersja 1Password została przebudowana aby umożliwić korzystanie z świetnych możliwości OS X Lion'a, takich jak:
+ 
+- Tryb pełnoekranowy
+ - Lepsze bezpieczeństwo dzięki wsparciu "piaskownicy" w Lionie
+ - Nawet bardziej bezpieczny z PBKDF2 Calibration
+ - 64-bit support for a zippy experience
+ 
+Ta wersja zapewnia także:
+ - **Nowość** Szyki dostęp do twoich danych z paska menu
+ - Poprawiono wsparcie dla dodatków przeglądarek internetowych
+ 
+
+Mobilne wersje 1Password są dostępne także na iPhona, iPoda Touch oraz iPada. Synchronizuj i aktualizuj poprzez Wi-Fi lub w chmurze poprzez Dropbox dzięki czemu twoje informacje są zawsze na wyciągnięcie reki. 
+
+-------------------------------
+ 
+SUPPORT NOTE #1: We got several reports about not being able to get past the Welcome screen when installing 1Password. If you encounter this issue, please see the "1Password fails to continue after the initial welcome screen" article on our support site. 
+
+
+SUPPORT NOTE #2: We love to hear your feedback. Please remember, we cannot reply to your comments in Mac App Store. Jeśli masz pytanie skontaktuj się z nami poprzez naszą stronę wsparcia. Dziękujemy!

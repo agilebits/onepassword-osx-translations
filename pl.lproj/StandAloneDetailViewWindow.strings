@@ -1,5 +1,8 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "10"; */
+"Cancel" = "Anuluj";
 
 /* Class = "NSButtonCell"; title = "Move to Trash"; ObjectID = "24"; */
+"Move to Trash" = "Przenieś do kosza";
 
 /* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "8"; */
+"Save Changes" = "Zapisz zmiany";

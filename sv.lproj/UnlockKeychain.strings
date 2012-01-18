@@ -1,9 +1,14 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "166"; */
+"Cancel" = "Avbryt";
 
 /* Class = "NSTextFieldCell"; title = "... unlock reason message will be displayed here..."; ObjectID = "169"; */
+"... unlock reason message will be displayed here..." = "... anledningen till upplåsning kommer att visas här...";
 
 /* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "165"; */
+"Unlock" = "Lås upp";
 
 /* Class = "NSWindow"; title = "Unlock 1Password"; ObjectID = "84"; */
+"Unlock 1Password" = "Lås upp 1Password";
 
 /* Class = "NSTextFieldCell"; title = "Master Password:"; ObjectID = "164"; */
+"Master Password:" = "Huvudlösenord:";

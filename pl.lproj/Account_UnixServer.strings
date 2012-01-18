@@ -1,20 +1,41 @@
+"__title__" = "Serwer";
 
+"__description__" = "Informacje o koncie dla dedykowanych serwerów Linux czy FreeBSD, systemów VPS itd.";
 
+"url" = "Adres URL";
 
+"username" = "Nazwa użytkownika";
 
+"password" = "Hasło";
 
+"hosting_provider_details" = "Szczegóły dostawcy Internetu";
 
+"hosting_provider_details#9" = "Dostawca";
 
+"admin_console" = "Konsola administracyjna";
 
+"admin_console#9" = "Konsola";
 
+"admin_console_url" = "URL konsoli administratora";
 
+"admin_console_url#9" = "Adres URL konsoli";
 
+"admin_console_username" = "Nazwa użytkownika konsoli administratora";
 
+"admin_console_username#9" = "Użytkownik konsoli";
 
+"admin_console_password" = "Hasło konsoli";
 
+"admin_console_password#9" = "Hasło konsoli";
 
+"name" = "Nazwa";
 
+"website" = "Witryna";
 
+"support_contact_url" = "Adres URL pomocy technicznej";
 
+"support_contact_url#9" = "Adres URL pomocy";
 
+"support_contact_phone" = "Numer telefonu wsparcia";
 
+"support_contact_phone#9" = "Wsparcie";

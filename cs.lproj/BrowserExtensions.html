@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Info rozšíření prohlížeče</title>
+	<link rel="stylesheet" href="../BrowserExtensions.css" />
+</head>
+<!--body classes = intro/helper/install-->
+<body class="">
+    
+    <div style="display:none" id="text.installed">Nainstalováno</div>
+    <div style="display:none" id="html.install"><a href='#'>Nainstalovat</a></div>
+
+    <script>
+        if (document.location.search.indexOf("install") > 0) {
+            document.body.className = "install";
+        }
+        else {
+            document.body.className = "intro";
+        }
+    </script>
+        
+
+    <section id="intro">
+        <header>
+            <img src="../header-icon.png" alt="" />
+            <h1>Install Browser Extensions</h1>
+            <p>Užijte si skutečné propojení s webovými prohlížeči.</p>
+        </header>
+        <ul>
+            <li><img src="../intro-logins.png" alt="" />
+                <p><strong>Automaticky ukládá a vyplňuje přihlášení na webové stránky.</strong> Zjistí, když se přihlašujete a zeptá se vás na uložení nového přihlášení pro pozdější použítí.</p></li>
+            <li><img src="../intro-identities.png" alt="" />
+                <p><strong>Vyplňte adresu, kontaktní informace, fóra a další.</strong> Můžete uložit všechny nebo jen některé z těchto informací v 1Password identitě a můžete vytvořit tolik identit, kolik potřebujete.</p></li>
+            <li><img src="../intro-credit-cards.png" alt="" />
+                <p><strong>Snadno vyplňte kreditní karty při nákupech online.</strong> Nakupujte snadněji a uchovejte bezpečně čísla vašich kreditních karet  v místně ukládáné zašifrované 1Password peněžence.</p></li>
+            <li><img src="../intro-generator.png" alt="" />
+                <p><strong>Generujte neuvěřitelně silná hesla,</strong> 1Password si pamatuje všechny vaše hesla, takže Vy nebudete muset. Dny, kdy jste používali jako heslo jméno vašeho mazlíčka nebo datum výročí, jsou už dávno pryč.</p></li>
+        </ul>
+        <button onclick="document.body.className='helper'">Pojďme začít!</button>
+    </section>
+        
+    <section id="helper">
+        <h1>Pomocník 1Password</h1>
+        <p>Pomocník bude spuštěn v řádce nabídek.</p>
+        
+        <img src="../helper.png" alt="1Password pomocník v řádce nabídek" />
+        
+        <p>Bude udržovat vaše prohlížeče <strong>synchronizované</strong>, umožní používat <strong>klávesové</strong> zkratky, <strong>zamkne</strong> a <strong>odemkne</strong> 1Password a automaticky <strong>bude zálohovat</strong> vaše data i v případě, že je 1Password vypnut.</p>
+
+        <button onclick="controller.enableHelper(); document.body.className='install';">Povolit pomocníka a pokračovat</button>
+    </section>
+        
+    <section id="install">
+        <h1>Rozšíření webového prohlížeče</h1>
+        <ul class="buttons">
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+                <h2>Safari</h2><span id="safari.msg">Nainstalováno</span></li>
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+                <h2>Chrome</h2><span id="chrome.msg"><a href="#">Nainstalovat</a></span></li>
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+                <h2>Firefox</h2><span id="firefox.msg"><a href="#">Nainstalovat</a></span></li>
+        </ul>
+        <footer><a href="#" onclick="controller.showSettings()">Předvolby</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Uživatelská příručka</a></footer>
+    </section>
+        
+    </body>
+    
+    <script>
+        function updateBrowser(elementID, bundleID) {
+            var el = document.getElementById(elementID);
+            el.style.display = controller.isApplicationAvailable_(bundleID) ? '' : 'none';
+
+            if (controller.isExtensionInstalled_(bundleID)) {
+                el.className = 'installed';
+                document.getElementById(elementID + ".msg").innerText = document.getElementById("text.installed").innerText;
+            }
+            else {
+                el.className = '';
+                document.getElementById(elementID + ".msg").innerHTML = document.getElementById("html.install").innerHTML;
+            }
+        }
+        
+        updateBrowser("safari", "com.apple.Safari");
+        updateBrowser("chrome", "com.google.Chrome");
+        updateBrowser("firefox", "org.mozilla.firefox");
+    </script>
+
+</html>

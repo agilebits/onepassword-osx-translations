@@ -1,25 +1,38 @@
 /* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
+"Last synced" = "أخر مزامنة";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
+"title" = "عنوان";
 
 /* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "قم بإعادة تشغيل وفتح 1Password touch على الآيفون الخاص بك لعمل مزامنة عبر الواي فاي";
 
 /* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
+"Sync all items" = "مزامنة جميع العناصر";
 
 /* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
+"Sync only selected folders" = "مزامنة المجلدات المحددة فقط";
 
 /* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
+"Wi-Fi Status" = "حالة الواي فاي";
 
 /* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "عند التأكد، 1Password سيقوم بإستبدال جميع المعلومات على هذا الآيفون بالمعلومات الموجودة بالكمبيوتر.";
 
 /* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
+"Replace information on this iPhone" = "إستبدال المعلومات على هذا الآيفون";
 
 /* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
+"Manually" = "يدوياً";
 
 /* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
+"Sync Now" = "مزامنة الأن";
 
 /* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
+"Device type" = "نوع الجهاز";
 
 /* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
+"Automatically" = "تلقائياً";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
+"Wi-Fi status" = "حالة الواي فاي";

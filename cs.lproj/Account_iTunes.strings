@@ -1,0 +1,17 @@
+"__title__" = "iTunes";
+
+"__description__" = "informace o účtu aplikace iTunes.";
+
+"username" = "Apple ID (email)";
+
+"username#9" = "E-mail";
+
+"password" = "Heslo";
+
+"question" = "Bezpečnostní otázka";
+
+"question#9" = "Bezpečnostní otázka";
+
+"answer" = "Bezpečnostní odpověď";
+
+"answer#9" = "Bezpečnostní otázka";

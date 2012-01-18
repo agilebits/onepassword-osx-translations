@@ -1,0 +1,20 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "16"; */
+"Cancel" = "Cancelar";
+
+/* Class = "NSTextFieldCell"; title = "If your Mac cannot find the iPhone using Bonjour service then you can enter the address information manually.\n\nIn 1Password touch, select Settings > Wi-Fi Sync > Advanced and type the shown IP Address and Port."; ObjectID = "4"; */
+"If your Mac cannot find the iPhone using Bonjour service then you can enter the address information manually.\n\nIn 1Password touch, select Settings > Wi-Fi Sync > Advanced and type the shown IP Address and Port." = "Caso seu Mac não encontre o iPhone usando o serviço Bonjour então você pode colocar a informação de endereço manualmente.\n\nEm 1Password touch, escolha Settings > Wi-Fi Sync > Advanced e digite o Endereço IP e Porta mostrados.";
+
+/* Class = "NSTextFieldCell"; title = "65535"; ObjectID = "10"; */
+"65535" = "65535";
+
+/* Class = "NSTextFieldCell"; title = "999.999.999.999"; ObjectID = "6"; */
+"999.999.999.999" = "999.999.999.999";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "14"; */
+"Add" = "Adicionar";
+
+/* Class = "NSTextFieldCell"; title = "IP Address:"; ObjectID = "8"; */
+"IP Address:" = "Endereço IP:";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "12"; */
+"Port:" = "Porta:";

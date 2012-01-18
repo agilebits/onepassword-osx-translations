@@ -1,10 +1,21 @@
+"__title__" = "Jaktlicens";
 
+"name" = "Fullständigt namn";
 
+"valid_from" = "Giltig från";
 
+"valid_from#9" = "Giltig";
 
+"expires" = "Upphör att gälla";
 
+"game" = "Godkända viltdjur";
 
+"game#9" = "Viltdjur";
 
+"quota" = "Högsta kvot";
 
+"quota#9" = "Kvot";
 
+"state" = "Landskap";
 
+"country" = "Land";

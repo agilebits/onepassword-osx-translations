@@ -1,37 +1,67 @@
+"__title__" = "Programvarulicens";
 
+"__description__" = "Programvarulicens, registreringskod eller serienummer.";
 
+"product_name" = "Produktnamn";
 
+"product_version" = "Version";
 
+"reg_name" = "Licensierad till";
 
+"reg_code" = "Licensnyckel";
 
+"reg_email" = "Registrerad e-post";
 
 "company" = "Företag";
 
+"download_link" = "Nedladdningssida";
 
+"publisher" = "Utvecklare";
 
+"publisher_name" = "Utvecklare";
 
+"retail_price" = "Försäljningspris";
 
 "publisher_website" = "Webbplats";
 
+"support_email" = "Support e-post";
 
+"order" = "Order";
 
+"order_number" = "Ordernummer";
 
+"order_date" = "Inköpsdatum";
 
+"order_total" = "Order total";
 
+"product_name#9" = "Produkt";
 
+"product_version#9" = "Version";
 
+"reg_name#9" = "Ägare";
 
+"reg_code#9" = "Nyckel";
 
+"reg_email#9" = "E-post";
 
 "company#9" = "Företag";
 
+"download_link#9" = "Nedladdn. URL";
 
+"publisher#9" = "Utvecklare";
 
+"publisher_name#9" = "Utvecklare";
 
+"retail_price#9" = "Pris";
 
 "publisher_website#9" = "Webbplats";
 
+"support_email#9" = "Support";
 
+"order#9" = "Order";
 
+"order_number#9" = "Ordernr";
 
+"order_date#9" = "Inköpt";
 
+"order_total#9" = "Totalt";

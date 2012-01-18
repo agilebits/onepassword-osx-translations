@@ -1,28 +1,56 @@
+"__title__" = "رقم جواز السفر";
+
+"__description__" = "بلد اصدار جواز السفر";
+
+"type" = "النوع";
+
+"fullname" = "الاسم الكامل";
+
+"number" = "الرقم";
+
+"birthdate" = "تاريخ الميلاد";
+
+"birthplace" = "مكان الميلاد";
+
+"nationality" = "الجنسية";
+
+"code" = "رقم الجواز";
+
+"sex" = "الجنس";
+
+"issuing_country" = "بلد الاصدار";
+
+"issuing_authority" = "جهة الاصدار";
+
+"issue_date" = "صادر في";
+
+"expiry_date" = "تاريخ الانتهاء";
 
 
+"menu.sex.male" = "ذكر";
 
+"menu.sex.female" = "أنثى";
 
+"type#9" = "النوع";
 
+"fullname#9" = "اسم";
 
+"number#9" = "الرقم";
 
+"birthdate#9" = "يوم الميلاد";
 
+"birthplace#9" = "مكان الميلاد";
 
+"nationality#9" = "الدولة";
 
+"code#9" = "رقم الجواز";
 
+"sex#9" = "الجنس";
 
+"issuing_country#9" = "البلد";
 
+"issuing_authority#9" = "Authority";
 
+"issue_date#9" = "Issued";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+"expiry_date#9" = "تنتهي";

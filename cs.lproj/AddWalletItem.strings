@@ -1,0 +1,8 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "60"; */
+"Cancel" = "Zrušit";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "59"; */
+"Add" = "Přidat";
+
+/* Class = "NSTextFieldCell"; title = "Add New Item"; ObjectID = "57"; */
+"Add New Item" = "Přidat novou položku";

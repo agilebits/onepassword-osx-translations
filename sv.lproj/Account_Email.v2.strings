@@ -1,58 +1,110 @@
+"__title__" = "E-postkonto";
 
+"__description__" = "E-post kontoinformation.";
 
+"pop_username" = "Användarnamn";
 
+"pop_password" = "Lösenord";
 
+"pop_server" = "Server";
 
+"pop_type" = "Typ";
 
+"pop_port" = "Portnummer";
 
+"pop_port#9" = "Port";
 
+"pop_security" = "Säkerhet";
 
+"pop_authentication" = "Autentiseringsmetod";
 
+"pop_authentication#9" = "Auth";
 
+"SMTP" = "SMTP";
 
+"smtp_username" = "Användarnamn";
 
+"smtp_password" = "Lösenord";
 
+"smtp_server" = "SMTP-server";
 
+"smtp_type" = "Typ";
 
+"smtp_port" = "Portnummer";
 
+"smtp_port#9" = "Port";
 
+"smtp_security" = "Säkerhet";
 
+"smtp_authentication" = "Autentiseringsmetod";
 
+"smtp_authentication#9" = "Auth";
 
+"Contact Information" = "Kontaktinformation";
 
+"Contact Information#9" = "Kontakt";
 
+"provider" = "Leverantör";
 
+"provider_website" = "Leverantörens webbplats";
 
 "provider_website#9" = "Webbplats";
 
+"phone_tollfree" = "Telefonnummer (avgiftsfritt)";
+
+"phone_tollfree#9" = "Avgiftsfritt";
+
+"phone_local" = "Telefonnummer (fast)";
+
+"phone_local#9" = "Telefon";
 
 
+"menu.pop_type.pop3" = "POP3";
+
+"menu.pop_type.imap" = "IMAP";
+
+"menu.pop_type.either" = "Antingen POP3 eller IMAP";
 
 
+"menu.pop_security.none" = "Ingen";
+
+"menu.pop_security.SSL" = "SSL";
+
+"menu.pop_security.TLS" = "TLS";
 
 
+"menu.pop_authentication.none" = "Ingen";
+
+"menu.pop_authentication.password" = "Lösenord";
+
+"menu.pop_authentication.md5_challenge_response" = "MD5 Challenge Response";
+
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.pop_authentication.kerberos_v4" = "Kerberos version 4";
+
+"menu.pop_authentication.kerberos_v5" = "Kerberos version 5 (GSSAPI)";
+
+"menu.pop_authentication.ntlm" = "NTLM";
 
 
+"menu.smtp_security.none" = "Ingen";
+
+"menu.smtp_security.SSL" = "SSL";
+
+"menu.smtp_security.TLS" = "TLS";
 
 
+"menu.smtp_authentication.none" = "Ingen";
 
+"menu.smtp_authentication.password" = "Lösenord";
 
+"menu.smtp_authentication.md5_challenge_response" = "MD5 Challenge Response";
 
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
 
+"menu.smtp_authentication.kerberos_v4" = "Kerberos version 4";
 
+"menu.smtp_authentication.kerberos_v5" = "Kerberos version 5 (GSSAPI)";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"menu.smtp_authentication.ntlm" = "NTLM";

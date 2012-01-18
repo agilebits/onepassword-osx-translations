@@ -1,15 +1,23 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100"; */
+"Cancel" = "Anuluj";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID = "61"; */
+"Turn this checkbox on to keep the access code in your login keychain for future exports." = "Zaznacz tę opcję, aby kod dostępu został zapisany w pęku kluczy dla eksportu w przyszłości.";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "99"; */
+"Continue" = "Kontynuuj";
 
 /* Class = "NSWindow"; title = "Enter Access Code"; ObjectID = "57"; */
+"Enter Access Code" = "Wpisz kod dostępu";
 
 /* Class = "NSTextFieldCell"; title = "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID = "91"; */
+"The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information." = "Kod dostępu będzie używany do szyfrowania twoich danych. Użytkownik zostanie poproszony o wprowadzenie tego kodu dostępu do odblokowania wyeksportowanych danych.";
 
 /* Class = "NSTextFieldCell"; title = "Access Code:"; ObjectID = "98"; */
+"Access Code:" = "Kod dostępu:";
 
 /* Class = "NSButtonCell"; title = "Remember this access code in my keychain"; ObjectID = "96"; */
+"Remember this access code in my keychain" = "Pamiętaj kod dostępu w pęku kluczy";
 
 /* Class = "NSTextFieldCell"; title = "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID = "97"; */
+"Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information." = "Wprowadź kod dostępu. Kod dostępu będzie używany do szyfrowania danych. Użytkownik zostanie poproszony o wprowadzenie tego kodu do odblokowania wyeksportowanych danych.";

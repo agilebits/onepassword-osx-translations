@@ -1,0 +1,110 @@
+"__title__" = "電子郵件帳號";
+
+"__description__" = "電子郵件帳號資訊";
+
+"pop_username" = "使用者名稱";
+
+"pop_password" = "密碼";
+
+"pop_server" = "伺服器名稱";
+
+"pop_type" = "資料庫類型";
+
+"pop_port" = "埠號";
+
+"pop_port#9" = "埠";
+
+"pop_security" = "安全性";
+
+"pop_authentication" = "認證方式";
+
+"pop_authentication#9" = "認證";
+
+"SMTP" = "SMTP";
+
+"smtp_username" = "使用者名稱";
+
+"smtp_password" = "密碼";
+
+"smtp_server" = "SMTP 伺服器";
+
+"smtp_type" = "資料庫類型";
+
+"smtp_port" = "埠號";
+
+"smtp_port#9" = "埠";
+
+"smtp_security" = "安全性";
+
+"smtp_authentication" = "認證方式";
+
+"smtp_authentication#9" = "認證";
+
+"Contact Information" = "聯絡資訊";
+
+"Contact Information#9" = "連絡人";
+
+"provider" = "服務提供商";
+
+"provider_website" = "服務提供商網站";
+
+"provider_website#9" = "網站";
+
+"phone_tollfree" = "電話號碼(免費)";
+
+"phone_tollfree#9" = "免費電話";
+
+"phone_local" = "電話號碼(本地)";
+
+"phone_local#9" = "電話";
+
+
+"menu.pop_type.pop3" = "POP3";
+
+"menu.pop_type.imap" = "IMAP";
+
+"menu.pop_type.either" = "POP3 或 IMAP";
+
+
+"menu.pop_security.none" = "無";
+
+"menu.pop_security.SSL" = "SSL";
+
+"menu.pop_security.TLS" = "TLS";
+
+
+"menu.pop_authentication.none" = "無";
+
+"menu.pop_authentication.password" = "密碼";
+
+"menu.pop_authentication.md5_challenge_response" = "MD5 驗證回覆";
+
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.pop_authentication.kerberos_v4" = "Kerberos 版本 4";
+
+"menu.pop_authentication.kerberos_v5" = "Kerberos 版本 5 (GSSAPI)";
+
+"menu.pop_authentication.ntlm" = "NTLM";
+
+
+"menu.smtp_security.none" = "無";
+
+"menu.smtp_security.SSL" = "SSL";
+
+"menu.smtp_security.TLS" = "TLS";
+
+
+"menu.smtp_authentication.none" = "無";
+
+"menu.smtp_authentication.password" = "密碼";
+
+"menu.smtp_authentication.md5_challenge_response" = "MD5 驗證回覆";
+
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.smtp_authentication.kerberos_v4" = "Kerberos 版本 4";
+
+"menu.smtp_authentication.kerberos_v5" = "Kerberos 版本 5 (GSSAPI)";
+
+"menu.smtp_authentication.ntlm" = "NTLM";

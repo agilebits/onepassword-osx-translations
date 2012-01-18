@@ -1,29 +1,44 @@
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "5025"; */
+"Tags" = "Taggar";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4881"; */
+"Attachments" = "Bifogade filer";
 
 /* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
+"License Key:" = "Licensnyckel:";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
+"title" = "titel";
 
 /* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
+"View Version" = "Visa version";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
+"Created on" = "Skapad";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4509"; */
+"tags" = "taggar";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4939"; */
+"Notes" = "Anteckningar";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5066"; */
+"Title" = "Titel";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
+"Version Number" = "Versionsnummer";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
+"license key" = "licensnyckel";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
+"version" = "version";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "icon"; ObjectID = "3918"; */
+"icon" = "ikon";
 
 /* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
+"Edit Version" = "Redigera version";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */
+"Last modified" = "Senast ändrad";

@@ -1,3 +1,4 @@
+"__title__" = "Identitet";
 
 "__description__" = "Det tillhör egentligen inte plånbok, vi har det det här för att generera detaljvyn.";
 
@@ -9,6 +10,7 @@
 
 "lastname" = "Efternamn";
 
+"sex" = "Kön";
 
 "birthdate" = "Födelsedatum";
 
@@ -22,15 +24,19 @@
 
 "internet" = "Internetdetaljer";
 
+"username" = "Användarnamn";
 
 "reminderq" = "Påminnelsefråga";
 
 "remindera" = "Påminnelsesvar";
 
+"email" = "E-post";
 
 "website" = "Webbplats";
 
+"icq" = "ICQ";
 
+"skype" = "Skype";
 
 "aim" = "AOL/AIM";
 
@@ -40,6 +46,7 @@
 
 "forumsig" = "Forumssignatur";
 
+"address" = "Adress";
 
 "address1" = "Adressrad 1";
 
@@ -51,7 +58,9 @@
 
 "zip" = "Postnummer";
 
+"country" = "Land";
 
+"location" = "Plats";
 
 "phone" = "Telefon";
 
@@ -64,7 +73,9 @@
 "busphone" = "Verksamhet";
 
 
+"menu.sex.male" = "Man";
 
+"menu.sex.female" = "Kvinna";
 
 /* countries */
 

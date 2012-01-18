@@ -1,0 +1,50 @@
+"__title__" = "תוכנת מסרים מידיים";
+
+"__description__" = "פרטי חשבון והתחברות עבור כל תוכנות המסרים המיידיים שלך.";
+
+"account_type" = "סוג חשבון";
+
+"account_type#9" = "סוג";
+
+"username" = "שם משתמש / דוא\"ל / מזהה";
+
+"username#9" = "מזהה";
+
+"password" = "Password";
+
+"server" = "שרת";
+
+"port" = "יציאה";
+
+
+"menu.account_type.aol" = "AOL Instant Messenger";
+
+"menu.account_type.jabber" = "Jabber";
+
+"menu.account_type.msn" = "MSN Messenger";
+
+"menu.account_type.yahoo" = "Yahoo! Messenger";
+
+"menu.account_type.mobileme" = "MobileMe";
+
+"menu.account_type.dotmac" = "Mac.com";
+
+"menu.account_type.gadu" = "Gadu-Gadu";
+
+"menu.account_type.gtalk" = "Google Talk";
+
+"menu.account_type.icq" = "ICQ";
+
+"menu.account_type.livejournal" = "LiveJournal";
+
+"menu.account_type.sametime" = "Lotus Sametime";
+
+"menu.account_type.groupwise" = "Novell GroupWise";
+
+"menu.account_type.qq" = "QQ";
+
+"menu.account_type.sip" = "SIP / SIMPLE";
+
+"menu.account_type.skype" = "Skype";
+
+"menu.account_type.gizmo" = "Gizmo";

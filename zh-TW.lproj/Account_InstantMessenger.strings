@@ -1,0 +1,50 @@
+"__title__" = "即時通信";
+
+"__description__" = "各種即時通信軟體的帳戶與連線資料";
+
+"account_type" = "帳戶類型";
+
+"account_type#9" = "資料庫類型";
+
+"username" = "使用者名稱 / 電子郵件 / ID";
+
+"username#9" = "ID";
+
+"password" = "密碼";
+
+"server" = "伺服器名稱";
+
+"port" = "埠";
+
+
+"menu.account_type.aol" = "AOL Instant Messenger";
+
+"menu.account_type.jabber" = "Jabber";
+
+"menu.account_type.msn" = "MSN Messenger";
+
+"menu.account_type.yahoo" = "Yahoo! Messenger";
+
+"menu.account_type.mobileme" = "MobileMe";
+
+"menu.account_type.dotmac" = "Mac.com";
+
+"menu.account_type.gadu" = "Gadu-Gadu";
+
+"menu.account_type.gtalk" = "Google Talk";
+
+"menu.account_type.icq" = "ICQ";
+
+"menu.account_type.livejournal" = "LiveJournal";
+
+"menu.account_type.sametime" = "Lotus Sametime";
+
+"menu.account_type.groupwise" = "Novell GroupWise";
+
+"menu.account_type.qq" = "QQ";
+
+"menu.account_type.sip" = "SIP / SIMPLE";
+
+"menu.account_type.skype" = "Skype";
+
+"menu.account_type.gizmo" = "Gizmo";

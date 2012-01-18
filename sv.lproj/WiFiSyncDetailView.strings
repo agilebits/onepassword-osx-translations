@@ -1,25 +1,38 @@
 /* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
+"Last synced" = "Senast synkroniserad";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
+"title" = "titel";
 
 /* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Vänligen starta och lås upp 1Password touch på din iPhone för att utföra Wi-Fi synkronisering";
 
 /* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
+"Sync all items" = "Synkronisera alla objekt";
 
 /* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
+"Sync only selected folders" = "Synkronisera endast markerade mappar";
 
 /* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
+"Wi-Fi Status" = "Wi-Fi status";
 
 /* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "Om ikryssad kommer 1Password att ersätta information på denna iPhone med information från den här datorn.";
 
 /* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
+"Replace information on this iPhone" = "Ersätta information på denna iPhone";
 
 /* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
+"Manually" = "Manuellt";
 
 /* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
+"Sync Now" = "Synkronisera nu";
 
 /* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
+"Device type" = "Enhetstyp";
 
 /* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
+"Automatically" = "Automatiskt";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
+"Wi-Fi status" = "Wi-Fi status";

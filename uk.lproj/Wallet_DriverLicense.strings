@@ -1,0 +1,36 @@
+"__title__" = "Водійські права";
+
+"fullname" = "Повне ім'я";
+
+"address" = "Address";
+
+"birthdate" = "Дата народження";
+
+"birthdate#9" = "День народження";
+
+"sex" = "Стать";
+
+"height" = "Зріст";
+
+"number" = "Number";
+
+"class" = "Категорія ліцензії";
+
+"class#9" = "Категорія";
+
+"conditions" = "Умови / обмеження";
+
+"conditions#9" = "Умови";
+
+"state" = "Область";
+
+"country" = "Країна";
+
+"expiry_date" = "Expiry Date";
+
+"expiry_date#9" = "Закінчується";
+
+
+"menu.sex.male" = "Чоловік";
+
+"menu.sex.female" = "Жінка";

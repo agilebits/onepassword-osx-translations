@@ -1,0 +1,125 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1407"; */
+"Cancel" = "Скасувати";
+
+/* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "1430"; */
+"Lock when screen saver is activated" = "Блокувати, коли активується заставка";
+
+/* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
+"Show helper icon in menu bar" = "Показувати іконку помічника в панелі меню";
+
+/* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
+"Clear values copied to clipboard after" = "Clear values copied to clipboard after";
+
+/* Class = "NSTextFieldCell"; title = "Current Password:"; ObjectID = "1393"; */
+"Current Password:" = "Поточний пароль:";
+
+/* Class = "NSButtonCell"; title = "Use Dropbox..."; ObjectID = "1847"; */
+"Use Dropbox..." = "Використовувати Dropbox...";
+
+/* Class = "NSButtonCell"; title = "      Browser Extensions"; ObjectID = "2028"; */
+"      Browser Extensions" = "      Розширення браузера";
+
+/* Class = "NSButtonCell"; title = "Stop Using Dropbox..."; ObjectID = "2038"; */
+"Stop Using Dropbox..." = "Припинити використання Dropbox...";
+
+/* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
+"Automatically download icons and previews for new Logins" = "Автоматично завантажувати значки та попередній перегляд для нових логінів";
+
+/* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
+"Install Browser Extensions" = "Встановлення розширень браузера";
+
+/* Class = "NSButtonCell"; title = "Change Master Password..."; ObjectID = "1365"; */
+"Change Master Password..." = "Змінити головний пароль...";
+
+/* Class = "NSTextFieldCell"; title = "123"; ObjectID = "1539"; */
+"123" = "123";
+
+/* Class = "NSButtonCell"; title = "Lock when sleeping"; ObjectID = "1355"; */
+"Lock when sleeping" = "Lock when sleeping";
+
+/* Class = "NSButtonCell"; title = "Disable Lock and Unlock Animation"; ObjectID = "1795"; */
+"Disable Lock and Unlock Animation" = "Вимкнути блокування і розблокування анімації";
+
+/* Class = "NSTextFieldCell"; title = "Unlocking"; ObjectID = "1451"; */
+"Unlocking" = "Розблокування";
+
+/* Class = "NSTextFieldCell"; title = "Browser Extensions"; ObjectID = "2105"; */
+"Browser Extensions" = "Browser Extensions";
+
+/* Class = "NSTextFieldCell"; title = "Display in Sidebar"; ObjectID = "1745"; */
+"Display in Sidebar" = "Display in Sidebar";
+
+/* Class = "NSTextFieldCell"; title = "Unlock when helper is unlocked"; ObjectID = "2034"; */
+"Unlock when helper is unlocked" = "Unlock when helper is unlocked";
+
+/* Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "1399"; */
+"Verify:" = "Verify:";
+
+/* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
+"Download missing previews" = "Download missing previews";
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
+"Master Password" = "Master Password";
+
+/* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
+"minutes of computer inactivity" = "minutes of computer inactivity";
+
+/* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
+"Enable Universal Unlock" = "Enable Universal Unlock";
+
+/* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
+"Remove all previews..." = "Remove all previews...";
+
+/* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
+"Press" = "Press";
+
+/* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
+"to show extension popup in your browser" = "to show extension popup in your browser";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "2106"; */
+"Keyboard Shortcuts" = "Keyboard Shortcuts";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "1804"; */
+"help" = "Допомога";
+
+/* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
+"Login Previews" = "Login Previews";
+
+/* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
+"      Tags" = "      Tags";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
+"seconds" = "seconds";
+
+/* Class = "NSTextFieldCell"; title = "Clipboard Security"; ObjectID = "1533"; */
+"Clipboard Security" = "Безпека буфера обміну";
+
+/* Class = "NSTextFieldCell"; title = "New Password:"; ObjectID = "1397"; */
+"New Password:" = "Новий пароль:";
+
+/* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
+"Keep helper running to enable extension features" = "Keep helper running to enable extension features";
+
+/* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
+"      Folders" = "      Папки";
+
+/* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
+"Your Data Stored In" = "Your Data Stored In";
+
+/* Class = "NSTextFieldCell"; title = "Auto-Lock"; ObjectID = "1449"; */
+"Auto-Lock" = "Auto-Lock";
+
+/* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "1405"; */
+"Change Password" = "Змінити пароль";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1479"; */
+"Password Hint:" = "Підказка про пароль:";
+
+/* Class = "NSButtonCell"; title = "Lock after"; ObjectID = "1357"; */
+"Lock after" = "Lock after";
+
+/* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
+"to fill Login in your browser" = "to fill Login in your browser";
+
+/* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
+"      Generated Passwords" = "      Згенеровані паролі";

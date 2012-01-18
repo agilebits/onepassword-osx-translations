@@ -1,23 +1,35 @@
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4901"; */
+"Tags" = "Tagi";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4842"; */
+"Attachments" = "Załączniki";
 
 /* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4936"; */
+"Display" = "Widok";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Photograph"; ObjectID = "4905"; */
+"Photograph" = "Zdjęcie";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "name"; ObjectID = "4582"; */
+"name" = "nazwa";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2888"; */
+"Created on" = "Utworzone";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4440"; */
+"tags" = "tagi";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4893"; */
+"Notes" = "Notatki";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "4935"; */
+"Always" = "Zawsze";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Name"; ObjectID = "4921"; */
+"Name" = "Nazwa";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4933"; */
+"Never Display in Browser" = "Nigdy nie wyświetlaj w przeglądarce";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2887"; */
+"Last modified" = "Ostatnio zmieniane";

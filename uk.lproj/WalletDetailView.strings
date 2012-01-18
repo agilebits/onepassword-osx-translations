@@ -1,0 +1,29 @@
+/* Class = "NSTokenFieldCell"; placeholderString = "Tags"; ObjectID = "4892"; */
+"Tags" = "Мітки";
+
+/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4808"; */
+"Attachments" = "Вкладення";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4932"; */
+"Display" = "Display";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3219"; */
+"Created on" = "Created on";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4891"; */
+"tags" = "мітки";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4819"; */
+"Notes" = "Notes";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4918"; */
+"Title" = "Title";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "4930"; */
+"Always" = "Завжди";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4931"; */
+"Never Display in Browser" = "Ніколи не відображати у браузері";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3220"; */
+"Last modified" = "Last modified";

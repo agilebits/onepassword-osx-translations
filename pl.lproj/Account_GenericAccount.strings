@@ -1,3 +1,7 @@
+"__title__" = "Konto ogólne";
 
+"__description__" = "Informacje o nazwie użytkownika i haśle";
 
+"username" = "Nazwa użytkownika";
 
+"password" = "Hasło";

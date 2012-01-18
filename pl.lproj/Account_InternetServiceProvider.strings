@@ -1,13 +1,27 @@
+"__title__" = "Dostawca Internetu";
 
+"__description__" = "Informacje o połączeniu z Internetem dostarczone przez twojego dostawcę Internetu (ISP).";
 
+"userid" = "Identyfikator użytkownika";
 
+"password" = "Hasło";
 
+"pin" = "Kod PIN";
 
+"dialup_number" = "Numer dostępu dla połączenia telefonicznego";
 
+"dialup_number#9" = "Połączenie telefoniczne #";
 
+"Contact Information" = "Informacje kontaktowe";
 
+"Contact Information#9" = "Kontakt";
 
+"website" = "Witryna";
 
+"phone_local" = "Numer telefonu (połączenie lokalne)";
 
+"phone_local#9" = "Telefon";
 
+"phone_tollfree" = "Numer telefonu (połączenie bezpłatne)";
 
+"phone_tollfree#9" = "Numer bezpłatny";

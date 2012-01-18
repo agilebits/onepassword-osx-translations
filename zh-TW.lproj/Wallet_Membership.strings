@@ -1,0 +1,35 @@
+"__title__" = "會員資格";
+
+"__description__" = "社群或俱樂部會員";
+
+"org_name" = "組織名稱";
+
+"phone" = "電話";
+
+"website" = "網站";
+
+"member_name" = "會員名稱";
+
+"member_since" = "會員年份";
+
+"expiry_date" = "Expiry Date";
+
+"membership_no" = "會員 #";
+
+"pin" = "密碼";
+
+"org_name#9" = "組織名稱";
+
+"phone#9" = "電話";
+
+"website#9" = "網站";
+
+"member_name#9" = "名稱";
+
+"member_since#9" = "會員年份";
+
+"expiry_date#9" = "Expires";
+
+"membership_no#9" = "Number";
+
+"pin#9" = "密碼";

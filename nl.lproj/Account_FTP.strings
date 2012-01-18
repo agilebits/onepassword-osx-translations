@@ -1,0 +1,29 @@
+"__title__" = "FTP-Account";
+
+"__description__" = "Login-gegevens voor FTP-accounts.";
+
+"server" = "Server";
+
+"path" = "Pad";
+
+"username" = "Gebruikersnaam";
+
+"password" = "Wachtwoord";
+
+"Contact Information" = "Contact informatie";
+
+"Contact Information#9" = "Contact";
+
+"provider" = "Provider";
+
+"provider_website" = "Website van de provider";
+
+"provider_website#9" = "Website";
+
+"phone_tollfree" = "Telefoonnummer (kosteloos)";
+
+"phone_tollfree#9" = "Kosteloos";
+
+"phone_local" = "Telefoonnummer (lokaal)";
+
+"phone_local#9" = "Telefoon";

@@ -1,0 +1,29 @@
+"__title__" = "FTP-konto";
+
+"__description__" = "Loginoplysninger for FTP-konti.";
+
+"server" = "Server";
+
+"path" = "Sti";
+
+"username" = "Brugernavn";
+
+"password" = "Kodeord";
+
+"Contact Information" = "Kontaktoplysninger";
+
+"Contact Information#9" = "Kontakt";
+
+"provider" = "Udbyder";
+
+"provider_website" = "Tjenesteudbyders websted";
+
+"provider_website#9" = "Hjemmeside";
+
+"phone_tollfree" = "Telefonnummer (gratis)";
+
+"phone_tollfree#9" = "Uden lande omkostninger";
+
+"phone_local" = "Telefonnummer (lokal)";
+
+"phone_local#9" = "Telefon";

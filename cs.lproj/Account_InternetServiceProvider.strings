@@ -1,0 +1,27 @@
+"__title__" = "Poskytovatel Internetu";
+
+"__description__" = "Informace o připojení poskytované vaším poskytovatelem pro připojení k Internetu (ISP).";
+
+"userid" = "ID uživatele";
+
+"password" = "Heslo";
+
+"pin" = "KÓD PIN";
+
+"dialup_number" = "Přístupové číslo";
+
+"dialup_number#9" = "Telefon #";
+
+"Contact Information" = "Kontaktní informace";
+
+"Contact Information#9" = "Kontakt";
+
+"website" = "Webové stránky";
+
+"phone_local" = "Telefon (místní)";
+
+"phone_local#9" = "Telefon";
+
+"phone_tollfree" = "Telefon (volání zdarma)";
+
+"phone_tollfree#9" = "Bezplatné";

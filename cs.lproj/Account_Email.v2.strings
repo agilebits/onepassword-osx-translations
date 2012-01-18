@@ -1,0 +1,110 @@
+"__title__" = "E-mailový účet";
+
+"__description__" = "Informace o e-mailovém účtu.";
+
+"pop_username" = "Uživatelské jméno";
+
+"pop_password" = "Heslo";
+
+"pop_server" = "Server";
+
+"pop_type" = "Typ";
+
+"pop_port" = "Číslo portu";
+
+"pop_port#9" = "Port";
+
+"pop_security" = "Zabezpečení";
+
+"pop_authentication" = "Metoda ověřování";
+
+"pop_authentication#9" = "Auth";
+
+"SMTP" = "SMTP";
+
+"smtp_username" = "Uživatelské jméno";
+
+"smtp_password" = "Heslo";
+
+"smtp_server" = "SMTP Server";
+
+"smtp_type" = "Typ";
+
+"smtp_port" = "Číslo portu";
+
+"smtp_port#9" = "Port";
+
+"smtp_security" = "Zabezpečení";
+
+"smtp_authentication" = "Metoda ověřování";
+
+"smtp_authentication#9" = "Auth";
+
+"Contact Information" = "Kontaktní informace";
+
+"Contact Information#9" = "Kontakt";
+
+"provider" = "Poskytovatel";
+
+"provider_website" = "Webové stránky poskytovatele";
+
+"provider_website#9" = "Webové stránky";
+
+"phone_tollfree" = "Telefonní číslo (bezplatné)";
+
+"phone_tollfree#9" = "Bezplatné";
+
+"phone_local" = "Telefonní číslo (místní)";
+
+"phone_local#9" = "Telefon";
+
+
+"menu.pop_type.pop3" = "POP3";
+
+"menu.pop_type.imap" = "IMAP";
+
+"menu.pop_type.either" = "POP3 nebo IMAP";
+
+
+"menu.pop_security.none" = "Žádný";
+
+"menu.pop_security.SSL" = "SSL";
+
+"menu.pop_security.TLS" = "TLS";
+
+
+"menu.pop_authentication.none" = "Žádný";
+
+"menu.pop_authentication.password" = "Heslo";
+
+"menu.pop_authentication.md5_challenge_response" = "MD5 Challenge Response";
+
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.pop_authentication.kerberos_v4" = "Kerberos verze 4";
+
+"menu.pop_authentication.kerberos_v5" = "Kerberos verze 5 (GSSAPI)";
+
+"menu.pop_authentication.ntlm" = "NTLM";
+
+
+"menu.smtp_security.none" = "Žádný";
+
+"menu.smtp_security.SSL" = "SSL";
+
+"menu.smtp_security.TLS" = "TLS";
+
+
+"menu.smtp_authentication.none" = "Žádný";
+
+"menu.smtp_authentication.password" = "Heslo";
+
+"menu.smtp_authentication.md5_challenge_response" = "MD5 Challenge Response";
+
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.smtp_authentication.kerberos_v4" = "Kerberos verze 4";
+
+"menu.smtp_authentication.kerberos_v5" = "Kerberos verze 5 (GSSAPI)";
+
+"menu.smtp_authentication.ntlm" = "NTLM";

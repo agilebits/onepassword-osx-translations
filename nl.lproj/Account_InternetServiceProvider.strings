@@ -1,0 +1,27 @@
+"__title__" = "Internetprovider";
+
+"__description__" = "Verbindingsgegevens verstrekt door uw Internet Service Provider (ISP) voor verbinding met het Internet.";
+
+"userid" = "Gebruikers-ID";
+
+"password" = "Wachtwoord";
+
+"pin" = "PIN";
+
+"dialup_number" = "Dialup toegangsnummer";
+
+"dialup_number#9" = "Dialup #";
+
+"Contact Information" = "Contact informatie";
+
+"Contact Information#9" = "Contact";
+
+"website" = "Website";
+
+"phone_local" = "Telefoon (lokaal)";
+
+"phone_local#9" = "Telefoon";
+
+"phone_tollfree" = "Telefoon (kosteloos)";
+
+"phone_tollfree#9" = "Kosteloos";

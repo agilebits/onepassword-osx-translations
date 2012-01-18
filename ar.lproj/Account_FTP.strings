@@ -1,15 +1,29 @@
+"__title__" = "حساب FTP";
 
+"__description__" = "معلومات الدخول لحسابات FTP.";
 
+"server" = "الخادم";
 
+"path" = "المسار";
 
+"username" = "اسم المستخدم";
 
 "password" = "كلمة المرور";
 
+"Contact Information" = "معلومات الاتصال";
 
+"Contact Information#9" = "جهة الاتصال";
 
+"provider" = "مزود الخدمه";
 
+"provider_website" = "موقع مزود الخدمه";
 
+"provider_website#9" = "موقع";
 
+"phone_tollfree" = "رقم الهاتف - الهاتف المجاني";
 
+"phone_tollfree#9" = "الهاتف المجاني";
 
+"phone_local" = "رقم الهاتف (محلي";
 
+"phone_local#9" = "الهاتف";

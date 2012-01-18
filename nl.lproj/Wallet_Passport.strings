@@ -1,0 +1,56 @@
+"__title__" = "Passport";
+
+"__description__" = "Government issued Passport.";
+
+"type" = "Type";
+
+"fullname" = "Full Name";
+
+"number" = "Number";
+
+"birthdate" = "Date of Birth";
+
+"birthplace" = "Place of Birth";
+
+"nationality" = "Nationality";
+
+"code" = "Code";
+
+"sex" = "Sex";
+
+"issuing_country" = "Issuing Country";
+
+"issuing_authority" = "Issuing Authority";
+
+"issue_date" = "Issued On";
+
+"expiry_date" = "Expiry Date";
+
+
+"menu.sex.male" = "Male";
+
+"menu.sex.female" = "Female";
+
+"type#9" = "Type";
+
+"fullname#9" = "Naam";
+
+"number#9" = "Number";
+
+"birthdate#9" = "Birthday";
+
+"birthplace#9" = "Birthplace";
+
+"nationality#9" = "Nation.";
+
+"code#9" = "Code";
+
+"sex#9" = "Sex";
+
+"issuing_country#9" = "Country";
+
+"issuing_authority#9" = "Authority";
+
+"issue_date#9" = "Issued";
+
+"expiry_date#9" = "Expires";

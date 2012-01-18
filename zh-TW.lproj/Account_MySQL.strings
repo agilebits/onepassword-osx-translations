@@ -1,0 +1,13 @@
+"__title__" = "MySQL 資料庫";
+
+"__description__" = "MySQL 資料庫連接資訊";
+
+"hostname" = "主機名稱";
+
+"port" = "埠 (3306)";
+
+"database" = "資料庫";
+
+"username" = "使用者名稱";
+
+"password" = "密碼";

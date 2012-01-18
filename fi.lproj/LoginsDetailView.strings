@@ -1,0 +1,95 @@
+/* Class = "NSTableColumn"; headerCell.title = "Field Name"; ObjectID = "3098"; */
+"Field Name" = "Field Name";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4411"; */
+"Tags" = "Tagit";
+
+/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4875"; */
+"Attachments" = "Liitteet";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Display"; ObjectID = "3384"; */
+"Display" = "Display";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "http://www.website.com"; ObjectID = "5025"; */
+"http://www.website.com" = "http://www.website.com";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "username"; ObjectID = "4555"; */
+"username" = "username";
+
+/* Class = "NSTableColumn"; headerCell.title = "Time"; ObjectID = "4945"; */
+"Time" = "Time";
+
+/* Class = "NSMenuItem"; title = "Checkbox"; ObjectID = "4043"; */
+"Checkbox" = "Checkbox";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "4564"; */
+"password" = "password";
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
+"Generate" = "Generate";
+
+/* Class = "NSTableColumn"; headerCell.title = "Field Value"; ObjectID = "3101"; */
+"Field Value" = "Field Value";
+
+/* Class = "NSButtonCell"; title = "All Fields"; ObjectID = "3043"; */
+"All Fields" = "All Fields";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Submit"; ObjectID = "3390"; */
+"Submit" = "Submit";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Username"; ObjectID = "5026"; */
+"Username" = "Käyttäjänimi";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Password"; ObjectID = "5030"; */
+"Password" = "Password";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2834"; */
+"Created on" = "Created on";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "4030"; */
+"Type" = "Type";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "3692"; */
+"Notes" = "Notes";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4406"; */
+"tags" = "Tagit";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5029"; */
+"Title" = "Title";
+
+/* Class = "NSTextFieldCell"; title = "http://www.google.com"; ObjectID = "3088"; */
+"http://www.google.com" = "http://www.google.com";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "3394"; */
+"Always" = "Aina";
+
+/* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
+"Password Strength" = "Password Strength";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
+"Text" = "Text";
+
+/* Class = "NSMenuItem"; title = "For Web Pages Only"; ObjectID = "3388"; */
+"For Web Pages Only" = "For Web Pages Only";
+
+/* Class = "NSButtonCell"; title = "Password History"; ObjectID = "4896"; */
+"Password History" = "Password History";
+
+/* Class = "NSMenuItem"; title = "Show in Every HTTP Auth Prompt"; ObjectID = "5006"; */
+"Show in Every HTTP Auth Prompt" = "Show in Every HTTP Auth Prompt";
+
+/* Class = "NSMenuItem"; title = "For HTTP Auth Prompts Only"; ObjectID = "3396"; */
+"For HTTP Auth Prompts Only" = "For HTTP Auth Prompts Only";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
+"Never Display in Browser" = "Älä koskaan näytä selaimessa";
+
+/* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
+"Never" = "Never";
+
+/* Class = "NSMenuItem"; title = "If Autosubmit is ON"; ObjectID = "3395"; */
+"If Autosubmit is ON" = "If Autosubmit is ON";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2825"; */
+"Last modified" = "Last modified";

@@ -1,0 +1,29 @@
+/* Class = "NSTokenFieldCell"; placeholderString = "Tags"; ObjectID = "4892"; */
+"Tags" = "Značky";
+
+/* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4808"; */
+"Attachments" = "Přílohy";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4932"; */
+"Display" = "Zobrazit";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3219"; */
+"Created on" = "Vytvořeno";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4891"; */
+"tags" = "značky";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4819"; */
+"Notes" = "Poznámky";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4918"; */
+"Title" = "Název";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "4930"; */
+"Always" = "Vždy";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4931"; */
+"Never Display in Browser" = "Nikdy nezobrazovat v prohlížeči";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3220"; */
+"Last modified" = "Naposledy změněno";

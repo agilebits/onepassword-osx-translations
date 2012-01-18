@@ -1,12 +1,17 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1407"; */
+"Cancel" = "Avbryt";
 
 /* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "1430"; */
+"Lock when screen saver is activated" = "Lås när skärmsläckaren aktiveras";
 
 /* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
+"Show helper icon in menu bar" = "Visa Helper-ikonen i menyraden";
 
 /* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
+"Clear values copied to clipboard after" = "Rensa värden kopierade till urklipp efter";
 
 /* Class = "NSTextFieldCell"; title = "Current Password:"; ObjectID = "1393"; */
+"Current Password:" = "Nuvarande lösenord:";
 
 /* Class = "NSButtonCell"; title = "Use Dropbox..."; ObjectID = "1847"; */
 "Use Dropbox..." = "Använd Dropbox...";
@@ -15,72 +20,106 @@
 "      Browser Extensions" = "      Webbläsartillägg";
 
 /* Class = "NSButtonCell"; title = "Stop Using Dropbox..."; ObjectID = "2038"; */
+"Stop Using Dropbox..." = "Sluta använda Dropbox...";
 
 /* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
+"Automatically download icons and previews for new Logins" = "Hämta automatiskt ikoner och förhandsgranskningar för nya inlogg";
 
 /* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
+"Install Browser Extensions" = "Installera webbläsartillägg";
 
 /* Class = "NSButtonCell"; title = "Change Master Password..."; ObjectID = "1365"; */
+"Change Master Password..." = "Ändra huvudlösenord...";
 
 /* Class = "NSTextFieldCell"; title = "123"; ObjectID = "1539"; */
+"123" = "123";
 
 /* Class = "NSButtonCell"; title = "Lock when sleeping"; ObjectID = "1355"; */
+"Lock when sleeping" = "Lås i viloläge";
 
 /* Class = "NSButtonCell"; title = "Disable Lock and Unlock Animation"; ObjectID = "1795"; */
+"Disable Lock and Unlock Animation" = "Inaktivera lås- och upplåsningsanimering";
 
 /* Class = "NSTextFieldCell"; title = "Unlocking"; ObjectID = "1451"; */
+"Unlocking" = "Upplåsning";
 
 /* Class = "NSTextFieldCell"; title = "Browser Extensions"; ObjectID = "2105"; */
 "Browser Extensions" = "Webbläsartillägg";
 
 /* Class = "NSTextFieldCell"; title = "Display in Sidebar"; ObjectID = "1745"; */
+"Display in Sidebar" = "Visa i sidofältet";
 
 /* Class = "NSTextFieldCell"; title = "Unlock when helper is unlocked"; ObjectID = "2034"; */
+"Unlock when helper is unlocked" = "Lås upp när helper är olåst";
 
 /* Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "1399"; */
+"Verify:" = "Kontrollera:";
 
 /* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
+"Download missing previews" = "Hämta saknade förhandsgranskningar";
 
 /* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
+"Master Password" = "Huvudlösenord";
 
 /* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
+"minutes of computer inactivity" = "minuter av datorinaktivitet";
 
 /* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
+"Enable Universal Unlock" = "Aktivera universal upplåsning";
 
 /* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
+"Remove all previews..." = "Ta bort alla förhandsvisningar...";
 
 /* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
+"Press" = "Tryck på";
 
 /* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
+"to show extension popup in your browser" = "för att visa popup-fönster för tillägg i din webbläsare";
 
 /* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "2106"; */
+"Keyboard Shortcuts" = "Kortkommandon";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "1804"; */
+"help" = "hjälp";
 
 /* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
+"Login Previews" = "Inlogg förhandsgranskningar";
 
 /* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
+"      Tags" = "      Taggar";
 
 /* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
+"seconds" = "sekunder";
 
 /* Class = "NSTextFieldCell"; title = "Clipboard Security"; ObjectID = "1533"; */
+"Clipboard Security" = "Urklippssäkerhet";
 
 /* Class = "NSTextFieldCell"; title = "New Password:"; ObjectID = "1397"; */
+"New Password:" = "Nytt lösenord:";
 
 /* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
+"Keep helper running to enable extension features" = "Låt helper vara igång för att aktivera tilläggsfunktioner";
 
 /* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
+"      Folders" = "      Mappar";
 
 /* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
+"Your Data Stored In" = "Din data lagrad i";
 
 /* Class = "NSTextFieldCell"; title = "Auto-Lock"; ObjectID = "1449"; */
+"Auto-Lock" = "Auto-låsning";
 
 /* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "1405"; */
+"Change Password" = "Ändra lösenord";
 
 /* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1479"; */
+"Password Hint:" = "Lösenordstips:";
 
 /* Class = "NSButtonCell"; title = "Lock after"; ObjectID = "1357"; */
+"Lock after" = "Lås efter";
 
 /* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
+"to fill Login in your browser" = "för att fylla i inlogg i din webbläsare";
 
 /* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
+"      Generated Passwords" = "      Genererade lösenord";

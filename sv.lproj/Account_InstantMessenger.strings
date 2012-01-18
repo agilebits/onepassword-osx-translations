@@ -1,25 +1,50 @@
+"__title__" = "Snabbmeddelandeprogram";
+
+"__description__" = "Konto- och anslutningsinformation för alla dina olika snabbmeddelandeprogram.";
+
+"account_type" = "Kontotyp";
+
+"account_type#9" = "Typ";
+
+"username" = "Användarnamn / e-post / ID";
+
+"username#9" = "ID";
+
+"password" = "Lösenord";
+
+"server" = "Server";
+
+"port" = "Port";
 
 
+"menu.account_type.aol" = "AOL Instant Messenger";
 
+"menu.account_type.jabber" = "Jabber";
 
+"menu.account_type.msn" = "MSN Messenger";
 
+"menu.account_type.yahoo" = "Yahoo! Messenger";
 
+"menu.account_type.mobileme" = "MobileMe";
 
+"menu.account_type.dotmac" = "Mac.com";
 
+"menu.account_type.gadu" = "Gadu-Gadu";
 
+"menu.account_type.gtalk" = "Google Talk";
 
+"menu.account_type.icq" = "ICQ";
 
+"menu.account_type.livejournal" = "LiveJournal";
 
+"menu.account_type.sametime" = "Lotus Sametime";
 
+"menu.account_type.groupwise" = "Novell GroupWise";
 
+"menu.account_type.qq" = "QQ";
 
+"menu.account_type.sip" = "SIP / SIMPLE";
 
+"menu.account_type.skype" = "Skype";
 
-
-
-
-
-
-
-
-
+"menu.account_type.gizmo" = "Gizmo";

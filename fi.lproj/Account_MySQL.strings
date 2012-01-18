@@ -1,0 +1,13 @@
+"__title__" = "MySQL-tietokanta";
+
+"__description__" = "MySQL-tietokannan yhteystiedot.";
+
+"hostname" = "Isäntänimi";
+
+"port" = "Port (3306)";
+
+"database" = "Database";
+
+"username" = "Käyttäjänimi";
+
+"password" = "Password";

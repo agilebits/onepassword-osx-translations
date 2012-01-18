@@ -1,0 +1,35 @@
+"__title__" = "Membership";
+
+"__description__" = "Community or club membership";
+
+"org_name" = "Organization";
+
+"phone" = "Telephone";
+
+"website" = "Website";
+
+"member_name" = "Member Name";
+
+"member_since" = "Member Since";
+
+"expiry_date" = "Expiry Date";
+
+"membership_no" = "Membership #";
+
+"pin" = "Wachtwoord";
+
+"org_name#9" = "Org";
+
+"phone#9" = "Telephone";
+
+"website#9" = "Website";
+
+"member_name#9" = "Naam";
+
+"member_since#9" = "Since";
+
+"expiry_date#9" = "Expires";
+
+"membership_no#9" = "Number";
+
+"pin#9" = "Wachtwoord";

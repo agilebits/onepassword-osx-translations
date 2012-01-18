@@ -1,0 +1,29 @@
+"__title__" = "FTP účet";
+
+"__description__" = "Přihlašovací informace FTP účtů.";
+
+"server" = "Server";
+
+"path" = "Cesta";
+
+"username" = "Uživatelské jméno";
+
+"password" = "Heslo";
+
+"Contact Information" = "Kontaktní informace";
+
+"Contact Information#9" = "Kontakt";
+
+"provider" = "Poskytovatel";
+
+"provider_website" = "Webové stránky poskytovatele";
+
+"provider_website#9" = "Webové stránky";
+
+"phone_tollfree" = "Telefonní číslo (bezplatné)";
+
+"phone_tollfree#9" = "Bezplatné";
+
+"phone_local" = "Telefonní číslo (místní)";
+
+"phone_local#9" = "Telefon";

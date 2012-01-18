@@ -1,0 +1,27 @@
+"__title__" = "Internetudbyder";
+
+"__description__" = "Forbindelsesoplysninger leveret af din internetudbyder (ISP) til at oprette forbindelse til internettet.";
+
+"userid" = "Bruger-ID";
+
+"password" = "Kodeord";
+
+"pin" = "PIN-kode";
+
+"dialup_number" = "DIALUP Adgangsnummer";
+
+"dialup_number#9" = "Dialup #";
+
+"Contact Information" = "Kontaktoplysninger";
+
+"Contact Information#9" = "Kontakt";
+
+"website" = "Hjemmeside";
+
+"phone_local" = "Telefon (lokal)";
+
+"phone_local#9" = "Telefon";
+
+"phone_tollfree" = "Telefon (gratis)";
+
+"phone_tollfree#9" = "Uden lande omkostninger";

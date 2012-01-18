@@ -1,0 +1,27 @@
+"__title__" = "網路連線服務供應商";
+
+"__description__" = "您的網路連線服務供應商(ISP)提供的網路連線資料。";
+
+"userid" = "使用者帳號";
+
+"password" = "密碼";
+
+"pin" = "PIN";
+
+"dialup_number" = "撥號接入號碼";
+
+"dialup_number#9" = "撥號 #";
+
+"Contact Information" = "聯絡資訊";
+
+"Contact Information#9" = "連絡人";
+
+"website" = "網站";
+
+"phone_local" = "電話(本地)";
+
+"phone_local#9" = "電話";
+
+"phone_tollfree" = "電話(免費)";
+
+"phone_tollfree#9" = "免費電話";

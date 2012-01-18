@@ -1,22 +1,44 @@
+"__title__" = "Trådlös router";
+
+"__description__" = "Kontoinformation för din AirPort Extreme eller andra trådlösa routrar.";
+
+"network_name" = "Nätverksnamn";
+
+"network_name#9" = "Nätverk";
+
+"name" = "Basstationsnamn";
+
+"name#9" = "Station";
+
+"password" = "Basstationslösenord";
+
+"password#9" = "Lösenord";
+
+"server" = "Server / IP-adress";
+
+"server#9" = "IP-adress";
+
+"airport_id" = "AirPort-ID";
+
+"wireless_security" = "Trådlös säkerhet";
+
+"wireless_security#9" = "Säkerhet";
+
+"wireless_password" = "Lösenord för trådlöst nätverk";
+
+"wireless_password#9" = "Nätverkslös.";
+
+"disk_password" = "Lösenord för lagringsutrymme";
+
+"disk_password#9" = "Lagringslös.";
 
 
+"menu.wireless_security.none" = "Ingen säkerhet";
 
+"menu.wireless_security.wep" = "WEP";
 
+"menu.wireless_security.wpa" = "WPA";
 
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";

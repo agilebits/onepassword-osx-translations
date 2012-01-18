@@ -1,0 +1,23 @@
+"__title__" = "MobileMe";
+
+"__description__" = "Apple MobileMe palvelun kirjautumistiedot.";
+
+"email" = "Sähköposti (name@me.com)";
+
+"email#9" = "Email";
+
+"member_name" = "Jäsen";
+
+"password" = "Password";
+
+"idisk_storage" = "Käytettävissä oleva iDisk-tila";
+
+"idisk_storage#9" = "Storage";
+
+"renewal_date" = "Renewal Date";
+
+"renewal_date#9" = "Renewal";
+
+"activation_key" = "Aktivointiavain";
+
+"activation_key#9" = "Aktivointi";

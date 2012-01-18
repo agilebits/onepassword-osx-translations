@@ -1,23 +1,44 @@
+"__title__" = "راوتر لاسلكي";
 
+"__description__" = "معلومات حسابك الخاصه ب \"AirPort Extreme\" او اجهزة الراوتر اللاسلكيه الاخرى.";
 
+"network_name" = "اسم شبكة الاتصال";
 
+"network_name#9" = "الشبكه";
 
+"name" = "اسم المحطة الأساسية";
 
+"name#9" = "المحطه";
 
+"password" = "كلمة مرور المحطه الاساسيه";
 
 "password#9" = "كلمة المرور";
 
+"server" = "الخادم/عنوان IP";
+
+"server#9" = "عنوان IP";
+
+"airport_id" = "معرف AirPort";
+
+"wireless_security" = "الامن اللاسلكي";
+
+"wireless_security#9" = "الامن";
+
+"wireless_password" = "كلمة مرور شبكة الاتصال اللاسلكية";
+
+"wireless_password#9" = "شبكة Pw";
+
+"disk_password" = "كلمة التخزين المرفقة";
+
+"disk_password#9" = "كلمة مرور وحدة التخزين";
 
 
+"menu.wireless_security.none" = "لا امان";
 
+"menu.wireless_security.wep" = "WEP";
 
+"menu.wireless_security.wpa" = "WPA";
 
+"menu.wireless_security.wpa2p" = "الشخصي WPA2";
 
-
-
-
-
-
-
-
-
+"menu.wireless_security.wpa2e" = "مؤسسة WPA2";

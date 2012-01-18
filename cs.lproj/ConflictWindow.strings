@@ -1,0 +1,35 @@
+/* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "138"; */
+"Skip All" = "Přeskočit vše";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "34"; */
+"Cancel" = "Zrušit";
+
+/* Class = "NSButtonCell"; title = "Choose This Copy"; ObjectID = "174"; */
+"Choose This Copy" = "Zvolit tuto kopii";
+
+/* Class = "NSTextFieldCell"; title = "This Mac"; ObjectID = "91"; */
+"This Mac" = "Tento Mac";
+
+/* Class = "NSMenuItem"; title = "Choose All iPhone Items"; ObjectID = "135"; */
+"Choose All iPhone Items" = "Vybrat všechny položky iPhone";
+
+/* Class = "NSWindow"; title = "Sync Conflict Resolver"; ObjectID = "1"; */
+"Sync Conflict Resolver" = "Řešitel konfliktů synchronizace";
+
+/* Class = "NSMenuItem"; title = "Choose All Local Mac Items"; ObjectID = "134"; */
+"Choose All Local Mac Items" = "Vyberte všechny místní Mac položky";
+
+/* Class = "NSButtonCell"; title = "Resolve Conflicts"; ObjectID = "36"; */
+"Resolve Conflicts" = "Vyřešit konflikty";
+
+/* Class = "NSMenuItem"; title = "Choose Local"; ObjectID = "147"; */
+"Choose Local" = "Vybrat místní";
+
+/* Class = "NSButtonCell"; title = "Detect conflicts automatically"; ObjectID = "184"; */
+"Detect conflicts automatically" = "Automaticky rozpoznat konflikty";
+
+/* Class = "NSMenuItem"; title = "Choose Remote"; ObjectID = "148"; */
+"Choose Remote" = "Vybrat vzdálené";
+
+/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "149"; */
+"Skip" = "Přeskočit";

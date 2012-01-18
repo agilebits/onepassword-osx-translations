@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "1Password"; ObjectID = "41"; */
+"1Password" = "1Password";
+
+/* Class = "NSTextFieldCell"; title = "Copyright © 2006-11 \nAgileBits Inc."; ObjectID = "42"; */
+"Copyright © 2006-11 \nAgileBits Inc." = "כל הזכויות שמורות 2006-2011\nAgileBits Inc.";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "80"; */
+"Close" = "סגור";
+
+/* Class = "NSTextFieldCell"; title = "Version Info"; ObjectID = "43"; */
+"Version Info" = "פרטי גירסה";
+
+/* Class = "NSWindow"; title = "About"; ObjectID = "5"; */
+"About" = "אודות";
+
+/* Class = "NSButtonCell"; title = "Credits..."; ObjectID = "59"; */
+"Credits..." = "יוצרים...";

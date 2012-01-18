@@ -1,200 +1,299 @@
 /* Class = "NSButtonCell"; title = "Customize..."; ObjectID = "4989"; */
+"Customize..." = "تخصيص...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Created Date"; ObjectID = "4993"; */
+"Created Date" = "تاريخ الإنشاء";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "1821"; */
+"Menu" = "القائمة";
 
 /* Class = "NSMenuItem"; title = "Type"; ObjectID = "4974"; */
+"Type" = "النوع";
 
 /* Class = "NSMenuItem"; title = "of the following are true"; ObjectID = "5062"; */
+"of the following are true" = "أذا أي من التالي صحيح";
 
 /* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5290"; */
+"Kind" = "النوع";
 
 /* Class = "NSMenuItem"; title = "Low (4-Digit Code)"; ObjectID = "5184"; */
+"Low (4-Digit Code)" = "رمز مكون من ٤ ارقام (منخفض";
 
 /* Class = "NSTableColumn"; headerCell.title = "Modified Date"; ObjectID = "3496"; */
+"Modified Date" = "تاريخ التعديل";
 
 /* Class = "NSMenuItem"; title = "Identity"; ObjectID = "5246"; */
+"Identity" = "هوية";
 
 /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "3465"; */
+"Rename" = "إعادة تسمية";
 
 /* Class = "NSButtonCell"; title = "Add Sample Data"; ObjectID = "5029"; */
+"Add Sample Data" = "إضافة عينة من البيانات";
 
 /* Class = "NSMenuItem"; title = "Folder"; ObjectID = "5786"; */
+"Folder" = "مجلد";
 
 /* Class = "NSMenuItem"; title = "Yes"; ObjectID = "5369"; */
+"Yes" = "نعم";
 
 /* Class = "NSMenuItem"; title = "40"; ObjectID = "5745"; */
+"40" = "٤٠";
 
 /* Class = "NSMenuItem"; title = "Modified"; ObjectID = "5639"; */
+"Modified" = "مُعدل";
 
 /* Class = "NSTextFieldCell"; title = "1976-04-01 3:00 PM"; ObjectID = "4994"; */
+"1976-04-01 3:00 PM" = "١٩٧٦-٠٤-٠١ ٠٣:٠٠ م";
 
 /* Class = "NSMenuItem"; title = "begins with"; ObjectID = "5776"; */
+"begins with" = "يبدأ بـ";
 
 /* Class = "OPWindowWithCmdSHandler"; title = "1Password"; ObjectID = "505"; */
+"1Password" = "1Password";
 
 /* Class = "NSOutlineView"; ibExternalAccessibilityDescription = "sidebar"; ObjectID = "2637"; */
+"sidebar" = "القائمة الجانبية";
 
 /* Class = "NSMenuItem"; title = "Account"; ObjectID = "5245"; */
+"Account" = "حساب";
 
 /* Class = "NSMenuItem"; title = "matches"; ObjectID = "5775"; */
+"matches" = "يساوي";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "5595"; */
+"Edit Smart Folder…" = "تعديل الملف الذكي";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "5249"; */
+"Wallet" = "المحفظة";
 
 /* Class = "NSMenuItem"; title = "Any"; ObjectID = "5063"; */
+"Any" = "أي";
 
 /* Class = "NSMenuItem"; title = "Icon"; ObjectID = "4971"; */
+"Icon" = "رمز";
 
 /* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "4271"; */
+"New Wallet Item…" = "عنصر محفظة جديد ";
 
 /* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "4276"; */
+"New Secure Note" = "ملاحظة آمنة جديدة";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Drag Splitview"; ObjectID = "4263"; */
+"Drag Splitview" = "Drag Splitview";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "4889"; */
+"Cut" = "قص";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "5619"; */
+"None" = "لا يوجد";
 
 /* Class = "NSMenuItem"; title = "Username"; ObjectID = "5593"; */
+"Username" = "اسم المستخدم";
 
 /* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "4272"; */
+"New Software License" = "رخصة البرنامج الجديد";
 
 /* Class = "NSTextFieldCell"; title = "Incorrect Password"; ObjectID = "4670"; */
+"Incorrect Password" = "كلمة مرور غير صحيحه";
 
 /* Class = "NSMenuItem"; title = "Password"; ObjectID = "5594"; */
 "Password" = "كلمة المرور";
 
 /* Class = "NSMenuItem"; title = "before"; ObjectID = "5638"; */
+"before" = "قبل";
 
 /* Class = "NSMenuItem"; title = "is like"; ObjectID = "5752"; */
+"is like" = "مثل";
 
 /* Class = "NSMenuItem"; title = "New Login"; ObjectID = "4281"; */
+"New Login" = "تسجيل دخول جديد";
 
 /* Class = "NSMenuItem"; title = "Security Level"; ObjectID = "5179"; */
+"Security Level" = "مستوى الحماية";
 
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "5653"; */
+"New Password…" = "كلمة مرور جديدة";
 
 /* Class = "NSMenuItem"; title = "contains"; ObjectID = "5766"; */
+"contains" = "يحتوي";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Item"; ObjectID = "4914"; */
+"Add Item" = "إضافة عنصر";
 
 /* Class = "NSMenuItem"; title = "All"; ObjectID = "5064"; */
+"All" = "الكل";
 
 /* Class = "NSMenuItem"; title = "is greater than or equal to"; ObjectID = "5749"; */
+"is greater than or equal to" = "أكبر من أو يساوي";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "5615"; */
+"New Smart Folder" = "مجلد ذكي جديد";
 
 /* Class = "NSMenuItem"; title = "is"; ObjectID = "5770"; */
+"is" = "هو";
 
 /* Class = "NSMenuItem"; title = "Any of the fields"; ObjectID = "5579"; */
+"Any of the fields" = "أي من الحقول";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "5697"; */
+"Password Strength" = "قوة كلمة المرور";
 
 /* Class = "NSMenuItem"; title = "High (Master Password)"; ObjectID = "5185"; */
+"High (Master Password)" = "كلمة المرور الرئيسية (العليا";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "3437"; */
+"Empty Trash…" = "إفراغ سلة المهملات";
 
 /* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "3443"; */
+"New Folder" = "مجلد جديد";
 
 /* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "5651"; */
+"New Account…" = "حساب جديد";
 
 /* Class = "NSButtonCell"; title = "Can't Log In?"; ObjectID = "5759"; */
+"Can't Log In?" = "لا تستطيع تسجيل الدخول؟";
 
 /* Class = "NSMenuItem"; title = "Login"; ObjectID = "5244"; */
+"Login" = "تسجيل الدخول";
 
 /* Class = "NSMenuItem"; title = "Has Attachment"; ObjectID = "5364"; */
+"Has Attachment" = "يحتى على مرفق";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Help"; ObjectID = "5758"; */
+"Help" = "مساعدة";
 
 /* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "window layout"; ObjectID = "4644"; */
+"window layout" = "شكل النافذة";
 
 /* Class = "NSBox"; ibExternalAccessibilityDescription = "Unlock"; ObjectID = "3662"; */
+"Unlock" = "فتح";
 
 /* Class = "NSSearchField"; ibExternalAccessibilityDescription = "search"; ObjectID = "4646"; */
+"search" = "بحث";
 
 /* Class = "NSTextFieldCell"; title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID = "5023"; */
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. " = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. ";
 
 /* Class = "NSMenuItem"; title = "60"; ObjectID = "5746"; */
+"60" = "٦٠";
 
 /* Class = "NSMenuItem"; title = "Delete…"; ObjectID = "4892"; */
+"Delete…" = "حذف ...";
 
 /* Class = "NSMenuItem"; title = "100 - Fantastic"; ObjectID = "5748"; */
+"100 - Fantastic" = "١٠٠ - ممتاز";
 
 /* Class = "NSTableView"; ibExternalAccessibilityDescription = "object list"; ObjectID = "3491"; */
+"object list" = "قائمة العناصر";
 
 /* Class = "NSTextFieldCell"; title = "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID = "5021"; */
+"Click the + button to get started creating new items or add sample data to get some ideas." = "اضغط زر الـ + لتبدأ بإنشاء عناصر جديدة او أضف عينة من البيانات لتحصل على بعض الأفكار.";
 
 /* Class = "NSMenuItem"; title = "ends with"; ObjectID = "5777"; */
+"ends with" = "ينتهي بـ";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "4896"; */
+"Edit" = "تحرير";
 
 /* Class = "NSMenuItem"; title = "is not"; ObjectID = "5531"; */
+"is not" = "ليس";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "4891"; */
+"Paste" = "لصق";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "5410"; */
+"Save" = "حفظ";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "4895"; */
+"Duplicate" = "تكرار";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "4998"; */
+"Date Created" = "تاريخ الإنشاء";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Sidebar Actions Menu"; ObjectID = "3430"; */
+"Sidebar Actions Menu" = "قائمة الأوامر بالشريط الجانبي";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "4890"; */
+"Copy" = "نسخ";
 
 /* Class = "NSMenuItem"; title = "20"; ObjectID = "5744"; */
+"20" = "٢٠";
 
 /* Class = "NSMenuItem"; title = "Secure Note"; ObjectID = "5247"; */
+"Secure Note" = "ملاحظة آمنة";
 
 /* Class = "NSMenuItem"; title = "No"; ObjectID = "5370"; */
+"No" = "لا";
 
 /* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "4277"; */
+"New Identity" = "هوية جديدة";
 
 /* Class = "NSMenuItem"; title = "Low Security"; ObjectID = "5655"; */
+"Low Security" = "حماية منخفضة";
 
 /* Class = "NSMenuItem"; title = "is less than"; ObjectID = "5757"; */
+"is less than" = "أقل من";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "4975"; */
+"Date Modified" = "تاريخ التعديل";
 
 /* Class = "NSMenuItem"; title = "10 - Terrible"; ObjectID = "5743"; */
+"10 - Terrible" = "١٠ - سيء";
 
 /* Class = "NSMenuItem"; title = "Notes"; ObjectID = "5558"; */
+"Notes" = "ملاحظات";
 
 /* Class = "NSMenuItem"; title = "90"; ObjectID = "5747"; */
+"90" = "٩٠";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "4647"; */
+"Search" = "بحث";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "5591"; */
+"Title" = "عنوان";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Master Password"; ObjectID = "2517"; */
+"Master Password" = "كلمة المرور الرئيسية";
 
 /* Class = "NSMenuItem"; title = "Tag"; ObjectID = "5674"; */
+"Tag" = "تصنيف";
 
 /* Class = "NSTextFieldCell"; title = "No Items Found"; ObjectID = "5037"; */
+"No Items Found" = "لم يتم العثور على عناصر";
 
 /* Class = "NSTextFieldCell"; title = "MASTER PASSWORD"; ObjectID = "4603"; */
+"MASTER PASSWORD" = "كلمة المرور الرئيسية";
 
 /* Class = "NSMenuItem"; title = "Created"; ObjectID = "5628"; */
+"Created" = "تم إنشاؤها";
 
 /* Class = "NSMenuItem"; title = "Any kind"; ObjectID = "5314"; */
+"Any kind" = "من أي نوع";
 
 /* Class = "NSMenuItem"; title = "after"; ObjectID = "5637"; */
+"after" = "بعد";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5668"; */
+"Cancel" = "إالغاء الامر";
 
 /* Class = "NSMenuItem"; title = "Software License"; ObjectID = "5248"; */
+"Software License" = "رخصة البرنامج";
 
 /* Class = "NSMenuItem"; title = "is less than or equal to"; ObjectID = "5701"; */
+"is less than or equal to" = "أقل من أو يساوي";
 
 /* Class = "NSButtonCell"; title = "Lock"; ObjectID = "4643"; */
+"Lock" = "قفل";
 
 /* Class = "NSMenuItem"; title = "Location"; ObjectID = "5592"; */
+"Location" = "موقع";
 
 /* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "5606"; */
+"Save Changes" = "حفظ التغييرات";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "4894"; */
+"Select All" = "تحديد الكل";
 
 /* Class = "NSMenuItem"; title = "is greater than"; ObjectID = "5756"; */
+"is greater than" = "أكبر من";

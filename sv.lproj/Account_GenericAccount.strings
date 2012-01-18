@@ -1,3 +1,7 @@
+"__title__" = "Allmänt konto";
 
+"__description__" = "Användarnamn- och lösenordsinformation";
 
+"username" = "Användarnamn";
 
+"password" = "Lösenord";

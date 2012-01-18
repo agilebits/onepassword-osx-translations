@@ -1,15 +1,23 @@
 /* Class = "NSTextFieldCell"; title = "Agile"; ObjectID = "260"; */
+"Agile" = "Agile";
 
 /* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "248"; */
+"Email" = "البريد الإلكتروني";
 
 /* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "لا تفوت تحديث مهم لـ 1Password وتعلم عن المميزات والتحسينات الجديدة\n\nكل نشراتنا الإخبارية تتضمن على رابط لإلغاء الإشتراك بسهولة في حالة أن تقوم بتغيير رأيك لاحقاً.";
 
 /* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
+"Stay In Touch" = "أبقني على إطلاع";
 
 /* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
+"No, thanks" = "لا، شكراً";
 
 /* Class = "NSTextFieldCell"; title = "Copied from your Address Book card"; ObjectID = "269"; */
+"Copied from your Address Book card" = "منسوخ من بطاقتك الخاصة في دفتر العناوين";
 
 /* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "242"; */
+"Sign Up" = "التسجيل";
 
 /* Class = "NSTextFieldCell"; title = "News & Updates"; ObjectID = "258"; */
+"News & Updates" = "الأخبار و التحديثات";

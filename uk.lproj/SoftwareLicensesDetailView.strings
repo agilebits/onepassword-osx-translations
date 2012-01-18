@@ -1,0 +1,44 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "5025"; */
+"Tags" = "Мітки";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4881"; */
+"Attachments" = "Вкладення";
+
+/* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
+"License Key:" = "Ліцензійний ключ:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
+"title" = "title";
+
+/* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
+"View Version" = "Перегляд версії";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
+"Created on" = "Created on";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4509"; */
+"tags" = "мітки";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4939"; */
+"Notes" = "Notes";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5066"; */
+"Title" = "Title";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
+"Version Number" = "Номер версії";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
+"license key" = "ліцензійний ключ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
+"version" = "версія";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "icon"; ObjectID = "3918"; */
+"icon" = "іконка";
+
+/* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
+"Edit Version" = "Редагувати версію";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */
+"Last modified" = "Last modified";

@@ -1,0 +1,27 @@
+"__title__" = "ارائه دهنده اینترنت";
+
+"__description__" = "اطلاعات ارتباط ارائه شده توسط سرویس دهنده شما برای ارتباط با اینترنت.";
+
+"userid" = "شناسه کاربر";
+
+"password" = "گذرواژه";
+
+"pin" = "PIN";
+
+"dialup_number" = "شماره دسترسی دیال آپ";
+
+"dialup_number#9" = "Dialup #";
+
+"Contact Information" = "اطلاعات تماس";
+
+"Contact Information#9" = "مخاطب";
+
+"website" = "وب سایت";
+
+"phone_local" = "تلفن (محلی)";
+
+"phone_local#9" = "تلفن";
+
+"phone_tollfree" = "تلفن (بدون عوارض)";
+
+"phone_tollfree#9" = "بدون عوارض";

@@ -1,0 +1,1 @@
+heslo,ipassword,ipass,1passwd,peněženka,zabezpečení,agilewebsolutions,agileweb,onepassword,1password

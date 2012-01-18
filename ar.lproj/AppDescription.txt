@@ -1,0 +1,41 @@
+1password هو رفيقك للهوية وكلمة السر. يتجاوز التخزين البسيط لكلمة السر حيث انه يعمل مباشرة مع المتصفح ويحفظ اسماء المستخدم وكلمات السر ثم ينشىء كلمة سر قوية وفريدة لكل موقع. 1password يسجل دخولك تلقائيا بآمان آو يدخل بيانات بطاقتك الائتمانية ويملآ بيانات التسجيل مع الحفاظ على تشفير كل المعلومات بكلمة السرالتي تحفظها. 
+
+ملاحظة: لمستخدمي الاصدار رقم .٣،٨. لنتائج افضل فضلا قم بحذف النسخة القديمة قبل تثبيت نسخة الماك من متجر ابل. 
+
+حاز البرنامج على كل الجوائز المعروفة! *
+ - Mac App Store: Best Apps of 2011
+جائزة  ايدي ٢٠١٠ لعالم ماك
+ - MacStories Apps of 2011: Reader’s Choice Winner
+حاز على ٤.٥/٥ في تقييم عالم ماك
+ - Cult of Mac: 10 Most Innovative Apps of 2011
+تحت تقييم رائع Mac Life اختيار محرري مجلة 
+ 
+But wait, there’s more! 1Password makes it easy to:
+ 
+- Use multiple Logins for the same site
+ - Create multiple Identities for filling into registration forms, surveys, and shopping carts
+ - Securely sync your data over-the-air between Macs, iPhones, and iPads with Dropbox, or locally over Wi-Fi
+ - Store other sensitive information in Secure Notes
+ - Save software licenses and receipts
+ - Organize everything with tags and folders
+ 
+This new version of 1Password was re-engineered to leverage the great features in OS X Lion, such as:
+ 
+- Full-screen mode
+ - Better security with compatibility for sandboxing in Lion
+ - Even better security with PBKDF2 Calibration
+ - 64-bit support for a zippy experience
+ 
+This version also provides:
+ - **New** Quick access to your data from the menu bar
+ - Improved support for browser extensions
+ 
+
+Mobile versions of 1Password are available for iPhone, iPod touch, and iPad. Sync and update using Wi-Fi or over-the-air via Dropbox so your information is always just a tap away. 
+
+-------------------------------
+ 
+SUPPORT NOTE #1: We got several reports about not being able to get past the Welcome screen when installing 1Password. If you encounter this issue, please see the "1Password fails to continue after the initial welcome screen" article on our support site. 
+
+
+SUPPORT NOTE #2: We love to hear your feedback. Mac AppStore برجاء تذكر اننا غير قادرين بالرد علي تعليقاتكم فى  If you have a question, please contact us on our support site. شكراً لك!

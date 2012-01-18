@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Browser Extensions Inro</title>
+	<link rel="stylesheet" href="../BrowserExtensions.css" />
+</head>
+<!--body classes = intro/helper/install-->
+<body class="">
+    
+    <div style="display:none" id="text.installed">Installed</div>
+    <div style="display:none" id="html.install"><a href='#'>Install</a></div>
+
+    <script>
+        if (document.location.search.indexOf("install") > 0) {
+            document.body.className = "install";
+        }
+        else {
+            document.body.className = "intro";
+        }
+    </script>
+        
+
+    <section id="intro">
+        <header>
+            <img src="../header-icon.png" alt="" />
+            <h1>Browser-extensies installeren</h1>
+            <p>Enjoy true integration with your web browsers.</p>
+        </header>
+        <ul>
+            <li><img src="../intro-logins.png" alt="" />
+                <p><strong>Automatically save and fill website logins.</strong> It will detect when you log into a site and will prompt you to save the new Login to use later.</p></li>
+            <li><img src="../intro-identities.png" alt="" />
+                <p><strong>Fill addresses, contact information, forums, and more.</strong> You can save all or some of this information in a 1Password Identity, and you can create as many Identities as you like.</p></li>
+            <li><img src="../intro-credit-cards.png" alt="" />
+                <p><strong>Easily fill credit cards while shopping online.</strong> Shop more conveniently and keep your credit card numbers safe by storing them locally in encrypted 1Password’s Wallet.</p></li>
+            <li><img src="../intro-generator.png" alt="" />
+                <p><strong>Generate incredibly strong passwords</strong> while 1Password remembers all your passwords so you don’t have to. The days of using your pet’s name or anniversary are long gone.</p></li>
+        </ul>
+        <button onclick="document.body.className='helper'">Let's get started!</button>
+    </section>
+        
+    <section id="helper">
+        <h1>1Password Helper</h1>
+        <p>Helper will run in your menu bar.</p>
+        
+        <img src="../helper.png" alt="1Password Helper in menu bar" />
+        
+        <p>It will keep your browsers in <strong>sync</strong>, let you use <strong>keyboard</strong> shortcuts, <strong>lock</strong> and <strong>unlock</strong> 1Password, and automatically <strong>back up</strong> your data even when 1Password is closed.</p>
+
+        <button onclick="controller.enableHelper(); document.body.className='install';">Enable Helper and Continue</button>
+    </section>
+        
+    <section id="install">
+        <h1>Web browser extensions</h1>
+        <ul class="buttons">
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+                <h2>Safari</h2><span id="safari.msg">Installed</span></li>
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+                <h2>Chrome</h2><span id="chrome.msg"><a href="#">Install</a></span></li>
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+                <h2>Firefox</h2><span id="firefox.msg"><a href="#">Install</a></span></li>
+        </ul>
+        <footer><a href="#" onclick="controller.showSettings()">Preferences</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">User Guide</a></footer>
+    </section>
+        
+    </body>
+    
+    <script>
+        function updateBrowser(elementID, bundleID) {
+            var el = document.getElementById(elementID);
+            el.style.display = controller.isApplicationAvailable_(bundleID) ? '' : 'none';
+
+            if (controller.isExtensionInstalled_(bundleID)) {
+                el.className = 'installed';
+                document.getElementById(elementID + ".msg").innerText = document.getElementById("text.installed").innerText;
+            }
+            else {
+                el.className = '';
+                document.getElementById(elementID + ".msg").innerHTML = document.getElementById("html.install").innerHTML;
+            }
+        }
+        
+        updateBrowser("safari", "com.apple.Safari");
+        updateBrowser("chrome", "com.google.Chrome");
+        updateBrowser("firefox", "org.mozilla.firefox");
+    </script>
+
+</html>

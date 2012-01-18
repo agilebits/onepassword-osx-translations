@@ -1,14 +1,27 @@
+"__title__" = "مزود خدمة الانترنت";
 
+"__description__" = "بايانات مزودة خدمة الانترنت ISP";
 
+"userid" = "معرف المستخدم";
 
 "password" = "كلمة المرور";
 
+"pin" = "رقم التعريف الشخصي PIN";
 
+"dialup_number" = "رقم الهاتف Dialup";
 
+"dialup_number#9" = "رقم الهاتف #";
 
+"Contact Information" = "معلومات الاتصال";
 
+"Contact Information#9" = "جهة الاتصال";
 
+"website" = "موقع";
 
+"phone_local" = "الهاتف (محلي";
 
+"phone_local#9" = "الهاتف";
 
+"phone_tollfree" = "الهاتف(الرقم المجاني)";
 
+"phone_tollfree#9" = "الهاتف المجاني";

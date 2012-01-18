@@ -1,0 +1,50 @@
+"__title__" = "پیام رسان";
+
+"__description__" = "اطلاعات حساب و ارتباط برای همه مسنجرهای مختلف شما.";
+
+"account_type" = "نوع حساب";
+
+"account_type#9" = "نوع";
+
+"username" = "نام کاربری / ایمیل / شناسه";
+
+"username#9" = "شناسه";
+
+"password" = "گذرواژه";
+
+"server" = "سرور";
+
+"port" = "درگاه";
+
+
+"menu.account_type.aol" = "مسنجر AOL";
+
+"menu.account_type.jabber" = "Jabber";
+
+"menu.account_type.msn" = "MSN مسنجر";
+
+"menu.account_type.yahoo" = "پیام رسان یاهو";
+
+"menu.account_type.mobileme" = "MobileMe";
+
+"menu.account_type.dotmac" = "Mac.com";
+
+"menu.account_type.gadu" = "Gadu Gadu";
+
+"menu.account_type.gtalk" = "Google Talk";
+
+"menu.account_type.icq" = "ICQ";
+
+"menu.account_type.livejournal" = "LiveJournal";
+
+"menu.account_type.sametime" = "Lotus Sametime";
+
+"menu.account_type.groupwise" = "Novell GroupWise";
+
+"menu.account_type.qq" = "QQ";
+
+"menu.account_type.sip" = "SIP / SIMPLE";
+
+"menu.account_type.skype" = "اسکایپ";
+
+"menu.account_type.gizmo" = "Gizmo";

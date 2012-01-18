@@ -1,18 +1,36 @@
+"__title__" = "Prawo jazdy";
+
+"fullname" = "Imię i nazwisko";
+
+"address" = "Adres";
+
+"birthdate" = "Data urodzenia";
+
+"birthdate#9" = "Urodziny";
+
+"sex" = "Płeć";
+
+"height" = "Wzrost";
+
+"number" = "Numer";
+
+"class" = "License Class";
+
+"class#9" = "Class";
+
+"conditions" = "Conditions / Restrictions";
+
+"conditions#9" = "Conditions";
+
+"state" = "State";
+
+"country" = "Kraj";
+
+"expiry_date" = "Termin ważności";
+
+"expiry_date#9" = "Wygasa";
 
 
+"menu.sex.male" = "Male";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+"menu.sex.female" = "Female";

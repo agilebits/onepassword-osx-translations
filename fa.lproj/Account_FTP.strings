@@ -1,0 +1,29 @@
+"__title__" = "حساب FTP";
+
+"__description__" = "اطلاعات ورود به حساب FTP.";
+
+"server" = "سرور";
+
+"path" = "مسیر";
+
+"username" = "نام کاربر";
+
+"password" = "گذرواژه";
+
+"Contact Information" = "اطلاعات تماس";
+
+"Contact Information#9" = "مخاطب";
+
+"provider" = "ارائه دهنده";
+
+"provider_website" = "وبسایت سرویس دهنده";
+
+"provider_website#9" = "وب سایت";
+
+"phone_tollfree" = "شماره تلفن (بدون عوارض)";
+
+"phone_tollfree#9" = "بدون عوارض";
+
+"phone_local" = "شماره تلفن (محلی)";
+
+"phone_local#9" = "تلفن";

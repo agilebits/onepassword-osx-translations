@@ -1,0 +1,13 @@
+"__title__" = "Databáze MySQL";
+
+"__description__" = "Informace o připojení databáze MySQL.";
+
+"hostname" = "Název hostitele";
+
+"port" = "Port (3306)";
+
+"database" = "Databáze";
+
+"username" = "Uživatelské jméno";
+
+"password" = "Heslo";

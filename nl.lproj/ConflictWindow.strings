@@ -1,0 +1,35 @@
+/* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "138"; */
+"Skip All" = "Alles overslaan";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "34"; */
+"Cancel" = "Annuleren";
+
+/* Class = "NSButtonCell"; title = "Choose This Copy"; ObjectID = "174"; */
+"Choose This Copy" = "Kies deze kopie";
+
+/* Class = "NSTextFieldCell"; title = "This Mac"; ObjectID = "91"; */
+"This Mac" = "Deze Mac";
+
+/* Class = "NSMenuItem"; title = "Choose All iPhone Items"; ObjectID = "135"; */
+"Choose All iPhone Items" = "Kies alle iPhone-Items";
+
+/* Class = "NSWindow"; title = "Sync Conflict Resolver"; ObjectID = "1"; */
+"Sync Conflict Resolver" = "Sync conflictoplossing";
+
+/* Class = "NSMenuItem"; title = "Choose All Local Mac Items"; ObjectID = "134"; */
+"Choose All Local Mac Items" = "Alle lokale Mac Items kiezen";
+
+/* Class = "NSButtonCell"; title = "Resolve Conflicts"; ObjectID = "36"; */
+"Resolve Conflicts" = "Conflicten oplossen";
+
+/* Class = "NSMenuItem"; title = "Choose Local"; ObjectID = "147"; */
+"Choose Local" = "Choose Local";
+
+/* Class = "NSButtonCell"; title = "Detect conflicts automatically"; ObjectID = "184"; */
+"Detect conflicts automatically" = "Automatisch detecteren van conflicten";
+
+/* Class = "NSMenuItem"; title = "Choose Remote"; ObjectID = "148"; */
+"Choose Remote" = "Kies Remote";
+
+/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "149"; */
+"Skip" = "Overslaan";

@@ -1,0 +1,17 @@
+"__title__" = "iTunes";
+
+"__description__" = "iTunes-account informatie.";
+
+"username" = "Apple ID (e-mail)";
+
+"username#9" = "E-mail";
+
+"password" = "Wachtwoord";
+
+"question" = "Beveiligingsvraag";
+
+"question#9" = "Geheime vraag";
+
+"answer" = "Beveiligingssantwoord";
+
+"answer#9" = "Geheim antwoord";

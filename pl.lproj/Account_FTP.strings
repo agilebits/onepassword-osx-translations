@@ -1,14 +1,29 @@
+"__title__" = "Konto FTP";
 
+"__description__" = "Dane logowania do kont FTP.";
 
+"server" = "Serwer";
 
+"path" = "Ścieżka";
 
+"username" = "Nazwa użytkownika";
 
+"password" = "Hasło";
 
+"Contact Information" = "Informacje kontaktowe";
 
+"Contact Information#9" = "Kontakt";
 
+"provider" = "Dostawca";
 
+"provider_website" = "Witryna dostawcy";
 
+"provider_website#9" = "Witryna";
 
+"phone_tollfree" = "Numer telefonu (bezpłatny)";
 
+"phone_tollfree#9" = "Numer bezpłatny";
 
+"phone_local" = "Numer telefonu (lokalny)";
 
+"phone_local#9" = "Telefon";

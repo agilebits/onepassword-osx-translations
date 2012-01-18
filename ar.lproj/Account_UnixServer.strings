@@ -1,21 +1,41 @@
+"__title__" = "الخادم";
 
+"__description__" = "معلومات حساب سيرفر لينكس او BSD ";
 
+"url" = "رابط تشعبي";
 
+"username" = "اسم المستخدم";
 
 "password" = "كلمة المرور";
 
+"hosting_provider_details" = "معلومات موفر الخدمه";
 
+"hosting_provider_details#9" = "مزود الخدمه";
 
+"admin_console" = "شاشة التحكم ";
 
+"admin_console#9" = "شاشة";
 
+"admin_console_url" = "رابط وحدة التحكم";
 
+"admin_console_url#9" = "رابط الشاشة";
 
+"admin_console_username" = "اسم المشرف";
 
+"admin_console_username#9" = "اسم مشرف الشاشة";
 
+"admin_console_password" = "كلمة المرور";
 
+"admin_console_password#9" = "كلمة المرور";
 
+"name" = "اسم";
 
+"website" = "موقع";
 
+"support_contact_url" = "الدعم الفني";
 
+"support_contact_url#9" = "الدعم الفني";
 
+"support_contact_phone" = "هاتف الدعم الفني";
 
+"support_contact_phone#9" = "الدعم #";

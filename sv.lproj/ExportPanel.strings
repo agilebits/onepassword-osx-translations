@@ -1,15 +1,23 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100"; */
+"Cancel" = "Avbryt";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID = "61"; */
+"Turn this checkbox on to keep the access code in your login keychain for future exports." = "Aktivera denna kryssruta för att behålla åtkomstkoden i din inloggnings-nyckelring för framtida exporteringar.";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "99"; */
+"Continue" = "Fortsätta";
 
 /* Class = "NSWindow"; title = "Enter Access Code"; ObjectID = "57"; */
+"Enter Access Code" = "Ange åtkomstkod";
 
 /* Class = "NSTextFieldCell"; title = "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID = "91"; */
+"The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information." = "Åtkomstkoden kommer att användas för att kryptera din information. Du kommer att uppmanas att ange denna åtkomstkod för att låsa upp den exporterade informationen.";
 
 /* Class = "NSTextFieldCell"; title = "Access Code:"; ObjectID = "98"; */
+"Access Code:" = "Åtkomstkod:";
 
 /* Class = "NSButtonCell"; title = "Remember this access code in my keychain"; ObjectID = "96"; */
+"Remember this access code in my keychain" = "Kom ihåg denna åtkomstkod i min nyckelhanterare";
 
 /* Class = "NSTextFieldCell"; title = "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID = "97"; */
+"Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information." = "Ange åtkomstkoden. Åtkomstkoden kommer att användas för att kryptera din information. Du kommer att uppmanas att ange denna kod för att låsa upp den exporterade informationen.";

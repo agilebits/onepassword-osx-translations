@@ -1,46 +1,91 @@
+"__title__" = "بطاقة الائتمان";
 
+"__description__" = "معلومات بطاقة الائتمان";
 
+"set.contactInfo" = "معلومات الاتصال";
 
+"cardholder" = "اسم حامل البطاقة";
 
+"cardholder#9" = "حامل البطاقة";
 
+"type" = "النوع";
 
+"ccnum" = "الرقم";
 
+"cvv" = "رقم التحقق";
 
+"cvv#9" = "CVC";
 
+"expiry" = "تاريخ الانتهاء";
 
+"expiry#9" = "الانتهاء";
 
+"validFrom" = "صالحة من";
 
+"validFrom#9" = "Issued";
 
+"contactInfo" = "معلومات الاتصال";
 
+"bank" = "مصرف الاصدار";
 
+"bank#9" = "مصرف";
 
+"details" = "تفاصيل اضافية";
 
+"details#9" = "تفاصيل";
 
+"phoneLocal" = "الهاتف (محلي";
 
+"phoneLocal#9" = "الهاتف";
 
+"phoneTollFree" = "الهاتف(الرقم المجاني)";
 
+"phoneTollFree#9" = "الهاتف المجاني";
 
+"phoneIntl" = "Phone (International)";
 
+"phoneIntl#9" = "Intl";
 
+"website" = "موقع";
 
+"pin" = "رقم التعريف الشخصي PIN";
 
+"creditLimit" = "حد الائتمان";
 
+"creditLimit#9" = "الحد الاقصى";
 
+"cashLimit" = "حد السحب النقدي";
 
+"cashLimit#9" = "الحد النقدي";
 
+"interest" = "سعر الفائدة";
 
+"interest#9" = "الفائدة";
 
+"issuenumber" = "رقم الإصدار";
 
+"issuenumber#9" = "Issue #";
 
 /* credit card types */
 
+"menu.type.visa" = "فيزا";
 
+"menu.type.mc" = "ماستر كارد";
 
+"menu.type.amex" = "أمريكان إكسبريس";
 
+"menu.type.diners" = "Diners Club";
 
+"menu.type.discover" = "اكتشف";
 
+"menu.type.jcb" = "JCB";
 
+"menu.type.solo" = "Solo";
 
+"menu.type.switch" = "Switch";
 
+"menu.type.maestro" = "MasterCard Maestro";
 
+"menu.type.visaelectron" = "VISA Electron";
 
+"menu.type.carteblanche" = "Carte Blanche";

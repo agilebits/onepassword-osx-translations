@@ -1,0 +1,27 @@
+"__title__" = "Internet Provider";
+
+"__description__" = "Connection information provided by your Internet Service Provider (ISP) for connecting to the Internet.";
+
+"userid" = "User ID";
+
+"password" = "Passord";
+
+"pin" = "PIN";
+
+"dialup_number" = "Dialup Access Number";
+
+"dialup_number#9" = "Dialup #";
+
+"Contact Information" = "Contact Information";
+
+"Contact Information#9" = "Contact";
+
+"website" = "Website";
+
+"phone_local" = "Phone (Local)";
+
+"phone_local#9" = "Phone";
+
+"phone_tollfree" = "Phone (Toll Free)";
+
+"phone_tollfree#9" = "Toll Free";

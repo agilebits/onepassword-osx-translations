@@ -1,0 +1,110 @@
+"__title__" = "חשבון דואר אלקטרוני";
+
+"__description__" = "פרטי חשבון דוא\"ל.";
+
+"pop_username" = "שם משתמש";
+
+"pop_password" = "Password";
+
+"pop_server" = "שרת";
+
+"pop_type" = "סוג";
+
+"pop_port" = "מספר יציאה";
+
+"pop_port#9" = "יציאה";
+
+"pop_security" = "אבטחה";
+
+"pop_authentication" = "שיטת אימות";
+
+"pop_authentication#9" = "אימות";
+
+"SMTP" = "SMTP";
+
+"smtp_username" = "שם משתמש";
+
+"smtp_password" = "Password";
+
+"smtp_server" = "שרת SMTP";
+
+"smtp_type" = "סוג";
+
+"smtp_port" = "מספר יציאה";
+
+"smtp_port#9" = "יציאה";
+
+"smtp_security" = "אבטחה";
+
+"smtp_authentication" = "שיטת אימות";
+
+"smtp_authentication#9" = "אימות";
+
+"Contact Information" = "פרטי איש קשר";
+
+"Contact Information#9" = "איש קשר";
+
+"provider" = "ספק";
+
+"provider_website" = "אתר האינטרנט של הספק";
+
+"provider_website#9" = "אתר אינטרנט";
+
+"phone_tollfree" = "מספר טלפון (שיחת חינם)";
+
+"phone_tollfree#9" = "שיחת חינם";
+
+"phone_local" = "מספר טלפון (מקומי)";
+
+"phone_local#9" = "טלפון";
+
+
+"menu.pop_type.pop3" = "POP3";
+
+"menu.pop_type.imap" = "IMAP";
+
+"menu.pop_type.either" = "POP3 או IMAP";
+
+
+"menu.pop_security.none" = "אף אחד";
+
+"menu.pop_security.SSL" = "SSL";
+
+"menu.pop_security.TLS" = "TLS";
+
+
+"menu.pop_authentication.none" = "אף אחד";
+
+"menu.pop_authentication.password" = "Password";
+
+"menu.pop_authentication.md5_challenge_response" = "MD5 Challenge Response";
+
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.pop_authentication.kerberos_v4" = "Kerberos גירסה 4";
+
+"menu.pop_authentication.kerberos_v5" = "Kerberos גירסה 5 (GSSAPI)";
+
+"menu.pop_authentication.ntlm" = "NTLM";
+
+
+"menu.smtp_security.none" = "אף אחד";
+
+"menu.smtp_security.SSL" = "SSL";
+
+"menu.smtp_security.TLS" = "TLS";
+
+
+"menu.smtp_authentication.none" = "אף אחד";
+
+"menu.smtp_authentication.password" = "Password";
+
+"menu.smtp_authentication.md5_challenge_response" = "MD5 Challenge Response";
+
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.smtp_authentication.kerberos_v4" = "Kerberos גירסה 4";
+
+"menu.smtp_authentication.kerberos_v5" = "Kerberos גירסה 5 (GSSAPI)";
+
+"menu.smtp_authentication.ntlm" = "NTLM";

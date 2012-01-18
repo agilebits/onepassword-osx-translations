@@ -1,0 +1,23 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "100"; */
+"Cancel" = "取消";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID = "61"; */
+"Turn this checkbox on to keep the access code in your login keychain for future exports." = "勾選此選項會在你的Keychain中儲存存取密碼，供未來匯出操作時使用";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "99"; */
+"Continue" = "繼續";
+
+/* Class = "NSWindow"; title = "Enter Access Code"; ObjectID = "57"; */
+"Enter Access Code" = "輸入存取密碼";
+
+/* Class = "NSTextFieldCell"; title = "The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information."; ObjectID = "91"; */
+"The Access Code will be used to encrypt your information. You will be asked to enter this access code to unlock the exported information." = "存取密碼將用來對你的資訊進行加密。您必須輸入此密碼才能解開匯出的資訊";
+
+/* Class = "NSTextFieldCell"; title = "Access Code:"; ObjectID = "98"; */
+"Access Code:" = "存取密碼：";
+
+/* Class = "NSButtonCell"; title = "Remember this access code in my keychain"; ObjectID = "96"; */
+"Remember this access code in my keychain" = "在Keychain中記錄這個存取密碼";
+
+/* Class = "NSTextFieldCell"; title = "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID = "97"; */
+"Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information." = "請輸入存取密碼。它將用於對你的資訊進行加密。您必須輸入此密碼才能解開匯出的資訊";

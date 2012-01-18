@@ -1,12 +1,21 @@
-1Password è il tuo compagno di password e identità. 
+1Password è il tuo compagno di password e identità. 1Password va oltre la semplice archiviazione delle password perché collabora direttamente con il browser, salvando nomi utente e password e creando password sicure e univoche per ogni sito. 1Password effettuerà quindi l'accesso in modo automatico e sicuro, inserendo informazioni sulla carta di credito e completando moduli di registrazione al tuo posto, il tutto crittografando le informazioni con un'unica password che dovrai ricordare. 
 
 NOTA: per gli utenti di 1Password 3.8. Per risultati migliori, cancella la vecchia copia di 1Password prima di installare la versione del Mac App Store. 
 
 ★ 1Password ha quasi vinto ogni premio esistente! ★
- -Vincitore del Macworld 2010 Eddy Award
- - Mac|Life Editor's Choice con una valutazione di "Impressionante!"
+ - Mac App Store: Best Apps of 2011
+-Vincitore del Macworld 2010 Eddy Award
+ - MacStories Apps of 2011: Reader’s Choice Winner
+- Valutazione di 4.5/5 Mice in una recensione di Macworld
+ - Cult of Mac: 10 Most Innovative Apps of 2011
+- Mac|Life Editor's Choice con una valutazione di "Impressionante!"
+ 
+Ma aspetta: c'è di più! Con 1Password è più facile:
  
 - Usare Login multipli per lo stesso sito
+ - Creare diverse Identità per inserire dati in formulari di registrazione, sondaggi e carrelli dello shopping
+ - Sincronizzare in tutta sicurezza i tuoi dati over-the-air tra Mac, iPhone e iPad con Dropbox oppure a livello locale in Wi-Fi
+ - Archiviare altre informazioni riservate nelle Note sicure
  - Salvare licenze software e ricevute
  - Organizzare tutto tramite tag e cartelle
  
@@ -15,9 +24,14 @@ Questa nuova versione di 1Password è stata riprogettata per sfruttare le grandi
 - Modalità a schermo intero
  - Maggiore sicurezza grazie alla compatibilità con la sandbox di Lion
  - Maggiore sicurezza grazie alla Calibrazione PBKDF2
+ - Supporto 64-bit per un'esperienza vivace
+ 
+Inoltre, questa versione presenta:
  - ** Nuovo ** Accesso rapito ai vostri dati dalla barra dei menu
  - Supporto migliorato per le estensioni dei browser
-  
+ 
+
+Le versioni mobile di 1Password sono disponibili per iPhone, iPod touch e iPad. - Sincronizzare in tutta sicurezza i tuoi dati over-the-air tra Mac, iPhone e iPad con Dropbox oppure a livello locale in Wi-Fi. 
 
 -------------------------------
  

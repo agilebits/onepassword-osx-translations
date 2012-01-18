@@ -1,0 +1,44 @@
+"__title__" = "Wireless Router";
+
+"__description__" = "Account information for your AirPort Extreme or other Wireless Routers.";
+
+"network_name" = "Network Name";
+
+"network_name#9" = "Network";
+
+"name" = "Base Station Name";
+
+"name#9" = "Station";
+
+"password" = "Base Station Password";
+
+"password#9" = "Password";
+
+"server" = "Server / IP Address";
+
+"server#9" = "IP Address";
+
+"airport_id" = "AirPort ID";
+
+"wireless_security" = "Wireless Security";
+
+"wireless_security#9" = "Security";
+
+"wireless_password" = "Wireless Network Password";
+
+"wireless_password#9" = "Network Pw";
+
+"disk_password" = "Attached Storage Password";
+
+"disk_password#9" = "Storage Pw";
+
+
+"menu.wireless_security.none" = "No Security";
+
+"menu.wireless_security.wep" = "WEP";
+
+"menu.wireless_security.wpa" = "WPA";
+
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
+
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";

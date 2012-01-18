@@ -1,117 +1,176 @@
 /* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "385"; */
+"Skip All" = "تخطي الكل";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "763"; */
+"Cancel" = "إالغاء الامر";
 
 /* Class = "NSMenuItem"; title = "UTF-8"; ObjectID = "64"; */
+"UTF-8" = "UTF-8";
 
 /* Class = "NSTabViewItem"; label = "FileSelection"; ObjectID = "135"; */
+"FileSelection" = "اختيار الملف";
 
 /* Class = "NSTextFieldCell"; title = "Step 5: Enter the name of the folder for imported objects"; ObjectID = "752"; */
+"Step 5: Enter the name of the folder for imported objects" = "الخطوة ٥: ادخل اسم الملف المستورد";
 
 /* Class = "NSButtonCell"; title = "Stop"; ObjectID = "754"; */
+"Stop" = "توقف";
 
 /* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "183"; */
+"Action" = "العمل";
 
 /* Class = "NSTextFieldCell"; title = "Step 4: Review and select objects that will be imported"; ObjectID = "753"; */
+"Step 4: Review and select objects that will be imported" = "الخطوة ٤: مراجعة واختيار العناصر التي ستضاف";
 
 /* Class = "NSTableColumn"; headerCell.title = "Subfolder"; ObjectID = "145"; */
+"Subfolder" = "مجلد فرعي";
 
 /* Class = "NSTabViewItem"; label = "PendingBrowserImport"; ObjectID = "786"; */
+"PendingBrowserImport" = "استيرادات المتصفح المنتظره";
 
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "769"; */
+"Back" = "الخلف";
 
 /* Class = "NSMenuItem"; title = "ASCII"; ObjectID = "65"; */
+"ASCII" = "ASCII";
 
 /* Class = "NSMenuItem"; title = "Mac OS Roman"; ObjectID = "102"; */
+"Mac OS Roman" = "Mac OS Roman";
 
 /* Class = "NSMenuItem"; title = "Import All"; ObjectID = "384"; */
+"Import All" = "استيراد الكل";
 
 /* Class = "NSMenuItem"; title = "Space"; ObjectID = "509"; */
+"Space" = "مسافة";
 
 /* Class = "NSMenuItem"; title = "Unicode"; ObjectID = "103"; */
+"Unicode" = "Unicode";
 
 /* Class = "NSTextFieldCell"; title = "Delimiter character:"; ObjectID = "767"; */
+"Delimiter character:" = "حرف محدد:";
 
 /* Class = "NSMenuItem"; title = "Comma"; ObjectID = "510"; */
+"Comma" = "فاصلة";
 
 /* Class = "NSTextFieldCell"; title = "Import Folder:"; ObjectID = "748"; */
+"Import Folder:" = "استيراد مجلد:";
 
 /* Class = "NSWindow"; title = "Import Assistant"; ObjectID = "5"; */
+"Import Assistant" = "مساعد الاستيراد";
 
 /* Class = "NSTextFieldCell"; title = "Import Format:"; ObjectID = "760"; */
+"Import Format:" = "استيراد تنسيق:";
 
 /* Class = "NSTextFieldCell"; title = "Start import at line:"; ObjectID = "764"; */
+"Start import at line:" = "بدء الاستيراد عند السطر:";
 
 /* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "190"; */
+"Status" = "حالة";
 
 /* Class = "NSButtonCell"; title = "Choose File..."; ObjectID = "746"; */
+"Choose File..." = "اختر ملف...";
 
 /* Class = "NSMenuItem"; title = "Japanese EUC"; ObjectID = "99"; */
+"Japanese EUC" = "EUC اليابانية";
 
 /* Class = "NSTabViewItem"; label = "FormatSelection"; ObjectID = "198"; */
+"FormatSelection" = "اختيار تنسيق";
 
 /* Class = "NSMenuItem"; title = "Shift JIS"; ObjectID = "100"; */
+"Shift JIS" = "المفتاح shift JIS";
 
 /* Class = "NSTextFieldCell"; title = "Step 6: Enter the name of the folder for imported objects"; ObjectID = "758"; */
+"Step 6: Enter the name of the folder for imported objects" = "الخطوة ٦ : ادخل اسم الملف المستورد";
 
 /* Class = "NSTextFieldCell"; title = "Please wait while passwords are imported from the browser."; ObjectID = "790"; */
+"Please wait while passwords are imported from the browser." = "الرجاء الانتظار بينما يتم استيراد كلمات المرور من المستعرض.";
 
 /* Class = "NSButtonCell"; title = "Start Import"; ObjectID = "741"; */
+"Start Import" = "بدء الاستيراد";
 
 /* Class = "NSTextFieldCell"; title = "Step 1: Select Application to Import From"; ObjectID = "761"; */
+"Step 1: Select Application to Import From" = "الخطوة ١ : حدد التطبيق المستورد منه";
 
 /* Class = "NSTextFieldCell"; title = "Step 4: Specify file contents format"; ObjectID = "771"; */
+"Step 4: Specify file contents format" = "الخطوة ٤ : حدد تنسيق محتويات الملف";
 
 /* Class = "NSMenuItem"; title = "Windows CP 1253 (Greek)"; ObjectID = "96"; */
+"Windows CP 1253 (Greek)" = "Windows CP 1253 (اليونانية)";
 
 /* Class = "NSMenuItem"; title = "Windows CP 1254 (Latin 5)"; ObjectID = "97"; */
+"Windows CP 1254 (Latin 5)" = "Windows CP 1254 (5 اللاتيني)";
 
 /* Class = "NSTabViewItem"; label = "Preview"; ObjectID = "137"; */
+"Preview" = "معاينة";
 
 /* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "144"; */
+"Title" = "عنوان";
 
 /* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "181"; */
+"Type" = "النوع";
 
 /* Class = "NSMenuItem"; title = "Import"; ObjectID = "804"; */
+"Import" = "استيراد";
 
 /* Class = "NSMenuItem"; title = "Windows CP 1252 (Latin 1)"; ObjectID = "95"; */
+"Windows CP 1252 (Latin 1)" = "Windows CP 1252 (1 لاتيني)";
 
 /* Class = "NSTextFieldCell"; title = "Step 3: Select and Verify File Encoding"; ObjectID = "745"; */
+"Step 3: Select and Verify File Encoding" = "الخطوة ٣: حدد وتحقق من ترميز الملف";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "770"; */
+"Continue" = "متابعة";
 
 /* Class = "NSTextFieldCell"; title = "Item Type:"; ObjectID = "773"; */
+"Item Type:" = "نوع العنصر:";
 
 /* Class = "NSTextFieldCell"; title = "Keep changing the encoding until you see the contents of the export file displayed correctly."; ObjectID = "747"; */
+"Keep changing the encoding until you see the contents of the export file displayed correctly." = "استمر بتغيير الترميز حتى ترى";
 
 /* Class = "NSMenuItem"; title = "Windows CP 1250 (Latin 2)"; ObjectID = "98"; */
+"Windows CP 1250 (Latin 2)" = "Windows CP 1250 (2 اللاتيني)";
 
 /* Class = "NSButtonCell"; title = "Fields are Quoted"; ObjectID = "774"; */
+"Fields are Quoted" = "الحقول مرمزه";
 
 /* Class = "NSButtonCell"; title = "Import Selected Objects"; ObjectID = "749"; */
+"Import Selected Objects" = "استيراد الكائنات المحددة";
 
 /* Class = "NSTextFieldCell"; title = "Step 2: Prepare and Choose File with the Exported Information"; ObjectID = "744"; */
+"Step 2: Prepare and Choose File with the Exported Information" = "الخطوة ٢: تجهيز واختيار الملف مع المستورد";
 
 /* Class = "NSTextFieldCell"; title = "Step 5: Review and select objects that will be imported"; ObjectID = "757"; */
+"Step 5: Review and select objects that will be imported" = "الخطوة ٥ : مراجعة واختيار العناصر التي ستضاف";
 
 /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "807"; */
+"Text" = "النص";
 
 /* Class = "NSMenuItem"; title = "ISO Latin 1"; ObjectID = "66"; */
+"ISO Latin 1" = "ISO 1 لاتيني";
 
 /* Class = "NSMenuItem"; title = "Windows CP 1251 (Cyrillic)"; ObjectID = "94"; */
+"Windows CP 1251 (Cyrillic)" = "Windows CP 1251 (السيريلية)";
 
 /* Class = "NSMenuItem"; title = "Foo"; ObjectID = "675"; */
+"Foo" = "FOO";
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "803"; */
+"Skip" = "تخطي";
 
 /* Class = "NSMenuItem"; title = "Tab"; ObjectID = "508"; */
+"Tab" = "علامة تقسيميه";
 
 /* Class = "NSTextFieldCell"; title = "Character Encoding:"; ObjectID = "742"; */
+"Character Encoding:" = "ترميز الأحرف:";
 
 /* Class = "NSTabViewItem"; label = "GenericText"; ObjectID = "470"; */
+"GenericText" = "نص عام";
 
 /* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "383"; */
+"Edit..." = "تعديل...";
 
 /* Class = "NSMenuItem"; title = "ISO 2022 JP "; ObjectID = "101"; */
+"ISO 2022 JP " = "ISO 2022 ياباني";
 
 /* Class = "NSMenuItem"; title = "ISO Latin 2"; ObjectID = "93"; */
+"ISO Latin 2" = "ISO 1 لاتيني";

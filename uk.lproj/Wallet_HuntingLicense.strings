@@ -1,0 +1,21 @@
+"__title__" = "Мисливські ліцензії";
+
+"name" = "Повне ім'я";
+
+"valid_from" = "Valid From";
+
+"valid_from#9" = "Дійсний";
+
+"expires" = "Закінчується";
+
+"game" = "Approved Wildlife";
+
+"game#9" = "Wildlife";
+
+"quota" = "Максимальна квота";
+
+"quota#9" = "Квота";
+
+"state" = "Область";
+
+"country" = "Країна";

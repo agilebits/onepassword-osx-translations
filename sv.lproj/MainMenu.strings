@@ -1,226 +1,335 @@
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "1481"; */
+"Redo" = "Gör om";
 
 /* Class = "NSMenu"; title = "Export All"; ObjectID = "946"; */
+"Export All" = "Exportera alla";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "1634"; */
+"View" = "Visa";
 
 /* Class = "NSMenuItem"; title = "Created Date"; ObjectID = "1303"; */
+"Created Date" = "Skapad datum";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "1104"; */
+"Menu" = "Meny";
 
 /* Class = "NSMenuItem"; title = "Type"; ObjectID = "1234"; */
+"Type" = "Typ";
 
 /* Class = "NSMenuItem"; title = "Copy Password"; ObjectID = "1376"; */
+"Copy Password" = "Kopiera lösenord";
 
 /* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "191"; */
+"Check Spelling as You Type" = "Kontrollera stavning medan du skriver";
 
 /* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
+"Identities" = "Identiteter";
 
 /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
+"Check Spelling" = "Kontrollera stavning";
 
 /* Class = "NSMenuItem"; title = "Find…"; ObjectID = "154"; */
+"Find…" = "Hitta…";
 
 /* Class = "NSMenu"; title = "Layout"; ObjectID = "1220"; */
+"Layout" = "Layout";
 
 /* Class = "NSMenuItem"; title = "Modified Date"; ObjectID = "1235"; */
+"Modified Date" = "Ändringsdatum";
 
 /* Class = "NSMenuItem"; title = "Traditional"; ObjectID = "1222"; */
+"Traditional" = "Traditionell";
 
 /* Class = "NSMenu"; title = "Export Selected"; ObjectID = "1092"; */
+"Export Selected" = "Exportera markerade";
 
 /* Class = "NSMenuItem"; title = "Knowledge Base"; ObjectID = "1700"; */
+"Knowledge Base" = "Kunskapsbasen";
 
 /* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "161"; */
+"Use Selection for Find" = "Använda markerat för att hitta";
 
 /* Class = "NSMenuItem"; title = "Quit 1Password"; ObjectID = "1421"; */
+"Quit 1Password" = "Avsluta 1Password";
 
 /* Class = "NSMenu"; title = "Services"; ObjectID = "1425"; */
+"Services" = "Tjänster";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "1426"; */
+"File" = "Fil";
 
 /* Class = "NSMenuItem"; title = "Folder"; ObjectID = "1236"; */
+"Folder" = "Mapp";
 
 /* Class = "NSMenuItem"; title = "Install Browser Extensions..."; ObjectID = "1384"; */
+"Install Browser Extensions..." = "Installera webbläsartillägg...";
 
 /* Class = "NSMenuItem"; title = "Rebuild Data File..."; ObjectID = "1677"; */
+"Rebuild Data File..." = "Återskapa datafil...";
 
 /* Class = "NSMenuItem"; title = "Generated Passwords"; ObjectID = "1276"; */
+"Generated Passwords" = "Genererade lösenord";
 
 /* Class = "NSMenuItem"; title = "Hide 1Password"; ObjectID = "1422"; */
+"Hide 1Password" = "Dölj 1Password";
 
 /* Class = "NSMenuItem"; title = "Copy UUID"; ObjectID = "1374"; */
+"Copy UUID" = "Kopiera UUID";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "1416"; */
+"Show All" = "Visa alla";
 
 /* Class = "NSMenuItem"; title = "Conceal Passwords"; ObjectID = "1628"; */
+"Conceal Passwords" = "Dölj lösenord";
 
 /* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
+"Spelling…" = "Stavning...";
 
 /* Class = "NSMenu"; title = "1Password"; ObjectID = "1409"; */
+"1Password" = "1Password";
 
 /* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "1015"; */
+"New Secure Note" = "Ny säker anteckning";
 
 /* Class = "NSMenu"; title = "Spelling"; ObjectID = "185"; */
+"Spelling" = "Stavning";
 
 /* Class = "NSMenuItem"; title = "Icon"; ObjectID = "1231"; */
+"Icon" = "Ikon";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "1272"; */
+"Wallet" = "Plånbok";
 
 /* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "1016"; */
+"New Wallet Item…" = "Nytt plånboksobjekt...";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "1319"; */
+"Edit Smart Folder…" = "Redigera smart mapp...";
 
 /* Class = "NSMenuItem"; title = "Show Activity"; ObjectID = "1199"; */
+"Show Activity" = "Visa aktivitet";
 
 /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "1486"; */
+"Undo" = "Ångra";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "1485"; */
+"Cut" = "Klipp ut";
 
 /* Class = "NSMenuItem"; title = "Fill Login in Browser"; ObjectID = "1074"; */
+"Fill Login in Browser" = "Fyll inlogg i webbläsare";
 
 /* Class = "NSMenuItem"; title = "Show 1Password Log"; ObjectID = "1702"; */
+"Show 1Password Log" = "Visa 1Password logg";
 
 /* Class = "NSMenuItem"; title = "Logins"; ObjectID = "1267"; */
+"Logins" = "Inloggningar";
 
 /* Class = "NSMenu"; title = "Troubleshooting"; ObjectID = "1696"; */
+"Troubleshooting" = "Felsökning";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "1408"; */
+"Bring All to Front" = "Lägg alla överst";
 
 /* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "1211"; */
+"New Software License" = "Nya programvarulicens";
 
 /* Class = "NSMenuItem"; title = "New Login"; ObjectID = "1027"; */
+"New Login" = "Nytt inlogg";
 
 /* Class = "NSMenuItem"; title = "Trash"; ObjectID = "1277"; */
+"Trash" = "Papperskorg";
 
 /* Class = "NSMenuItem"; title = "1Password Help"; ObjectID = "1466"; */
+"1Password Help" = "1Password hjälp";
 
 /* Class = "NSMenuItem"; title = "Lock 1Password"; ObjectID = "1105"; */
+"Lock 1Password" = "Lås 1Password";
 
 /* Class = "NSMenuItem"; title = "Folders"; ObjectID = "1274"; */
+"Folders" = "Mappar";
 
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "1146"; */
+"New Password…" = "Nytt lösenord…";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "1635"; */
+"Enter Full Screen" = "Fullskärm";
 
 /* Class = "NSMenuItem"; title = "Tags"; ObjectID = "1325"; */
+"Tags" = "Taggar";
 
 /* Class = "NSMenuItem"; title = "Clear Cache"; ObjectID = "1698"; */
+"Clear Cache" = "Rensa cache";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "1322"; */
+"New Smart Folder" = "Ny smart mapp";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "1413"; */
+"Preferences…" = "Inställningar...";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
+"Password Strength" = "Lösenordets styrka";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "1041"; */
+"Empty Trash…" = "Töm papperskorgen...";
 
 /* Class = "NSMenuItem"; title = "Restore…"; ObjectID = "1433"; */
+"Restore…" = "Återställ...";
 
 /* Class = "NSMenuItem"; title = "Edit Selected Item"; ObjectID = "1009"; */
+"Edit Selected Item" = "Redigera valt objekt";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "1407"; */
+"Minimize" = "Minimera";
 
 /* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "1014"; */
+"New Folder" = "Ny mapp";
 
 /* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "1262"; */
+"New Account…" = "Nytt konto...";
 
 /* Class = "NSMenu"; title = "New Item"; ObjectID = "1329"; */
+"New Item" = "Nytt objekt";
 
 /* Class = "NSMenuItem"; title = "Contact Us"; ObjectID = "1462"; */
+"Contact Us" = "Kontakta oss";
 
 /* Class = "NSMenuItem"; title = "About 1Password"; ObjectID = "1424"; */
+"About 1Password" = "Om 1Password";
 
 /* Class = "NSMenu"; title = "MainMenu"; ObjectID = "1393"; */
+"MainMenu" = "Huvudmenu";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "1459"; */
+"Help" = "Hjälp";
 
 /* Class = "NSMenuItem"; title = "Unlock"; ObjectID = "1412"; */
+"Unlock" = "Lås upp";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "1418"; */
+"Hide Others" = "Dölja andra";
 
 /* Class = "NSMenuItem"; title = "Text File…"; ObjectID = "1130"; */
+"Text File…" = "Textfil...";
 
 /* Class = "NSMenuItem"; title = "Show Item Counts"; ObjectID = "1207"; */
+"Show Item Counts" = "Visa objekträknare";
 
 /* Class = "NSMenu"; title = "Go"; ObjectID = "1266"; */
+"Go" = "Gå";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
 "Delete" = "Ta bort";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
+"Find Previous" = "Sök tidigare";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "1401"; */
+"Window" = "Fönster";
 
 /* Class = "NSMenuItem"; title = "Add Sample Items"; ObjectID = "1391"; */
+"Add Sample Items" = "Lägg till exempelobjekt";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
+"Edit" = "Redigera";
 
 /* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
+"Restart Helper" = "Starta om Helper";
 
 /* Class = "NSMenuItem"; title = "Backup"; ObjectID = "1435"; */
+"Backup" = "Säkerhetskopiera";
 
 /* Class = "NSMenuItem"; title = "Add Attachment…"; ObjectID = "1257"; */
+"Add Attachment…" = "Lägg till bilaga…";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1482"; */
+"Paste" = "Klistra in";
 
 /* Class = "NSMenuItem"; title = "Find Item"; ObjectID = "1179"; */
+"Find Item" = "Hitta objekt";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "850"; */
+"Duplicate" = "Duplicera";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "155"; */
+"Jump to Selection" = "Hoppa till markering";
 
 /* Class = "NSMenuItem"; title = "Shelves"; ObjectID = "1221"; */
+"Shelves" = "Hyllor";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1487"; */
+"Copy" = "Kopiera";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "1405"; */
+"Zoom" = "Zooma";
 
 /* Class = "NSMenuItem"; title = "Import…"; ObjectID = "966"; */
+"Import…" = "Importera…";
 
 /* Class = "NSMenuItem"; title = "Print..."; ObjectID = "1217"; */
+"Print..." = "Skriv ut...";
 
 /* Class = "NSMenuItem"; title = "Secure Notes"; ObjectID = "1270"; */
+"Secure Notes" = "Säkra anteckningar";
 
 /* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "1017"; */
+"New Identity" = "Ny identitet";
 
 /* Class = "NSMenuItem"; title = "Widescreen"; ObjectID = "1254"; */
+"Widescreen" = "Widescreen";
 
 /* Class = "NSMenuItem"; title = "Quick Delete"; ObjectID = "164"; */
+"Quick Delete" = "Ta bort snabbt";
 
 /* Class = "NSMenuItem"; title = "Accounts"; ObjectID = "1268"; */
 "Accounts" = "Konton";
 
 /* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
+"Find" = "Sök";
 
 /* Class = "NSMenuItem"; title = "Website"; ObjectID = "1464"; */
 "Website" = "Webbplats";
 
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "167"; */
+"Find Next" = "Sök nästa";
 
 /* Class = "NSMenu"; title = "Go & Fill"; ObjectID = "1108"; */
+"Go & Fill" = "Gå & fyll";
 
 /* Class = "NSMenuItem"; title = "1Password Interchange File…"; ObjectID = "1095"; */
+"1Password Interchange File…" = "1Password Interchange fil…";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
+"Title" = "Titel";
 
 /* Class = "NSMenuItem"; title = "Tag"; ObjectID = "1338"; */
+"Tag" = "Tagg";
 
 /* Class = "NSMenuItem"; title = "Add Software Licenses for Applications..."; ObjectID = "1389"; */
+"Add Software Licenses for Applications..." = "Lägg till programvarulicenser för program...";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "1444"; */
+"Close" = "Stäng";
 
 /* Class = "NSMenuItem"; title = "Main Window"; ObjectID = "1403"; */
+"Main Window" = "Huvudfönstret";
 
 /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "1043"; */
+"Lock" = "Lås";
 
 /* Class = "NSMenuItem"; title = "Show Helper Log"; ObjectID = "1697"; */
+"Show Helper Log" = "Visa Helper logg";
 
 /* Class = "NSMenu"; title = "Columns"; ObjectID = "1226"; */
+"Columns" = "Kolumner";
 
 /* Class = "NSMenuItem"; title = "Location"; ObjectID = "1233"; */
+"Location" = "Plats";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1475"; */
+"Select All" = "Markera alla";
 
 /* Class = "NSMenuItem"; title = "Software"; ObjectID = "1271"; */
+"Software" = "Programvara";
 
 /* Class = "NSMenuItem"; title = "Print All…"; ObjectID = "991"; */
+"Print All…" = "Skriv ut alla...";

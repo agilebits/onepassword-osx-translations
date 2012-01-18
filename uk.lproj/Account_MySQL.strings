@@ -1,0 +1,13 @@
+"__title__" = "MySQL Database";
+
+"__description__" = "MySQL database connection information.";
+
+"hostname" = "Hostname";
+
+"port" = "Port (3306)";
+
+"database" = "Database";
+
+"username" = "Username";
+
+"password" = "Password";

@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "32"; */
+"Cancel" = "Скасувати";
+
+/* Class = "NSButtonCell"; title = "Export…"; ObjectID = "18"; */
+"Export…" = "Експорт";
+
+/* Class = "NSWindow"; title = "Export Text File"; ObjectID = "5"; */
+"Export Text File" = "Експорт в текстовий файл";
+
+/* Class = "NSTextFieldCell"; title = "Data will be exported to a tab-delimited text file."; ObjectID = "61"; */
+"Data will be exported to a tab-delimited text file." = "Дані буде експортовано з табуляції як роздільниками.";
+
+/* Class = "NSTextFieldCell"; title = "Select the data you want to export."; ObjectID = "20"; */
+"Select the data you want to export." = "Виділіть дані, які потрібно експортувати.";

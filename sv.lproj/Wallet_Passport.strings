@@ -1,28 +1,56 @@
+"__title__" = "Pass";
+
+"__description__" = "Utfärdat pass av staten.";
+
+"type" = "Typ";
+
+"fullname" = "Fullständigt namn";
+
+"number" = "Nummer";
+
+"birthdate" = "Födelsedatum";
+
+"birthplace" = "Födelseort";
+
+"nationality" = "Nationalitet";
+
+"code" = "Kod";
+
+"sex" = "Kön";
+
+"issuing_country" = "Utfärdande land";
+
+"issuing_authority" = "Utfärdande myndighet";
+
+"issue_date" = "Utfärdad den";
+
+"expiry_date" = "Utgångsdatum";
 
 
+"menu.sex.male" = "Man";
 
+"menu.sex.female" = "Kvinna";
 
+"type#9" = "Typ";
 
+"fullname#9" = "Namn";
 
+"number#9" = "Nummer";
 
+"birthdate#9" = "Födelsedag";
 
+"birthplace#9" = "Födelseplats";
 
+"nationality#9" = "Nation.";
 
+"code#9" = "Kod";
 
+"sex#9" = "Kön";
 
+"issuing_country#9" = "Land";
 
+"issuing_authority#9" = "Myndighet";
 
+"issue_date#9" = "Utfärdat";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+"expiry_date#9" = "Upphör att gälla";

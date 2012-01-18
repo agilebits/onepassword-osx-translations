@@ -1,6 +1,13 @@
+"__title__" = "MySQL-databas";
 
+"__description__" = "MySQL-databas anslutningsinformation.";
 
+"hostname" = "Värdnamn";
 
+"port" = "Port (3306)";
 
+"database" = "Databas";
 
+"username" = "Användarnamn";
 
+"password" = "Lösenord";

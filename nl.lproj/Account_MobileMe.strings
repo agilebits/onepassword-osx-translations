@@ -1,0 +1,23 @@
+"__title__" = "MobileMe";
+
+"__description__" = "Inschrijving en login-gegevens voor Apple's MobileMe service.";
+
+"email" = "E-mail (name@me.com)";
+
+"email#9" = "E-mail";
+
+"member_name" = "Lid";
+
+"password" = "Wachtwoord";
+
+"idisk_storage" = "Beschikbare iDisk opslag";
+
+"idisk_storage#9" = "Opslag";
+
+"renewal_date" = "Verlengingsdatum";
+
+"renewal_date#9" = "Vernieuwing";
+
+"activation_key" = "Activeringssleutel";
+
+"activation_key#9" = "Activering";

@@ -1,15 +1,29 @@
+"__title__" = "FTP-konto";
 
+"__description__" = "Inloggningsinformation för FTP-konton.";
 
+"server" = "Server";
 
+"path" = "Sökväg";
 
+"username" = "Användarnamn";
 
+"password" = "Lösenord";
 
+"Contact Information" = "Kontaktinformation";
 
+"Contact Information#9" = "Kontakt";
 
+"provider" = "Leverantör";
 
+"provider_website" = "Leverantörens webbplats";
 
 "provider_website#9" = "Webbplats";
 
+"phone_tollfree" = "Telefonnummer (avgiftsfritt)";
 
+"phone_tollfree#9" = "Avgiftsfritt";
 
+"phone_local" = "Telefonnummer (fast)";
 
+"phone_local#9" = "Telefon";

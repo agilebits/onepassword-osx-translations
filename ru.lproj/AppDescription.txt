@@ -3,9 +3,12 @@
 ПРИМЕЧАНИЕ. Для существующих пользователей 1Password 3.8. Для достижения оптимальных результатов удалите старую копию 1Password перед установкой версии из Mac App Store. 
 
 ★ Приложение 1Password завоевало почти все возможные награды! ★
- - Macworld 2010 Eddy Award
- - 4,5 из 5 мышей по результатам обзора Macworld
- - Выбор редактора Mac|Life с рейтингом "Превосходно!"
+ - Mac App Store: Best Apps of 2011
+- Macworld 2010 Eddy Award
+ - MacStories Apps of 2011: Reader’s Choice Winner
+- 4,5 из 5 мышей по результатам обзора Macworld
+ - Cult of Mac: 10 Most Innovative Apps of 2011
+- Выбор редактора Mac|Life с рейтингом "Превосходно!"
  
 И это еще не все! 1Password помогает легко решать следующие задачи:
  

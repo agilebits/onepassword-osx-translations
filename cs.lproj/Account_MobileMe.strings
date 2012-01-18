@@ -1,0 +1,23 @@
+"__title__" = "MobileMe";
+
+"__description__" = "Registrace a přihlašovací informace pro službu MobileMe od Apple.";
+
+"email" = "E-mail (jmeno@me.com)";
+
+"email#9" = "E-mail";
+
+"member_name" = "Člen";
+
+"password" = "Heslo";
+
+"idisk_storage" = "Dostupné úložiště iDisk";
+
+"idisk_storage#9" = "Úložiště";
+
+"renewal_date" = "Datum obnovení";
+
+"renewal_date#9" = "Obnovení";
+
+"activation_key" = "Aktivační klíč";
+
+"activation_key#9" = "Aktivace";

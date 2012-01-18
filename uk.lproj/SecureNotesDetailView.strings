@@ -1,0 +1,23 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4863"; */
+"Tags" = "Мітки";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4803"; */
+"Attachments" = "Вкладення";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4865"; */
+"title" = "title";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3152"; */
+"Created on" = "Created on";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4483"; */
+"tags" = "мітки";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4904"; */
+"Title" = "Title";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Secure Notes"; ObjectID = "3177"; */
+"Secure Notes" = "Secure Notes";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3151"; */
+"Last modified" = "Last modified";

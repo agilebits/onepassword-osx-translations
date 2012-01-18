@@ -1,5 +1,8 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "60"; */
+"Cancel" = "Anuluj";
 
 /* Class = "NSButtonCell"; title = "Add"; ObjectID = "59"; */
+"Add" = "Dodaj";
 
 /* Class = "NSTextFieldCell"; title = "Add New Item"; ObjectID = "57"; */
+"Add New Item" = "Dodaj nowy element";

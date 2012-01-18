@@ -1,0 +1,29 @@
+"__title__" = "FTP 帳號";
+
+"__description__" = "FTP帳號的登錄資訊.";
+
+"server" = "伺服器名稱";
+
+"path" = "路徑";
+
+"username" = "使用者名稱";
+
+"password" = "密碼";
+
+"Contact Information" = "聯絡資訊";
+
+"Contact Information#9" = "連絡人";
+
+"provider" = "服務提供商";
+
+"provider_website" = "服務提供商網站";
+
+"provider_website#9" = "網站";
+
+"phone_tollfree" = "電話號碼(免費)";
+
+"phone_tollfree#9" = "免費電話";
+
+"phone_local" = "電話號碼(本地)";
+
+"phone_local#9" = "電話";

@@ -1,11 +1,23 @@
+"__title__" = "MobileMe";
 
+"__description__" = "Registrerings- och inloggningsinformation för Apples MobileMe tjänst.";
 
+"email" = "E-post (namn@me.com)";
 
+"email#9" = "E-post";
 
+"member_name" = "Medlem";
 
+"password" = "Lösenord";
 
+"idisk_storage" = "Tillgänglig iDisk lagringsutrymme";
 
+"idisk_storage#9" = "Lagringsutrymme";
 
+"renewal_date" = "Förnyelsedatum";
 
+"renewal_date#9" = "Förnyelse";
 
+"activation_key" = "Aktiveringskod";
 
+"activation_key#9" = "Aktivering";

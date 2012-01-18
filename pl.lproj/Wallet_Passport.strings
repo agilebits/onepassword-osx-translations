@@ -1,28 +1,56 @@
+"__title__" = "Paszport";
+
+"__description__" = "Government issued Passport.";
+
+"type" = "Typ";
+
+"fullname" = "Imię i nazwisko";
+
+"number" = "Numer";
+
+"birthdate" = "Data urodzenia";
+
+"birthplace" = "Miejsce urodzenia";
+
+"nationality" = "Narodowość";
+
+"code" = "Kod";
+
+"sex" = "Płeć";
+
+"issuing_country" = "Kraj wydania";
+
+"issuing_authority" = "Organ wydający";
+
+"issue_date" = "Data wystawienia";
+
+"expiry_date" = "Termin ważności";
 
 
+"menu.sex.male" = "Male";
 
+"menu.sex.female" = "Female";
 
+"type#9" = "Typ";
 
+"fullname#9" = "Nazwa";
 
+"number#9" = "Numer";
 
+"birthdate#9" = "Urodziny";
 
+"birthplace#9" = "Miejsce urodzenia";
 
+"nationality#9" = "Nation.";
 
+"code#9" = "Kod";
 
+"sex#9" = "Płeć";
 
+"issuing_country#9" = "Kraj";
 
+"issuing_authority#9" = "Organ";
 
+"issue_date#9" = "Wydana";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+"expiry_date#9" = "Wygasa";

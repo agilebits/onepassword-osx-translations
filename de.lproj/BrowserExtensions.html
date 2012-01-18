@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="UTF-8" />
-	<title></title>
+	<title>Browser Extensions Inro</title>
 	<link rel="stylesheet" href="../BrowserExtensions.css" />
 </head>
 <!--body classes = intro/helper/install-->
 <body class="">
     
-    <div style="display:none" id="text.installed"></div>
-    <div style="display:none" id="html.install"><a href='#'></a></div>
+    <div style="display:none" id="text.installed">Installiert</div>
+    <div style="display:none" id="html.install"><a href='#'>Installieren</a></div>
 
     <script>
         if (document.location.search.indexOf("install") > 0) {
@@ -25,43 +25,43 @@
         <header>
             <img src="../header-icon.png" alt="" />
             <h1>Browser-Erweiterungen installieren</h1>
-            <p></p>
+            <p>Echte Integration in Ihre Webbrowser.</p>
         </header>
         <ul>
             <li><img src="../intro-logins.png" alt="" />
-                <p></p></li>
+                <p><strong>Anmeldedaten speichern und automatisch einfügen lassen.</strong> Wenn Sie sich auf einer Webseite anmelden, werden Sie gefragt, ob Benutzername und Kennwort gespeichert werden sollen, damit Sie diese beim nächsten Besuch nicht erneut eingeben müssen.</p></li>
             <li><img src="../intro-identities.png" alt="" />
-                <p></p></li>
+                <p><strong>Adressen, Kontaktdaten, Foren usw. immer griffbereit haben.</strong> Sie können alle oder bestimmte dieser Informationen in einer 1Password-Identität speichern und beliebig viele Identitäten anlegen.</p></li>
             <li><img src="../intro-credit-cards.png" alt="" />
-                <p></p></li>
+                <p><strong>Beim Shoppen im Internet immer die Kreditkarte parat haben.</strong> Sie können Ihre Kreditkartennummern sicher in der verschlüsselten 1Password Wallet lokal speichern und ganz bequem einkaufen.</p></li>
             <li><img src="../intro-generator.png" alt="" />
-                <p></p></li>
+                <p><strong>Extrem sichere Kennwörter generieren.</strong> 1Password merkt sich alle Ihre Kennwörter. Die Zeiten der Sicherheitsabfrage nach dem Namen Ihres Haustiers oder Ihrem Geburtsdatum sind damit endgültig vorbei.</p></li>
         </ul>
-        <button onclick="document.body.className='helper'"></button>
+        <button onclick="document.body.className='helper'">Los geht's!</button>
     </section>
         
     <section id="helper">
-        <h1></h1>
-        <p></p>
+        <h1>1Password Helper</h1>
+        <p>Der Helper wird in Ihrer Menüleiste ausgeführt.</p>
         
-        <img src="../helper.png" alt="" />
+        <img src="../helper.png" alt="1Password Helper in der Menüleiste" />
         
-        <p></p>
+        <p>Ihre Browser werden <strong>synchron</strong> gehalten, Sie können <strong>Tastatur</strong>-Shortcuts verwenden, 1Password <strong>sperren</strong> und <strong>entsperren</strong> und automatisch Ihre Daten <strong>sichern</strong>, auch wenn 1Password geschlossen ist.</p>
 
-        <button onclick="controller.enableHelper(); document.body.className='install';"></button>
+        <button onclick="controller.enableHelper(); document.body.className='install';">Helper aktivieren und Weiter</button>
     </section>
         
     <section id="install">
-        <h1></h1>
+        <h1>Browsererweiterungen</h1>
         <ul class="buttons">
             <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
-                <h2></h2><span id="safari.msg"></span></li>
+                <h2>Safari</h2><span id="safari.msg">Installiert</span></li>
             <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
-                <h2></h2><span id="chrome.msg"><a href="#"></a></span></li>
+                <h2>Chrome</h2><span id="chrome.msg"><a href="#">Installieren</a></span></li>
             <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
-                <h2></h2><span id="firefox.msg"><a href="#"></a></span></li>
+                <h2>Firefox</h2><span id="firefox.msg"><a href="#">Installieren</a></span></li>
         </ul>
-        <footer><a href="#" onclick="controller.showSettings()"></a><a href="#" onclick="controller.showUserGuide()"></a></footer>
+        <footer><a href="#" onclick="controller.showSettings()">Einstellungen</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Anleitung</a></footer>
     </section>
         
     </body>

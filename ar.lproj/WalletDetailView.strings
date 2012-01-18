@@ -1,19 +1,29 @@
 /* Class = "NSTokenFieldCell"; placeholderString = "Tags"; ObjectID = "4892"; */
+"Tags" = "وسوم";
 
 /* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4808"; */
+"Attachments" = "المرفقات";
 
 /* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4932"; */
+"Display" = "العرض";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3219"; */
+"Created on" = "تم النشر في ";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4891"; */
+"tags" = "العلامات";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4819"; */
+"Notes" = "ملاحظات";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4918"; */
+"Title" = "عنوان";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "4930"; */
+"Always" = "دائماً";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4931"; */
+"Never Display in Browser" = "لا تعرض في المتصفح";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3220"; */
+"Last modified" = "اخر تعديل";

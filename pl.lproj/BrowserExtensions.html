@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="UTF-8" />
-	<title></title>
+	<title>Browser Extensions Inro</title>
 	<link rel="stylesheet" href="../BrowserExtensions.css" />
 </head>
 <!--body classes = intro/helper/install-->
 <body class="">
     
-    <div style="display:none" id="text.installed"></div>
-    <div style="display:none" id="html.install"><a href='#'></a></div>
+    <div style="display:none" id="text.installed">Zainstalowano</div>
+    <div style="display:none" id="html.install"><a href='#'>Instaluj</a></div>
 
     <script>
         if (document.location.search.indexOf("install") > 0) {
@@ -24,44 +24,44 @@
     <section id="intro">
         <header>
             <img src="../header-icon.png" alt="" />
-            <h1></h1>
-            <p></p>
+            <h1>Zainstaluj rozszerzenia przeglądarek</h1>
+            <p>Ciesz się z prawdziwej integracji z Twoją przeglądarką.</p>
         </header>
         <ul>
             <li><img src="../intro-logins.png" alt="" />
-                <p></p></li>
+                <p>Automatyczne przechowywanie i uzupełnianie formularzy internetowych</p></li>
             <li><img src="../intro-identities.png" alt="" />
-                <p></p></li>
+                <p><strong>Wprowadź adresy, informacje o kontakcie, fora i więcej.</strong> Wszystkie lub niektóre z tych informacji można zapisać w tożsamości 1Password, a można utworzyć dowolną liczbę tożsamości.</p></li>
             <li><img src="../intro-credit-cards.png" alt="" />
-                <p></p></li>
+                <p><strong>Easily fill credit cards while shopping online.</strong> Shop more conveniently and keep your credit card numbers safe by storing them locally in encrypted 1Password’s Wallet.</p></li>
             <li><img src="../intro-generator.png" alt="" />
-                <p></p></li>
+                <p><strong>Generate incredibly strong passwords</strong> while 1Password remembers all your passwords so you don’t have to. The days of using your pet’s name or anniversary are long gone.</p></li>
         </ul>
-        <button onclick="document.body.className='helper'"></button>
+        <button onclick="document.body.className='helper'">Zaczynajmy!</button>
     </section>
         
     <section id="helper">
-        <h1></h1>
-        <p></p>
+        <h1>Asystent 1Password</h1>
+        <p>Asystent będzie uruchomiony w pasku menu.</p>
         
-        <img src="../helper.png" alt="" />
+        <img src="../helper.png" alt="Asystent 1Password w pasku menu" />
         
-        <p></p>
+        <p>It will keep your browsers in <strong>sync</strong>, let you use <strong>keyboard</strong> shortcuts, <strong>lock</strong> and <strong>unlock</strong> 1Password, and automatically <strong>back up</strong> your data even when 1Password is closed.</p>
 
-        <button onclick="controller.enableHelper(); document.body.className='install';"></button>
+        <button onclick="controller.enableHelper(); document.body.className='install';">Włącz asystenta i kontynuuj</button>
     </section>
         
     <section id="install">
-        <h1></h1>
+        <h1>Rozszerzenia przeglądarki</h1>
         <ul class="buttons">
             <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
-                <h2></h2><span id="safari.msg"></span></li>
+                <h2>Safari</h2><span id="safari.msg">Zainstalowano</span></li>
             <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
-                <h2></h2><span id="chrome.msg"><a href="#"></a></span></li>
+                <h2>Chrome</h2><span id="chrome.msg"><a href="#">Instaluj</a></span></li>
             <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
-                <h2></h2><span id="firefox.msg"><a href="#"></a></span></li>
+                <h2>Firefox</h2><span id="firefox.msg"><a href="#">Instaluj</a></span></li>
         </ul>
-        <footer><a href="#" onclick="controller.showSettings()"></a><a href="#" onclick="controller.showUserGuide()"></a></footer>
+        <footer><a href="#" onclick="controller.showSettings()">Preferencje</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Poradnik użytkownika</a></footer>
     </section>
         
     </body>

@@ -1,83 +1,125 @@
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1407"; */
+"Cancel" = "إالغاء الامر";
 
 /* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "1430"; */
+"Lock when screen saver is activated" = "القفل عند تفعيل شاشة التوقف";
 
 /* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
+"Show helper icon in menu bar" = "إظهار رمز المساعد في شريط القائمة";
 
 /* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
+"Clear values copied to clipboard after" = "مسح القيم المنسوخة للحافظة بعد";
 
 /* Class = "NSTextFieldCell"; title = "Current Password:"; ObjectID = "1393"; */
+"Current Password:" = "كلمة المرور الحالية:";
 
 /* Class = "NSButtonCell"; title = "Use Dropbox..."; ObjectID = "1847"; */
+"Use Dropbox..." = "استخدم Dropbox...";
 
 /* Class = "NSButtonCell"; title = "      Browser Extensions"; ObjectID = "2028"; */
+"      Browser Extensions" = "إضافات المتصفح";
 
 /* Class = "NSButtonCell"; title = "Stop Using Dropbox..."; ObjectID = "2038"; */
+"Stop Using Dropbox..." = "إيقاف استخدام Dropbox...";
 
 /* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
+"Automatically download icons and previews for new Logins" = "قم بتحميل الرموز والاستعراضات تلقائياً للإدخالات الجديدة";
 
 /* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
+"Install Browser Extensions" = "تثبيت إضافات المتصفح";
 
 /* Class = "NSButtonCell"; title = "Change Master Password..."; ObjectID = "1365"; */
+"Change Master Password..." = "تغيير كلمة المرور الرئيسية...";
 
 /* Class = "NSTextFieldCell"; title = "123"; ObjectID = "1539"; */
+"123" = "123";
 
 /* Class = "NSButtonCell"; title = "Lock when sleeping"; ObjectID = "1355"; */
+"Lock when sleeping" = "القفل في وضع الإسبات";
 
 /* Class = "NSButtonCell"; title = "Disable Lock and Unlock Animation"; ObjectID = "1795"; */
+"Disable Lock and Unlock Animation" = "تعطيل الحركة الخاصة بالقفل وفتح القفل";
 
 /* Class = "NSTextFieldCell"; title = "Unlocking"; ObjectID = "1451"; */
+"Unlocking" = "فتح القفل";
 
 /* Class = "NSTextFieldCell"; title = "Browser Extensions"; ObjectID = "2105"; */
+"Browser Extensions" = "إضافات المتصفح";
 
 /* Class = "NSTextFieldCell"; title = "Display in Sidebar"; ObjectID = "1745"; */
+"Display in Sidebar" = "عرض في الشريط الجانبي";
 
 /* Class = "NSTextFieldCell"; title = "Unlock when helper is unlocked"; ObjectID = "2034"; */
+"Unlock when helper is unlocked" = "فتح القفل عندما يكون المساعد مفتوح قفله";
 
 /* Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "1399"; */
+"Verify:" = "تحقق:";
 
 /* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
+"Download missing previews" = "تحميل الاستعراضات المفقودة";
 
 /* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
+"Master Password" = "كلمة المرور الرئيسية";
 
 /* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
+"minutes of computer inactivity" = "دقائق من خمول الكمبيوتر";
 
 /* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
+"Enable Universal Unlock" = "تفعيل فتح القفل الشامل";
 
 /* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
+"Remove all previews..." = "مسح جميع الاستعراضات...";
 
 /* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
+"Press" = "اضغط";
 
 /* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
+"to show extension popup in your browser" = "لعرض الإضافة المنبثقة في المتصفح";
 
 /* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "2106"; */
+"Keyboard Shortcuts" = "اختصارات لوحة المفاتيح";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "1804"; */
+"help" = "مساعدة";
 
 /* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
+"Login Previews" = "استعراضات الدخول";
 
 /* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
+"      Tags" = "وسوم";
 
 /* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
+"seconds" = "ثواني";
 
 /* Class = "NSTextFieldCell"; title = "Clipboard Security"; ObjectID = "1533"; */
+"Clipboard Security" = "تأمين الحافظة";
 
 /* Class = "NSTextFieldCell"; title = "New Password:"; ObjectID = "1397"; */
+"New Password:" = "كلمة المرور الجديدة:";
 
 /* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
+"Keep helper running to enable extension features" = "إبقاء المساعد قيد التشغيل لتمكين ميزات الإضافة";
 
 /* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
+"      Folders" = "مجلدات";
 
 /* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
+"Your Data Stored In" = "بياناتك مخزنة في";
 
 /* Class = "NSTextFieldCell"; title = "Auto-Lock"; ObjectID = "1449"; */
+"Auto-Lock" = "القفل-التلقائي";
 
 /* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "1405"; */
+"Change Password" = "تغيير كلمة المرور";
 
 /* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1479"; */
+"Password Hint:" = "تلميح كلمة المرور:";
 
 /* Class = "NSButtonCell"; title = "Lock after"; ObjectID = "1357"; */
+"Lock after" = "قفل بعد";
 
 /* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
+"to fill Login in your browser" = "لملء تسجيل الدخول في المستعرض الخاص بك";
 
 /* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
+"      Generated Passwords" = "كلمات المرور المولدة";

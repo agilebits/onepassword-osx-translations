@@ -1,0 +1,41 @@
+"__title__" = "伺服器名稱";
+
+"__description__" = "Linux、 FreeBSD 伺服器、 VPS 系統等的帳號資訊";
+
+"url" = "URL";
+
+"username" = "使用者名稱";
+
+"password" = "密碼";
+
+"hosting_provider_details" = "主機托管服務商詳情";
+
+"hosting_provider_details#9" = "服務提供商";
+
+"admin_console" = "管理控制台";
+
+"admin_console#9" = "控制台";
+
+"admin_console_url" = "管理控制台的URL";
+
+"admin_console_url#9" = "控制台的 URL";
+
+"admin_console_username" = "管理控制台的使用者名稱";
+
+"admin_console_username#9" = "控制台用戶";
+
+"admin_console_password" = "控制台密碼";
+
+"admin_console_password#9" = "控制台密碼";
+
+"name" = "名稱";
+
+"website" = "網站";
+
+"support_contact_url" = "支援服務 URL";
+
+"support_contact_url#9" = "支援服務 URL";
+
+"support_contact_phone" = "支援服務電話";
+
+"support_contact_phone#9" = "支援服務電話";

@@ -1,0 +1,44 @@
+"__title__" = "Bezdrátový router";
+
+"__description__" = "Informace o účtu pro AirPort Extreme nebo jiné bezdrátové routery.";
+
+"network_name" = "Název sítě";
+
+"network_name#9" = "Síť";
+
+"name" = "Název základní stanice";
+
+"name#9" = "Stanice";
+
+"password" = "Heslo základní stanice";
+
+"password#9" = "Heslo";
+
+"server" = "Server / IP adresa";
+
+"server#9" = "Adresa IP";
+
+"airport_id" = "Airport ID";
+
+"wireless_security" = "Zabezpečení bezdrátové sítě";
+
+"wireless_security#9" = "Zabezpečení";
+
+"wireless_password" = "Heslo bezdrátové sítě";
+
+"wireless_password#9" = "Heslo sítě";
+
+"disk_password" = "Heslo pro připojená úložiště";
+
+"disk_password#9" = "Heslo úložiště";
+
+
+"menu.wireless_security.none" = "Žádné zabezpečení";
+
+"menu.wireless_security.wep" = "WEP";
+
+"menu.wireless_security.wpa" = "WPA";
+
+"menu.wireless_security.wpa2p" = "WPA2 Osobní";
+
+"menu.wireless_security.wpa2e" = "WPA2 Podnikové";
