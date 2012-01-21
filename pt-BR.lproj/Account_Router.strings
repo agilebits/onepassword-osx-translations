@@ -1,39 +1,39 @@
-"__title__" = "Wireless Router";
+"__title__" = "Roteador Wireless";
 
-"__description__" = "Account information for your AirPort Extreme or other Wireless Routers.";
+"__description__" = "Informações de conta do seu AirPort Extreme ou outros roteadores Wireless.";
 
-"network_name" = "Network Name";
+"network_name" = "Nome da Rede";
 
-"network_name#9" = "Network";
+"network_name#9" = "Rede";
 
-"name" = "Base Station Name";
+"name" = "Nome da Estação Base";
 
-"name#9" = "Station";
+"name#9" = "Estação";
 
-"password" = "Base Station Password";
+"password" = "Senha de Estação Base";
 
-"password#9" = "Password";
+"password#9" = "Senha";
 
-"server" = "Server / IP Address";
+"server" = "Servidor / Endereço IP";
 
-"server#9" = "IP Address";
+"server#9" = "Endereço IP";
 
-"airport_id" = "AirPort ID";
+"airport_id" = "ID do AirPort";
 
-"wireless_security" = "Wireless Security";
+"wireless_security" = "Segurança Wireless";
 
 "wireless_security#9" = "Segurança";
 
-"wireless_password" = "Wireless Network Password";
+"wireless_password" = "Senha de Rede Wireless";
 
-"wireless_password#9" = "Network Pw";
+"wireless_password#9" = "Senha da Rede";
 
-"disk_password" = "Attached Storage Password";
+"disk_password" = "Senha do Dispositivo de Armazenamento Anexo";
 
-"disk_password#9" = "Storage Pw";
+"disk_password#9" = "Senha do Dispositivo";
 
 
-"menu.wireless_security.none" = "No Security";
+"menu.wireless_security.none" = "Sem Segurança";
 
 "menu.wireless_security.wep" = "WEP";
 

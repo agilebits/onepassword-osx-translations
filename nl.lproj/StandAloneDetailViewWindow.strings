@@ -2,7 +2,7 @@
 "Cancel" = "Annuleren";
 
 /* Class = "NSButtonCell"; title = "Move to Trash"; ObjectID = "24"; */
-"Move to Trash" = "Move to Trash";
+"Move to Trash" = "Naar Prullenbak verplaatsen";
 
 /* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "8"; */
 "Save Changes" = "Save Changes";

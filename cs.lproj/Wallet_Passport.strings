@@ -1,6 +1,6 @@
-"__title__" = "Passport";
+"__title__" = "Pas";
 
-"__description__" = "Government issued Passport.";
+"__description__" = "Vládou vydaný pas.";
 
 "type" = "Typ";
 
@@ -10,11 +10,11 @@
 
 "birthdate" = "Date of Birth";
 
-"birthplace" = "Place of Birth";
+"birthplace" = "Místo narození";
 
-"nationality" = "Nationality";
+"nationality" = "Národnost";
 
-"code" = "Code";
+"code" = "Kód";
 
 "sex" = "Sex";
 
@@ -22,7 +22,7 @@
 
 "issuing_authority" = "Issuing Authority";
 
-"issue_date" = "Issued On";
+"issue_date" = "Datum vydání";
 
 "expiry_date" = "Expiry Date";
 
@@ -39,11 +39,11 @@
 
 "birthdate#9" = "Birthday";
 
-"birthplace#9" = "Birthplace";
+"birthplace#9" = "Místo narození";
 
 "nationality#9" = "Nation.";
 
-"code#9" = "Code";
+"code#9" = "Kód";
 
 "sex#9" = "Sex";
 

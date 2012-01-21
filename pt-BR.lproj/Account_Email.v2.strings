@@ -1,110 +1,110 @@
-"__title__" = "Email Account";
+"__title__" = "Conta de Email";
 
-"__description__" = "Email account information.";
+"__description__" = "Informações de conta de email.";
 
-"pop_username" = "Username";
+"pop_username" = "Nome de usuário";
 
-"pop_password" = "Password";
+"pop_password" = "Senha";
 
-"pop_server" = "Server";
+"pop_server" = "Servidor";
 
-"pop_type" = "Type";
+"pop_type" = "Tipo";
 
-"pop_port" = "Port Number";
+"pop_port" = "Número da Porta";
 
-"pop_port#9" = "Port";
+"pop_port#9" = "Porta";
 
 "pop_security" = "Segurança";
 
-"pop_authentication" = "Authentication Method";
+"pop_authentication" = "Método de Autenticação";
 
-"pop_authentication#9" = "Auth";
+"pop_authentication#9" = "Autenticação";
 
 "SMTP" = "SMTP";
 
-"smtp_username" = "Username";
+"smtp_username" = "Nome de usuário";
 
-"smtp_password" = "Password";
+"smtp_password" = "Senha";
 
 "smtp_server" = "Servidor SMTP";
 
-"smtp_type" = "Type";
+"smtp_type" = "Tipo";
 
-"smtp_port" = "Port Number";
+"smtp_port" = "Número da Porta";
 
-"smtp_port#9" = "Port";
+"smtp_port#9" = "Porta";
 
 "smtp_security" = "Segurança";
 
-"smtp_authentication" = "Authentication Method";
+"smtp_authentication" = "Método de Autenticação";
 
-"smtp_authentication#9" = "Auth";
+"smtp_authentication#9" = "Autenticação";
 
-"Contact Information" = "Contact Information";
+"Contact Information" = "Informações de Contato";
 
-"Contact Information#9" = "Contact";
+"Contact Information#9" = "Contato";
 
-"provider" = "Provider";
+"provider" = "Provedor";
 
-"provider_website" = "Provider's Website";
+"provider_website" = "Website do Provedor";
 
-"provider_website#9" = "Website";
+"provider_website#9" = "Site";
 
-"phone_tollfree" = "Phone Number (Toll Free)";
+"phone_tollfree" = "Número de Telefone (ligação gratuita)";
 
-"phone_tollfree#9" = "Toll Free";
+"phone_tollfree#9" = "Ligação Gratuita";
 
-"phone_local" = "Phone Number (Local)";
+"phone_local" = "Número de Telefone (Local)";
 
-"phone_local#9" = "Phone";
+"phone_local#9" = "Telefone";
 
 
 "menu.pop_type.pop3" = "POP3";
 
 "menu.pop_type.imap" = "IMAP";
 
-"menu.pop_type.either" = "Either POP3 or IMAP";
+"menu.pop_type.either" = "POP3 ou IMAP";
 
 
-"menu.pop_security.none" = "None";
+"menu.pop_security.none" = "Nenhum";
 
 "menu.pop_security.SSL" = "SSL";
 
 "menu.pop_security.TLS" = "TLS";
 
 
-"menu.pop_authentication.none" = "None";
+"menu.pop_authentication.none" = "Nenhum";
 
-"menu.pop_authentication.password" = "Password";
+"menu.pop_authentication.password" = "Senha";
 
 "menu.pop_authentication.md5_challenge_response" = "MD5 Challenge Response";
 
 "menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
 
-"menu.pop_authentication.kerberos_v4" = "Kerberos Version 4";
+"menu.pop_authentication.kerberos_v4" = "Kerberos Versão 4";
 
-"menu.pop_authentication.kerberos_v5" = "Kerberos Version 5 (GSSAPI)";
+"menu.pop_authentication.kerberos_v5" = "Kerberos Versão 5 (GSSAPI)";
 
 "menu.pop_authentication.ntlm" = "NTLM";
 
 
-"menu.smtp_security.none" = "None";
+"menu.smtp_security.none" = "Nenhum";
 
 "menu.smtp_security.SSL" = "SSL";
 
 "menu.smtp_security.TLS" = "TLS";
 
 
-"menu.smtp_authentication.none" = "None";
+"menu.smtp_authentication.none" = "Nenhum";
 
-"menu.smtp_authentication.password" = "Password";
+"menu.smtp_authentication.password" = "Senha";
 
 "menu.smtp_authentication.md5_challenge_response" = "MD5 Challenge Response";
 
 "menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
 
-"menu.smtp_authentication.kerberos_v4" = "Kerberos Version 4";
+"menu.smtp_authentication.kerberos_v4" = "Kerberos Versão 4";
 
-"menu.smtp_authentication.kerberos_v5" = "Kerberos Version 5 (GSSAPI)";
+"menu.smtp_authentication.kerberos_v5" = "Kerberos Versão 5 (GSSAPI)";
 
 "menu.smtp_authentication.ntlm" = "NTLM";

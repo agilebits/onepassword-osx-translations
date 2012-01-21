@@ -1,27 +1,27 @@
-"__title__" = "Internet Provider";
+"__title__" = "Provedor de Internet";
 
-"__description__" = "Connection information provided by your Internet Service Provider (ISP) for connecting to the Internet.";
+"__description__" = "Informações de conexão fornecidas pelo seu Provedor de Internet (ISP) para conexão com a Internet.";
 
-"userid" = "User ID";
+"userid" = "ID de Usuário";
 
-"password" = "Password";
+"password" = "Senha";
 
 "pin" = "PIN";
 
-"dialup_number" = "Dialup Access Number";
+"dialup_number" = "Número de Acesso Dial-up";
 
-"dialup_number#9" = "Dialup #";
+"dialup_number#9" = "Número Dial-up";
 
-"Contact Information" = "Contact Information";
+"Contact Information" = "Informações de Contato";
 
-"Contact Information#9" = "Contact";
+"Contact Information#9" = "Contato";
 
-"website" = "Website";
+"website" = "Site";
 
-"phone_local" = "Phone (Local)";
+"phone_local" = "Telefone (local)";
 
-"phone_local#9" = "Phone";
+"phone_local#9" = "Telefone";
 
-"phone_tollfree" = "Phone (Toll Free)";
+"phone_tollfree" = "Telefone (ligação gratuita)";
 
-"phone_tollfree#9" = "Toll Free";
+"phone_tollfree#9" = "Ligação Gratuita";

@@ -5,13 +5,13 @@
 "Attachments" = "Załączniki";
 
 /* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
-"License Key:" = "License Key:";
+"License Key:" = "Klucz licencyjny:";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
 "title" = "tytuł";
 
 /* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
-"View Version" = "View Version";
+"View Version" = "Zobacz Wersje";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
 "Created on" = "Utworzone";
@@ -26,10 +26,10 @@
 "Title" = "Tytuł";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
-"Version Number" = "Version Number";
+"Version Number" = "Numer wersji";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
-"license key" = "license key";
+"license key" = "Numer seryjny";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
 "version" = "wersja";
@@ -38,7 +38,7 @@
 "icon" = "ikona";
 
 /* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
-"Edit Version" = "Edit Version";
+"Edit Version" = "Edycja wersji";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */
 "Last modified" = "Ostatnio zmieniane";

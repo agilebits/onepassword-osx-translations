@@ -158,7 +158,7 @@
 "Login" = "تسجيل الدخول";
 
 /* Class = "NSMenuItem"; title = "Has Attachment"; ObjectID = "5364"; */
-"Has Attachment" = "يحتى على مرفق";
+"Has Attachment" = "يحتوي على مرفق";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Help"; ObjectID = "5758"; */
 "Help" = "مساعدة";

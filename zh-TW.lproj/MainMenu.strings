@@ -1,146 +1,146 @@
 /* Class = "NSMenuItem"; title = "Redo"; ObjectID = "1481"; */
-"Redo" = "Redo";
+"Redo" = "重作";
 
 /* Class = "NSMenu"; title = "Export All"; ObjectID = "946"; */
-"Export All" = "Export All";
+"Export All" = "匯出全部";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "1634"; */
-"View" = "View";
+"View" = "檢視";
 
 /* Class = "NSMenuItem"; title = "Created Date"; ObjectID = "1303"; */
-"Created Date" = "Created Date";
+"Created Date" = "製作日期";
 
 /* Class = "NSMenu"; title = "Menu"; ObjectID = "1104"; */
-"Menu" = "Menu";
+"Menu" = "功能表";
 
 /* Class = "NSMenuItem"; title = "Type"; ObjectID = "1234"; */
 "Type" = "資料庫類型";
 
 /* Class = "NSMenuItem"; title = "Copy Password"; ObjectID = "1376"; */
-"Copy Password" = "Copy Password";
+"Copy Password" = "複製密碼";
 
 /* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "191"; */
-"Check Spelling as You Type" = "Check Spelling as You Type";
+"Check Spelling as You Type" = "輸入時同步檢查拼字";
 
 /* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
 "Identities" = "Identities";
 
 /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
-"Check Spelling" = "Check Spelling";
+"Check Spelling" = "檢查拼字";
 
 /* Class = "NSMenuItem"; title = "Find…"; ObjectID = "154"; */
-"Find…" = "Find…";
+"Find…" = "尋找...";
 
 /* Class = "NSMenu"; title = "Layout"; ObjectID = "1220"; */
-"Layout" = "Layout";
+"Layout" = "配置";
 
 /* Class = "NSMenuItem"; title = "Modified Date"; ObjectID = "1235"; */
-"Modified Date" = "Modified Date";
+"Modified Date" = "修改日期";
 
 /* Class = "NSMenuItem"; title = "Traditional"; ObjectID = "1222"; */
 "Traditional" = "Traditional";
 
 /* Class = "NSMenu"; title = "Export Selected"; ObjectID = "1092"; */
-"Export Selected" = "Export Selected";
+"Export Selected" = "匯出選取檔案";
 
 /* Class = "NSMenuItem"; title = "Knowledge Base"; ObjectID = "1700"; */
-"Knowledge Base" = "Knowledge Base";
+"Knowledge Base" = "知識庫";
 
 /* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "161"; */
-"Use Selection for Find" = "Use Selection for Find";
+"Use Selection for Find" = "尋找使用選擇";
 
 /* Class = "NSMenuItem"; title = "Quit 1Password"; ObjectID = "1421"; */
-"Quit 1Password" = "Quit 1Password";
+"Quit 1Password" = "結束 1Password";
 
 /* Class = "NSMenu"; title = "Services"; ObjectID = "1425"; */
-"Services" = "Services";
+"Services" = "服務";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "1426"; */
-"File" = "File";
+"File" = "檔案";
 
 /* Class = "NSMenuItem"; title = "Folder"; ObjectID = "1236"; */
-"Folder" = "Folder";
+"Folder" = "資料夾";
 
 /* Class = "NSMenuItem"; title = "Install Browser Extensions..."; ObjectID = "1384"; */
-"Install Browser Extensions..." = "Install Browser Extensions...";
+"Install Browser Extensions..." = "安裝瀏覽器擴充套件...";
 
 /* Class = "NSMenuItem"; title = "Rebuild Data File..."; ObjectID = "1677"; */
-"Rebuild Data File..." = "Rebuild Data File...";
+"Rebuild Data File..." = "重建資料檔案...";
 
 /* Class = "NSMenuItem"; title = "Generated Passwords"; ObjectID = "1276"; */
 "Generated Passwords" = "Generated Passwords";
 
 /* Class = "NSMenuItem"; title = "Hide 1Password"; ObjectID = "1422"; */
-"Hide 1Password" = "Hide 1Password";
+"Hide 1Password" = "隱藏 1Password";
 
 /* Class = "NSMenuItem"; title = "Copy UUID"; ObjectID = "1374"; */
-"Copy UUID" = "Copy UUID";
+"Copy UUID" = "複製 UUID";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "1416"; */
-"Show All" = "Show All";
+"Show All" = "顯示全部";
 
 /* Class = "NSMenuItem"; title = "Conceal Passwords"; ObjectID = "1628"; */
-"Conceal Passwords" = "Conceal Passwords";
+"Conceal Passwords" = "隱藏密碼";
 
 /* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
-"Spelling…" = "Spelling…";
+"Spelling…" = "拼字檢查…";
 
 /* Class = "NSMenu"; title = "1Password"; ObjectID = "1409"; */
 "1Password" = "1Passwrod";
 
 /* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "1015"; */
-"New Secure Note" = "New Secure Note";
+"New Secure Note" = "新增安全筆記";
 
 /* Class = "NSMenu"; title = "Spelling"; ObjectID = "185"; */
-"Spelling" = "Spelling";
+"Spelling" = "拼字檢查";
 
 /* Class = "NSMenuItem"; title = "Icon"; ObjectID = "1231"; */
-"Icon" = "Icon";
+"Icon" = "圖示";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "1272"; */
 "Wallet" = "Wallet";
 
 /* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "1016"; */
-"New Wallet Item…" = "New Wallet Item…";
+"New Wallet Item…" = "新增錢包項目...";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "1319"; */
-"Edit Smart Folder…" = "Edit Smart Folder…";
+"Edit Smart Folder…" = "編輯智慧資料夾 …";
 
 /* Class = "NSMenuItem"; title = "Show Activity"; ObjectID = "1199"; */
 "Show Activity" = "Show Activity";
 
 /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "1486"; */
-"Undo" = "Undo";
+"Undo" = "復原";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "1485"; */
-"Cut" = "Cut";
+"Cut" = "剪下";
 
 /* Class = "NSMenuItem"; title = "Fill Login in Browser"; ObjectID = "1074"; */
-"Fill Login in Browser" = "Fill Login in Browser";
+"Fill Login in Browser" = "在瀏覽器中填入登錄資料";
 
 /* Class = "NSMenuItem"; title = "Show 1Password Log"; ObjectID = "1702"; */
-"Show 1Password Log" = "Show 1Password Log";
+"Show 1Password Log" = "顯示 1Password 記錄";
 
 /* Class = "NSMenuItem"; title = "Logins"; ObjectID = "1267"; */
 "Logins" = "登錄";
 
 /* Class = "NSMenu"; title = "Troubleshooting"; ObjectID = "1696"; */
-"Troubleshooting" = "Troubleshooting";
+"Troubleshooting" = "故障排除";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "1408"; */
-"Bring All to Front" = "Bring All to Front";
+"Bring All to Front" = "顯示全部";
 
 /* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "1211"; */
-"New Software License" = "New Software License";
+"New Software License" = "新增軟體使用許可";
 
 /* Class = "NSMenuItem"; title = "New Login"; ObjectID = "1027"; */
-"New Login" = "New Login";
+"New Login" = "新增登錄資料";
 
 /* Class = "NSMenuItem"; title = "Trash"; ObjectID = "1277"; */
 "Trash" = "Trash";
 
 /* Class = "NSMenuItem"; title = "1Password Help"; ObjectID = "1466"; */
-"1Password Help" = "1Password Help";
+"1Password Help" = "1Password 説明";
 
 /* Class = "NSMenuItem"; title = "Lock 1Password"; ObjectID = "1105"; */
 "Lock 1Password" = "鎖上 1Password";
@@ -149,109 +149,109 @@
 "Folders" = "Folders";
 
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "1146"; */
-"New Password…" = "New Password…";
+"New Password…" = "新增密碼";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "1635"; */
-"Enter Full Screen" = "Enter Full Screen";
+"Enter Full Screen" = "全螢幕模式";
 
 /* Class = "NSMenuItem"; title = "Tags"; ObjectID = "1325"; */
 "Tags" = "標籤";
 
 /* Class = "NSMenuItem"; title = "Clear Cache"; ObjectID = "1698"; */
-"Clear Cache" = "Clear Cache";
+"Clear Cache" = "清除快取";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "1322"; */
-"New Smart Folder" = "New Smart Folder";
+"New Smart Folder" = "新增智慧資料夾";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "1413"; */
-"Preferences…" = "Preferences…";
+"Preferences…" = "選項…";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
 "Password Strength" = "Password Strength";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "1041"; */
-"Empty Trash…" = "Empty Trash…";
+"Empty Trash…" = "清空垃圾筒";
 
 /* Class = "NSMenuItem"; title = "Restore…"; ObjectID = "1433"; */
-"Restore…" = "Restore…";
+"Restore…" = "還原…";
 
 /* Class = "NSMenuItem"; title = "Edit Selected Item"; ObjectID = "1009"; */
 "Edit Selected Item" = "編輯所選項目";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "1407"; */
-"Minimize" = "Minimize";
+"Minimize" = "最小化";
 
 /* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "1014"; */
 "New Folder" = "新增資料夾";
 
 /* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "1262"; */
-"New Account…" = "New Account…";
+"New Account…" = "新增帳號";
 
 /* Class = "NSMenu"; title = "New Item"; ObjectID = "1329"; */
 "New Item" = "新增項目";
 
 /* Class = "NSMenuItem"; title = "Contact Us"; ObjectID = "1462"; */
-"Contact Us" = "Contact Us";
+"Contact Us" = "聯繫我們";
 
 /* Class = "NSMenuItem"; title = "About 1Password"; ObjectID = "1424"; */
-"About 1Password" = "About 1Password";
+"About 1Password" = "關於 1Password";
 
 /* Class = "NSMenu"; title = "MainMenu"; ObjectID = "1393"; */
-"MainMenu" = "MainMenu";
+"MainMenu" = "主選單";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "1459"; */
-"Help" = "Help";
+"Help" = "説明";
 
 /* Class = "NSMenuItem"; title = "Unlock"; ObjectID = "1412"; */
-"Unlock" = "Unlock";
+"Unlock" = "解鎖";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "1418"; */
-"Hide Others" = "Hide Others";
+"Hide Others" = "隱藏其他";
 
 /* Class = "NSMenuItem"; title = "Text File…"; ObjectID = "1130"; */
-"Text File…" = "Text File…";
+"Text File…" = "文字檔案…";
 
 /* Class = "NSMenuItem"; title = "Show Item Counts"; ObjectID = "1207"; */
-"Show Item Counts" = "Show Item Counts";
+"Show Item Counts" = "顯示項目合計";
 
 /* Class = "NSMenu"; title = "Go"; ObjectID = "1266"; */
-"Go" = "Go";
+"Go" = "前往";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
 "Delete" = "刪除";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
-"Find Previous" = "Find Previous";
+"Find Previous" = "尋找上一個";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "1401"; */
-"Window" = "Window";
+"Window" = "視窗";
 
 /* Class = "NSMenuItem"; title = "Add Sample Items"; ObjectID = "1391"; */
-"Add Sample Items" = "Add Sample Items";
+"Add Sample Items" = "新增範例項目";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
 "Edit" = "編輯";
 
 /* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
-"Restart Helper" = "Restart Helper";
+"Restart Helper" = "重啟小幫手";
 
 /* Class = "NSMenuItem"; title = "Backup"; ObjectID = "1435"; */
-"Backup" = "Backup";
+"Backup" = "備份";
 
 /* Class = "NSMenuItem"; title = "Add Attachment…"; ObjectID = "1257"; */
-"Add Attachment…" = "Add Attachment…";
+"Add Attachment…" = "新增附件";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1482"; */
-"Paste" = "Paste";
+"Paste" = "貼上";
 
 /* Class = "NSMenuItem"; title = "Find Item"; ObjectID = "1179"; */
-"Find Item" = "Find Item";
+"Find Item" = "尋找項目";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "850"; */
-"Duplicate" = "Duplicate";
+"Duplicate" = "再製";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "155"; */
-"Jump to Selection" = "Jump to Selection";
+"Jump to Selection" = "移至所選處";
 
 /* Class = "NSMenuItem"; title = "Shelves"; ObjectID = "1221"; */
 "Shelves" = "Shelves";
@@ -260,43 +260,43 @@
 "Copy" = "複製";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "1405"; */
-"Zoom" = "Zoom";
+"Zoom" = "縮放";
 
 /* Class = "NSMenuItem"; title = "Import…"; ObjectID = "966"; */
-"Import…" = "Import…";
+"Import…" = "匯入…";
 
 /* Class = "NSMenuItem"; title = "Print..."; ObjectID = "1217"; */
-"Print..." = "Print...";
+"Print..." = "列印...";
 
 /* Class = "NSMenuItem"; title = "Secure Notes"; ObjectID = "1270"; */
 "Secure Notes" = "Secure Notes";
 
 /* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "1017"; */
-"New Identity" = "New Identity";
+"New Identity" = "新增身份識別";
 
 /* Class = "NSMenuItem"; title = "Widescreen"; ObjectID = "1254"; */
 "Widescreen" = "Widescreen";
 
 /* Class = "NSMenuItem"; title = "Quick Delete"; ObjectID = "164"; */
-"Quick Delete" = "Quick Delete";
+"Quick Delete" = "快速刪除";
 
 /* Class = "NSMenuItem"; title = "Accounts"; ObjectID = "1268"; */
 "Accounts" = "帳號";
 
 /* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
-"Find" = "Find";
+"Find" = "尋找";
 
 /* Class = "NSMenuItem"; title = "Website"; ObjectID = "1464"; */
 "Website" = "網站";
 
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "167"; */
-"Find Next" = "Find Next";
+"Find Next" = "尋找下一個";
 
 /* Class = "NSMenu"; title = "Go & Fill"; ObjectID = "1108"; */
-"Go & Fill" = "Go & Fill";
+"Go & Fill" = "自動登錄";
 
 /* Class = "NSMenuItem"; title = "1Password Interchange File…"; ObjectID = "1095"; */
-"1Password Interchange File…" = "1Password Interchange File…";
+"1Password Interchange File…" = "1Password 交換檔 …";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
 "Title" = "標題";
@@ -305,31 +305,31 @@
 "Tag" = "Tag";
 
 /* Class = "NSMenuItem"; title = "Add Software Licenses for Applications..."; ObjectID = "1389"; */
-"Add Software Licenses for Applications..." = "Add Software Licenses for Applications...";
+"Add Software Licenses for Applications..." = "新增應用程式軟體許可證";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "1444"; */
 "Close" = "關閉";
 
 /* Class = "NSMenuItem"; title = "Main Window"; ObjectID = "1403"; */
-"Main Window" = "Main Window";
+"Main Window" = "主視窗";
 
 /* Class = "NSMenuItem"; title = "Lock"; ObjectID = "1043"; */
-"Lock" = "Lock";
+"Lock" = "上鎖";
 
 /* Class = "NSMenuItem"; title = "Show Helper Log"; ObjectID = "1697"; */
-"Show Helper Log" = "Show Helper Log";
+"Show Helper Log" = "顯示小幫手記錄";
 
 /* Class = "NSMenu"; title = "Columns"; ObjectID = "1226"; */
-"Columns" = "Columns";
+"Columns" = "列";
 
 /* Class = "NSMenuItem"; title = "Location"; ObjectID = "1233"; */
 "Location" = "位置";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1475"; */
-"Select All" = "Select All";
+"Select All" = "全選";
 
 /* Class = "NSMenuItem"; title = "Software"; ObjectID = "1271"; */
 "Software" = "Software";
 
 /* Class = "NSMenuItem"; title = "Print All…"; ObjectID = "991"; */
-"Print All…" = "Print All…";
+"Print All…" = "全部列印…";

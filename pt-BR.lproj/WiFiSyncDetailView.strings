@@ -2,7 +2,7 @@
 "Last synced" = "Last synced";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
-"title" = "title";
+"title" = "título";
 
 /* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
 "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing";

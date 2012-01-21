@@ -2,13 +2,13 @@
 "Agile" = "Agile";
 
 /* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "248"; */
-"Email" = "Email";
+"Email" = "E-mail";
 
 /* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
-"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later.";
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "Não perca uma importante actualização do 1Password e saiba sobre os novas funcionalidades e melhoramentos.\n\nTodas as nossas newsletters incluem uma ligação para facilmente anular a sua subscrição com um único clique, caso mais tarde mude de ideias.";
 
 /* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
-"Stay In Touch" = "Stay In Touch";
+"Stay In Touch" = "Manter contacto";
 
 /* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
 "No, thanks" = "No, thanks";

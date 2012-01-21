@@ -26,9 +26,9 @@
 
 "username" = "Uživatelské jméno";
 
-"reminderq" = "Reminder Question";
+"reminderq" = "Otázka připomínky";
 
-"remindera" = "Reminder Answer";
+"remindera" = "Odpověď připomínky";
 
 "email" = "E-mail";
 
@@ -38,7 +38,7 @@
 
 "skype" = "Skype";
 
-"aim" = "AOL/AIM";
+"aim" = "AOL/IAM";
 
 "yahoo" = "Yahoo";
 
@@ -46,31 +46,31 @@
 
 "forumsig" = "Forum Signature";
 
-"address" = "Address";
+"address" = "Adresa";
 
-"address1" = "Address Line 1";
+"address1" = "Adresa řádek 1";
 
-"address2" = "Address Line 2";
+"address2" = "Adresa řádek 2";
 
-"city" = "City/Town/Suburb";
+"city" = "Město/obec";
 
-"state" = "State/Province";
+"state" = "Stát/provincie";
 
-"zip" = "Zip/Postal Code";
+"zip" = "PSČ";
 
 "country" = "Country";
 
 "location" = "Umístění";
 
-"phone" = "Telephone";
+"phone" = "Telefon";
 
-"defphone" = "Default Phone";
+"defphone" = "Výchozí telefon";
 
-"homephone" = "Home";
+"homephone" = "Domů";
 
-"cellphone" = "Cell";
+"cellphone" = "Mobilní";
 
-"busphone" = "Business";
+"busphone" = "Pracovní";
 
 
 "menu.sex.male" = "Male";
@@ -79,51 +79,51 @@
 
 /* countries */
 
-"menu.country.us" = "United States";
+"menu.country.us" = "Spojené státy";
 
-"menu.country.ca" = "Canada";
+"menu.country.ca" = "Kanada";
 
-"menu.country.uk" = "United Kingdom";
+"menu.country.uk" = "Spojené království";
 
-"menu.country.de" = "Germany";
+"menu.country.de" = "Německo";
 
-"menu.country.au" = "Australia";
+"menu.country.au" = "Austrálie";
 
-"menu.country.nl" = "Netherlands";
+"menu.country.nl" = "Nizozemí";
 
-"menu.country.it" = "Italy";
+"menu.country.it" = "Ilálie";
 
-"menu.country.fr" = "France";
+"menu.country.fr" = "Francie";
 
-"menu.country.mx" = "Mexico";
+"menu.country.mx" = "Mexiko";
 
-"menu.country.cn" = "China";
+"menu.country.cn" = "Čína";
 
-"menu.country.ch" = "Switzerland";
+"menu.country.ch" = "Švýcarsko";
 
-"menu.country.es" = "Spain";
+"menu.country.es" = "Španělsko";
 
-"menu.country.jp" = "Japan";
+"menu.country.jp" = "Japonsko";
 
-"menu.country.at" = "Austria";
+"menu.country.at" = "Rakousko";
 
-"menu.country.be" = "Belgium";
+"menu.country.be" = "Belgie";
 
 "menu.country.ad" = "Andorra";
 
-"menu.country.ae" = "United Arab Emirates";
+"menu.country.ae" = "Spojené arabské emiráty";
 
-"menu.country.af" = "Afghanistan";
+"menu.country.af" = "Afghánistán";
 
-"menu.country.ag" = "Antigua and Barbuda";
+"menu.country.ag" = "Antigua a Barbuda";
 
 "menu.country.ai" = "Anguilla";
 
 "menu.country.al" = "Albania";
 
-"menu.country.am" = "Armenia";
+"menu.country.am" = "Arménie";
 
-"menu.country.an" = "Netherlands Antilles";
+"menu.country.an" = "Nizozemské Antily";
 
 "menu.country.ao" = "Angola";
 
@@ -199,67 +199,67 @@
 
 "menu.country.cx" = "Christmas Island";
 
-"menu.country.cy" = "Cyprus";
+"menu.country.cy" = "Kypr";
 
-"menu.country.cz" = "Czech Republic";
+"menu.country.cz" = "Česko";
 
-"menu.country.dj" = "Djibouti";
+"menu.country.dj" = "Džibutsko";
 
-"menu.country.dk" = "Denmark";
+"menu.country.dk" = "Dánsko";
 
-"menu.country.dm" = "Dominica";
+"menu.country.dm" = "Dominika";
 
-"menu.country.do" = "Dominican Republic";
+"menu.country.do" = "Dominikánská republika";
 
-"menu.country.dz" = "Algeria";
+"menu.country.dz" = "Alžírsko";
 
-"menu.country.ec" = "Ecuador";
+"menu.country.ec" = "Ekvádor";
 
-"menu.country.ee" = "Estonia";
+"menu.country.ee" = "Estonsko";
 
 "menu.country.eg" = "Egypt";
 
-"menu.country.eh" = "Western Sahara";
+"menu.country.eh" = "Západní Sahara";
 
 "menu.country.er" = "Eritrea";
 
-"menu.country.et" = "Ethiopia";
+"menu.country.et" = "Etiopie";
 
-"menu.country.fi" = "Finland";
+"menu.country.fi" = "Finsko";
 
-"menu.country.fj" = "Fiji";
+"menu.country.fj" = "Fidži";
 
-"menu.country.fk" = "Falkland Islands";
+"menu.country.fk" = "Falklandy";
 
-"menu.country.fm" = "Micronesia";
+"menu.country.fm" = "Mikronésie";
 
-"menu.country.fo" = "Faroe Islands";
+"menu.country.fo" = "Faerské ostrovy";
 
 "menu.country.ga" = "Gabon";
 
-"menu.country.gb" = "Great Britain";
+"menu.country.gb" = "Velká Británie";
 
 "menu.country.gd" = "Grenada";
 
-"menu.country.ge" = "Georgia";
+"menu.country.ge" = "Gruzie";
 
-"menu.country.gf" = "French Guyana";
+"menu.country.gf" = "Francouzská Guyana";
 
 "menu.country.gh" = "Ghana";
 
 "menu.country.gi" = "Gibraltar";
 
-"menu.country.gl" = "Greenland";
+"menu.country.gl" = "Grónsko";
 
-"menu.country.gm" = "Gambia";
+"menu.country.gm" = "Gambie";
 
 "menu.country.gn" = "Guinea";
 
-"menu.country.gp" = "Guadeloupe (French)";
+"menu.country.gp" = "Guadeloupe (Francie)";
 
-"menu.country.gq" = "Equatorial Guinea";
+"menu.country.gq" = "Rovníková Guinea";
 
-"menu.country.gr" = "Greece";
+"menu.country.gr" = "Řecko";
 
 "menu.country.gs" = "S. Georgia & S. Sandwich Isls.";
 
@@ -267,41 +267,41 @@
 
 "menu.country.gu" = "Guam (USA)";
 
-"menu.country.gw" = "Guinea Bissau";
+"menu.country.gw" = "Guinea-Bissau";
 
 "menu.country.gy" = "Guyana";
 
 "menu.country.hk" = "Hong Kong";
 
-"menu.country.hm" = "Heard and McDonald Islands";
+"menu.country.hm" = "Heardův ostrov a McDonaldovy ostrovy";
 
 "menu.country.hn" = "Honduras";
 
-"menu.country.hr" = "Croatia";
+"menu.country.hr" = "Chorvatsko";
 
 "menu.country.ht" = "Haiti";
 
-"menu.country.hu" = "Hungary";
+"menu.country.hu" = "Maďarsko";
 
-"menu.country.id" = "Indonesia";
+"menu.country.id" = "Indonésie";
 
-"menu.country.ie" = "Ireland";
+"menu.country.ie" = "Irsko";
 
-"menu.country.il" = "Israel";
+"menu.country.il" = "Izrael";
 
-"menu.country.in" = "India";
+"menu.country.in" = "Indie";
 
-"menu.country.iq" = "Iraq";
+"menu.country.iq" = "Irák";
 
-"menu.country.ir" = "Iran";
+"menu.country.ir" = "Írán";
 
-"menu.country.is" = "Iceland";
+"menu.country.is" = "Island";
 
-"menu.country.jm" = "Jamaica";
+"menu.country.jm" = "Jamajka";
 
-"menu.country.jo" = "Jordan";
+"menu.country.jo" = "Jordánsko";
 
-"menu.country.ke" = "Kenya";
+"menu.country.ke" = "Keňa";
 
 "menu.country.kg" = "Kyrgyz Republic (Kyrgyzstan)";
 
@@ -319,7 +319,7 @@
 
 "menu.country.kw" = "Kuwait";
 
-"menu.country.ky" = "Cayman Islands";
+"menu.country.ky" = "Kajmanské ostrovy";
 
 "menu.country.kz" = "Kazakhstan";
 
@@ -333,7 +333,7 @@
 
 "menu.country.rs" = "Serbia";
 
-"menu.country.lk" = "Sri Lanka";
+"menu.country.lk" = "Srí Lanka";
 
 "menu.country.lr" = "Liberia";
 
@@ -363,13 +363,13 @@
 
 "menu.country.mm" = "Myanmar";
 
-"menu.country.mn" = "Mongolia";
+"menu.country.mn" = "Mongolsko";
 
-"menu.country.mo" = "Macau";
+"menu.country.mo" = "Macao";
 
-"menu.country.mq" = "Martinique (French)";
+"menu.country.mq" = "Martinik (Francie)";
 
-"menu.country.mr" = "Mauritania";
+"menu.country.mr" = "Mauritánie";
 
 "menu.country.ms" = "Montserrat";
 
@@ -397,77 +397,77 @@
 
 "menu.country.ng" = "Nigeria";
 
-"menu.country.ni" = "Nicaragua";
+"menu.country.ni" = "Nikaragua";
 
-"menu.country.no" = "Norway";
+"menu.country.no" = "Norsko";
 
-"menu.country.np" = "Nepal";
+"menu.country.np" = "Nepál";
 
 "menu.country.nr" = "Nauru";
 
-"menu.country.nt" = "Neutral Zone";
+"menu.country.nt" = "Neutrální území";
 
 "menu.country.nu" = "Niue";
 
-"menu.country.nz" = "New Zealand";
+"menu.country.nz" = "Nový Zéland";
 
-"menu.country.om" = "Oman";
+"menu.country.om" = "Omán";
 
-"menu.country.pa" = "Panama";
+"menu.country.pa" = "Omán";
 
 "menu.country.pe" = "Peru";
 
-"menu.country.pf" = "Polynesia (French)";
+"menu.country.pf" = "Polynésie (Francie)";
 
-"menu.country.pg" = "Papua New Guinea";
+"menu.country.pg" = "Papua-Nová Guinea";
 
-"menu.country.ph" = "Philippines";
+"menu.country.ph" = "Filipíny";
 
-"menu.country.pk" = "Pakistan";
+"menu.country.pk" = "Pákistán";
 
-"menu.country.pl" = "Poland";
+"menu.country.pl" = "Polsko";
 
-"menu.country.pm" = "Saint Pierre and Miquelon";
+"menu.country.pm" = "Saint-Pierre a Miquelon";
 
-"menu.country.pn" = "Pitcairn Island";
+"menu.country.pn" = "Pitcairnovy ostrovy";
 
-"menu.country.pr" = "Puerto Rico";
+"menu.country.pr" = "Portoriko";
 
-"menu.country.pt" = "Portugal";
+"menu.country.pt" = "Portugalsko";
 
 "menu.country.pw" = "Palau";
 
 "menu.country.py" = "Paraguay";
 
-"menu.country.qa" = "Qatar";
+"menu.country.qa" = "Katar";
 
-"menu.country.re" = "Reunion (French)";
+"menu.country.re" = "Réunion (Francie)";
 
-"menu.country.ro" = "Romania";
+"menu.country.ro" = "Rumunsko";
 
-"menu.country.ru" = "Russian Federation";
+"menu.country.ru" = "Rusko";
 
 "menu.country.rw" = "Rwanda";
 
-"menu.country.sa" = "Saudi Arabia";
+"menu.country.sa" = "Saúdská Arábie";
 
-"menu.country.sb" = "Solomon Islands";
+"menu.country.sb" = "Šalamounovy ostrovy";
 
-"menu.country.sc" = "Seychelles";
+"menu.country.sc" = "Seychely";
 
-"menu.country.sd" = "Sudan";
+"menu.country.sd" = "Súdán";
 
-"menu.country.se" = "Sweden";
+"menu.country.se" = "Švédsko";
 
-"menu.country.sg" = "Singapore";
+"menu.country.sg" = "Singapur";
 
-"menu.country.sh" = "Saint Helena";
+"menu.country.sh" = "Svatá Helena";
 
-"menu.country.si" = "Slovenia";
+"menu.country.si" = "Slovinsko";
 
-"menu.country.sj" = "Svalbard and Jan Mayen Islands";
+"menu.country.sj" = "Špicberky a Jan Mayen";
 
-"menu.country.sk" = "Slovak Republic";
+"menu.country.sk" = "Slovensko";
 
 "menu.country.sl" = "Sierra Leone";
 
@@ -475,82 +475,82 @@
 
 "menu.country.sn" = "Senegal";
 
-"menu.country.so" = "Somalia";
+"menu.country.so" = "Somálsko";
 
-"menu.country.sr" = "Suriname";
+"menu.country.sr" = "Surinam";
 
-"menu.country.st" = "Saint Tome (Sao Tome) and Principe";
+"menu.country.st" = "Svatý Tomáš a Princův ostrov";
 
 "menu.country.sv" = "El Salvador";
 
-"menu.country.sy" = "Syria";
+"menu.country.sy" = "Sýrie";
 
-"menu.country.sz" = "Swaziland";
+"menu.country.sz" = "Svazijsko";
 
-"menu.country.tc" = "Turks and Caicos Islands";
+"menu.country.tc" = "Turks a Caicos";
 
-"menu.country.td" = "Chad";
+"menu.country.td" = "Čad";
 
 "menu.country.tg" = "Togo";
 
-"menu.country.th" = "Thailand";
+"menu.country.th" = "Thajsko";
 
-"menu.country.tj" = "Tadjikistan";
+"menu.country.tj" = "Tádžikistán";
 
 "menu.country.tk" = "Tokelau";
 
-"menu.country.tm" = "Turkmenistan";
+"menu.country.tm" = "Turkmenistán";
 
-"menu.country.tn" = "Tunisia";
+"menu.country.tn" = "Tunisko";
 
 "menu.country.to" = "Tonga";
 
-"menu.country.tp" = "East Timor";
+"menu.country.tp" = "Východní Timor";
 
-"menu.country.tr" = "Turkey";
+"menu.country.tr" = "Turecko";
 
-"menu.country.tt" = "Trinidad and Tobago";
+"menu.country.tt" = "Trinidad a Tobago";
 
 "menu.country.tv" = "Tuvalu";
 
 "menu.country.tw" = "Taiwan";
 
-"menu.country.tz" = "Tanzania";
+"menu.country.tz" = "Tanzanie";
 
-"menu.country.ua" = "Ukraine";
+"menu.country.ua" = "Ukrajina";
 
 "menu.country.ug" = "Uganda";
 
 "menu.country.uy" = "Uruguay";
 
-"menu.country.uz" = "Uzbekistan";
+"menu.country.uz" = "Uzbekistán";
 
-"menu.country.va" = "Holy See (Vatican City State)";
+"menu.country.va" = "Vatikán";
 
 "menu.country.vc" = "Saint Vincent & Grenadines";
 
 "menu.country.ve" = "Venezuela";
 
-"menu.country.vg" = "Virgin Islands (British)";
+"menu.country.vg" = "Panenské ostrovy (britské)";
 
-"menu.country.vi" = "Virgin Islands (USA)";
+"menu.country.vi" = "Panenské ostrovy (USA)";
 
 "menu.country.vn" = "Vietnam";
 
 "menu.country.vu" = "Vanuatu";
 
-"menu.country.wf" = "Wallis and Futuna Islands";
+"menu.country.wf" = "Wallis a Futuna";
 
 "menu.country.ws" = "Samoa";
 
-"menu.country.ye" = "Yemen";
+"menu.country.ye" = "Jemen";
 
 "menu.country.yt" = "Mayotte";
 
-"menu.country.za" = "South Africa";
+"menu.country.za" = "Jihoafrická republika";
 
-"menu.country.zm" = "Zambia";
+"menu.country.zm" = "Zambie";
 
-"menu.country.zr" = "Zaire";
+"menu.country.zr" = "Zair";
 
 "menu.country.zw" = "Zimbabwe";

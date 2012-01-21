@@ -1,1 +1,1 @@
-password,ipassword,ipass,1passwd,vault,security,agilewebsolutions,agileweb,onepassword,1password
+password,ipassword,ipass,1passwd,cofre,segurança,agilewebsolutions,agileweb,onepassword,1password

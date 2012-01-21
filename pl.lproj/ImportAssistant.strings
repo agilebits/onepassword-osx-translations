@@ -47,7 +47,7 @@
 "Unicode" = "Unicode";
 
 /* Class = "NSTextFieldCell"; title = "Delimiter character:"; ObjectID = "767"; */
-"Delimiter character:" = "Delimiter character:";
+"Delimiter character:" = "Znak rozgranicznika:";
 
 /* Class = "NSMenuItem"; title = "Comma"; ObjectID = "510"; */
 "Comma" = "Przecinek";

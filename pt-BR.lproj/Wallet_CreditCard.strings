@@ -2,13 +2,13 @@
 
 "__description__" = "Credit card information";
 
-"set.contactInfo" = "Contact Information";
+"set.contactInfo" = "Informações de Contato";
 
 "cardholder" = "Cardholder's Name";
 
 "cardholder#9" = "Cardholder";
 
-"type" = "Type";
+"type" = "Tipo";
 
 "ccnum" = "Number";
 
@@ -24,7 +24,7 @@
 
 "validFrom#9" = "Issued";
 
-"contactInfo" = "Contact Information";
+"contactInfo" = "Informações de Contato";
 
 "bank" = "Issuing Bank";
 
@@ -34,19 +34,19 @@
 
 "details#9" = "Details";
 
-"phoneLocal" = "Phone (Local)";
+"phoneLocal" = "Telefone (local)";
 
-"phoneLocal#9" = "Phone";
+"phoneLocal#9" = "Telefone";
 
-"phoneTollFree" = "Phone (Toll Free)";
+"phoneTollFree" = "Telefone (ligação gratuita)";
 
-"phoneTollFree#9" = "Toll Free";
+"phoneTollFree#9" = "Ligação Gratuita";
 
 "phoneIntl" = "Phone (International)";
 
 "phoneIntl#9" = "Intl";
 
-"website" = "Website";
+"website" = "Site";
 
 "pin" = "PIN";
 

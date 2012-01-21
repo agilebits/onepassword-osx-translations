@@ -2,43 +2,43 @@
 "Cancel" = "Zrušit";
 
 /* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "1430"; */
-"Lock when screen saver is activated" = "Lock when screen saver is activated";
+"Lock when screen saver is activated" = "Uzamknout při aktivaci spořiče obrazovky";
 
 /* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
-"Show helper icon in menu bar" = "Show helper icon in menu bar";
+"Show helper icon in menu bar" = "Zobrazovat pomocnou ikonu v Řádku nabídek";
 
 /* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
-"Clear values copied to clipboard after" = "Clear values copied to clipboard after";
+"Clear values copied to clipboard after" = "Smazat hodnoty, zkopírované do schránky po";
 
 /* Class = "NSTextFieldCell"; title = "Current Password:"; ObjectID = "1393"; */
-"Current Password:" = "Current Password:";
+"Current Password:" = "Stávající heslo:";
 
 /* Class = "NSButtonCell"; title = "Use Dropbox..."; ObjectID = "1847"; */
-"Use Dropbox..." = "Use Dropbox...";
+"Use Dropbox..." = "Používat Dropbox...";
 
 /* Class = "NSButtonCell"; title = "      Browser Extensions"; ObjectID = "2028"; */
-"      Browser Extensions" = "      Browser Extensions";
+"      Browser Extensions" = "Rozšíření prohlížeče";
 
 /* Class = "NSButtonCell"; title = "Stop Using Dropbox..."; ObjectID = "2038"; */
-"Stop Using Dropbox..." = "Stop Using Dropbox...";
+"Stop Using Dropbox..." = "Přestat používat Dropbox...";
 
 /* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
-"Automatically download icons and previews for new Logins" = "Automatically download icons and previews for new Logins";
+"Automatically download icons and previews for new Logins" = "Automaticky stahovat ikony a náhledy pro nová připojení";
 
 /* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
-"Install Browser Extensions" = "Install Browser Extensions";
+"Install Browser Extensions" = "Instalovat rozšíření prohlížeče";
 
 /* Class = "NSButtonCell"; title = "Change Master Password..."; ObjectID = "1365"; */
-"Change Master Password..." = "Change Master Password...";
+"Change Master Password..." = "Změnit hlavní heslo...";
 
 /* Class = "NSTextFieldCell"; title = "123"; ObjectID = "1539"; */
 "123" = "123";
 
 /* Class = "NSButtonCell"; title = "Lock when sleeping"; ObjectID = "1355"; */
-"Lock when sleeping" = "Lock when sleeping";
+"Lock when sleeping" = "Uzamknout při usnutí";
 
 /* Class = "NSButtonCell"; title = "Disable Lock and Unlock Animation"; ObjectID = "1795"; */
-"Disable Lock and Unlock Animation" = "Disable Lock and Unlock Animation";
+"Disable Lock and Unlock Animation" = "Vypnout animaci zamknutí a odemknutí";
 
 /* Class = "NSTextFieldCell"; title = "Unlocking"; ObjectID = "1451"; */
 "Unlocking" = "Unlocking";
@@ -56,46 +56,46 @@
 "Verify:" = "Verify:";
 
 /* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
-"Download missing previews" = "Download missing previews";
+"Download missing previews" = "Stáhnout chybějící náhledy";
 
 /* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
 "Master Password" = "Master Password";
 
 /* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
-"minutes of computer inactivity" = "minutes of computer inactivity";
+"minutes of computer inactivity" = "minutách nečinnosti počítače";
 
 /* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
 "Enable Universal Unlock" = "Enable Universal Unlock";
 
 /* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
-"Remove all previews..." = "Remove all previews...";
+"Remove all previews..." = "Odstranit všechny náhledy...";
 
 /* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
-"Press" = "Press";
+"Press" = "Stiskněte";
 
 /* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
-"to show extension popup in your browser" = "to show extension popup in your browser";
+"to show extension popup in your browser" = "rozšíření se zobrazí ve vyskakovacím okně vašeho prohlížeče";
 
 /* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "2106"; */
-"Keyboard Shortcuts" = "Keyboard Shortcuts";
+"Keyboard Shortcuts" = "Klávesové zkratky";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "1804"; */
-"help" = "help";
+"help" = "pomoc";
 
 /* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
-"Login Previews" = "Login Previews";
+"Login Previews" = "Náhledy přihlášení";
 
 /* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
-"      Tags" = "      Tags";
+"      Tags" = "Visačky";
 
 /* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
-"seconds" = "seconds";
+"seconds" = "vteřin";
 
 /* Class = "NSTextFieldCell"; title = "Clipboard Security"; ObjectID = "1533"; */
-"Clipboard Security" = "Clipboard Security";
+"Clipboard Security" = "Zabezpečení schránky";
 
 /* Class = "NSTextFieldCell"; title = "New Password:"; ObjectID = "1397"; */
-"New Password:" = "New Password:";
+"New Password:" = "Nové heslo:";
 
 /* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
 "Keep helper running to enable extension features" = "Keep helper running to enable extension features";
@@ -104,19 +104,19 @@
 "      Folders" = "      Folders";
 
 /* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
-"Your Data Stored In" = "Your Data Stored In";
+"Your Data Stored In" = "Vaše data, uložená v";
 
 /* Class = "NSTextFieldCell"; title = "Auto-Lock"; ObjectID = "1449"; */
-"Auto-Lock" = "Auto-Lock";
+"Auto-Lock" = "Automatické uzamčení";
 
 /* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "1405"; */
-"Change Password" = "Change Password";
+"Change Password" = "Změnit heslo";
 
 /* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1479"; */
 "Password Hint:" = "Password Hint:";
 
 /* Class = "NSButtonCell"; title = "Lock after"; ObjectID = "1357"; */
-"Lock after" = "Lock after";
+"Lock after" = "Uzamknout po";
 
 /* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
 "to fill Login in your browser" = "to fill Login in your browser";

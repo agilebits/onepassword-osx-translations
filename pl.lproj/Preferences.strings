@@ -8,7 +8,7 @@
 "Show helper icon in menu bar" = "Pokaż ikonę pomocnika w pasku menu";
 
 /* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
-"Clear values copied to clipboard after" = "Clear values copied to clipboard after";
+"Clear values copied to clipboard after" = "Wyczyść wartości skopiowane do schowka po";
 
 /* Class = "NSTextFieldCell"; title = "Current Password:"; ObjectID = "1393"; */
 "Current Password:" = "Obecne hasło:";
@@ -23,7 +23,7 @@
 "Stop Using Dropbox..." = "Zrezygnuj z używania Dropbox...";
 
 /* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
-"Automatically download icons and previews for new Logins" = "Automatycznie pobierz ikony i widoki dla nowych loginów";
+"Automatically download icons and previews for new Logins" = "Automatycznie pobierz ikony i podglądy dla nowych loginów";
 
 /* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
 "Install Browser Extensions" = "Zainstaluj rozszerzenia przeglądarek";
@@ -50,25 +50,25 @@
 "Display in Sidebar" = "Pokaż w pasku bocznym";
 
 /* Class = "NSTextFieldCell"; title = "Unlock when helper is unlocked"; ObjectID = "2034"; */
-"Unlock when helper is unlocked" = "Unlock when helper is unlocked";
+"Unlock when helper is unlocked" = "Odblokuj, gdy pomocnik jest odblokowany";
 
 /* Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "1399"; */
 "Verify:" = "Zweryfikuj:";
 
 /* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
-"Download missing previews" = "Pobierz brakujące widoki";
+"Download missing previews" = "Pobierz brakujące podglądy";
 
 /* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
 "Master Password" = "Główne hasło";
 
 /* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
-"minutes of computer inactivity" = "minutes of computer inactivity";
+"minutes of computer inactivity" = "minuty bezczynności komputera";
 
 /* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
-"Enable Universal Unlock" = "Enable Universal Unlock";
+"Enable Universal Unlock" = "Włącz Uniwersalne Odblokowanie";
 
 /* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
-"Remove all previews..." = "Remove all previews...";
+"Remove all previews..." = "Usuń wszystkie podglądy...";
 
 /* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
 "Press" = "Press";
@@ -83,7 +83,7 @@
 "help" = "pomoc";
 
 /* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
-"Login Previews" = "Login Previews";
+"Login Previews" = "Podglądy loginów";
 
 /* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
 "      Tags" = "      Tagi";
@@ -119,7 +119,7 @@
 "Lock after" = "Zablokuj po";
 
 /* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
-"to fill Login in your browser" = "to fill Login in your browser";
+"to fill Login in your browser" = "aby wypełnić login w przeglądarce";
 
 /* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
 "      Generated Passwords" = "      Wygenerowane hasła";

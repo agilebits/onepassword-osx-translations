@@ -1,67 +1,67 @@
 "__title__" = "Software License";
 
-"__description__" = "Software product license, registration code or serial number.";
+"__description__" = "Software licentie, registratiecode of serienummer.";
 
-"product_name" = "Product Name";
+"product_name" = "Productnaam";
 
-"product_version" = "Version";
+"product_version" = "Versie";
 
-"reg_name" = "Licensed To";
+"reg_name" = "Gelicenseerd aan";
 
-"reg_code" = "License Key";
+"reg_code" = "Licentiesleutel";
 
-"reg_email" = "Registered Email";
+"reg_email" = "Geregistreerde E-mail";
 
 "company" = "Company";
 
-"download_link" = "Download Page";
+"download_link" = "Download pagina";
 
-"publisher" = "Publisher";
+"publisher" = "Uitgever";
 
-"publisher_name" = "Publisher";
+"publisher_name" = "Uitgever";
 
-"retail_price" = "Retail Price";
+"retail_price" = "Prijs";
 
 "publisher_website" = "Website";
 
-"support_email" = "Support Email";
+"support_email" = "Ondersteuning E-mail";
 
-"order" = "Order";
+"order" = "Bestelling";
 
-"order_number" = "Order Number";
+"order_number" = "Bestelnummer";
 
-"order_date" = "Purchase Date";
+"order_date" = "Aankoopdatum";
 
-"order_total" = "Order Total";
+"order_total" = "Bestel Totaal";
 
-"product_name#9" = "Product";
+"product_name#9" = "Produkt";
 
-"product_version#9" = "Version";
+"product_version#9" = "Versie";
 
 "reg_name#9" = "Owner";
 
-"reg_code#9" = "Key";
+"reg_code#9" = "Sleutel";
 
 "reg_email#9" = "E-mail";
 
 "company#9" = "Company";
 
-"download_link#9" = "Downld URL";
+"download_link#9" = "DOWNLD URL";
 
-"publisher#9" = "Publisher";
+"publisher#9" = "Uitgever";
 
-"publisher_name#9" = "Publisher";
+"publisher_name#9" = "Uitgever";
 
-"retail_price#9" = "Price";
+"retail_price#9" = "Prijs";
 
 "publisher_website#9" = "Website";
 
-"support_email#9" = "Support";
+"support_email#9" = "Ondersteuning";
 
-"order#9" = "Order";
+"order#9" = "Bestelling";
 
-"order_number#9" = "Order #";
+"order_number#9" = "Bestelling #";
 
-"order_date#9" = "Purchased";
+"order_date#9" = "Aangekocht";
 
-"order_total#9" = "Total";
+"order_total#9" = "Totaal";

@@ -1,6 +1,6 @@
 "__title__" = "Członkostwo";
 
-"__description__" = "Community or club membership";
+"__description__" = "Członkostwa Wspólnoty lub klubu";
 
 "org_name" = "Organizacja";
 
@@ -26,7 +26,7 @@
 
 "member_name#9" = "Nazwa";
 
-"member_since#9" = "Since";
+"member_since#9" = "Od";
 
 "expiry_date#9" = "Wygasa";
 

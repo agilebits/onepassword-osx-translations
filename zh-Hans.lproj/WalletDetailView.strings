@@ -1,5 +1,5 @@
 /* Class = "NSTokenFieldCell"; placeholderString = "Tags"; ObjectID = "4892"; */
-"Tags" = "标签";
+"Tags" = "标牌";
 
 /* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4808"; */
 "Attachments" = "附件";
@@ -11,7 +11,7 @@
 "Created on" = "创建时间";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4891"; */
-"tags" = "标签";
+"tags" = "标牌";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4819"; */
 "Notes" = "备注";
@@ -26,4 +26,4 @@
 "Never Display in Browser" = "从不在浏览器中显示";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3220"; */
-"Last modified" = "修改时间";
+"Last modified" = "上次修改";

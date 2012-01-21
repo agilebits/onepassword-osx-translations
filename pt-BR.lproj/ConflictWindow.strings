@@ -1,35 +1,35 @@
 /* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "138"; */
-"Skip All" = "Skip All";
+"Skip All" = "Ignorar Todos";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "34"; */
 "Cancel" = "Cancelar";
 
 /* Class = "NSButtonCell"; title = "Choose This Copy"; ObjectID = "174"; */
-"Choose This Copy" = "Choose This Copy";
+"Choose This Copy" = "Escolha Esta Cópia";
 
 /* Class = "NSTextFieldCell"; title = "This Mac"; ObjectID = "91"; */
-"This Mac" = "This Mac";
+"This Mac" = "Este Mac";
 
 /* Class = "NSMenuItem"; title = "Choose All iPhone Items"; ObjectID = "135"; */
-"Choose All iPhone Items" = "Choose All iPhone Items";
+"Choose All iPhone Items" = "Escolha Todos os Itens do iPhone";
 
 /* Class = "NSWindow"; title = "Sync Conflict Resolver"; ObjectID = "1"; */
-"Sync Conflict Resolver" = "Sync Conflict Resolver";
+"Sync Conflict Resolver" = "Solucionador de Conflitos de Sincronização";
 
 /* Class = "NSMenuItem"; title = "Choose All Local Mac Items"; ObjectID = "134"; */
-"Choose All Local Mac Items" = "Choose All Local Mac Items";
+"Choose All Local Mac Items" = "Escolha Todos os Itens do Mac Local";
 
 /* Class = "NSButtonCell"; title = "Resolve Conflicts"; ObjectID = "36"; */
-"Resolve Conflicts" = "Resolve Conflicts";
+"Resolve Conflicts" = "Solucionar Conflitos";
 
 /* Class = "NSMenuItem"; title = "Choose Local"; ObjectID = "147"; */
-"Choose Local" = "Choose Local";
+"Choose Local" = "Escolher Local";
 
 /* Class = "NSButtonCell"; title = "Detect conflicts automatically"; ObjectID = "184"; */
-"Detect conflicts automatically" = "Detect conflicts automatically";
+"Detect conflicts automatically" = "Detectar os Conflitos Automaticamente";
 
 /* Class = "NSMenuItem"; title = "Choose Remote"; ObjectID = "148"; */
-"Choose Remote" = "Choose Remote";
+"Choose Remote" = "Escolher Controle Remoto";
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "149"; */
-"Skip" = "Skip";
+"Skip" = "Ignorar";

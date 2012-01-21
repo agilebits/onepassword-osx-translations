@@ -26,7 +26,7 @@
 "Password Hint" = "Password Hint";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "109"; */
-"help" = "help";
+"help" = "pomoc";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "7"; */
 "Continue" = "Pokračovat";

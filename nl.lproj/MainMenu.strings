@@ -23,7 +23,7 @@
 "Check Spelling as You Type" = "Spelling controleren terwijl u typt";
 
 /* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
-"Identities" = "Identities";
+"Identities" = "Identiteiten";
 
 /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
 "Check Spelling" = "Spelling controleren";
@@ -167,7 +167,7 @@
 "Preferences…" = "Voorkeuren...";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
-"Password Strength" = "Password Strength";
+"Password Strength" = "Wachtwoordsterkte";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "1041"; */
 "Empty Trash…" = "Prullenbak leegmaken...";

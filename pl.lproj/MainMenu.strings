@@ -83,7 +83,7 @@
 "Conceal Passwords" = "Ukrywaj hasła";
 
 /* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
-"Spelling…" = "Spelling…";
+"Spelling…" = "Pisownia...";
 
 /* Class = "NSMenu"; title = "1Password"; ObjectID = "1409"; */
 "1Password" = "1Password";
@@ -92,7 +92,7 @@
 "New Secure Note" = "Nowa bezpieczna notka";
 
 /* Class = "NSMenu"; title = "Spelling"; ObjectID = "185"; */
-"Spelling" = "Spelling";
+"Spelling" = "Pisownia";
 
 /* Class = "NSMenuItem"; title = "Icon"; ObjectID = "1231"; */
 "Icon" = "Ikona";
@@ -164,7 +164,7 @@
 "New Smart Folder" = "Nowy inteligentny katalog";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "1413"; */
-"Preferences…" = "Ustawienia";
+"Preferences…" = "Preferencje...";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
 "Password Strength" = "Siła hasła";
@@ -332,4 +332,4 @@
 "Software" = "Oprogramowanie";
 
 /* Class = "NSMenuItem"; title = "Print All…"; ObjectID = "991"; */
-"Print All…" = "Print All…";
+"Print All…" = "Drukuj Wszystko...";

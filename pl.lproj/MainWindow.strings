@@ -68,7 +68,7 @@
 "Wallet" = "Portfel";
 
 /* Class = "NSMenuItem"; title = "Any"; ObjectID = "5063"; */
-"Any" = "Any";
+"Any" = "Dowolne";
 
 /* Class = "NSMenuItem"; title = "Icon"; ObjectID = "4971"; */
 "Icon" = "Ikona";
@@ -239,7 +239,7 @@
 "Date Modified" = "Daty modyfikacji";
 
 /* Class = "NSMenuItem"; title = "10 - Terrible"; ObjectID = "5743"; */
-"10 - Terrible" = "10 - Terrible";
+"10 - Terrible" = "10 - Okropne";
 
 /* Class = "NSMenuItem"; title = "Notes"; ObjectID = "5558"; */
 "Notes" = "Notatki";
@@ -248,7 +248,7 @@
 "90" = "90";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "4647"; */
-"Search" = "Search";
+"Search" = "Znajdź";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "5591"; */
 "Title" = "Tytuł";
@@ -260,7 +260,7 @@
 "Tag" = "Znacznik";
 
 /* Class = "NSTextFieldCell"; title = "No Items Found"; ObjectID = "5037"; */
-"No Items Found" = "No Items Found";
+"No Items Found" = "Nic nie znaleziono";
 
 /* Class = "NSTextFieldCell"; title = "MASTER PASSWORD"; ObjectID = "4603"; */
 "MASTER PASSWORD" = "HASŁO GŁÓWNE";
@@ -269,7 +269,7 @@
 "Created" = "Utworzone";
 
 /* Class = "NSMenuItem"; title = "Any kind"; ObjectID = "5314"; */
-"Any kind" = "Any kind";
+"Any kind" = "Dowolne";
 
 /* Class = "NSMenuItem"; title = "after"; ObjectID = "5637"; */
 "after" = "po";
@@ -278,7 +278,7 @@
 "Cancel" = "Anuluj";
 
 /* Class = "NSMenuItem"; title = "Software License"; ObjectID = "5248"; */
-"Software License" = "Software License";
+"Software License" = "Licencja oprogramowania";
 
 /* Class = "NSMenuItem"; title = "is less than or equal to"; ObjectID = "5701"; */
 "is less than or equal to" = "jest mniejsza niż lub równa";

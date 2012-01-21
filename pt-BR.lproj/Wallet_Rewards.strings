@@ -18,13 +18,13 @@
 
 "reservations_phone" = "Reservations Phone";
 
-"website" = "Website";
+"website" = "Site";
 
 "extra" = "More Information";
 
 "company_name#9" = "Company";
 
-"member_name#9" = "Name";
+"member_name#9" = "Nome";
 
 "member_since#9" = "Since";
 
@@ -38,6 +38,6 @@
 
 "reservations_phone#9" = "Reservs.";
 
-"website#9" = "Website";
+"website#9" = "Site";
 
 "extra#9" = "More Info";

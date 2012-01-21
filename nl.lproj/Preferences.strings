@@ -2,7 +2,7 @@
 "Cancel" = "Annuleren";
 
 /* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "1430"; */
-"Lock when screen saver is activated" = "Vergrendel na activering schermbeveiliging";
+"Lock when screen saver is activated" = "Vergrendel bij activering van schermbeveiliging";
 
 /* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
 "Show helper icon in menu bar" = "Toon helper pictogram in menubalk";
@@ -74,7 +74,7 @@
 "Press" = "Druk";
 
 /* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
-"to show extension popup in your browser" = "voor het weergeven van het extensie venster in uw browser";
+"to show extension popup in your browser" = "extensie popup in uw browser weergeven";
 
 /* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "2106"; */
 "Keyboard Shortcuts" = "Sneltoetsen";

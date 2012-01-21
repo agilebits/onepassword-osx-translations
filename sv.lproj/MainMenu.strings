@@ -206,7 +206,7 @@
 "Unlock" = "Lås upp";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "1418"; */
-"Hide Others" = "Dölja andra";
+"Hide Others" = "Dölj andra";
 
 /* Class = "NSMenuItem"; title = "Text File…"; ObjectID = "1130"; */
 "Text File…" = "Textfil...";

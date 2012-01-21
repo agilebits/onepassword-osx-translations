@@ -1,1 +1,1 @@
-password,ipassword,ipass,1passwd,vault,security,agilewebsolutions,agileweb,onepassword,1password
+wachtwoord, ipassword, ipass, 1passwd, kluis, veiligheid, agilewebsolutions, agileweb, onepassword, 1password

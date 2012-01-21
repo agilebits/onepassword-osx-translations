@@ -2,28 +2,28 @@
 
 "__description__" = "Informação de login para contas FTP.";
 
-"server" = "Server";
+"server" = "Servidor";
 
-"path" = "Path";
+"path" = "Caminho";
 
 "username" = "Nome de usuário";
 
-"password" = "Password";
+"password" = "Senha";
 
-"Contact Information" = "Contact Information";
+"Contact Information" = "Informações de Contato";
 
-"Contact Information#9" = "Contact";
+"Contact Information#9" = "Contato";
 
-"provider" = "Provider";
+"provider" = "Provedor";
 
-"provider_website" = "Provider's Website";
+"provider_website" = "Website do Provedor";
 
-"provider_website#9" = "Website";
+"provider_website#9" = "Site";
 
-"phone_tollfree" = "Phone Number (Toll Free)";
+"phone_tollfree" = "Número de Telefone (ligação gratuita)";
 
-"phone_tollfree#9" = "Toll Free";
+"phone_tollfree#9" = "Ligação Gratuita";
 
-"phone_local" = "Phone Number (Local)";
+"phone_local" = "Número de Telefone (Local)";
 
-"phone_local#9" = "Phone";
+"phone_local#9" = "Telefone";

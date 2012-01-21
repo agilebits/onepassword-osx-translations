@@ -4,7 +4,7 @@
 
 "pop_username" = "Nome de utilizador";
 
-"pop_password" = "Senha";
+"pop_password" = "Palavra-passe";
 
 "pop_server" = "Servidor";
 
@@ -14,7 +14,7 @@
 
 "pop_port#9" = "Porta";
 
-"pop_security" = "Security";
+"pop_security" = "Segurança";
 
 "pop_authentication" = "Método de autenticação";
 
@@ -24,9 +24,9 @@
 
 "smtp_username" = "Nome de utilizador";
 
-"smtp_password" = "Senha";
+"smtp_password" = "Palavra-passe";
 
-"smtp_server" = "SMTP Server";
+"smtp_server" = "Servidor SMTP";
 
 "smtp_type" = "Tipo";
 
@@ -34,7 +34,7 @@
 
 "smtp_port#9" = "Porta";
 
-"smtp_security" = "Security";
+"smtp_security" = "Segurança";
 
 "smtp_authentication" = "Método de autenticação";
 
@@ -75,7 +75,7 @@
 
 "menu.pop_authentication.none" = "Nenhum";
 
-"menu.pop_authentication.password" = "Senha";
+"menu.pop_authentication.password" = "Palavra-passe";
 
 "menu.pop_authentication.md5_challenge_response" = "MD5 Resposta de desafio";
 
@@ -97,7 +97,7 @@
 
 "menu.smtp_authentication.none" = "Nenhum";
 
-"menu.smtp_authentication.password" = "Senha";
+"menu.smtp_authentication.password" = "Palavra-passe";
 
 "menu.smtp_authentication.md5_challenge_response" = "MD5 Resposta de desafio";
 

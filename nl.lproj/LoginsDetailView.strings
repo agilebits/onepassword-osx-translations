@@ -20,7 +20,7 @@
 "Time" = "datum en tijd";
 
 /* Class = "NSMenuItem"; title = "Checkbox"; ObjectID = "4043"; */
-"Checkbox" = "Checkbox";
+"Checkbox" = "Selectievak";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "4564"; */
 "password" = "wachtwoord";
@@ -65,7 +65,7 @@
 "Always" = "Altijd";
 
 /* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
-"Password Strength" = "Password Strength";
+"Password Strength" = "Wachtwoordsterkte";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
 "Text" = "Text";
@@ -77,10 +77,10 @@
 "Password History" = "wachtwoordgeschiedenis";
 
 /* Class = "NSMenuItem"; title = "Show in Every HTTP Auth Prompt"; ObjectID = "5006"; */
-"Show in Every HTTP Auth Prompt" = "Show in Every HTTP Auth Prompt";
+"Show in Every HTTP Auth Prompt" = "Toon in elk HTTP Auth verzoek";
 
 /* Class = "NSMenuItem"; title = "For HTTP Auth Prompts Only"; ObjectID = "3396"; */
-"For HTTP Auth Prompts Only" = "For HTTP Auth Prompts Only";
+"For HTTP Auth Prompts Only" = "Alleen voor HTTP Auth verzoeken";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
 "Never Display in Browser" = "Nooit weergeven in Browser";

@@ -1,8 +1,8 @@
-"__title__" = "Reward Program";
+"__title__" = "Program výhod";
 
 "__description__" = "Customer loyalty programs, including frequent flyer and hotel rewards";
 
-"company_name" = "Company Name";
+"company_name" = "Název společnosti";
 
 "member_name" = "Member Name";
 
@@ -10,17 +10,17 @@
 
 "membership_no" = "Membership #";
 
-"additional_no" = "Membership # (Additional)";
+"additional_no" = "Členské číslo (doplňkové)";
 
 "pin" = "KÓD PIN";
 
-"customer_service_phone" = "Customer Service Phone";
+"customer_service_phone" = "Telefon zákaznické služby";
 
-"reservations_phone" = "Reservations Phone";
+"reservations_phone" = "Rezervační telefon";
 
 "website" = "Webové stránky";
 
-"extra" = "More Information";
+"extra" = "Další údaje";
 
 "company_name#9" = "Company";
 
@@ -30,14 +30,14 @@
 
 "membership_no#9" = "Number";
 
-"additional_no#9" = "Number 2";
+"additional_no#9" = "Číslo 2";
 
 "pin#9" = "KÓD PIN";
 
-"customer_service_phone#9" = "Cust Serv";
+"customer_service_phone#9" = "Zákaznická služba";
 
-"reservations_phone#9" = "Reservs.";
+"reservations_phone#9" = "Rezervace.";
 
 "website#9" = "Webové stránky";
 
-"extra#9" = "More Info";
+"extra#9" = "Další údaje";

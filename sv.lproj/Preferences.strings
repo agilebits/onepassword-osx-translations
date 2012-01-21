@@ -83,7 +83,7 @@
 "help" = "hjälp";
 
 /* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
-"Login Previews" = "Inlogg förhandsgranskningar";
+"Login Previews" = "Förhandsgranskningar för inlogg";
 
 /* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
 "      Tags" = "      Taggar";
@@ -104,7 +104,7 @@
 "      Folders" = "      Mappar";
 
 /* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
-"Your Data Stored In" = "Din data lagrad i";
+"Your Data Stored In" = "Din data är lagrad i";
 
 /* Class = "NSTextFieldCell"; title = "Auto-Lock"; ObjectID = "1449"; */
 "Auto-Lock" = "Auto-låsning";

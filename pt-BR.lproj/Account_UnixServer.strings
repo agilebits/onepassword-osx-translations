@@ -1,41 +1,41 @@
-"__title__" = "Server";
+"__title__" = "Servidor";
 
-"__description__" = "Account information for dedicated Linux and FreeBSD servers, VPS systems, etc.";
+"__description__" = "Informações de conta para servidores dedicados Linux e FreeBSD, sistemas VPS, etc.";
 
 "url" = "URL";
 
-"username" = "Username";
+"username" = "Nome de usuário";
 
-"password" = "Password";
+"password" = "Senha";
 
-"hosting_provider_details" = "Hosting Provider Details";
+"hosting_provider_details" = "Detalhes do Provedor de Hospedagem";
 
-"hosting_provider_details#9" = "Provider";
+"hosting_provider_details#9" = "Provedor";
 
-"admin_console" = "Administration Console";
+"admin_console" = "Console de Administração";
 
 "admin_console#9" = "Console";
 
-"admin_console_url" = "Admin Console URL";
+"admin_console_url" = "URL do Console de Administração";
 
-"admin_console_url#9" = "Console URL";
+"admin_console_url#9" = "URL do Console";
 
-"admin_console_username" = "Admin Console Username";
+"admin_console_username" = "Nome de Usuário do Console de Admin";
 
-"admin_console_username#9" = "Cons. User";
+"admin_console_username#9" = "Usuário";
 
-"admin_console_password" = "Console Password";
+"admin_console_password" = "Senha do Console";
 
-"admin_console_password#9" = "Cons. Pwd";
+"admin_console_password#9" = "Senha";
 
-"name" = "Name";
+"name" = "Nome";
 
-"website" = "Website";
+"website" = "Site";
 
-"support_contact_url" = "Support URL";
+"support_contact_url" = "URL de Suporte";
 
-"support_contact_url#9" = "SupportURL";
+"support_contact_url#9" = "URL de Suporte";
 
-"support_contact_phone" = "Support Phone #";
+"support_contact_phone" = "Telefone do Suporte";
 
-"support_contact_phone#9" = "Support#";
+"support_contact_phone#9" = "Nº do Suporte";

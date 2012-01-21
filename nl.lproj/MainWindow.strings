@@ -23,7 +23,7 @@
 "Modified Date" = "Wijzigingsdatum";
 
 /* Class = "NSMenuItem"; title = "Identity"; ObjectID = "5246"; */
-"Identity" = "Identity";
+"Identity" = "Identiteit";
 
 /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "3465"; */
 "Rename" = "Naam wijzigen";
@@ -95,7 +95,7 @@
 "New Software License" = "Nieuwe softwarelicentie";
 
 /* Class = "NSTextFieldCell"; title = "Incorrect Password"; ObjectID = "4670"; */
-"Incorrect Password" = "Incorrect Password";
+"Incorrect Password" = "Onjuist wachtwoord";
 
 /* Class = "NSMenuItem"; title = "Password"; ObjectID = "5594"; */
 "Password" = "Wachtwoord";
@@ -137,10 +137,10 @@
 "Any of the fields" = "Een van de velden";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "5697"; */
-"Password Strength" = "Password Strength";
+"Password Strength" = "Wachtwoordsterkte";
 
 /* Class = "NSMenuItem"; title = "High (Master Password)"; ObjectID = "5185"; */
-"High (Master Password)" = "High (Master Password)";
+"High (Master Password)" = "Hoog (Hoofd Wachtwoord)";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "3437"; */
 "Empty Trash…" = "Prullenbak leegmaken...";
@@ -203,7 +203,7 @@
 "Paste" = "Paste";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "5410"; */
-"Save" = "Save";
+"Save" = "Opslaan";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "4895"; */
 "Duplicate" = "Duplicate";
@@ -248,7 +248,7 @@
 "90" = "90";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "4647"; */
-"Search" = "Search";
+"Search" = "Zoeken";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "5591"; */
 "Title" = "Titel";

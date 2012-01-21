@@ -1,16 +1,16 @@
 "__title__" = "Instant Messenger";
 
-"__description__" = "Account and connection information for all your various Instant Messengers.";
+"__description__" = "Informações de conta e ligação para todos os seus serviços de mensagens instantâneas.";
 
-"account_type" = "Account Type";
+"account_type" = "Tipo de conta";
 
 "account_type#9" = "Tipo";
 
-"username" = "User Name / Email / ID";
+"username" = "Nome de utilizador / E-mail / ID";
 
 "username#9" = "ID";
 
-"password" = "Senha";
+"password" = "Palavra-passe";
 
 "server" = "Servidor";
 

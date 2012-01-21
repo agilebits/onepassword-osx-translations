@@ -29,7 +29,7 @@
 "help" = "help";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "7"; */
-"Continue" = "Continue";
+"Continue" = "Continuar";
 
 /* Class = "NSTextFieldCell"; title = "Have information from a previous installation?"; ObjectID = "105"; */
 "Have information from a previous installation?" = "Have information from a previous installation?";

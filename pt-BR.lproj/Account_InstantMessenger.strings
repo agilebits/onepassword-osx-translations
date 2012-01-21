@@ -1,20 +1,20 @@
-"__title__" = "Instant Messenger";
+"__title__" = "Mensageiro Instantâneo";
 
-"__description__" = "Account and connection information for all your various Instant Messengers.";
+"__description__" = "Informações de conta e conexão para todos os seus mensageiros instantâneos.";
 
-"account_type" = "Account Type";
+"account_type" = "Tipo de Conta";
 
-"account_type#9" = "Type";
+"account_type#9" = "Tipo";
 
-"username" = "User Name / Email / ID";
+"username" = "Nome de usuário / Email / ID";
 
 "username#9" = "ID";
 
-"password" = "Password";
+"password" = "Senha";
 
-"server" = "Server";
+"server" = "Servidor";
 
-"port" = "Port";
+"port" = "Porta";
 
 
 "menu.account_type.aol" = "AOL Instant Messenger";

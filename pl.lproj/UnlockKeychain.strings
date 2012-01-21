@@ -2,7 +2,7 @@
 "Cancel" = "Anuluj";
 
 /* Class = "NSTextFieldCell"; title = "... unlock reason message will be displayed here..."; ObjectID = "169"; */
-"... unlock reason message will be displayed here..." = "... unlock reason message will be displayed here...";
+"... unlock reason message will be displayed here..." = "... informacja o powodzie odblokowania pojawi się tutaj ...";
 
 /* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "165"; */
 "Unlock" = "Odblokuj";

@@ -1,23 +1,23 @@
 "__title__" = "MobileMe";
 
-"__description__" = "Signup and login information for Apple's MobileMe service.";
+"__description__" = "Informações de registo e início de sessão para o serviço MobileMe da Apple.";
 
-"email" = "Email (name@me.com)";
+"email" = "E-mail (name@me.com)";
 
-"email#9" = "Email";
+"email#9" = "E-mail";
 
-"member_name" = "Member";
+"member_name" = "Membro";
 
-"password" = "Senha";
+"password" = "Palavra-passe";
 
-"idisk_storage" = "Available iDisk Storage";
+"idisk_storage" = "Armazenamento iDisk disponível";
 
-"idisk_storage#9" = "Storage";
+"idisk_storage#9" = "Armazenamento";
 
-"renewal_date" = "Renewal Date";
+"renewal_date" = "Data de renovação";
 
-"renewal_date#9" = "Renewal";
+"renewal_date#9" = "Renovação";
 
-"activation_key" = "Activation Key";
+"activation_key" = "Chave de ativação";
 
-"activation_key#9" = "Activation";
+"activation_key#9" = "Activação";

@@ -1,10 +1,10 @@
-"__title__" = "Hunting License";
+"__title__" = "Lovecké povolení";
 
-"name" = "Full name";
+"name" = "Celé jméno";
 
 "valid_from" = "Valid From";
 
-"valid_from#9" = "Valid";
+"valid_from#9" = "Platnost";
 
 "expires" = "Expires";
 
@@ -12,9 +12,9 @@
 
 "game#9" = "Wildlife";
 
-"quota" = "Maximum Quota";
+"quota" = "Maximální kvóta";
 
-"quota#9" = "Quota";
+"quota#9" = "Kvóta";
 
 "state" = "State";
 

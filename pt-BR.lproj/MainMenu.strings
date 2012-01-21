@@ -14,7 +14,7 @@
 "Menu" = "Menu";
 
 /* Class = "NSMenuItem"; title = "Type"; ObjectID = "1234"; */
-"Type" = "Type";
+"Type" = "Tipo";
 
 /* Class = "NSMenuItem"; title = "Copy Password"; ObjectID = "1376"; */
 "Copy Password" = "Copy Password";
@@ -176,7 +176,7 @@
 "Restore…" = "Restore…";
 
 /* Class = "NSMenuItem"; title = "Edit Selected Item"; ObjectID = "1009"; */
-"Edit Selected Item" = "Edit Selected Item";
+"Edit Selected Item" = "Editar Item Selecionado";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "1407"; */
 "Minimize" = "Minimize";
@@ -218,7 +218,7 @@
 "Go" = "Go";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
-"Delete" = "Delete";
+"Delete" = "Excluir";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
 "Find Previous" = "Find Previous";
@@ -230,7 +230,7 @@
 "Add Sample Items" = "Add Sample Items";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
-"Edit" = "Edit";
+"Edit" = "Editar";
 
 /* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
 "Restart Helper" = "Restart Helper";
@@ -257,7 +257,7 @@
 "Shelves" = "Shelves";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1487"; */
-"Copy" = "Copy";
+"Copy" = "Copiar";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "1405"; */
 "Zoom" = "Zoom";
@@ -287,7 +287,7 @@
 "Find" = "Find";
 
 /* Class = "NSMenuItem"; title = "Website"; ObjectID = "1464"; */
-"Website" = "Website";
+"Website" = "Site";
 
 /* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "167"; */
 "Find Next" = "Find Next";
@@ -299,7 +299,7 @@
 "1Password Interchange File…" = "1Password Interchange File…";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
-"Title" = "Title";
+"Title" = "Título";
 
 /* Class = "NSMenuItem"; title = "Tag"; ObjectID = "1338"; */
 "Tag" = "Tag";
@@ -323,7 +323,7 @@
 "Columns" = "Columns";
 
 /* Class = "NSMenuItem"; title = "Location"; ObjectID = "1233"; */
-"Location" = "Location";
+"Location" = "Localização";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1475"; */
 "Select All" = "Select All";

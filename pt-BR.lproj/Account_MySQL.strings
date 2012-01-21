@@ -6,8 +6,8 @@
 
 "port" = "Porta (3306)";
 
-"database" = "Database";
+"database" = "Banco de Dados";
 
-"username" = "Username";
+"username" = "Nome de usuário";
 
-"password" = "Password";
+"password" = "Senha";

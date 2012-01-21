@@ -155,7 +155,7 @@
 "Enter Full Screen" = "Enter Full Screen";
 
 /* Class = "NSMenuItem"; title = "Tags"; ObjectID = "1325"; */
-"Tags" = "Tags";
+"Tags" = "Etiquetas";
 
 /* Class = "NSMenuItem"; title = "Clear Cache"; ObjectID = "1698"; */
 "Clear Cache" = "Clear Cache";
@@ -257,7 +257,7 @@
 "Shelves" = "Shelves";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1487"; */
-"Copy" = "Copy";
+"Copy" = "Copiar";
 
 /* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "1405"; */
 "Zoom" = "Ampliar";
@@ -299,7 +299,7 @@
 "1Password Interchange File…" = "1Password Interchange File…";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
-"Title" = "Title";
+"Title" = "Título";
 
 /* Class = "NSMenuItem"; title = "Tag"; ObjectID = "1338"; */
 "Tag" = "Tag";
@@ -323,7 +323,7 @@
 "Columns" = "Colunas";
 
 /* Class = "NSMenuItem"; title = "Location"; ObjectID = "1233"; */
-"Location" = "Location";
+"Location" = "Localização";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1475"; */
 "Select All" = "Seleccionar tudo";

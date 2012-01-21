@@ -3,11 +3,11 @@
 INFO: dla bieżących użytkowników 1Password 3.8. Dla lepszych rezultatów, proszę skasuj starą kopię 1Password przed zainstalowaniem jej z Mac App Store. 
 
 ★ 1Password zdobyło dotychczas prawie każdą nagrodę pod słońcem! ★
- - Mac App Store: Best Apps of 2011
-- Macworld 2010 Eddy Award Winner
- - MacStories Apps of 2011: Reader’s Choice Winner
+ -Mac App Store: Najlepsze aplikacje 2011 r.
+- Macworld 2010 Zwycięzca nagrody Eddy
+ -MacStories Apps 2011: zwycięzca wyborów czytelników
 - Scored 4.5/5 Mice in a Macworld review
- - Cult of Mac: 10 Most Innovative Apps of 2011
+ - Cult of Mac: 10 Najbardziej Innowacyjnych Aplikacji 2011 r.
 - Mac|Life Editor’s Choice with a rating of “Awesome!”
  
 Chwileczka, to nie wszystko! 1Password upraszcza:
@@ -38,4 +38,4 @@ Mobilne wersje 1Password są dostępne także na iPhona, iPoda Touch oraz iPada.
 SUPPORT NOTE #1: We got several reports about not being able to get past the Welcome screen when installing 1Password. If you encounter this issue, please see the "1Password fails to continue after the initial welcome screen" article on our support site. 
 
 
-SUPPORT NOTE #2: We love to hear your feedback. Please remember, we cannot reply to your comments in Mac App Store. Jeśli masz pytanie skontaktuj się z nami poprzez naszą stronę wsparcia. Dziękujemy!
+SUPPORT NOTE #2: We love to hear your feedback. Pamiętaj, że nie możemy odpowiadać na komentarze w Mac App Store. Jeśli masz pytanie skontaktuj się z nami poprzez naszą stronę wsparcia. Dziękujemy!

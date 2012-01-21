@@ -8,7 +8,7 @@
 "Menu" = "Menu";
 
 /* Class = "NSMenuItem"; title = "Type"; ObjectID = "4974"; */
-"Type" = "Type";
+"Type" = "Tipo";
 
 /* Class = "NSMenuItem"; title = "of the following are true"; ObjectID = "5062"; */
 "of the following are true" = "of the following are true";
@@ -35,7 +35,7 @@
 "Folder" = "Folder";
 
 /* Class = "NSMenuItem"; title = "Yes"; ObjectID = "5369"; */
-"Yes" = "Yes";
+"Yes" = "Sim";
 
 /* Class = "NSMenuItem"; title = "40"; ObjectID = "5745"; */
 "40" = "40";
@@ -86,10 +86,10 @@
 "Cut" = "Cut";
 
 /* Class = "NSMenuItem"; title = "None"; ObjectID = "5619"; */
-"None" = "None";
+"None" = "Nenhum";
 
 /* Class = "NSMenuItem"; title = "Username"; ObjectID = "5593"; */
-"Username" = "Username";
+"Username" = "Nome de usuário";
 
 /* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "4272"; */
 "New Software License" = "New Software License";
@@ -98,7 +98,7 @@
 "Incorrect Password" = "Incorrect Password";
 
 /* Class = "NSMenuItem"; title = "Password"; ObjectID = "5594"; */
-"Password" = "Password";
+"Password" = "Senha";
 
 /* Class = "NSMenuItem"; title = "before"; ObjectID = "5638"; */
 "before" = "before";
@@ -194,7 +194,7 @@
 "ends with" = "ends with";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "4896"; */
-"Edit" = "Edit";
+"Edit" = "Editar";
 
 /* Class = "NSMenuItem"; title = "is not"; ObjectID = "5531"; */
 "is not" = "is not";
@@ -209,13 +209,13 @@
 "Duplicate" = "Duplicate";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "4998"; */
-"Date Created" = "Date Created";
+"Date Created" = "Data de Criação";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Sidebar Actions Menu"; ObjectID = "3430"; */
 "Sidebar Actions Menu" = "Sidebar Actions Menu";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "4890"; */
-"Copy" = "Copy";
+"Copy" = "Copiar";
 
 /* Class = "NSMenuItem"; title = "20"; ObjectID = "5744"; */
 "20" = "20";
@@ -224,7 +224,7 @@
 "Secure Note" = "Secure Note";
 
 /* Class = "NSMenuItem"; title = "No"; ObjectID = "5370"; */
-"No" = "No";
+"No" = "Não";
 
 /* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "4277"; */
 "New Identity" = "New Identity";
@@ -236,13 +236,13 @@
 "is less than" = "is less than";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "4975"; */
-"Date Modified" = "Date Modified";
+"Date Modified" = "Data de Modificação";
 
 /* Class = "NSMenuItem"; title = "10 - Terrible"; ObjectID = "5743"; */
 "10 - Terrible" = "10 - Terrible";
 
 /* Class = "NSMenuItem"; title = "Notes"; ObjectID = "5558"; */
-"Notes" = "Notes";
+"Notes" = "Notas";
 
 /* Class = "NSMenuItem"; title = "90"; ObjectID = "5747"; */
 "90" = "90";
@@ -251,7 +251,7 @@
 "Search" = "Search";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "5591"; */
-"Title" = "Title";
+"Title" = "Título";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Master Password"; ObjectID = "2517"; */
 "Master Password" = "Master Password";
@@ -287,7 +287,7 @@
 "Lock" = "Lock";
 
 /* Class = "NSMenuItem"; title = "Location"; ObjectID = "5592"; */
-"Location" = "Location";
+"Location" = "Localização";
 
 /* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "5606"; */
 "Save Changes" = "Save Changes";

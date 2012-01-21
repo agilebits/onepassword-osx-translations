@@ -1,7 +1,7 @@
-"__title__" = "Generic Account";
+"__title__" = "Conta genérica";
 
-"__description__" = "Username and password information";
+"__description__" = "Informações de nome de utilizador e palavra-passe";
 
 "username" = "Nome de utilizador";
 
-"password" = "Senha";
+"password" = "Palavra-passe";

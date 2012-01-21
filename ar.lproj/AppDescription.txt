@@ -3,14 +3,14 @@
 ملاحظة: لمستخدمي الاصدار رقم .٣،٨. لنتائج افضل فضلا قم بحذف النسخة القديمة قبل تثبيت نسخة الماك من متجر ابل. 
 
 حاز البرنامج على كل الجوائز المعروفة! *
- - Mac App Store: Best Apps of 2011
+ متجر تطبيقات الماك: افضل تطبيقات لعام 2011
 جائزة  ايدي ٢٠١٠ لعالم ماك
  - MacStories Apps of 2011: Reader’s Choice Winner
 حاز على ٤.٥/٥ في تقييم عالم ماك
  - Cult of Mac: 10 Most Innovative Apps of 2011
 تحت تقييم رائع Mac Life اختيار محرري مجلة 
  
-But wait, there’s more! 1Password makes it easy to:
+ولكن انتظر، هناك المزيد! 1Password makes it easy to:
  
 - Use multiple Logins for the same site
  - Create multiple Identities for filling into registration forms, surveys, and shopping carts
@@ -38,4 +38,4 @@ Mobile versions of 1Password are available for iPhone, iPod touch, and iPad. Syn
 SUPPORT NOTE #1: We got several reports about not being able to get past the Welcome screen when installing 1Password. If you encounter this issue, please see the "1Password fails to continue after the initial welcome screen" article on our support site. 
 
 
-SUPPORT NOTE #2: We love to hear your feedback. Mac AppStore برجاء تذكر اننا غير قادرين بالرد علي تعليقاتكم فى  If you have a question, please contact us on our support site. شكراً لك!
+SUPPORT NOTE #2: We love to hear your feedback. Mac AppStore برجاء تذكر اننا غير قادرين بالرد علي تعليقاتكم فى  إذا كان لديك سؤال، يرجى الاتصال بنا على موقع الدعم الخاص بنا. شكراً لك!

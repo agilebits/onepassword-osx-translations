@@ -2,6 +2,6 @@
 
 "__description__" = "Informações de usuário e senha";
 
-"username" = "Username";
+"username" = "Nome de usuário";
 
-"password" = "Password";
+"password" = "Senha";

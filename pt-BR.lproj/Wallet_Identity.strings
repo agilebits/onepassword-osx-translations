@@ -24,7 +24,7 @@
 
 "internet" = "Internet Details";
 
-"username" = "Username";
+"username" = "Nome de usuário";
 
 "reminderq" = "Reminder Question";
 
@@ -32,7 +32,7 @@
 
 "email" = "Email";
 
-"website" = "Website";
+"website" = "Site";
 
 "icq" = "ICQ";
 
@@ -60,7 +60,7 @@
 
 "country" = "Country";
 
-"location" = "Location";
+"location" = "Localização";
 
 "phone" = "Telephone";
 

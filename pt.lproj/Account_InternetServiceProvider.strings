@@ -1,16 +1,16 @@
-"__title__" = "Internet Provider";
+"__title__" = "Fornecedor de Internet";
 
-"__description__" = "Connection information provided by your Internet Service Provider (ISP) for connecting to the Internet.";
+"__description__" = "Informações de ligação fornecidas pelo seu fornecedor de serviços de Internet (ISP) para ligação à Internet.";
 
-"userid" = "User ID";
+"userid" = "ID de utilizador";
 
-"password" = "Senha";
+"password" = "Palavra-passe";
 
 "pin" = "PIN";
 
-"dialup_number" = "Dialup Access Number";
+"dialup_number" = "Número de acesso telefónico";
 
-"dialup_number#9" = "Dialup #";
+"dialup_number#9" = "Nº acesso";
 
 "Contact Information" = "Informações de contacto";
 
@@ -18,10 +18,10 @@
 
 "website" = "Site";
 
-"phone_local" = "Phone (Local)";
+"phone_local" = "Telefone (local)";
 
 "phone_local#9" = "Telefone";
 
-"phone_tollfree" = "Phone (Toll Free)";
+"phone_tollfree" = "Telefone (chamada gratuita)";
 
 "phone_tollfree#9" = "Chamada gratuita";

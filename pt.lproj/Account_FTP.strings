@@ -1,14 +1,14 @@
-"__title__" = "FTP Account";
+"__title__" = "Conta de FTP";
 
-"__description__" = "Login information for FTP accounts.";
+"__description__" = "Informação de início de sessão para contas de FTP.";
 
 "server" = "Servidor";
 
 "path" = "Caminho";
 
-"username" = "User Name";
+"username" = "Nome de utilizador";
 
-"password" = "Senha";
+"password" = "Palavra-passe";
 
 "Contact Information" = "Informações de contacto";
 

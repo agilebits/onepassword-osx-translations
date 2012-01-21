@@ -8,7 +8,7 @@
 "Welcome to 1Password" = "Witaj w 1Password";
 
 /* Class = "NSTextFieldCell"; title = "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID = "10"; */
-"To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "Przed rozpoczęciem konieczne jest ustanowienie głównego hasła.\nJeżeli już to zrobiłeś, kliknij przycisk \"Używałem 1Password\".";
+"To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "Przed rozpoczęciem konieczne jest ustanowienie głównego hasła.\nJeżeli już to zrobiłeś, kliknij przycisk \"Korzystam już z 1Password\".";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "new data file"; ObjectID = "15"; */
 "new data file" = "nowy plik danych";
@@ -17,7 +17,7 @@
 "1Password" = "1Password";
 
 /* Class = "NSButtonCell"; title = "I am a new user"; ObjectID = "18"; */
-"I am a new user" = "Jestem nowym uzytkownikiem";
+"I am a new user" = "Jestem nowym użytkownikiem";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "29"; */
 "help" = "pomoc";

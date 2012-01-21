@@ -2,7 +2,7 @@
 
 "__description__" = "Government issued Passport.";
 
-"type" = "Type";
+"type" = "Tipo";
 
 "fullname" = "Full Name";
 
@@ -31,9 +31,9 @@
 
 "menu.sex.female" = "Female";
 
-"type#9" = "Type";
+"type#9" = "Tipo";
 
-"fullname#9" = "Name";
+"fullname#9" = "Nome";
 
 "number#9" = "Number";
 

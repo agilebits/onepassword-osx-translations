@@ -5,7 +5,7 @@
 "Tags" = "Tags";
 
 /* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4875"; */
-"Attachments" = "Attachments";
+"Attachments" = "Anexos";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Display"; ObjectID = "3384"; */
 "Display" = "Display";
@@ -23,7 +23,7 @@
 "Checkbox" = "Checkbox";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "password"; ObjectID = "4564"; */
-"password" = "password";
+"password" = "senha";
 
 /* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
 "Generate" = "Generate";
@@ -38,37 +38,37 @@
 "Submit" = "Submit";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Username"; ObjectID = "5026"; */
-"Username" = "Username";
+"Username" = "Nome de usuário";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Password"; ObjectID = "5030"; */
-"Password" = "Password";
+"Password" = "Senha";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2834"; */
-"Created on" = "Created on";
+"Created on" = "Criado em";
 
 /* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "4030"; */
-"Type" = "Type";
+"Type" = "Tipo";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "3692"; */
-"Notes" = "Notes";
+"Notes" = "Notas";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4406"; */
 "tags" = "tags";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5029"; */
-"Title" = "Title";
+"Title" = "Título";
 
 /* Class = "NSTextFieldCell"; title = "http://www.google.com"; ObjectID = "3088"; */
 "http://www.google.com" = "http://www.google.com";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "3394"; */
-"Always" = "Always";
+"Always" = "Sempre";
 
 /* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
 "Password Strength" = "Password Strength";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
-"Text" = "Text";
+"Text" = "Texto";
 
 /* Class = "NSMenuItem"; title = "For Web Pages Only"; ObjectID = "3388"; */
 "For Web Pages Only" = "For Web Pages Only";
@@ -83,7 +83,7 @@
 "For HTTP Auth Prompts Only" = "For HTTP Auth Prompts Only";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
-"Never Display in Browser" = "Never Display in Browser";
+"Never Display in Browser" = "Nunca Exibir no Navegador";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
 "Never" = "Never";
@@ -92,4 +92,4 @@
 "If Autosubmit is ON" = "If Autosubmit is ON";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2825"; */
-"Last modified" = "Last modified";
+"Last modified" = "Última modificação";

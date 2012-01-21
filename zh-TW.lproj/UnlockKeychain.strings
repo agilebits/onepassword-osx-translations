@@ -2,13 +2,13 @@
 "Cancel" = "取消";
 
 /* Class = "NSTextFieldCell"; title = "... unlock reason message will be displayed here..."; ObjectID = "169"; */
-"... unlock reason message will be displayed here..." = "... unlock reason message will be displayed here...";
+"... unlock reason message will be displayed here..." = "…解鎖訊息將顯示於此...";
 
 /* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "165"; */
-"Unlock" = "Unlock";
+"Unlock" = "解鎖";
 
 /* Class = "NSWindow"; title = "Unlock 1Password"; ObjectID = "84"; */
 "Unlock 1Password" = "Unlock 1Password";
 
 /* Class = "NSTextFieldCell"; title = "Master Password:"; ObjectID = "164"; */
-"Master Password:" = "Master Password:";
+"Master Password:" = "主密碼:";

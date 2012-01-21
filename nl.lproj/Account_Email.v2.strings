@@ -77,7 +77,7 @@
 
 "menu.pop_authentication.password" = "Wachtwoord";
 
-"menu.pop_authentication.md5_challenge_response" = "MD5 Challenge Response";
+"menu.pop_authentication.md5_challenge_response" = "MD5-Challenge-Response";
 
 "menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
 
@@ -99,7 +99,7 @@
 
 "menu.smtp_authentication.password" = "Wachtwoord";
 
-"menu.smtp_authentication.md5_challenge_response" = "MD5 Challenge Response";
+"menu.smtp_authentication.md5_challenge_response" = "MD5-Challenge-Response";
 
 "menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
 

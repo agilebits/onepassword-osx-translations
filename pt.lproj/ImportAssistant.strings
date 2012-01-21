@@ -1,8 +1,8 @@
 /* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "385"; */
-"Skip All" = "Skip All";
+"Skip All" = "Ignorar todos";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "763"; */
-"Cancel" = "Cancel";
+"Cancel" = "Cancelar";
 
 /* Class = "NSMenuItem"; title = "UTF-8"; ObjectID = "64"; */
 "UTF-8" = "UTF-8";
@@ -104,7 +104,7 @@
 "Preview" = "Preview";
 
 /* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "144"; */
-"Title" = "Title";
+"Title" = "Título";
 
 /* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "181"; */
 "Type" = "Tipo";
@@ -119,7 +119,7 @@
 "Step 3: Select and Verify File Encoding" = "Step 3: Select and Verify File Encoding";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "770"; */
-"Continue" = "Continue";
+"Continue" = "Continuar";
 
 /* Class = "NSTextFieldCell"; title = "Item Type:"; ObjectID = "773"; */
 "Item Type:" = "Item Type:";
@@ -155,7 +155,7 @@
 "Foo" = "Foo";
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "803"; */
-"Skip" = "Skip";
+"Skip" = "Ignorar";
 
 /* Class = "NSMenuItem"; title = "Tab"; ObjectID = "508"; */
 "Tab" = "Tab";
