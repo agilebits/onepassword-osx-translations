@@ -16,9 +16,6 @@
 /* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5290"; */
 "Kind" = "Kind";
 
-/* Class = "NSMenuItem"; title = "Low (4-Digit Code)"; ObjectID = "5184"; */
-"Low (4-Digit Code)" = "Low (4-Digit Code)";
-
 /* Class = "NSTableColumn"; headerCell.title = "Modified Date"; ObjectID = "3496"; */
 "Modified Date" = "Modified Date";
 
@@ -109,9 +106,6 @@
 /* Class = "NSMenuItem"; title = "New Login"; ObjectID = "4281"; */
 "New Login" = "New Login";
 
-/* Class = "NSMenuItem"; title = "Security Level"; ObjectID = "5179"; */
-"Security Level" = "Security Level";
-
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "5653"; */
 "New Password…" = "New Password…";
 
@@ -138,9 +132,6 @@
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "5697"; */
 "Password Strength" = "Password Strength";
-
-/* Class = "NSMenuItem"; title = "High (Master Password)"; ObjectID = "5185"; */
-"High (Master Password)" = "High (Master Password)";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "3437"; */
 "Empty Trash…" = "Empty Trash…";
