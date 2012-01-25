@@ -1,38 +1,38 @@
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "password hint"; ObjectID = "44"; */
-"password hint" = "password hint";
+"password hint" = "dica da palavra-passe";
 
 /* Class = "NSWindow"; title = "Welcome to 1Password"; ObjectID = "1"; */
-"Welcome to 1Password" = "Welcome to 1Password";
+"Welcome to 1Password" = "Bem-vindo ao 1Password";
 
 /* Class = "NSTextFieldCell"; title = "Re-type Password"; ObjectID = "88"; */
-"Re-type Password" = "Re-type Password";
+"Re-type Password" = "Re-introduza a palavra-passe";
 
 /* Class = "NSTextFieldCell"; title = "Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place."; ObjectID = "78"; */
-"Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place." = "Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place.";
+"Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place." = "A sua informação será cifrada com a Palavra-passe Mestra que introduzir abaixo. A Palavra-passe Mestra é a única palavra-passe que terá de recordar. Sugerimos usar um frase fácil de recordar como a sua Palavra-passe Mestra e que mantenha uma cópia escrita dela num sítio seguro.";
 
 /* Class = "NSButtonCell"; title = "Sync encrypted data with Dropbox"; ObjectID = "113"; */
-"Sync encrypted data with Dropbox" = "Sync encrypted data with Dropbox";
+"Sync encrypted data with Dropbox" = "Sincronizar dados cifrados com Dropbox";
 
 /* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "master password"; ObjectID = "32"; */
-"master password" = "master password";
+"master password" = "palavra-passe mestra";
 
 /* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "86"; */
 "Master Password" = "Master Password";
 
 /* Class = "NSButtonCell"; title = "Find It"; ObjectID = "107"; */
-"Find It" = "Find It";
+"Find It" = "Localizar";
 
 /* Class = "NSTextFieldCell"; title = "Password Hint"; ObjectID = "90"; */
 "Password Hint" = "Password Hint";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "109"; */
-"help" = "help";
+"help" = "ajuda";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "7"; */
 "Continue" = "Continuar";
 
 /* Class = "NSTextFieldCell"; title = "Have information from a previous installation?"; ObjectID = "105"; */
-"Have information from a previous installation?" = "Have information from a previous installation?";
+"Have information from a previous installation?" = "Tem informações de uma instalação anterior?";
 
 /* Class = "NSSecureTextField"; ibExternalAccessibilityDescription = "re-type password"; ObjectID = "38"; */
-"re-type password" = "re-type password";
+"re-type password" = "re-introduzir palavra-passe";

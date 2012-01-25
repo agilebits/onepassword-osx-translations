@@ -20,7 +20,7 @@
 "Master Password" = "Główne hasło";
 
 /* Class = "NSButtonCell"; title = "Find It"; ObjectID = "107"; */
-"Find It" = "Find It";
+"Find It" = "Znajdź";
 
 /* Class = "NSTextFieldCell"; title = "Password Hint"; ObjectID = "90"; */
 "Password Hint" = "Podpowiedź do hasła";

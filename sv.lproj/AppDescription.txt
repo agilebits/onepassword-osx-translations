@@ -1,13 +1,13 @@
-1Password är din lösenords- och identitetskompis. Den löper förbi enkel lösenordslagring för att 1Password fungerar direkt med din webbläsare, den sparar dina användarnamn och lösenord och skapar enkelt starka, unika lösenord för varje sida. 1Password kan sen automatisk och säkert logga in dig, fylla i kreditkortinformation och fylla i registreringsformulär, samtidigt som din information krypteras med det enda lösenord du behöver komma ihåg. 
+1Password är din lösenords- och identitetskompis. Den löper förbi enkel lösenordslagring för att 1Password fungerar direkt med din webbläsare, den sparar dina användarnamn och lösenord och skapar enkelt starka, unika lösenord för varje sida. 1Password kan sen automatiskt och säkert logga in dig, fylla i kreditkortsinformation och fylla i registreringsformulär, samtidigt som din information krypteras med det enda lösenord du behöver komma ihåg. 
 
 ANM: för befintliga 1Password 3.8 användare. För bättre resultat, var vänlig ta bort den gamla kopian av 1Password innan du installerar versionen från Mac App Store. 
 
-★ 1Password har vunnit i princip varenda pris under solen! ★
- - Mac App Store: Best Apps of 2011
+★ 1Password har vunnit i princip varenda utmärkelse under solen! ★
+ - Mac App Store: 2011 års bästa Appar
 - Macworld 2010 Eddy pristagare
- - MacStories Apps of 2011: Reader’s Choice Winner
+ - MacStories 2011 års Appar: Vinnare av Läsarnas Val
 - Fick 4,5/5 möss i en Macworld recension
- - Cult of Mac: 10 Most Innovative Apps of 2011
+ Cult of Mac: 2011 års 10 Mest Innovativa Appar
 - Mac|Life Editor's Choice med betygssättningen "Awesome!"
  
 Men vänta, det finns mer! 1Password gör det lätt att:

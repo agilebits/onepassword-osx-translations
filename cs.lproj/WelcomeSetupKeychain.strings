@@ -17,7 +17,7 @@
 "master password" = "hlavní heslo";
 
 /* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "86"; */
-"Master Password" = "Master Password";
+"Master Password" = "Hlavní heslo";
 
 /* Class = "NSButtonCell"; title = "Find It"; ObjectID = "107"; */
 "Find It" = "Najít";

@@ -1,43 +1,43 @@
-"__title__" = "Reward Program";
+"__title__" = "Programa de recompensas";
 
-"__description__" = "Customer loyalty programs, including frequent flyer and hotel rewards";
+"__description__" = "Programas de fidelidade do cliente, incluindo recompensas de passageiro e hóspede frequente";
 
-"company_name" = "Company Name";
+"company_name" = "Nome da empresa";
 
-"member_name" = "Member Name";
+"member_name" = "Nome do membro";
 
-"member_since" = "Member Since";
+"member_since" = "Membro desde";
 
-"membership_no" = "Membership #";
+"membership_no" = "Número de membro";
 
-"additional_no" = "Membership # (Additional)";
+"additional_no" = "Número de membro (adicional)";
 
 "pin" = "PIN";
 
-"customer_service_phone" = "Customer Service Phone";
+"customer_service_phone" = "Telefone para apoio ao cliente";
 
-"reservations_phone" = "Reservations Phone";
+"reservations_phone" = "Telefone para reservas";
 
 "website" = "Site";
 
-"extra" = "More Information";
+"extra" = "Mais informações";
 
-"company_name#9" = "Company";
+"company_name#9" = "Empresa";
 
 "member_name#9" = "Nome";
 
-"member_since#9" = "Since";
+"member_since#9" = "Membro desde";
 
 "membership_no#9" = "Number";
 
-"additional_no#9" = "Number 2";
+"additional_no#9" = "Número 2";
 
 "pin#9" = "PIN";
 
-"customer_service_phone#9" = "Cust Serv";
+"customer_service_phone#9" = "Apoio Cliente";
 
-"reservations_phone#9" = "Reservs.";
+"reservations_phone#9" = "Reservas";
 
 "website#9" = "Site";
 
-"extra#9" = "More Info";
+"extra#9" = "Mais infor.";

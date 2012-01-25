@@ -5,10 +5,10 @@
 "Attachments" = "Anexos";
 
 /* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4936"; */
-"Display" = "Display";
+"Display" = "Mostrar";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Photograph"; ObjectID = "4905"; */
-"Photograph" = "Photograph";
+"Photograph" = "Fotografia";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "name"; ObjectID = "4582"; */
 "name" = "nome";
@@ -29,7 +29,7 @@
 "Name" = "Nome";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4933"; */
-"Never Display in Browser" = "Never Display in Browser";
+"Never Display in Browser" = "Nunca apresentar no navegador";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2887"; */
 "Last modified" = "Última modificação";

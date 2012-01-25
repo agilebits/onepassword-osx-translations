@@ -1,38 +1,38 @@
-"__title__" = "Credit Card";
+"__title__" = "Kreditní Karta";
 
-"__description__" = "Credit card information";
+"__description__" = "Informace o Kreditní Kartě";
 
 "set.contactInfo" = "Kontaktní informace";
 
-"cardholder" = "Cardholder's Name";
+"cardholder" = "Jméno držitele";
 
-"cardholder#9" = "Cardholder";
+"cardholder#9" = "Držitel karty";
 
 "type" = "Typ";
 
-"ccnum" = "Number";
+"ccnum" = "Číslo";
 
-"cvv" = "Verification Number";
+"cvv" = "Ověřovací číslo";
 
 "cvv#9" = "CVC";
 
-"expiry" = "Expiry Date";
+"expiry" = "Datum vypršení";
 
-"expiry#9" = "Expiry";
+"expiry#9" = "Vypršení platnosti";
 
-"validFrom" = "Valid From";
+"validFrom" = "Platnost od";
 
-"validFrom#9" = "Issued";
+"validFrom#9" = "Vydáno";
 
 "contactInfo" = "Kontaktní informace";
 
-"bank" = "Issuing Bank";
+"bank" = "Vydávající banka";
 
-"bank#9" = "Bank";
+"bank#9" = "Banka";
 
-"details" = "Additional Details";
+"details" = "Další podrobnosti";
 
-"details#9" = "Details";
+"details#9" = "Podrobnosti";
 
 "phoneLocal" = "Telefon (místní)";
 
@@ -42,7 +42,7 @@
 
 "phoneTollFree#9" = "Bezplatné";
 
-"phoneIntl" = "Phone (International)";
+"phoneIntl" = "Telefon (mezinárodní)";
 
 "phoneIntl#9" = "Intl";
 
@@ -50,21 +50,21 @@
 
 "pin" = "KÓD PIN";
 
-"creditLimit" = "Credit Limit";
+"creditLimit" = "Úvěrový Limit";
 
 "creditLimit#9" = "Limit";
 
-"cashLimit" = "Cash Withdrawal Limit";
+"cashLimit" = "Limit výběru v hotovosti";
 
-"cashLimit#9" = "Cash Limit";
+"cashLimit#9" = "Limit hotovosti";
 
-"interest" = "Interest Rate";
+"interest" = "Úroková sazba";
 
-"interest#9" = "Interest";
+"interest#9" = "Úrok";
 
-"issuenumber" = "Issue Number";
+"issuenumber" = "Číslo vydání";
 
-"issuenumber#9" = "Issue #";
+"issuenumber#9" = "Číslo vydání";
 
 /* credit card types */
 

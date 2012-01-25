@@ -1,36 +1,36 @@
-"__title__" = "Driver's License";
+"__title__" = "Řidičský průkaz";
 
-"fullname" = "Full Name";
+"fullname" = "Celé jméno";
 
 "address" = "Adresa";
 
-"birthdate" = "Date of Birth";
+"birthdate" = "Datum narození";
 
-"birthdate#9" = "Birthday";
+"birthdate#9" = "Narozeniny";
 
-"sex" = "Sex";
+"sex" = "Pohlaví";
 
-"height" = "Height";
+"height" = "Výška";
 
-"number" = "Number";
+"number" = "Číslo";
 
-"class" = "License Class";
+"class" = "Udělené (pod)skupiny ŘO";
 
-"class#9" = "Class";
+"class#9" = "Udělené (pod)skupiny ŘO";
 
-"conditions" = "Conditions / Restrictions";
+"conditions" = "Stav / omezení";
 
-"conditions#9" = "Conditions";
+"conditions#9" = "Stav";
 
-"state" = "State";
+"state" = "Stát";
 
-"country" = "Country";
+"country" = "Země";
 
-"expiry_date" = "Expiry Date";
+"expiry_date" = "Datum vypršení";
 
-"expiry_date#9" = "Expires";
+"expiry_date#9" = "Platí do";
 
 
-"menu.sex.male" = "Male";
+"menu.sex.male" = "Muž";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "Žena";

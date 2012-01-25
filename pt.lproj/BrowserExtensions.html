@@ -8,8 +8,8 @@
 <!--body classes = intro/helper/install-->
 <body class="">
     
-    <div style="display:none" id="text.installed">Installed</div>
-    <div style="display:none" id="html.install"><a href='#'>Install</a></div>
+    <div style="display:none" id="text.installed">Instalada</div>
+    <div style="display:none" id="html.install"><a href='#'>Instalar</a></div>
 
     <script>
         if (document.location.search.indexOf("install") > 0) {
@@ -24,44 +24,44 @@
     <section id="intro">
         <header>
             <img src="../header-icon.png" alt="" />
-            <h1>Install Browser Extensions</h1>
-            <p>Enjoy true integration with your web browsers.</p>
+            <h1>Instalar extensões de navegador</h1>
+            <p>Disfrute de verdadeira integração com os seus navegadores web.</p>
         </header>
         <ul>
             <li><img src="../intro-logins.png" alt="" />
-                <p><strong>Automatically save and fill website logins.</strong> It will detect when you log into a site and will prompt you to save the new Login to use later.</p></li>
+                <p><strong>Guarde e preencha automaticamente os dados de início de sessão em websites.</strong> Irá detectar quando inicia sessão num site e questionar se pretende guardar esses dados para usar posteriormente.</p></li>
             <li><img src="../intro-identities.png" alt="" />
-                <p><strong>Fill addresses, contact information, forums, and more.</strong> You can save all or some of this information in a 1Password Identity, and you can create as many Identities as you like.</p></li>
+                <p><strong>Preencha endereços, informação de contacto, fóruns e muito mais.</strong> Pode guardar toda ou alguma desta informação numa Identidade 1Password, e pode criar quantas Identidades quiser.</p></li>
             <li><img src="../intro-credit-cards.png" alt="" />
-                <p><strong>Easily fill credit cards while shopping online.</strong> Shop more conveniently and keep your credit card numbers safe by storing them locally in encrypted 1Password’s Wallet.</p></li>
+                <p><strong>Preencha facilmente os dados do seu cartão de crédito ao comprar online.</strong> Compre com maior conveniência e mantenha os seus dados do cartão de crédito seguros ao guardá-los localmente e crifados na Carteira do 1Password.</p></li>
             <li><img src="../intro-generator.png" alt="" />
-                <p><strong>Generate incredibly strong passwords</strong> while 1Password remembers all your passwords so you don’t have to. The days of using your pet’s name or anniversary are long gone.</p></li>
+                <p><strong>Gere palavras-passe incrivelmente seguras</strong> enquanto o 1Password recorda todas as suas palavras-passe para que não tenha de o fazer. Os dias em que usava o nome do seu animal de estimação ou o seu dia de aniversário já lá vão.</p></li>
         </ul>
-        <button onclick="document.body.className='helper'">Let's get started!</button>
+        <button onclick="document.body.className='helper'">Vamos começar!</button>
     </section>
         
     <section id="helper">
-        <h1>1Password Helper</h1>
-        <p>Helper will run in your menu bar.</p>
+        <h1>Aplicação auxiliar do 1Password</h1>
+        <p>A aplicação auxiliar manter-se-á em execução na sua barra de menus.</p>
         
-        <img src="../helper.png" alt="1Password Helper in menu bar" />
+        <img src="../helper.png" alt="Aplicação auxiliar do 1Password na barra de menus" />
         
-        <p>It will keep your browsers in <strong>sync</strong>, let you use <strong>keyboard</strong> shortcuts, <strong>lock</strong> and <strong>unlock</strong> 1Password, and automatically <strong>back up</strong> your data even when 1Password is closed.</p>
+        <p>Irá manter os seus navegadores <strong>sincronizados</strong>, permite-lhe utilizar <strong>atalhos</strong> de teclado, <strong>bloquear</strong> e <strong>desbloquear</strong> o 1Password e automaticamente criar <strong>cópias de segurança</strong> dos seus dados, mesmo quando o 1Password está fechado.</p>
 
-        <button onclick="controller.enableHelper(); document.body.className='install';">Enable Helper and Continue</button>
+        <button onclick="controller.enableHelper(); document.body.className='install';">Activar aplicação auxiliar e continuar</button>
     </section>
         
     <section id="install">
-        <h1>Web browser extensions</h1>
+        <h1>Extensões de navegadores da Web</h1>
         <ul class="buttons">
             <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
-                <h2>Safari</h2><span id="safari.msg">Installed</span></li>
+                <h2>Safari</h2><span id="safari.msg">Instalada</span></li>
             <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
-                <h2>Chrome</h2><span id="chrome.msg"><a href="#">Install</a></span></li>
+                <h2>Chrome</h2><span id="chrome.msg"><a href="#">Instalar</a></span></li>
             <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
-                <h2>Firefox</h2><span id="firefox.msg"><a href="#">Install</a></span></li>
+                <h2>Firefox</h2><span id="firefox.msg"><a href="#">Instalar</a></span></li>
         </ul>
-        <footer><a href="#" onclick="controller.showSettings()">Preferences</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">User Guide</a></footer>
+        <footer><a href="#" onclick="controller.showSettings()">Preferências</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Guia do utilizador</a></footer>
     </section>
         
     </body>

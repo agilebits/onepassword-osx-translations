@@ -26,11 +26,11 @@
 
 "wireless_password" = "Palavra-passe da rede sem fios";
 
-"wireless_password#9" = "Network Pw";
+"wireless_password#9" = "Pass. rede";
 
 "disk_password" = "Palavra-passe do armazenamentoligado";
 
-"disk_password#9" = "Storage Pw";
+"disk_password#9" = "Pass. armazenamento";
 
 
 "menu.wireless_security.none" = "Sem segurança";

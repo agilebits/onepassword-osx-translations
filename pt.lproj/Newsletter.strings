@@ -11,13 +11,13 @@
 "Stay In Touch" = "Manter contacto";
 
 /* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
-"No, thanks" = "No, thanks";
+"No, thanks" = "Não, obrigado";
 
 /* Class = "NSTextFieldCell"; title = "Copied from your Address Book card"; ObjectID = "269"; */
-"Copied from your Address Book card" = "Copied from your Address Book card";
+"Copied from your Address Book card" = "Copiado da sua ficha em Contactos";
 
 /* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "242"; */
-"Sign Up" = "Sign Up";
+"Sign Up" = "Subscrever";
 
 /* Class = "NSTextFieldCell"; title = "News & Updates"; ObjectID = "258"; */
-"News & Updates" = "News & Updates";
+"News & Updates" = "Notícias & actualizações";

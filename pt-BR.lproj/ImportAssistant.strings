@@ -131,7 +131,7 @@
 "Windows CP 1250 (Latin 2)" = "Windows CP 1250 (Latim 2)";
 
 /* Class = "NSButtonCell"; title = "Fields are Quoted"; ObjectID = "774"; */
-"Fields are Quoted" = "Fields are Quoted";
+"Fields are Quoted" = "Campos são Cotados";
 
 /* Class = "NSButtonCell"; title = "Import Selected Objects"; ObjectID = "749"; */
 "Import Selected Objects" = "Importar Objetos Selecionados";
@@ -167,7 +167,7 @@
 "GenericText" = "Texto Genérico";
 
 /* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "383"; */
-"Edit..." = "Edit...";
+"Edit..." = "Editar...";
 
 /* Class = "NSMenuItem"; title = "ISO 2022 JP "; ObjectID = "101"; */
 "ISO 2022 JP " = "ISO 2022 JP ";

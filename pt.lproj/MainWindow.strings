@@ -62,7 +62,7 @@
 "matches" = "correspondências";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "5595"; */
-"Edit Smart Folder…" = "Edit Smart Folder…";
+"Edit Smart Folder…" = "Editar Pasta inteligente…";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "5249"; */
 "Wallet" = "Wallet";
@@ -92,7 +92,7 @@
 "Username" = "Nome de utilizador";
 
 /* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "4272"; */
-"New Software License" = "New Software License";
+"New Software License" = "Nova licença de software";
 
 /* Class = "NSTextFieldCell"; title = "Incorrect Password"; ObjectID = "4670"; */
 "Incorrect Password" = "Incorrect Password";
@@ -107,13 +107,13 @@
 "is like" = "é como";
 
 /* Class = "NSMenuItem"; title = "New Login"; ObjectID = "4281"; */
-"New Login" = "New Login";
+"New Login" = "Novos dados de início de sessão";
 
 /* Class = "NSMenuItem"; title = "Security Level"; ObjectID = "5179"; */
 "Security Level" = "Nível de segurança";
 
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "5653"; */
-"New Password…" = "New Password…";
+"New Password…" = "Nova palavra-passe…";
 
 /* Class = "NSMenuItem"; title = "contains"; ObjectID = "5766"; */
 "contains" = "contém";
@@ -128,7 +128,7 @@
 "is greater than or equal to" = "é maior que ou igual a";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "5615"; */
-"New Smart Folder" = "New Smart Folder";
+"New Smart Folder" = "Nova Pasta inteligente…";
 
 /* Class = "NSMenuItem"; title = "is"; ObjectID = "5770"; */
 "is" = "é";
@@ -143,7 +143,7 @@
 "High (Master Password)" = "High (Master Password)";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "3437"; */
-"Empty Trash…" = "Empty Trash…";
+"Empty Trash…" = "Esvaziar o Lixo…";
 
 /* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "3443"; */
 "New Folder" = "New Folder";
@@ -161,13 +161,13 @@
 "Has Attachment" = "Tem anexo";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Help"; ObjectID = "5758"; */
-"Help" = "Help";
+"Help" = "Ajuda";
 
 /* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "window layout"; ObjectID = "4644"; */
 "window layout" = "layout de janela";
 
 /* Class = "NSBox"; ibExternalAccessibilityDescription = "Unlock"; ObjectID = "3662"; */
-"Unlock" = "Unlock";
+"Unlock" = "Desbloquear";
 
 /* Class = "NSSearchField"; ibExternalAccessibilityDescription = "search"; ObjectID = "4646"; */
 "search" = "pesquisar";
@@ -200,13 +200,13 @@
 "is not" = "não é";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "4891"; */
-"Paste" = "Paste";
+"Paste" = "Colar";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "5410"; */
 "Save" = "Save";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "4895"; */
-"Duplicate" = "Duplicate";
+"Duplicate" = "Duplicar";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "4998"; */
 "Date Created" = "Date Created";

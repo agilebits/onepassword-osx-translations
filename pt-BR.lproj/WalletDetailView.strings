@@ -1,17 +1,17 @@
 /* Class = "NSTokenFieldCell"; placeholderString = "Tags"; ObjectID = "4892"; */
-"Tags" = "Tags";
+"Tags" = "Etiquetas";
 
 /* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4808"; */
 "Attachments" = "Anexos";
 
 /* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4932"; */
-"Display" = "Display";
+"Display" = "Exibição";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3219"; */
 "Created on" = "Criado em";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4891"; */
-"tags" = "tags";
+"tags" = "etiquetas";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4819"; */
 "Notes" = "Notas";

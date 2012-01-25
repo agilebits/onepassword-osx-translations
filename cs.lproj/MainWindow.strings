@@ -1,5 +1,5 @@
 /* Class = "NSButtonCell"; title = "Customize..."; ObjectID = "4989"; */
-"Customize..." = "Customize...";
+"Customize..." = "Přizpůsobit...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Created Date"; ObjectID = "4993"; */
 "Created Date" = "Created Date";
@@ -11,10 +11,10 @@
 "Type" = "Typ";
 
 /* Class = "NSMenuItem"; title = "of the following are true"; ObjectID = "5062"; */
-"of the following are true" = "of the following are true";
+"of the following are true" = "z následujících jsou pravdivé";
 
 /* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5290"; */
-"Kind" = "Kind";
+"Kind" = "Typ";
 
 /* Class = "NSMenuItem"; title = "Low (4-Digit Code)"; ObjectID = "5184"; */
 "Low (4-Digit Code)" = "Nízká (4číselný kód)";
@@ -23,13 +23,13 @@
 "Modified Date" = "Modified Date";
 
 /* Class = "NSMenuItem"; title = "Identity"; ObjectID = "5246"; */
-"Identity" = "Identity";
+"Identity" = "Identita";
 
 /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "3465"; */
-"Rename" = "Rename";
+"Rename" = "Přejmenovat";
 
 /* Class = "NSButtonCell"; title = "Add Sample Data"; ObjectID = "5029"; */
-"Add Sample Data" = "Add Sample Data";
+"Add Sample Data" = "Přidat ukázkové údaje";
 
 /* Class = "NSMenuItem"; title = "Folder"; ObjectID = "5786"; */
 "Folder" = "Folder";
@@ -41,25 +41,25 @@
 "40" = "40";
 
 /* Class = "NSMenuItem"; title = "Modified"; ObjectID = "5639"; */
-"Modified" = "Modified";
+"Modified" = "Změněno";
 
 /* Class = "NSTextFieldCell"; title = "1976-04-01 3:00 PM"; ObjectID = "4994"; */
-"1976-04-01 3:00 PM" = "1976-04-01 3:00 PM";
+"1976-04-01 3:00 PM" = "1976-04-01 15:00";
 
 /* Class = "NSMenuItem"; title = "begins with"; ObjectID = "5776"; */
-"begins with" = "begins with";
+"begins with" = "začíná";
 
 /* Class = "OPWindowWithCmdSHandler"; title = "1Password"; ObjectID = "505"; */
 "1Password" = "1Password";
 
 /* Class = "NSOutlineView"; ibExternalAccessibilityDescription = "sidebar"; ObjectID = "2637"; */
-"sidebar" = "sidebar";
+"sidebar" = "boční panel";
 
 /* Class = "NSMenuItem"; title = "Account"; ObjectID = "5245"; */
 "Account" = "Účet";
 
 /* Class = "NSMenuItem"; title = "matches"; ObjectID = "5775"; */
-"matches" = "matches";
+"matches" = "odpovídá";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "5595"; */
 "Edit Smart Folder…" = "Edit Smart Folder…";
@@ -68,19 +68,19 @@
 "Wallet" = "Wallet";
 
 /* Class = "NSMenuItem"; title = "Any"; ObjectID = "5063"; */
-"Any" = "Any";
+"Any" = "Jakýkoli";
 
 /* Class = "NSMenuItem"; title = "Icon"; ObjectID = "4971"; */
 "Icon" = "Icon";
 
 /* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "4271"; */
-"New Wallet Item…" = "New Wallet Item…";
+"New Wallet Item…" = "Nová položka peněženky…";
 
 /* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "4276"; */
 "New Secure Note" = "New Secure Note";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Drag Splitview"; ObjectID = "4263"; */
-"Drag Splitview" = "Drag Splitview";
+"Drag Splitview" = "Přetáhnout díl okna";
 
 /* Class = "NSMenuItem"; title = "Cut"; ObjectID = "4889"; */
 "Cut" = "Cut";
@@ -101,46 +101,46 @@
 "Password" = "Heslo";
 
 /* Class = "NSMenuItem"; title = "before"; ObjectID = "5638"; */
-"before" = "before";
+"before" = "před";
 
 /* Class = "NSMenuItem"; title = "is like"; ObjectID = "5752"; */
-"is like" = "is like";
+"is like" = "je jako";
 
 /* Class = "NSMenuItem"; title = "New Login"; ObjectID = "4281"; */
 "New Login" = "New Login";
 
 /* Class = "NSMenuItem"; title = "Security Level"; ObjectID = "5179"; */
-"Security Level" = "Security Level";
+"Security Level" = "Úroveň zabezpečení";
 
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "5653"; */
 "New Password…" = "New Password…";
 
 /* Class = "NSMenuItem"; title = "contains"; ObjectID = "5766"; */
-"contains" = "contains";
+"contains" = "obsahuje";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Item"; ObjectID = "4914"; */
-"Add Item" = "Add Item";
+"Add Item" = "Přidat položku";
 
 /* Class = "NSMenuItem"; title = "All"; ObjectID = "5064"; */
 "All" = "Vše";
 
 /* Class = "NSMenuItem"; title = "is greater than or equal to"; ObjectID = "5749"; */
-"is greater than or equal to" = "is greater than or equal to";
+"is greater than or equal to" = "je větší než nebo rovno";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "5615"; */
 "New Smart Folder" = "New Smart Folder";
 
 /* Class = "NSMenuItem"; title = "is"; ObjectID = "5770"; */
-"is" = "is";
+"is" = "je";
 
 /* Class = "NSMenuItem"; title = "Any of the fields"; ObjectID = "5579"; */
-"Any of the fields" = "Any of the fields";
+"Any of the fields" = "Libovolné pole";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "5697"; */
 "Password Strength" = "Password Strength";
 
 /* Class = "NSMenuItem"; title = "High (Master Password)"; ObjectID = "5185"; */
-"High (Master Password)" = "High (Master Password)";
+"High (Master Password)" = "Vysoká (Master heslo)";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "3437"; */
 "Empty Trash…" = "Empty Trash…";
@@ -149,28 +149,28 @@
 "New Folder" = "Nová složka";
 
 /* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "5651"; */
-"New Account…" = "New Account…";
+"New Account…" = "Nový účet";
 
 /* Class = "NSButtonCell"; title = "Can't Log In?"; ObjectID = "5759"; */
-"Can't Log In?" = "Can't Log In?";
+"Can't Log In?" = "Nelze se přihlásit?";
 
 /* Class = "NSMenuItem"; title = "Login"; ObjectID = "5244"; */
 "Login" = "Přihlášení";
 
 /* Class = "NSMenuItem"; title = "Has Attachment"; ObjectID = "5364"; */
-"Has Attachment" = "Has Attachment";
+"Has Attachment" = "Má přílohu";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Help"; ObjectID = "5758"; */
 "Help" = "Help";
 
 /* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "window layout"; ObjectID = "4644"; */
-"window layout" = "window layout";
+"window layout" = "Rozložení okna";
 
 /* Class = "NSBox"; ibExternalAccessibilityDescription = "Unlock"; ObjectID = "3662"; */
 "Unlock" = "Unlock";
 
 /* Class = "NSSearchField"; ibExternalAccessibilityDescription = "search"; ObjectID = "4646"; */
-"search" = "search";
+"search" = "hledat";
 
 /* Class = "NSTextFieldCell"; title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID = "5023"; */
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. " = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. ";
@@ -179,25 +179,25 @@
 "60" = "60";
 
 /* Class = "NSMenuItem"; title = "Delete…"; ObjectID = "4892"; */
-"Delete…" = "Delete…";
+"Delete…" = "Smazat…";
 
 /* Class = "NSMenuItem"; title = "100 - Fantastic"; ObjectID = "5748"; */
-"100 - Fantastic" = "100 - Fantastic";
+"100 - Fantastic" = "100 - Fantastické";
 
 /* Class = "NSTableView"; ibExternalAccessibilityDescription = "object list"; ObjectID = "3491"; */
-"object list" = "object list";
+"object list" = "seznam objektů";
 
 /* Class = "NSTextFieldCell"; title = "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID = "5021"; */
-"Click the + button to get started creating new items or add sample data to get some ideas." = "Click the + button to get started creating new items or add sample data to get some ideas.";
+"Click the + button to get started creating new items or add sample data to get some ideas." = "Klepněte na tlačítko + pro vytvoření nové položky nebo přidaní ukázkových dat pro získání jiných nápadů.";
 
 /* Class = "NSMenuItem"; title = "ends with"; ObjectID = "5777"; */
-"ends with" = "ends with";
+"ends with" = "končí";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "4896"; */
 "Edit" = "Upravit";
 
 /* Class = "NSMenuItem"; title = "is not"; ObjectID = "5531"; */
-"is not" = "is not";
+"is not" = "není";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "4891"; */
 "Paste" = "Paste";
@@ -212,7 +212,7 @@
 "Date Created" = "Datum vytvoření";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Sidebar Actions Menu"; ObjectID = "3430"; */
-"Sidebar Actions Menu" = "Sidebar Actions Menu";
+"Sidebar Actions Menu" = "Nabídka akcí v bočním panelu";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "4890"; */
 "Copy" = "Kopírovat";
@@ -230,16 +230,16 @@
 "New Identity" = "New Identity";
 
 /* Class = "NSMenuItem"; title = "Low Security"; ObjectID = "5655"; */
-"Low Security" = "Low Security";
+"Low Security" = "Nízké zabezpečení";
 
 /* Class = "NSMenuItem"; title = "is less than"; ObjectID = "5757"; */
-"is less than" = "is less than";
+"is less than" = "je menší než";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "4975"; */
 "Date Modified" = "Datum změny";
 
 /* Class = "NSMenuItem"; title = "10 - Terrible"; ObjectID = "5743"; */
-"10 - Terrible" = "10 - Terrible";
+"10 - Terrible" = "10 - Hrozné";
 
 /* Class = "NSMenuItem"; title = "Notes"; ObjectID = "5558"; */
 "Notes" = "Poznámky";
@@ -254,34 +254,34 @@
 "Title" = "Název";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Master Password"; ObjectID = "2517"; */
-"Master Password" = "Master Password";
+"Master Password" = "Hlavní heslo";
 
 /* Class = "NSMenuItem"; title = "Tag"; ObjectID = "5674"; */
 "Tag" = "Tag";
 
 /* Class = "NSTextFieldCell"; title = "No Items Found"; ObjectID = "5037"; */
-"No Items Found" = "No Items Found";
+"No Items Found" = "Nebyly nalezeny žádné položky";
 
 /* Class = "NSTextFieldCell"; title = "MASTER PASSWORD"; ObjectID = "4603"; */
-"MASTER PASSWORD" = "MASTER PASSWORD";
+"MASTER PASSWORD" = "HLAVNÍ HESLO";
 
 /* Class = "NSMenuItem"; title = "Created"; ObjectID = "5628"; */
-"Created" = "Created";
+"Created" = "Vytvořeno";
 
 /* Class = "NSMenuItem"; title = "Any kind"; ObjectID = "5314"; */
-"Any kind" = "Any kind";
+"Any kind" = "Jakýkoli druh";
 
 /* Class = "NSMenuItem"; title = "after"; ObjectID = "5637"; */
-"after" = "after";
+"after" = "po";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5668"; */
 "Cancel" = "Zrušit";
 
 /* Class = "NSMenuItem"; title = "Software License"; ObjectID = "5248"; */
-"Software License" = "Software License";
+"Software License" = "Softwarová licence";
 
 /* Class = "NSMenuItem"; title = "is less than or equal to"; ObjectID = "5701"; */
-"is less than or equal to" = "is less than or equal to";
+"is less than or equal to" = "je menší než nebo rovno";
 
 /* Class = "NSButtonCell"; title = "Lock"; ObjectID = "4643"; */
 "Lock" = "Lock";
@@ -290,10 +290,10 @@
 "Location" = "Umístění";
 
 /* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "5606"; */
-"Save Changes" = "Save Changes";
+"Save Changes" = "Uložit změny";
 
 /* Class = "NSMenuItem"; title = "Select All"; ObjectID = "4894"; */
 "Select All" = "Select All";
 
 /* Class = "NSMenuItem"; title = "is greater than"; ObjectID = "5756"; */
-"is greater than" = "is greater than";
+"is greater than" = "je větší než";

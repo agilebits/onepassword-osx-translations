@@ -23,7 +23,7 @@
 "Check Spelling as You Type" = "Check Spelling as You Type";
 
 /* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
-"Identities" = "Identities";
+"Identities" = "Identity";
 
 /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
 "Check Spelling" = "Check Spelling";
@@ -68,7 +68,7 @@
 "Rebuild Data File..." = "Rebuild Data File...";
 
 /* Class = "NSMenuItem"; title = "Generated Passwords"; ObjectID = "1276"; */
-"Generated Passwords" = "Generated Passwords";
+"Generated Passwords" = "Vygenerovaná hesla";
 
 /* Class = "NSMenuItem"; title = "Hide 1Password"; ObjectID = "1422"; */
 "Hide 1Password" = "Hide 1Password";
@@ -101,7 +101,7 @@
 "Wallet" = "Wallet";
 
 /* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "1016"; */
-"New Wallet Item…" = "New Wallet Item…";
+"New Wallet Item…" = "Nová položka peněženky…";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "1319"; */
 "Edit Smart Folder…" = "Edit Smart Folder…";
@@ -116,10 +116,10 @@
 "Cut" = "Cut";
 
 /* Class = "NSMenuItem"; title = "Fill Login in Browser"; ObjectID = "1074"; */
-"Fill Login in Browser" = "Fill Login in Browser";
+"Fill Login in Browser" = "Vyplnit přihlášení v prohlížeči";
 
 /* Class = "NSMenuItem"; title = "Show 1Password Log"; ObjectID = "1702"; */
-"Show 1Password Log" = "Show 1Password Log";
+"Show 1Password Log" = "Zobrazit zprávu 1Password";
 
 /* Class = "NSMenuItem"; title = "Logins"; ObjectID = "1267"; */
 "Logins" = "Přihlášení";
@@ -140,13 +140,13 @@
 "Trash" = "Trash";
 
 /* Class = "NSMenuItem"; title = "1Password Help"; ObjectID = "1466"; */
-"1Password Help" = "1Password Help";
+"1Password Help" = "Nápověda pro 1Password";
 
 /* Class = "NSMenuItem"; title = "Lock 1Password"; ObjectID = "1105"; */
 "Lock 1Password" = "Zamknout 1Password";
 
 /* Class = "NSMenuItem"; title = "Folders"; ObjectID = "1274"; */
-"Folders" = "Folders";
+"Folders" = "Složky";
 
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "1146"; */
 "New Password…" = "New Password…";
@@ -185,7 +185,7 @@
 "New Folder" = "Nová složka";
 
 /* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "1262"; */
-"New Account…" = "New Account…";
+"New Account…" = "Nový účet";
 
 /* Class = "NSMenu"; title = "New Item"; ObjectID = "1329"; */
 "New Item" = "Nová položka";

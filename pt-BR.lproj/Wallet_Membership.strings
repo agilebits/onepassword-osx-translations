@@ -1,20 +1,20 @@
-"__title__" = "Membership";
+"__title__" = "Associação";
 
-"__description__" = "Community or club membership";
+"__description__" = "Associação comunitária ou clube";
 
-"org_name" = "Organization";
+"org_name" = "Organização";
 
 "phone" = "Telephone";
 
 "website" = "Site";
 
-"member_name" = "Member Name";
+"member_name" = "Nome de membro";
 
-"member_since" = "Member Since";
+"member_since" = "Membro Desde";
 
 "expiry_date" = "Expiry Date";
 
-"membership_no" = "Membership #";
+"membership_no" = "Sócio #";
 
 "pin" = "Senha";
 
@@ -26,7 +26,7 @@
 
 "member_name#9" = "Nome";
 
-"member_since#9" = "Since";
+"member_since#9" = "Desde";
 
 "expiry_date#9" = "Expires";
 

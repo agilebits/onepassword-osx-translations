@@ -26,7 +26,7 @@
 "password" = "heslo";
 
 /* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
-"Generate" = "Generate";
+"Generate" = "Generovat";
 
 /* Class = "NSTableColumn"; headerCell.title = "Field Value"; ObjectID = "3101"; */
 "Field Value" = "Hodnota pole";

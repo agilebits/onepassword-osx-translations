@@ -215,7 +215,7 @@
 "Show Item Counts" = "Objektanzahl anzeigen";
 
 /* Class = "NSMenu"; title = "Go"; ObjectID = "1266"; */
-"Go" = "Los";
+"Go" = "Gehe zu";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
 "Delete" = "Löschen";

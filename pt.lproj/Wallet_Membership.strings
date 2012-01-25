@@ -1,34 +1,34 @@
-"__title__" = "Membership";
+"__title__" = "Membro";
 
-"__description__" = "Community or club membership";
+"__description__" = "Membro de associação comunitária ou clube";
 
-"org_name" = "Organization";
+"org_name" = "Organização";
 
-"phone" = "Telephone";
+"phone" = "Telefone";
 
 "website" = "Site";
 
-"member_name" = "Member Name";
+"member_name" = "Nome do membro";
 
-"member_since" = "Member Since";
+"member_since" = "Membro desde";
 
 "expiry_date" = "Expiry Date";
 
-"membership_no" = "Membership #";
+"membership_no" = "Número de membro";
 
 "pin" = "Palavra-passe";
 
-"org_name#9" = "Org";
+"org_name#9" = "Organização";
 
-"phone#9" = "Telephone";
+"phone#9" = "Telefone";
 
 "website#9" = "Site";
 
 "member_name#9" = "Nome";
 
-"member_since#9" = "Since";
+"member_since#9" = "Membro desde";
 
-"expiry_date#9" = "Expires";
+"expiry_date#9" = "Expira";
 
 "membership_no#9" = "Number";
 

@@ -4,11 +4,11 @@
 
 "type" = "Typ";
 
-"fullname" = "Full Name";
+"fullname" = "Celé jméno";
 
-"number" = "Number";
+"number" = "Číslo";
 
-"birthdate" = "Date of Birth";
+"birthdate" = "Datum narození";
 
 "birthplace" = "Místo narození";
 
@@ -16,7 +16,7 @@
 
 "code" = "Kód";
 
-"sex" = "Sex";
+"sex" = "Pohlaví";
 
 "issuing_country" = "Issuing Country";
 
@@ -24,20 +24,20 @@
 
 "issue_date" = "Datum vydání";
 
-"expiry_date" = "Expiry Date";
+"expiry_date" = "Datum vypršení";
 
 
-"menu.sex.male" = "Male";
+"menu.sex.male" = "Muž";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "Žena";
 
 "type#9" = "Typ";
 
 "fullname#9" = "Jméno";
 
-"number#9" = "Number";
+"number#9" = "Číslo";
 
-"birthdate#9" = "Birthday";
+"birthdate#9" = "Narozeniny";
 
 "birthplace#9" = "Místo narození";
 
@@ -45,12 +45,12 @@
 
 "code#9" = "Kód";
 
-"sex#9" = "Sex";
+"sex#9" = "Pohlaví";
 
-"issuing_country#9" = "Country";
+"issuing_country#9" = "Země";
 
 "issuing_authority#9" = "Authority";
 
-"issue_date#9" = "Issued";
+"issue_date#9" = "Vydáno";
 
-"expiry_date#9" = "Expires";
+"expiry_date#9" = "Platí do";

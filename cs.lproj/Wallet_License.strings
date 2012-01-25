@@ -1,67 +1,67 @@
-"__title__" = "Software License";
+"__title__" = "Softwarová licence";
 
-"__description__" = "Software product license, registration code or serial number.";
+"__description__" = "Licence na produkt, registrační kód nebo sériové číslo.";
 
-"product_name" = "Product Name";
+"product_name" = "Název Produktu";
 
-"product_version" = "Version";
+"product_version" = "Verze";
 
-"reg_name" = "Licensed To";
+"reg_name" = "Licencováno";
 
-"reg_code" = "License Key";
+"reg_code" = "Licenční Klíč";
 
-"reg_email" = "Registered Email";
+"reg_email" = "Registrovaný Email";
 
-"company" = "Company";
+"company" = "Společnost";
 
-"download_link" = "Download Page";
+"download_link" = "Stažení";
 
-"publisher" = "Publisher";
+"publisher" = "Vydavatel";
 
-"publisher_name" = "Publisher";
+"publisher_name" = "Vydavatel";
 
-"retail_price" = "Retail Price";
+"retail_price" = "Maloobchodní Cena";
 
 "publisher_website" = "Webové stránky";
 
-"support_email" = "Support Email";
+"support_email" = "Emailová Podpora";
 
-"order" = "Order";
+"order" = "Objednávka";
 
-"order_number" = "Order Number";
+"order_number" = "Číslo Objednávky";
 
-"order_date" = "Purchase Date";
+"order_date" = "Datum Nákupu";
 
-"order_total" = "Order Total";
+"order_total" = "Objednáno Celkem";
 
-"product_name#9" = "Product";
+"product_name#9" = "Produkt";
 
-"product_version#9" = "Version";
+"product_version#9" = "Verze";
 
 "reg_name#9" = "Majitel";
 
-"reg_code#9" = "Key";
+"reg_code#9" = "Klíč";
 
 "reg_email#9" = "E-mail";
 
-"company#9" = "Company";
+"company#9" = "Společnost";
 
-"download_link#9" = "Downld URL";
+"download_link#9" = "Odkaz ke stažení";
 
-"publisher#9" = "Publisher";
+"publisher#9" = "Vydavatel";
 
-"publisher_name#9" = "Publisher";
+"publisher_name#9" = "Vydavatel";
 
-"retail_price#9" = "Price";
+"retail_price#9" = "Cena";
 
 "publisher_website#9" = "Webové stránky";
 
-"support_email#9" = "Support";
+"support_email#9" = "Podpora";
 
-"order#9" = "Order";
+"order#9" = "Objednávka";
 
-"order_number#9" = "Order #";
+"order_number#9" = "Objednávka#";
 
-"order_date#9" = "Purchased";
+"order_date#9" = "Zakoupeno";
 
-"order_total#9" = "Total";
+"order_total#9" = "Celkem";

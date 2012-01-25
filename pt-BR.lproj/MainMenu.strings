@@ -23,7 +23,7 @@
 "Check Spelling as You Type" = "Check Spelling as You Type";
 
 /* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
-"Identities" = "Identities";
+"Identities" = "Identidades";
 
 /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
 "Check Spelling" = "Check Spelling";
@@ -38,7 +38,7 @@
 "Modified Date" = "Modified Date";
 
 /* Class = "NSMenuItem"; title = "Traditional"; ObjectID = "1222"; */
-"Traditional" = "Traditional";
+"Traditional" = "Tradicional";
 
 /* Class = "NSMenu"; title = "Export Selected"; ObjectID = "1092"; */
 "Export Selected" = "Export Selected";
@@ -68,7 +68,7 @@
 "Rebuild Data File..." = "Rebuild Data File...";
 
 /* Class = "NSMenuItem"; title = "Generated Passwords"; ObjectID = "1276"; */
-"Generated Passwords" = "Generated Passwords";
+"Generated Passwords" = "Senhas Geradas";
 
 /* Class = "NSMenuItem"; title = "Hide 1Password"; ObjectID = "1422"; */
 "Hide 1Password" = "Hide 1Password";
@@ -137,7 +137,7 @@
 "New Login" = "New Login";
 
 /* Class = "NSMenuItem"; title = "Trash"; ObjectID = "1277"; */
-"Trash" = "Trash";
+"Trash" = "Lixo";
 
 /* Class = "NSMenuItem"; title = "1Password Help"; ObjectID = "1466"; */
 "1Password Help" = "1Password Help";
@@ -146,7 +146,7 @@
 "Lock 1Password" = "Lock 1Password";
 
 /* Class = "NSMenuItem"; title = "Folders"; ObjectID = "1274"; */
-"Folders" = "Folders";
+"Folders" = "Pastas";
 
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "1146"; */
 "New Password…" = "New Password…";
@@ -155,7 +155,7 @@
 "Enter Full Screen" = "Enter Full Screen";
 
 /* Class = "NSMenuItem"; title = "Tags"; ObjectID = "1325"; */
-"Tags" = "Tags";
+"Tags" = "Etiquetas";
 
 /* Class = "NSMenuItem"; title = "Clear Cache"; ObjectID = "1698"; */
 "Clear Cache" = "Clear Cache";
@@ -167,7 +167,7 @@
 "Preferences…" = "Preferences…";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
-"Password Strength" = "Password Strength";
+"Password Strength" = "Força da Senha";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "1041"; */
 "Empty Trash…" = "Empty Trash…";
@@ -182,13 +182,13 @@
 "Minimize" = "Minimize";
 
 /* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "1014"; */
-"New Folder" = "New Folder";
+"New Folder" = "Nova Pasta";
 
 /* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "1262"; */
 "New Account…" = "New Account…";
 
 /* Class = "NSMenu"; title = "New Item"; ObjectID = "1329"; */
-"New Item" = "New Item";
+"New Item" = "Novo Item";
 
 /* Class = "NSMenuItem"; title = "Contact Us"; ObjectID = "1462"; */
 "Contact Us" = "Contact Us";
@@ -281,7 +281,7 @@
 "Quick Delete" = "Quick Delete";
 
 /* Class = "NSMenuItem"; title = "Accounts"; ObjectID = "1268"; */
-"Accounts" = "Accounts";
+"Accounts" = "Contas";
 
 /* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
 "Find" = "Find";

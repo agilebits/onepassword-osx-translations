@@ -23,13 +23,13 @@
 "Resolve Conflicts" = "Resolver conflitos";
 
 /* Class = "NSMenuItem"; title = "Choose Local"; ObjectID = "147"; */
-"Choose Local" = "Choose Local";
+"Choose Local" = "Escolher local";
 
 /* Class = "NSButtonCell"; title = "Detect conflicts automatically"; ObjectID = "184"; */
 "Detect conflicts automatically" = "Detectar conflitos automaticamente";
 
 /* Class = "NSMenuItem"; title = "Choose Remote"; ObjectID = "148"; */
-"Choose Remote" = "Choose Remote";
+"Choose Remote" = "Escolher remoto";
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "149"; */
 "Skip" = "Ignorar";

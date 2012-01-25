@@ -2,7 +2,7 @@
 "Don't show this message again" = "Não mostrar esta mensagem novamente";
 
 /* Class = "NSTextFieldCell"; title = "Small System Font Text"; ObjectID = "26"; */
-"Small System Font Text" = "Small System Font Text";
+"Small System Font Text" = "Tipo de letra pequeno de texto de sistema";
 
 /* Class = "NSButtonCell"; title = "OK"; ObjectID = "28"; */
 "OK" = "OK";

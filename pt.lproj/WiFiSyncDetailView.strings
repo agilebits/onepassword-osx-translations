@@ -1,38 +1,38 @@
 /* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
-"Last synced" = "Last synced";
+"Last synced" = "Última sincronização";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
 "title" = "título";
 
 /* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
-"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing";
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Por favor, inicie e desbloqueie o 1Password Touch no seu iPhone para executar a sincronização por Wi-Fi";
 
 /* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
-"Sync all items" = "Sync all items";
+"Sync all items" = "Sincronizar todos os itens";
 
 /* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
-"Sync only selected folders" = "Sync only selected folders";
+"Sync only selected folders" = "Sincronizar apenas pastas selecionadas";
 
 /* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
-"Wi-Fi Status" = "Wi-Fi Status";
+"Wi-Fi Status" = "Estado do Wi-Fi";
 
 /* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
-"When checked, 1Password will replace information on this iPhone with information from this computer." = "When checked, 1Password will replace information on this iPhone with information from this computer.";
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "Quanto activo, o 1Password irá substituir a informação neste iPhone com a informação deste computador.";
 
 /* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
-"Replace information on this iPhone" = "Replace information on this iPhone";
+"Replace information on this iPhone" = "Substituir informação neste iPhone";
 
 /* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
-"Manually" = "Manually";
+"Manually" = "Manualmente";
 
 /* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
-"Sync Now" = "Sync Now";
+"Sync Now" = "Sincronizar agora";
 
 /* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
-"Device type" = "Device type";
+"Device type" = "Tipo de dispositivo";
 
 /* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
-"Automatically" = "Automatically";
+"Automatically" = "Automaticamente";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
-"Wi-Fi status" = "Wi-Fi status";
+"Wi-Fi status" = "Estado do Wi-Fi";

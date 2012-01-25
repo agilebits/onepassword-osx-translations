@@ -1,28 +1,28 @@
-"__title__" = "Identity";
+"__title__" = "Identita";
 
-"__description__" = "It does not really belong to Wallet, we keep it here to generate the detail view.";
+"__description__" = "Toto ve skutečnosti nepatří do peněženky, necháváme to zde pro vytvoření podrobného náhledu.";
 
-"name" = "Identification";
+"name" = "Identifikace";
 
-"firstname" = "First Name";
+"firstname" = "Křestní jméno";
 
-"initial" = "Initial";
+"initial" = "Monogram";
 
-"lastname" = "Last Name";
+"lastname" = "Příjmení";
 
-"sex" = "Sex";
+"sex" = "Pohlaví";
 
-"birthdate" = "Birth Date";
+"birthdate" = "Datum narození";
 
-"occupation" = "Occupation";
+"occupation" = "Zaměstnání";
 
-"company" = "Company";
+"company" = "Společnost";
 
-"department" = "Department";
+"department" = "Oddělení";
 
-"jobtitle" = "Job Title";
+"jobtitle" = "Pracovní zařazení";
 
-"internet" = "Internet Details";
+"internet" = "Internetové podrobnosti";
 
 "username" = "Uživatelské jméno";
 
@@ -44,7 +44,7 @@
 
 "msn" = "MSN";
 
-"forumsig" = "Forum Signature";
+"forumsig" = "Podpis do fóra";
 
 "address" = "Adresa";
 
@@ -58,7 +58,7 @@
 
 "zip" = "PSČ";
 
-"country" = "Country";
+"country" = "Země";
 
 "location" = "Umístění";
 
@@ -73,9 +73,9 @@
 "busphone" = "Pracovní";
 
 
-"menu.sex.male" = "Male";
+"menu.sex.male" = "Muž";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "Žena";
 
 /* countries */
 
@@ -89,7 +89,7 @@
 
 "menu.country.au" = "Austrálie";
 
-"menu.country.nl" = "Nizozemí";
+"menu.country.nl" = "Nizozemsko";
 
 "menu.country.it" = "Ilálie";
 
@@ -119,7 +119,7 @@
 
 "menu.country.ai" = "Anguilla";
 
-"menu.country.al" = "Albania";
+"menu.country.al" = "Albánie";
 
 "menu.country.am" = "Arménie";
 
@@ -127,77 +127,77 @@
 
 "menu.country.ao" = "Angola";
 
-"menu.country.aq" = "Antarctica";
+"menu.country.aq" = "Antarktida";
 
 "menu.country.ar" = "Argentina";
 
-"menu.country.as" = "American Samoa";
+"menu.country.as" = "Americká Samoa";
 
 "menu.country.aw" = "Aruba";
 
-"menu.country.az" = "Azerbaidjan";
+"menu.country.az" = "Ázerbajdžán";
 
-"menu.country.ba" = "Bosnia-Herzegovina";
+"menu.country.ba" = "Bosna a Hercegovina";
 
 "menu.country.bb" = "Barbados";
 
-"menu.country.bd" = "Bangladesh";
+"menu.country.bd" = "Bangladéš";
 
 "menu.country.bf" = "Burkina Faso";
 
-"menu.country.bg" = "Bulgaria";
+"menu.country.bg" = "Bulharsko";
 
-"menu.country.bh" = "Bahrain";
+"menu.country.bh" = "Bahrajn";
 
 "menu.country.bi" = "Burundi";
 
 "menu.country.bj" = "Benin";
 
-"menu.country.bm" = "Bermuda";
+"menu.country.bm" = "Bermudy";
 
-"menu.country.bn" = "Brunei Darussalam";
+"menu.country.bn" = "Brunej";
 
-"menu.country.bo" = "Bolivia";
+"menu.country.bo" = "Bolívie";
 
-"menu.country.br" = "Brazil";
+"menu.country.br" = "Brazílie";
 
-"menu.country.bs" = "Bahamas";
+"menu.country.bs" = "Bahamy";
 
-"menu.country.bt" = "Bhutan";
+"menu.country.bt" = "Bhútán";
 
-"menu.country.bv" = "Bouvet Island";
+"menu.country.bv" = "Bouvetův Ostrov";
 
 "menu.country.bw" = "Botswana";
 
-"menu.country.by" = "Belarus";
+"menu.country.by" = "Bělorusko";
 
 "menu.country.bz" = "Belize";
 
-"menu.country.cc" = "Cocos (Keeling) Islands";
+"menu.country.cc" = "Kokosové (Keelingovy) Ostrovy";
 
-"menu.country.cf" = "Central African Republic";
+"menu.country.cf" = "Středoafrická republika";
 
-"menu.country.cd" = "Congo, The Democratic Republic of the";
+"menu.country.cd" = "Demokratická Republika Kongo";
 
-"menu.country.cg" = "Congo";
+"menu.country.cg" = "Kongo";
 
-"menu.country.ci" = "Ivory Coast (Cote D'Ivoire)";
+"menu.country.ci" = "Pobřeží Slonoviny (Cote D'Ivoire)";
 
-"menu.country.ck" = "Cook Islands";
+"menu.country.ck" = "Cookovy Ostrovy";
 
 "menu.country.cl" = "Chile";
 
-"menu.country.cm" = "Cameroon";
+"menu.country.cm" = "Kamerun";
 
-"menu.country.co" = "Colombia";
+"menu.country.co" = "Kolumbie";
 
-"menu.country.cr" = "Costa Rica";
+"menu.country.cr" = "Kostarika";
 
-"menu.country.cu" = "Cuba";
+"menu.country.cu" = "Kuba";
 
-"menu.country.cv" = "Cape Verde";
+"menu.country.cv" = "Kapverdy";
 
-"menu.country.cx" = "Christmas Island";
+"menu.country.cx" = "Vánoční Ostrov";
 
 "menu.country.cy" = "Kypr";
 
@@ -261,7 +261,7 @@
 
 "menu.country.gr" = "Řecko";
 
-"menu.country.gs" = "S. Georgia & S. Sandwich Isls.";
+"menu.country.gs" = "Jižní Georgie a Jižní Sandwichovy Ostrovy.";
 
 "menu.country.gt" = "Guatemala";
 
@@ -303,61 +303,61 @@
 
 "menu.country.ke" = "Keňa";
 
-"menu.country.kg" = "Kyrgyz Republic (Kyrgyzstan)";
+"menu.country.kg" = "Kyrgyzská Republika (Kyrgyzstán)";
 
-"menu.country.kh" = "Cambodia, Kingdom of";
+"menu.country.kh" = "﻿Kambodža";
 
 "menu.country.ki" = "Kiribati";
 
-"menu.country.km" = "Comoros";
+"menu.country.km" = "Komory";
 
-"menu.country.kn" = "Saint Kitts & Nevis Anguilla";
+"menu.country.kn" = "Svatý Kitts & Nevis Anguilla";
 
-"menu.country.kp" = "North Korea";
+"menu.country.kp" = "Severní Korea";
 
-"menu.country.kr" = "South Korea";
+"menu.country.kr" = "Jižní Korea";
 
-"menu.country.kw" = "Kuwait";
+"menu.country.kw" = "Kuvajt";
 
 "menu.country.ky" = "Kajmanské ostrovy";
 
-"menu.country.kz" = "Kazakhstan";
+"menu.country.kz" = "Kazachstán";
 
 "menu.country.la" = "Laos";
 
-"menu.country.lb" = "Lebanon";
+"menu.country.lb" = "Libanon";
 
-"menu.country.lc" = "Saint Lucia";
+"menu.country.lc" = "Svatá Lucie";
 
-"menu.country.li" = "Liechtenstein";
+"menu.country.li" = "Lichtenštejnsko";
 
-"menu.country.rs" = "Serbia";
+"menu.country.rs" = "Srbsko";
 
 "menu.country.lk" = "Srí Lanka";
 
-"menu.country.lr" = "Liberia";
+"menu.country.lr" = "Libérie";
 
 "menu.country.ls" = "Lesotho";
 
-"menu.country.lt" = "Lithuania";
+"menu.country.lt" = "Litva";
 
-"menu.country.lu" = "Luxembourg";
+"menu.country.lu" = "Lucembursko";
 
-"menu.country.lv" = "Latvia";
+"menu.country.lv" = "Lotyšsko";
 
-"menu.country.ly" = "Libya";
+"menu.country.ly" = "Libye";
 
-"menu.country.ma" = "Morocco";
+"menu.country.ma" = "Maroko";
 
-"menu.country.mc" = "Monaco";
+"menu.country.mc" = "Monako";
 
-"menu.country.md" = "Moldavia";
+"menu.country.md" = "Moldávie";
 
-"menu.country.mg" = "Madagascar";
+"menu.country.mg" = "Madagaskar";
 
-"menu.country.mh" = "Marshall Islands";
+"menu.country.mh" = "Marshallovy Ostrovy";
 
-"menu.country.mk" = "Macedonia";
+"menu.country.mk" = "Makedonie";
 
 "menu.country.ml" = "Mali";
 
@@ -375,27 +375,27 @@
 
 "menu.country.mt" = "Malta";
 
-"menu.country.mu" = "Mauritius";
+"menu.country.mu" = "Mauricius";
 
-"menu.country.mv" = "Maldives";
+"menu.country.mv" = "Maledivy";
 
 "menu.country.mw" = "Malawi";
 
-"menu.country.my" = "Malaysia";
+"menu.country.my" = "Malajsie";
 
-"menu.country.me" = "Montenegro";
+"menu.country.me" = "Černá Hora";
 
-"menu.country.mz" = "Mozambique";
+"menu.country.mz" = "Mosambik";
 
-"menu.country.na" = "Namibia";
+"menu.country.na" = "Namibie";
 
-"menu.country.nc" = "New Caledonia (French)";
+"menu.country.nc" = "Nová Kaledonie (francouzská)";
 
 "menu.country.ne" = "Niger";
 
-"menu.country.nf" = "Norfolk Island";
+"menu.country.nf" = "Ostrov Norfolk";
 
-"menu.country.ng" = "Nigeria";
+"menu.country.ng" = "Nigérie";
 
 "menu.country.ni" = "Nikaragua";
 
@@ -527,7 +527,7 @@
 
 "menu.country.va" = "Vatikán";
 
-"menu.country.vc" = "Saint Vincent & Grenadines";
+"menu.country.vc" = "Svatý Vincenc a Grenadiny";
 
 "menu.country.ve" = "Venezuela";
 

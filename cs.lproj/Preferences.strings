@@ -41,31 +41,31 @@
 "Disable Lock and Unlock Animation" = "Vypnout animaci zamknutí a odemknutí";
 
 /* Class = "NSTextFieldCell"; title = "Unlocking"; ObjectID = "1451"; */
-"Unlocking" = "Unlocking";
+"Unlocking" = "Odemykání";
 
 /* Class = "NSTextFieldCell"; title = "Browser Extensions"; ObjectID = "2105"; */
 "Browser Extensions" = "Browser Extensions";
 
 /* Class = "NSTextFieldCell"; title = "Display in Sidebar"; ObjectID = "1745"; */
-"Display in Sidebar" = "Display in Sidebar";
+"Display in Sidebar" = "Zobrazit v postranním panelu";
 
 /* Class = "NSTextFieldCell"; title = "Unlock when helper is unlocked"; ObjectID = "2034"; */
-"Unlock when helper is unlocked" = "Unlock when helper is unlocked";
+"Unlock when helper is unlocked" = "Odemknout, pokud je odemčený pomocník";
 
 /* Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "1399"; */
-"Verify:" = "Verify:";
+"Verify:" = "Ověřte:";
 
 /* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
 "Download missing previews" = "Stáhnout chybějící náhledy";
 
 /* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
-"Master Password" = "Master Password";
+"Master Password" = "Hlavní heslo";
 
 /* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
 "minutes of computer inactivity" = "minutách nečinnosti počítače";
 
 /* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
-"Enable Universal Unlock" = "Enable Universal Unlock";
+"Enable Universal Unlock" = "Povolit univerzální odemykání";
 
 /* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
 "Remove all previews..." = "Odstranit všechny náhledy...";
@@ -98,10 +98,10 @@
 "New Password:" = "Nové heslo:";
 
 /* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
-"Keep helper running to enable extension features" = "Keep helper running to enable extension features";
+"Keep helper running to enable extension features" = "Pro umožnění funkcí rozšíření nechte běžet pomocníka";
 
 /* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
-"      Folders" = "      Folders";
+"      Folders" = "      Složky";
 
 /* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
 "Your Data Stored In" = "Vaše data, uložená v";
@@ -113,13 +113,13 @@
 "Change Password" = "Změnit heslo";
 
 /* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1479"; */
-"Password Hint:" = "Password Hint:";
+"Password Hint:" = "Nápověda pro heslo:";
 
 /* Class = "NSButtonCell"; title = "Lock after"; ObjectID = "1357"; */
 "Lock after" = "Uzamknout po";
 
 /* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
-"to fill Login in your browser" = "to fill Login in your browser";
+"to fill Login in your browser" = "pro vyplnění přihlášení ve vašem prohlížeči";
 
 /* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
-"      Generated Passwords" = "      Generated Passwords";
+"      Generated Passwords" = "      Vygenerovaná hesla";

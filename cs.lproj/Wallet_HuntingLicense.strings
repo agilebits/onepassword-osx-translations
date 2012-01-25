@@ -2,11 +2,11 @@
 
 "name" = "Celé jméno";
 
-"valid_from" = "Valid From";
+"valid_from" = "Platnost od";
 
 "valid_from#9" = "Platnost";
 
-"expires" = "Expires";
+"expires" = "Platí do";
 
 "game" = "Approved Wildlife";
 
@@ -16,6 +16,6 @@
 
 "quota#9" = "Kvóta";
 
-"state" = "State";
+"state" = "Stát";
 
-"country" = "Country";
+"country" = "Země";

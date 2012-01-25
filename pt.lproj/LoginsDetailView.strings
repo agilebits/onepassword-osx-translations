@@ -8,7 +8,7 @@
 "Attachments" = "Anexos";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Display"; ObjectID = "3384"; */
-"Display" = "Display";
+"Display" = "Mostrar";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "http://www.website.com"; ObjectID = "5025"; */
 "http://www.website.com" = "http://www.website.com";
@@ -68,7 +68,7 @@
 "Password Strength" = "Password Strength";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
-"Text" = "Text";
+"Text" = "Texto";
 
 /* Class = "NSMenuItem"; title = "For Web Pages Only"; ObjectID = "3388"; */
 "For Web Pages Only" = "Apenas para páginas web";
@@ -77,13 +77,13 @@
 "Password History" = "Histórico de palavras-passe";
 
 /* Class = "NSMenuItem"; title = "Show in Every HTTP Auth Prompt"; ObjectID = "5006"; */
-"Show in Every HTTP Auth Prompt" = "Show in Every HTTP Auth Prompt";
+"Show in Every HTTP Auth Prompt" = "Mostrar em cada pedido de autenticação HTTP";
 
 /* Class = "NSMenuItem"; title = "For HTTP Auth Prompts Only"; ObjectID = "3396"; */
-"For HTTP Auth Prompts Only" = "For HTTP Auth Prompts Only";
+"For HTTP Auth Prompts Only" = "Apenas para pedidos de autenticação HTTP";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
-"Never Display in Browser" = "Never Display in Browser";
+"Never Display in Browser" = "Nunca apresentar no navegador";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
 "Never" = "Never";

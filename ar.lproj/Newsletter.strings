@@ -2,7 +2,7 @@
 "Agile" = "Agile";
 
 /* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "248"; */
-"Email" = "البريد الإلكتروني";
+"Email" = "البريد الشبكي";
 
 /* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
 "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "لا تفوت تحديث مهم لـ 1Password وتعلم عن المميزات والتحسينات الجديدة\n\nكل نشراتنا الإخبارية تتضمن على رابط لإلغاء الإشتراك بسهولة في حالة أن تقوم بتغيير رأيك لاحقاً.";

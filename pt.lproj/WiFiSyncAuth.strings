@@ -5,10 +5,10 @@
 "Secret 2:" = "Segredo 2:";
 
 /* Class = "NSTextFieldCell"; title = "Turn off to avoid the automatic prompt every time a new iPhone or iPad appears on the network."; ObjectID = "40"; */
-"Turn off to avoid the automatic prompt every time a new iPhone or iPad appears on the network." = "Turn off to avoid the automatic prompt every time a new iPhone or iPad appears on the network.";
+"Turn off to avoid the automatic prompt every time a new iPhone or iPad appears on the network." = "Desactive para evitar o pedido automático cada vez que um novo iPhone ou iPad surge na rede.";
 
 /* Class = "NSButtonCell"; title = "Show this prompt for all new devices"; ObjectID = "38"; */
-"Show this prompt for all new devices" = "Show this prompt for all new devices";
+"Show this prompt for all new devices" = "Mostrar este pedido para todos os novos dispositivos";
 
 /* Class = "NSWindow"; title = "Wi-Fi Sync Authentication"; ObjectID = "1"; */
 "Wi-Fi Sync Authentication" = "Autenticação de sincronização Wi-Fi";

@@ -1,36 +1,36 @@
-"__title__" = "Driver's License";
+"__title__" = "Carta de condução";
 
-"fullname" = "Full Name";
+"fullname" = "Nome completo";
 
-"address" = "Address";
+"address" = "Endereço";
 
-"birthdate" = "Date of Birth";
+"birthdate" = "Data de nascimento";
 
-"birthdate#9" = "Birthday";
+"birthdate#9" = "Data nasc.";
 
-"sex" = "Sex";
+"sex" = "Sexo";
 
-"height" = "Height";
+"height" = "Altura";
 
 "number" = "Number";
 
-"class" = "License Class";
+"class" = "Classe de licença";
 
-"class#9" = "Class";
+"class#9" = "Classe";
 
-"conditions" = "Conditions / Restrictions";
+"conditions" = "Condições / Restrições";
 
-"conditions#9" = "Conditions";
+"conditions#9" = "Condições";
 
-"state" = "State";
+"state" = "Estado";
 
-"country" = "Country";
+"country" = "País";
 
 "expiry_date" = "Expiry Date";
 
-"expiry_date#9" = "Expires";
+"expiry_date#9" = "Expira";
 
 
-"menu.sex.male" = "Male";
+"menu.sex.male" = "Masculino";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "Feminino";

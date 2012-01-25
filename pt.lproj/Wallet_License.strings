@@ -1,67 +1,67 @@
 "__title__" = "Licença de software";
 
-"__description__" = "Software product license, registration code or serial number.";
+"__description__" = "﻿Licença de producto software, código de registo ou número de série.";
 
-"product_name" = "Product Name";
+"product_name" = "Nome do produto";
 
-"product_version" = "Version";
+"product_version" = "Versão";
 
-"reg_name" = "Licensed To";
+"reg_name" = "Licenciado a";
 
-"reg_code" = "License Key";
+"reg_code" = "Chave de licença";
 
-"reg_email" = "Registered Email";
+"reg_email" = "E-mail registado";
 
-"company" = "Company";
+"company" = "Empresa";
 
-"download_link" = "Download Page";
+"download_link" = "Página de descarga";
 
-"publisher" = "Publisher";
+"publisher" = "Editora";
 
-"publisher_name" = "Publisher";
+"publisher_name" = "Editora";
 
-"retail_price" = "Retail Price";
+"retail_price" = "Preço de retalho";
 
 "publisher_website" = "Site";
 
-"support_email" = "Support Email";
+"support_email" = "E-mail de suporte";
 
-"order" = "Order";
+"order" = "Pedido";
 
-"order_number" = "Order Number";
+"order_number" = "Número de pedido";
 
-"order_date" = "Purchase Date";
+"order_date" = "Data de compra";
 
-"order_total" = "Order Total";
+"order_total" = "Total do pedido";
 
-"product_name#9" = "Product";
+"product_name#9" = "Produto";
 
-"product_version#9" = "Version";
+"product_version#9" = "Versão";
 
-"reg_name#9" = "Owner";
+"reg_name#9" = "Titular";
 
-"reg_code#9" = "Key";
+"reg_code#9" = "Chave";
 
 "reg_email#9" = "E-mail";
 
-"company#9" = "Company";
+"company#9" = "Empresa";
 
-"download_link#9" = "Downld URL";
+"download_link#9" = "URL descarga";
 
-"publisher#9" = "Publisher";
+"publisher#9" = "Editora";
 
-"publisher_name#9" = "Publisher";
+"publisher_name#9" = "Editora";
 
-"retail_price#9" = "Price";
+"retail_price#9" = "Preço";
 
 "publisher_website#9" = "Site";
 
-"support_email#9" = "Support";
+"support_email#9" = "Suporte";
 
-"order#9" = "Order";
+"order#9" = "Pedido";
 
-"order_number#9" = "Order #";
+"order_number#9" = "Nº pedido";
 
-"order_date#9" = "Purchased";
+"order_date#9" = "Comprado";
 
 "order_total#9" = "Total";

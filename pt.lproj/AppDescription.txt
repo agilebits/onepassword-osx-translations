@@ -1,18 +1,18 @@
-1Password is your password and identity companion. It leaps past simple password storage because 1Password works directly with your browser, saves your user names and passwords, and effortlessly creates strong, unique passwords for each site. 1Password can then automatically and securely log you in, enter credit card information, and fill registration forms, all while encrypting your information with the one password you need to remember. 
+O 1Password é o seu gestor de palavras-passe e identidade. It leaps past simple password storage because 1Password works directly with your browser, saves your user names and passwords, and effortlessly creates strong, unique passwords for each site. 1Password can then automatically and securely log you in, enter credit card information, and fill registration forms, all while encrypting your information with the one password you need to remember. 
 
-NOTE: for existing 1Password 3.8 users. For better results, please delete the old copy of 1Password before installing the version from the Mac App Store. 
+NOTA: para actuais utilizadores do 1Password 3.8. Para melhores resultados, por favor elimine a sua cópia antiga do 1Password antes de instalar a versão da Mac App Store. 
 
-★ 1Password has won just about every award under the Sun! ★
- - Mac App Store: Best Apps of 2011
-- Macworld 2010 Eddy Award Winner
- - MacStories Apps of 2011: Reader’s Choice Winner
-- Scored 4.5/5 Mice in a Macworld review
- - Cult of Mac: 10 Most Innovative Apps of 2011
-- Mac|Life Editor’s Choice with a rating of “Awesome!”
+★ O 1Password ganhou praticamente todos os prémios existentes! ★
+ - Mac App Store: Melhores aplicações de 2011
+- Vencedor do Prémio Eddy da Macworld 2010
+ - MacStories Apps of 2011: Vencedor do Prémio Escolha dos Leitores
+- Pontuação de 4.5/5 Ratos numa análise Macworld
+ - Cult of Mac: 10 Aplicações mais inovadoras de 2011
+- Escolha do editor Mac|Life com uma classificação de “Espectacular!”
  
-But wait, there’s more! 1Password makes it easy to:
+Mas espere, há mais! O 1Password torna fácil:
  
-- Use multiple Logins for the same site
+- Usar diferentes dados de início de sessão para o mesmo site
  - Create multiple Identities for filling into registration forms, surveys, and shopping carts
  - Securely sync your data over-the-air between Macs, iPhones, and iPads with Dropbox, or locally over Wi-Fi
  - Store other sensitive information in Secure Notes
@@ -21,12 +21,12 @@ But wait, there’s more! 1Password makes it easy to:
  
 This new version of 1Password was re-engineered to leverage the great features in OS X Lion, such as:
  
-- Full-screen mode
+- Modo ecrã completo
  - Better security with compatibility for sandboxing in Lion
  - Even better security with PBKDF2 Calibration
  - 64-bit support for a zippy experience
  
-This version also provides:
+Esta versão também inclui:
  - **New** Quick access to your data from the menu bar
  - Improved support for browser extensions
  
@@ -38,4 +38,4 @@ Mobile versions of 1Password are available for iPhone, iPod touch, and iPad. Syn
 SUPPORT NOTE #1: We got several reports about not being able to get past the Welcome screen when installing 1Password. If you encounter this issue, please see the "1Password fails to continue after the initial welcome screen" article on our support site. 
 
 
-SUPPORT NOTE #2: We love to hear your feedback. Please remember, we cannot reply to your comments in Mac App Store. If you have a question, please contact us on our support site. Thank you!
+SUPPORT NOTE #2: We love to hear your feedback. Please remember, we cannot reply to your comments in Mac App Store. If you have a question, please contact us on our support site. Obrigado!

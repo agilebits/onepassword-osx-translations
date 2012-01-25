@@ -4,11 +4,11 @@
 
 "company_name" = "Company Name";
 
-"member_name" = "Member Name";
+"member_name" = "Nome de membro";
 
-"member_since" = "Member Since";
+"member_since" = "Membro Desde";
 
-"membership_no" = "Membership #";
+"membership_no" = "Sócio #";
 
 "additional_no" = "Membership # (Additional)";
 
@@ -26,7 +26,7 @@
 
 "member_name#9" = "Nome";
 
-"member_since#9" = "Since";
+"member_since#9" = "Desde";
 
 "membership_no#9" = "Number";
 

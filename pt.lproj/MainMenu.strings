@@ -2,7 +2,7 @@
 "Redo" = "Refazer";
 
 /* Class = "NSMenu"; title = "Export All"; ObjectID = "946"; */
-"Export All" = "Export All";
+"Export All" = "Exportar tudo";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "1634"; */
 "View" = "Visualização";
@@ -20,19 +20,19 @@
 "Copy Password" = "Copiar palavra-passe";
 
 /* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "191"; */
-"Check Spelling as You Type" = "Check Spelling as You Type";
+"Check Spelling as You Type" = "Corrigir ortografia ao escrever";
 
 /* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
 "Identities" = "Identities";
 
 /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
-"Check Spelling" = "Check Spelling";
+"Check Spelling" = "Corrigir ortografia";
 
 /* Class = "NSMenuItem"; title = "Find…"; ObjectID = "154"; */
 "Find…" = "Procurar…";
 
 /* Class = "NSMenu"; title = "Layout"; ObjectID = "1220"; */
-"Layout" = "Layout";
+"Layout" = "Disposição";
 
 /* Class = "NSMenuItem"; title = "Modified Date"; ObjectID = "1235"; */
 "Modified Date" = "Data de modificação";
@@ -44,10 +44,10 @@
 "Export Selected" = "Exportar seleccionados";
 
 /* Class = "NSMenuItem"; title = "Knowledge Base"; ObjectID = "1700"; */
-"Knowledge Base" = "Knowledge Base";
+"Knowledge Base" = "Base de Dados de Conhecimento";
 
 /* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "161"; */
-"Use Selection for Find" = "Use Selection for Find";
+"Use Selection for Find" = "Procurar selecção";
 
 /* Class = "NSMenuItem"; title = "Quit 1Password"; ObjectID = "1421"; */
 "Quit 1Password" = "Sair do 1Password";
@@ -77,13 +77,13 @@
 "Copy UUID" = "Copiar UUID";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "1416"; */
-"Show All" = "Show All";
+"Show All" = "Mostrar tudo";
 
 /* Class = "NSMenuItem"; title = "Conceal Passwords"; ObjectID = "1628"; */
-"Conceal Passwords" = "Conceal Passwords";
+"Conceal Passwords" = "Esconder palavras-passe";
 
 /* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
-"Spelling…" = "Spelling…";
+"Spelling…" = "Ortografia…";
 
 /* Class = "NSMenu"; title = "1Password"; ObjectID = "1409"; */
 "1Password" = "1Password";
@@ -104,7 +104,7 @@
 "New Wallet Item…" = "Novo item de carteira…";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "1319"; */
-"Edit Smart Folder…" = "Edit Smart Folder…";
+"Edit Smart Folder…" = "Editar Pasta inteligente…";
 
 /* Class = "NSMenuItem"; title = "Show Activity"; ObjectID = "1199"; */
 "Show Activity" = "Show Activity";
@@ -116,31 +116,31 @@
 "Cut" = "Cortar";
 
 /* Class = "NSMenuItem"; title = "Fill Login in Browser"; ObjectID = "1074"; */
-"Fill Login in Browser" = "Fill Login in Browser";
+"Fill Login in Browser" = "Preencher dados de início de sessão no navegador";
 
 /* Class = "NSMenuItem"; title = "Show 1Password Log"; ObjectID = "1702"; */
-"Show 1Password Log" = "Show 1Password Log";
+"Show 1Password Log" = "Mostrar registo do 1Password";
 
 /* Class = "NSMenuItem"; title = "Logins"; ObjectID = "1267"; */
 "Logins" = "Logins";
 
 /* Class = "NSMenu"; title = "Troubleshooting"; ObjectID = "1696"; */
-"Troubleshooting" = "Troubleshooting";
+"Troubleshooting" = "Resolução de problemas";
 
 /* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "1408"; */
-"Bring All to Front" = "Bring All to Front";
+"Bring All to Front" = "Passar tudo para a frente";
 
 /* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "1211"; */
-"New Software License" = "New Software License";
+"New Software License" = "Nova licença de software";
 
 /* Class = "NSMenuItem"; title = "New Login"; ObjectID = "1027"; */
-"New Login" = "New Login";
+"New Login" = "Novos dados de início de sessão";
 
 /* Class = "NSMenuItem"; title = "Trash"; ObjectID = "1277"; */
 "Trash" = "Trash";
 
 /* Class = "NSMenuItem"; title = "1Password Help"; ObjectID = "1466"; */
-"1Password Help" = "1Password Help";
+"1Password Help" = "Ajuda do 1Password";
 
 /* Class = "NSMenuItem"; title = "Lock 1Password"; ObjectID = "1105"; */
 "Lock 1Password" = "Lock 1Password";
@@ -149,31 +149,31 @@
 "Folders" = "Folders";
 
 /* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "1146"; */
-"New Password…" = "New Password…";
+"New Password…" = "Nova palavra-passe…";
 
 /* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "1635"; */
-"Enter Full Screen" = "Enter Full Screen";
+"Enter Full Screen" = "Ecrã completo";
 
 /* Class = "NSMenuItem"; title = "Tags"; ObjectID = "1325"; */
 "Tags" = "Etiquetas";
 
 /* Class = "NSMenuItem"; title = "Clear Cache"; ObjectID = "1698"; */
-"Clear Cache" = "Clear Cache";
+"Clear Cache" = "Limpar cache";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "1322"; */
-"New Smart Folder" = "New Smart Folder";
+"New Smart Folder" = "Nova Pasta inteligente…";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "1413"; */
-"Preferences…" = "Preferences…";
+"Preferences…" = "Preferências…";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
 "Password Strength" = "Password Strength";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "1041"; */
-"Empty Trash…" = "Empty Trash…";
+"Empty Trash…" = "Esvaziar o Lixo…";
 
 /* Class = "NSMenuItem"; title = "Restore…"; ObjectID = "1433"; */
-"Restore…" = "Restore…";
+"Restore…" = "Restaurar…";
 
 /* Class = "NSMenuItem"; title = "Edit Selected Item"; ObjectID = "1009"; */
 "Edit Selected Item" = "Edit Selected Item";
@@ -191,7 +191,7 @@
 "New Item" = "New Item";
 
 /* Class = "NSMenuItem"; title = "Contact Us"; ObjectID = "1462"; */
-"Contact Us" = "Contact Us";
+"Contact Us" = "Entrar em contacto";
 
 /* Class = "NSMenuItem"; title = "About 1Password"; ObjectID = "1424"; */
 "About 1Password" = "Acerca do 1Password";
@@ -200,58 +200,58 @@
 "MainMenu" = "MainMenu";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "1459"; */
-"Help" = "Help";
+"Help" = "Ajuda";
 
 /* Class = "NSMenuItem"; title = "Unlock"; ObjectID = "1412"; */
-"Unlock" = "Unlock";
+"Unlock" = "Desbloquear";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "1418"; */
-"Hide Others" = "Hide Others";
+"Hide Others" = "Ocultar outras aplicações";
 
 /* Class = "NSMenuItem"; title = "Text File…"; ObjectID = "1130"; */
-"Text File…" = "Text File…";
+"Text File…" = "Ficheiro de texto …";
 
 /* Class = "NSMenuItem"; title = "Show Item Counts"; ObjectID = "1207"; */
-"Show Item Counts" = "Show Item Counts";
+"Show Item Counts" = "Mostrar contagem de itens";
 
 /* Class = "NSMenu"; title = "Go"; ObjectID = "1266"; */
-"Go" = "Go";
+"Go" = "Ir";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
 "Delete" = "Delete";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
-"Find Previous" = "Find Previous";
+"Find Previous" = "Procurar anterior";
 
 /* Class = "NSMenu"; title = "Window"; ObjectID = "1401"; */
-"Window" = "Window";
+"Window" = "Janela";
 
 /* Class = "NSMenuItem"; title = "Add Sample Items"; ObjectID = "1391"; */
-"Add Sample Items" = "Add Sample Items";
+"Add Sample Items" = "Adicionar itens de amostra";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
 "Edit" = "Edit";
 
 /* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
-"Restart Helper" = "Restart Helper";
+"Restart Helper" = "Reiniciar a aplicação auxiliar";
 
 /* Class = "NSMenuItem"; title = "Backup"; ObjectID = "1435"; */
-"Backup" = "Backup";
+"Backup" = "Criar cópia de segurança";
 
 /* Class = "NSMenuItem"; title = "Add Attachment…"; ObjectID = "1257"; */
-"Add Attachment…" = "Add Attachment…";
+"Add Attachment…" = "Adicionar anexo…";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1482"; */
-"Paste" = "Paste";
+"Paste" = "Colar";
 
 /* Class = "NSMenuItem"; title = "Find Item"; ObjectID = "1179"; */
-"Find Item" = "Find Item";
+"Find Item" = "Procurar item";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "850"; */
-"Duplicate" = "Duplicate";
+"Duplicate" = "Duplicar";
 
 /* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "155"; */
-"Jump to Selection" = "Jump to Selection";
+"Jump to Selection" = "Ir para selecção";
 
 /* Class = "NSMenuItem"; title = "Shelves"; ObjectID = "1221"; */
 "Shelves" = "Shelves";
@@ -278,7 +278,7 @@
 "Widescreen" = "Widescreen";
 
 /* Class = "NSMenuItem"; title = "Quick Delete"; ObjectID = "164"; */
-"Quick Delete" = "Quick Delete";
+"Quick Delete" = "Eliminação rápida";
 
 /* Class = "NSMenuItem"; title = "Accounts"; ObjectID = "1268"; */
 "Accounts" = "Accounts";
@@ -296,7 +296,7 @@
 "Go & Fill" = "Ir e preencher";
 
 /* Class = "NSMenuItem"; title = "1Password Interchange File…"; ObjectID = "1095"; */
-"1Password Interchange File…" = "1Password Interchange File…";
+"1Password Interchange File…" = "Ficheiro 1Password Interchange…";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
 "Title" = "Título";
@@ -305,7 +305,7 @@
 "Tag" = "Tag";
 
 /* Class = "NSMenuItem"; title = "Add Software Licenses for Applications..."; ObjectID = "1389"; */
-"Add Software Licenses for Applications..." = "Add Software Licenses for Applications...";
+"Add Software Licenses for Applications..." = "Adicionar licenças de software para aplicações...";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "1444"; */
 "Close" = "Fechar";

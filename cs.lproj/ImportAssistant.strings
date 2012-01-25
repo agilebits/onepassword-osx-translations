@@ -8,34 +8,34 @@
 "UTF-8" = "UTF-8";
 
 /* Class = "NSTabViewItem"; label = "FileSelection"; ObjectID = "135"; */
-"FileSelection" = "FileSelection";
+"FileSelection" = "Výběr souboru";
 
 /* Class = "NSTextFieldCell"; title = "Step 5: Enter the name of the folder for imported objects"; ObjectID = "752"; */
-"Step 5: Enter the name of the folder for imported objects" = "Step 5: Enter the name of the folder for imported objects";
+"Step 5: Enter the name of the folder for imported objects" = "Krok 5: Zadejte název složky pro importované objekty";
 
 /* Class = "NSButtonCell"; title = "Stop"; ObjectID = "754"; */
-"Stop" = "Stop";
+"Stop" = "Zastavit";
 
 /* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "183"; */
-"Action" = "Action";
+"Action" = "Akce";
 
 /* Class = "NSTextFieldCell"; title = "Step 4: Review and select objects that will be imported"; ObjectID = "753"; */
-"Step 4: Review and select objects that will be imported" = "Krok 4: Posuďte a vyberte objekty, které budou importovány";
+"Step 4: Review and select objects that will be imported" = "Krok 4: Zkontrolujte a vyberte objekty, které budou importovány";
 
 /* Class = "NSTableColumn"; headerCell.title = "Subfolder"; ObjectID = "145"; */
-"Subfolder" = "Podsložka";
+"Subfolder" = "Vnořená složka";
 
 /* Class = "NSTabViewItem"; label = "PendingBrowserImport"; ObjectID = "786"; */
 "PendingBrowserImport" = "PendingBrowserImport";
 
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "769"; */
-"Back" = "Back";
+"Back" = "Zpět";
 
 /* Class = "NSMenuItem"; title = "ASCII"; ObjectID = "65"; */
 "ASCII" = "ASCII";
 
 /* Class = "NSMenuItem"; title = "Mac OS Roman"; ObjectID = "102"; */
-"Mac OS Roman" = "Mac OS Roman";
+"Mac OS Roman" = "Západní Mac OS Roman";
 
 /* Class = "NSMenuItem"; title = "Import All"; ObjectID = "384"; */
 "Import All" = "Importovat vše";
@@ -56,22 +56,22 @@
 "Import Folder:" = "Importovat složku:";
 
 /* Class = "NSWindow"; title = "Import Assistant"; ObjectID = "5"; */
-"Import Assistant" = "Asistent importu";
+"Import Assistant" = "Průvodce importem";
 
 /* Class = "NSTextFieldCell"; title = "Import Format:"; ObjectID = "760"; */
 "Import Format:" = "Formát importu:";
 
 /* Class = "NSTextFieldCell"; title = "Start import at line:"; ObjectID = "764"; */
-"Start import at line:" = "Start import at line:";
+"Start import at line:" = "Začít importovat na řádku:";
 
 /* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "190"; */
 "Status" = "Stav";
 
 /* Class = "NSButtonCell"; title = "Choose File..."; ObjectID = "746"; */
-"Choose File..." = "Vybrat soubor...";
+"Choose File..." = "Vyberte soubor...";
 
 /* Class = "NSMenuItem"; title = "Japanese EUC"; ObjectID = "99"; */
-"Japanese EUC" = "Japonské EUC";
+"Japanese EUC" = "Japonština EUC";
 
 /* Class = "NSTabViewItem"; label = "FormatSelection"; ObjectID = "198"; */
 "FormatSelection" = "FormatSelection";
@@ -80,7 +80,7 @@
 "Shift JIS" = "Shift JIS";
 
 /* Class = "NSTextFieldCell"; title = "Step 6: Enter the name of the folder for imported objects"; ObjectID = "758"; */
-"Step 6: Enter the name of the folder for imported objects" = "Krok 6: Zadejte jméno souboru pro importované objekty";
+"Step 6: Enter the name of the folder for imported objects" = "Krok 6: Zadejte název složky pro importované objekty";
 
 /* Class = "NSTextFieldCell"; title = "Please wait while passwords are imported from the browser."; ObjectID = "790"; */
 "Please wait while passwords are imported from the browser." = "Počkejte, než se z prohlížeče naimportují hesla.";
@@ -89,13 +89,13 @@
 "Start Import" = "Spustit import";
 
 /* Class = "NSTextFieldCell"; title = "Step 1: Select Application to Import From"; ObjectID = "761"; */
-"Step 1: Select Application to Import From" = "Krok 1: Vyberte aplikaci z níž chcete importovat";
+"Step 1: Select Application to Import From" = "Krok 1: Vyberte aplikaci, z níž chcete importovat";
 
 /* Class = "NSTextFieldCell"; title = "Step 4: Specify file contents format"; ObjectID = "771"; */
-"Step 4: Specify file contents format" = "Krok 4: Určete formát obsahu souboru";
+"Step 4: Specify file contents format" = "Krok 4: Vyberte formát obsahu souboru";
 
 /* Class = "NSMenuItem"; title = "Windows CP 1253 (Greek)"; ObjectID = "96"; */
-"Windows CP 1253 (Greek)" = "Windows CP 1253 (Greek)";
+"Windows CP 1253 (Greek)" = "Windows CP 1253 (řečtina)";
 
 /* Class = "NSMenuItem"; title = "Windows CP 1254 (Latin 5)"; ObjectID = "97"; */
 "Windows CP 1254 (Latin 5)" = "Windows CP 1254 (Latin 5)";
@@ -140,7 +140,7 @@
 "Step 2: Prepare and Choose File with the Exported Information" = "Krok 2: Připravte a vyberte soubor s exportovanou informací";
 
 /* Class = "NSTextFieldCell"; title = "Step 5: Review and select objects that will be imported"; ObjectID = "757"; */
-"Step 5: Review and select objects that will be imported" = "Krok 5: Posuďte a vyberte objekty, které budou importovány";
+"Step 5: Review and select objects that will be imported" = "Krok 5: Prohlédněte si a vyberte objekty, které budou importovány";
 
 /* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "807"; */
 "Text" = "Text";
@@ -149,25 +149,25 @@
 "ISO Latin 1" = "ISO Latin 1";
 
 /* Class = "NSMenuItem"; title = "Windows CP 1251 (Cyrillic)"; ObjectID = "94"; */
-"Windows CP 1251 (Cyrillic)" = "Windows CP 1251 (Cyrillic)";
+"Windows CP 1251 (Cyrillic)" = "Windows CP 1251 (cyrilice)";
 
 /* Class = "NSMenuItem"; title = "Foo"; ObjectID = "675"; */
-"Foo" = "Foo";
+"Foo" = "Příliš";
 
 /* Class = "NSMenuItem"; title = "Skip"; ObjectID = "803"; */
 "Skip" = "Přeskočit";
 
 /* Class = "NSMenuItem"; title = "Tab"; ObjectID = "508"; */
-"Tab" = "Tab";
+"Tab" = "Tabelátor";
 
 /* Class = "NSTextFieldCell"; title = "Character Encoding:"; ObjectID = "742"; */
 "Character Encoding:" = "Kódování znaků:";
 
 /* Class = "NSTabViewItem"; label = "GenericText"; ObjectID = "470"; */
-"GenericText" = "GenericText";
+"GenericText" = "ObecnýText";
 
 /* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "383"; */
-"Edit..." = "Edit...";
+"Edit..." = "Upravit...";
 
 /* Class = "NSMenuItem"; title = "ISO 2022 JP "; ObjectID = "101"; */
 "ISO 2022 JP " = "ISO 2022 JP ";

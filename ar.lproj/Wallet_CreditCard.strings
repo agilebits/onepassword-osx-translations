@@ -22,7 +22,7 @@
 
 "validFrom" = "صالحة من";
 
-"validFrom#9" = "Issued";
+"validFrom#9" = "أصدرت";
 
 "contactInfo" = "معلومات الاتصال";
 
@@ -42,7 +42,7 @@
 
 "phoneTollFree#9" = "الهاتف المجاني";
 
-"phoneIntl" = "Phone (International)";
+"phoneIntl" = "الهاتف(دوليا)";
 
 "phoneIntl#9" = "Intl";
 
@@ -64,7 +64,7 @@
 
 "issuenumber" = "رقم الإصدار";
 
-"issuenumber#9" = "Issue #";
+"issuenumber#9" = "رقم الإصدار";
 
 /* credit card types */
 
@@ -84,8 +84,8 @@
 
 "menu.type.switch" = "Switch";
 
-"menu.type.maestro" = "MasterCard Maestro";
+"menu.type.maestro" = "ماستر كارد مايسترو";
 
-"menu.type.visaelectron" = "VISA Electron";
+"menu.type.visaelectron" = "فيزا إلكترون";
 
 "menu.type.carteblanche" = "Carte Blanche";

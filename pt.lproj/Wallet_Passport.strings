@@ -1,35 +1,35 @@
-"__title__" = "Passport";
+"__title__" = "Passaporte";
 
-"__description__" = "Government issued Passport.";
+"__description__" = "Passaporte emitido pelo Governo.";
 
 "type" = "Tipo";
 
-"fullname" = "Full Name";
+"fullname" = "Nome completo";
 
 "number" = "Number";
 
-"birthdate" = "Date of Birth";
+"birthdate" = "Data de nascimento";
 
-"birthplace" = "Place of Birth";
+"birthplace" = "Naturalidade";
 
-"nationality" = "Nationality";
+"nationality" = "Nacionalidade";
 
-"code" = "Code";
+"code" = "Código";
 
-"sex" = "Sex";
+"sex" = "Sexo";
 
-"issuing_country" = "Issuing Country";
+"issuing_country" = "País emissor";
 
-"issuing_authority" = "Issuing Authority";
+"issuing_authority" = "Autoridade emissora";
 
-"issue_date" = "Issued On";
+"issue_date" = "Emitido em";
 
 "expiry_date" = "Expiry Date";
 
 
-"menu.sex.male" = "Male";
+"menu.sex.male" = "Masculino";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "Feminino";
 
 "type#9" = "Tipo";
 
@@ -37,20 +37,20 @@
 
 "number#9" = "Number";
 
-"birthdate#9" = "Birthday";
+"birthdate#9" = "Data nasc.";
 
-"birthplace#9" = "Birthplace";
+"birthplace#9" = "Naturalidade";
 
-"nationality#9" = "Nation.";
+"nationality#9" = "Nação.";
 
-"code#9" = "Code";
+"code#9" = "Código";
 
-"sex#9" = "Sex";
+"sex#9" = "Sexo";
 
-"issuing_country#9" = "Country";
+"issuing_country#9" = "País";
 
-"issuing_authority#9" = "Authority";
+"issuing_authority#9" = "Autoridade";
 
 "issue_date#9" = "Issued";
 
-"expiry_date#9" = "Expires";
+"expiry_date#9" = "Expira";

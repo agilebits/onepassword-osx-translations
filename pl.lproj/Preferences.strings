@@ -71,7 +71,7 @@
 "Remove all previews..." = "Usuń wszystkie podglądy...";
 
 /* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
-"Press" = "Press";
+"Press" = "Naciśnij";
 
 /* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
 "to show extension popup in your browser" = "aby wyświetlić okienko rozszerzenia w przeglądarce";
@@ -98,7 +98,7 @@
 "New Password:" = "Nowe hasło:";
 
 /* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
-"Keep helper running to enable extension features" = "Keep helper running to enable extension features";
+"Keep helper running to enable extension features" = "Włącz pomocnika w tle, aby umożliwić rozszerzone funkcje";
 
 /* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
 "      Folders" = "Foldery";
