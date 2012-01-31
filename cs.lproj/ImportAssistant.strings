@@ -26,7 +26,7 @@
 "Subfolder" = "Vnořená složka";
 
 /* Class = "NSTabViewItem"; label = "PendingBrowserImport"; ObjectID = "786"; */
-"PendingBrowserImport" = "PendingBrowserImport";
+"PendingBrowserImport" = "Nevyřízený Import v Prohlížeči";
 
 /* Class = "NSButtonCell"; title = "Back"; ObjectID = "769"; */
 "Back" = "Zpět";
@@ -35,7 +35,7 @@
 "ASCII" = "ASCII";
 
 /* Class = "NSMenuItem"; title = "Mac OS Roman"; ObjectID = "102"; */
-"Mac OS Roman" = "Západní Mac OS Roman";
+"Mac OS Roman" = "Mac OS Roman";
 
 /* Class = "NSMenuItem"; title = "Import All"; ObjectID = "384"; */
 "Import All" = "Importovat vše";
@@ -74,7 +74,7 @@
 "Japanese EUC" = "Japonština EUC";
 
 /* Class = "NSTabViewItem"; label = "FormatSelection"; ObjectID = "198"; */
-"FormatSelection" = "FormatSelection";
+"FormatSelection" = "Výběr formátování";
 
 /* Class = "NSMenuItem"; title = "Shift JIS"; ObjectID = "100"; */
 "Shift JIS" = "Shift JIS";
@@ -131,7 +131,7 @@
 "Windows CP 1250 (Latin 2)" = "Windows CP 1250 (Latin 2)";
 
 /* Class = "NSButtonCell"; title = "Fields are Quoted"; ObjectID = "774"; */
-"Fields are Quoted" = "Fields are Quoted";
+"Fields are Quoted" = "Políčka jsou citována";
 
 /* Class = "NSButtonCell"; title = "Import Selected Objects"; ObjectID = "749"; */
 "Import Selected Objects" = "Importovat vybrané objekty";

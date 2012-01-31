@@ -1,12 +1,12 @@
 "__title__" = "Členství";
 
-"__description__" = "Společenství nebo členský klub";
+"__description__" = "Společenství nebo klub";
 
 "org_name" = "Organizace";
 
 "phone" = "Telefon";
 
-"website" = "Webové stránky";
+"website" = "Web";
 
 "member_name" = "Členské jméno";
 
@@ -22,7 +22,7 @@
 
 "phone#9" = "Telefon";
 
-"website#9" = "Webové stránky";
+"website#9" = "Web";
 
 "member_name#9" = "Jméno";
 

@@ -2,13 +2,13 @@
 "password hint" = "Nápověda pro heslo";
 
 /* Class = "NSWindow"; title = "Welcome to 1Password"; ObjectID = "1"; */
-"Welcome to 1Password" = "Vítejte ve 1Password";
+"Welcome to 1Password" = "Vítejte v aplikaci 1Password";
 
 /* Class = "NSTextFieldCell"; title = "Re-type Password"; ObjectID = "88"; */
-"Re-type Password" = "Zadejte znovu heslo";
+"Re-type Password" = "Zadejte heslo znovu";
 
 /* Class = "NSTextFieldCell"; title = "Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place."; ObjectID = "78"; */
-"Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place." = "Vaše údaje budou šifrovány s heslem Master které zadáte níže. Hlavní heslo je jediné heslo, které si musíte zapamatovat. Doporučujeme používat snadno zapamatovatelnou větu jako hlavní heslo a také si uložte písemnou kopii na bezpečném místě.";
+"Your information will be encrypted with the Master Password you enter below. The Master Password is the only password you have to remember. We suggest using an easy to remember sentence as your Master Password and also keep a written copy of it in a safe place." = "Vaše údaje budou šifrovány s hlavním heslem které zadáte níže. Hlavní heslo je jediné heslo, které si musíte zapamatovat. Doporučujeme používat snadno zapamatovatelnou větu jako hlavní heslo a také si uložte písemnou kopii na bezpečném místě.";
 
 /* Class = "NSButtonCell"; title = "Sync encrypted data with Dropbox"; ObjectID = "113"; */
 "Sync encrypted data with Dropbox" = "Synchronizovat zašifrovaná data s Dropbox";
@@ -23,7 +23,7 @@
 "Find It" = "Najít";
 
 /* Class = "NSTextFieldCell"; title = "Password Hint"; ObjectID = "90"; */
-"Password Hint" = "Password Hint";
+"Password Hint" = "Nápověda pro heslo";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "109"; */
 "help" = "pomoc";

@@ -3,11 +3,11 @@
 注意：对于使用 1Password 3.8 的用户， 为了获得更好的使用体验，请在从 Mac App Store 安装本版本之前删除旧版本的 1Password。 
 
 ★ 1Password 几乎赢得了业界所有的奖项！ ★
- - Mac App Store: Best Apps of 2011
+ －Mac应用程序商店：2011年度最佳应用程序
 - Macworld 2010 Eddy 奖获得者
- - MacStories Apps of 2011: Reader’s Choice Winner
+ -2011年度MacStories杂志应用程序评选： 读者选择奖
 - 在 Macworld 评测中获得 4.5 分（总分 5 分）
- - Cult of Mac: 10 Most Innovative Apps of 2011
+ -Cult of Mac网站：2011年度十大最具创新应用程序之一
 - Mac|Life 编辑推荐奖，并获得了该杂志““真棒！”的评价.
  
 别急，还有更多！ 1Password 可以让您轻而易举地：

@@ -1,6 +1,6 @@
 "__title__" = "Poskytovatel Internetu";
 
-"__description__" = "Informace o připojení poskytované vaším poskytovatelem pro připojení k Internetu (ISP).";
+"__description__" = "Informace o připojení poskytované Vaším poskytovatelem připojení k Internetu (ISP).";
 
 "userid" = "ID uživatele";
 
@@ -16,7 +16,7 @@
 
 "Contact Information#9" = "Kontakt";
 
-"website" = "Webové stránky";
+"website" = "Web";
 
 "phone_local" = "Telefon (místní)";
 

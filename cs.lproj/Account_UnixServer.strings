@@ -1,8 +1,8 @@
 "__title__" = "Server";
 
-"__description__" = "Informace o účtu pro vyhrazení servery Linux a FreeBSD, VPS systémy, atd.";
+"__description__" = "Informace o účtu pro vyhrazené servey Linux a FreeBSD, VPS systémy, atd.";
 
-"url" = "ADRESA URL";
+"url" = "URL";
 
 "username" = "Uživatelské jméno";
 
@@ -18,7 +18,7 @@
 
 "admin_console_url" = "URL konzole správce";
 
-"admin_console_url#9" = "URL adresa konzole";
+"admin_console_url#9" = "URL konzole";
 
 "admin_console_username" = "Uživatelské jméno správce konzole";
 
@@ -30,11 +30,11 @@
 
 "name" = "Jméno";
 
-"website" = "Webové stránky";
+"website" = "Web";
 
-"support_contact_url" = "URL adresa odborné pomoci";
+"support_contact_url" = "URL podpory";
 
-"support_contact_url#9" = "OdbornápomocURL";
+"support_contact_url#9" = "URLpodpory";
 
 "support_contact_phone" = "Telefonní číslo podpory";
 

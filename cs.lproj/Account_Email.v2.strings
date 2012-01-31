@@ -46,9 +46,9 @@
 
 "provider" = "Poskytovatel";
 
-"provider_website" = "Webové stránky poskytovatele";
+"provider_website" = "Web poskytovatele";
 
-"provider_website#9" = "Webové stránky";
+"provider_website#9" = "Web";
 
 "phone_tollfree" = "Telefonní číslo (bezplatné)";
 

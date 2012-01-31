@@ -1,38 +1,38 @@
-"__title__" = "Credit Card";
+"__title__" = "Cartão de crédito";
 
-"__description__" = "Credit card information";
+"__description__" = "Informações de cartão de crédito";
 
 "set.contactInfo" = "Informações de contacto";
 
-"cardholder" = "Cardholder's Name";
+"cardholder" = "Nome do titular";
 
-"cardholder#9" = "Cardholder";
+"cardholder#9" = "Titular";
 
 "type" = "Tipo";
 
-"ccnum" = "Number";
+"ccnum" = "Número";
 
-"cvv" = "Verification Number";
+"cvv" = "Número de verificação";
 
 "cvv#9" = "CVC";
 
-"expiry" = "Expiry Date";
+"expiry" = "Data de validade";
 
-"expiry#9" = "Expiry";
+"expiry#9" = "Validade";
 
-"validFrom" = "Valid From";
+"validFrom" = "Válido de";
 
-"validFrom#9" = "Issued";
+"validFrom#9" = "Emitido";
 
 "contactInfo" = "Informações de contacto";
 
-"bank" = "Issuing Bank";
+"bank" = "Banco emissor";
 
-"bank#9" = "Bank";
+"bank#9" = "Banco";
 
-"details" = "Additional Details";
+"details" = "Detalhes adicionais";
 
-"details#9" = "Details";
+"details#9" = "Detalhes";
 
 "phoneLocal" = "Telefone (local)";
 
@@ -42,29 +42,29 @@
 
 "phoneTollFree#9" = "Chamada gratuita";
 
-"phoneIntl" = "Phone (International)";
+"phoneIntl" = "Telefone (internacional)";
 
-"phoneIntl#9" = "Intl";
+"phoneIntl#9" = "Inter.";
 
 "website" = "Site";
 
 "pin" = "PIN";
 
-"creditLimit" = "Credit Limit";
+"creditLimit" = "Limite de crédito";
 
-"creditLimit#9" = "Limit";
+"creditLimit#9" = "Limite";
 
-"cashLimit" = "Cash Withdrawal Limit";
+"cashLimit" = "Limite de levantamento de dinheiro";
 
-"cashLimit#9" = "Cash Limit";
+"cashLimit#9" = "Limite lev.";
 
-"interest" = "Interest Rate";
+"interest" = "Taxa de juro";
 
-"interest#9" = "Interest";
+"interest#9" = "Taxa juro";
 
-"issuenumber" = "Issue Number";
+"issuenumber" = "Número de emissão";
 
-"issuenumber#9" = "Issue #";
+"issuenumber#9" = "Nº emissão";
 
 /* credit card types */
 

@@ -1,23 +1,23 @@
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4863"; */
-"Tags" = "Značky";
+"Tags" = "Tagy";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4803"; */
 "Attachments" = "Přílohy";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4865"; */
-"title" = "Název";
+"title" = "název";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3152"; */
 "Created on" = "Vytvořeno";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4483"; */
-"tags" = "značky";
+"tags" = "tagy";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4904"; */
 "Title" = "Název";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Secure Notes"; ObjectID = "3177"; */
-"Secure Notes" = "Secure Notes";
+"Secure Notes" = "Zabezpečené Poznámky";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3151"; */
 "Last modified" = "Naposledy změněno";

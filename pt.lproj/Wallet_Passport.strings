@@ -6,7 +6,7 @@
 
 "fullname" = "Nome completo";
 
-"number" = "Number";
+"number" = "Número";
 
 "birthdate" = "Data de nascimento";
 
@@ -24,7 +24,7 @@
 
 "issue_date" = "Emitido em";
 
-"expiry_date" = "Expiry Date";
+"expiry_date" = "Data de validade";
 
 
 "menu.sex.male" = "Masculino";
@@ -35,7 +35,7 @@
 
 "fullname#9" = "Nome";
 
-"number#9" = "Number";
+"number#9" = "Número";
 
 "birthdate#9" = "Data nasc.";
 
@@ -51,6 +51,6 @@
 
 "issuing_authority#9" = "Autoridade";
 
-"issue_date#9" = "Issued";
+"issue_date#9" = "Emitido";
 
 "expiry_date#9" = "Expira";

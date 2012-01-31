@@ -18,9 +18,9 @@
 
 "sex" = "Pohlaví";
 
-"issuing_country" = "Issuing Country";
+"issuing_country" = "Vydávající země";
 
-"issuing_authority" = "Issuing Authority";
+"issuing_authority" = "Vydávající orgán";
 
 "issue_date" = "Datum vydání";
 
@@ -41,7 +41,7 @@
 
 "birthplace#9" = "Místo narození";
 
-"nationality#9" = "Nation.";
+"nationality#9" = "Národnost.";
 
 "code#9" = "Kód";
 
@@ -49,7 +49,7 @@
 
 "issuing_country#9" = "Země";
 
-"issuing_authority#9" = "Authority";
+"issuing_authority#9" = "Úřad";
 
 "issue_date#9" = "Vydáno";
 

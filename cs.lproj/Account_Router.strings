@@ -16,9 +16,9 @@
 
 "server" = "Server / IP adresa";
 
-"server#9" = "Adresa IP";
+"server#9" = "IP adresa";
 
-"airport_id" = "Airport ID";
+"airport_id" = "AirPort ID";
 
 "wireless_security" = "Zabezpečení bezdrátové sítě";
 
@@ -39,6 +39,6 @@
 
 "menu.wireless_security.wpa" = "WPA";
 
-"menu.wireless_security.wpa2p" = "WPA2 Osobní";
+"menu.wireless_security.wpa2p" = "WPA2 Personal";
 
-"menu.wireless_security.wpa2e" = "WPA2 Podnikové";
+"menu.wireless_security.wpa2e" = "WPA2 Enterprise";

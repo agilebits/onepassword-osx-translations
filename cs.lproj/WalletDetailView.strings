@@ -1,5 +1,5 @@
 /* Class = "NSTokenFieldCell"; placeholderString = "Tags"; ObjectID = "4892"; */
-"Tags" = "Značky";
+"Tags" = "Tagy";
 
 /* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4808"; */
 "Attachments" = "Přílohy";
@@ -11,7 +11,7 @@
 "Created on" = "Vytvořeno";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4891"; */
-"tags" = "značky";
+"tags" = "tagy";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4819"; */
 "Notes" = "Poznámky";

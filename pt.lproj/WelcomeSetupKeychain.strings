@@ -23,7 +23,7 @@
 "Find It" = "Localizar";
 
 /* Class = "NSTextFieldCell"; title = "Password Hint"; ObjectID = "90"; */
-"Password Hint" = "Password Hint";
+"Password Hint" = "Dica de palavra-passe";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "109"; */
 "help" = "ajuda";

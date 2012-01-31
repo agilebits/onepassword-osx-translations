@@ -5,7 +5,7 @@
 "Export All" = "Export All";
 
 /* Class = "NSMenu"; title = "View"; ObjectID = "1634"; */
-"View" = "View";
+"View" = "Vis";
 
 /* Class = "NSMenuItem"; title = "Created Date"; ObjectID = "1303"; */
 "Created Date" = "Created Date";
@@ -218,7 +218,7 @@
 "Go" = "Go";
 
 /* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
-"Delete" = "Delete";
+"Delete" = "Slet";
 
 /* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
 "Find Previous" = "Find Previous";
@@ -230,7 +230,7 @@
 "Add Sample Items" = "Add Sample Items";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
-"Edit" = "Edit";
+"Edit" = "Rediger";
 
 /* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
 "Restart Helper" = "Restart Helper";

@@ -1,12 +1,12 @@
 "__title__" = "Rychlé zasílání zpráv";
 
-"__description__" = "Informace o účtech a o připojení pro všechny různé programy rychlého zasílání zpráv.";
+"__description__" = "Účet a informace o připojení pro všechny Vaše programy na rychlé zasílání zpráv.";
 
 "account_type" = "Typ účtu";
 
 "account_type#9" = "Typ";
 
-"username" = "Uživatelské jméno / Email / ID";
+"username" = "Uživatelské jméno / E-mail / ID";
 
 "username#9" = "ID";
 
@@ -21,7 +21,7 @@
 
 "menu.account_type.jabber" = "Jabber";
 
-"menu.account_type.msn" = "Služba MSN Messenger";
+"menu.account_type.msn" = "MSN Messenger";
 
 "menu.account_type.yahoo" = "Yahoo! Messenger";
 
@@ -43,7 +43,7 @@
 
 "menu.account_type.qq" = "QQ";
 
-"menu.account_type.sip" = "SIP / JEDNODUCHÉ";
+"menu.account_type.sip" = "SIP / SIMPLE";
 
 "menu.account_type.skype" = "Skype";
 

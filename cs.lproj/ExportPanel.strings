@@ -2,7 +2,7 @@
 "Cancel" = "Zrušit";
 
 /* Class = "NSButton"; ibShadowedToolTip = "Turn this checkbox on to keep the access code in your login keychain for future exports."; ObjectID = "61"; */
-"Turn this checkbox on to keep the access code in your login keychain for future exports." = "Zaškrtněte toto políčko pro uchování přístupového kódu v přihlášovací klíčence pro budoucí export.";
+"Turn this checkbox on to keep the access code in your login keychain for future exports." = "Zaškrtněte toto políčko pro uchování přístupového kódu v přihlášovací klíčence pro budoucí exporty.";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "99"; */
 "Continue" = "Pokračovat";
@@ -17,7 +17,7 @@
 "Access Code:" = "Přístupový kód:";
 
 /* Class = "NSButtonCell"; title = "Remember this access code in my keychain"; ObjectID = "96"; */
-"Remember this access code in my keychain" = "Pamatocat si tento přístupový kód v mé klíčence";
+"Remember this access code in my keychain" = "Pamatovat si tento přístupový kód v mé klíčence";
 
 /* Class = "NSTextFieldCell"; title = "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information."; ObjectID = "97"; */
 "Please enter the Access Code. The Access Code will be used to encrypt your information. You will be asked to enter this code to unlock the exported information." = "Prosím zadejte přístupový kód. Přístupový kód bude použit k šifrování vašich informací. Budete požádáni o zadání tohoto kódu k odemčení exportovaných informací.";

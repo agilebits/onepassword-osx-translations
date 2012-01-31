@@ -12,7 +12,7 @@
 
 "member_since" = "Membro desde";
 
-"expiry_date" = "Expiry Date";
+"expiry_date" = "Data de validade";
 
 "membership_no" = "Número de membro";
 
@@ -30,6 +30,6 @@
 
 "expiry_date#9" = "Expira";
 
-"membership_no#9" = "Number";
+"membership_no#9" = "Número";
 
 "pin#9" = "Palavra-passe";

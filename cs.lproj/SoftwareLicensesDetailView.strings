@@ -1,5 +1,5 @@
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "5025"; */
-"Tags" = "Značky";
+"Tags" = "Tagy";
 
 /* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4881"; */
 "Attachments" = "Přílohy";
@@ -8,7 +8,7 @@
 "License Key:" = "Licenční klíč:";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
-"title" = "Název";
+"title" = "název";
 
 /* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
 "View Version" = "Zobrazit verzi";
@@ -17,7 +17,7 @@
 "Created on" = "Vytvořeno";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4509"; */
-"tags" = "značky";
+"tags" = "tagy";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4939"; */
 "Notes" = "Poznámky";

@@ -2,7 +2,7 @@
 "Field Name" = "Název pole";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4411"; */
-"Tags" = "Značky";
+"Tags" = "Tagy";
 
 /* Class = "NSCollectionView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4875"; */
 "Attachments" = "Přílohy";
@@ -53,7 +53,7 @@
 "Notes" = "Poznámky";
 
 /* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4406"; */
-"tags" = "značky";
+"tags" = "tagy";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "5029"; */
 "Title" = "Název";
@@ -65,7 +65,7 @@
 "Always" = "Vždy";
 
 /* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
-"Password Strength" = "Password Strength";
+"Password Strength" = "Síla hesla";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
 "Text" = "Text";
@@ -89,7 +89,7 @@
 "Never" = "Nikdy";
 
 /* Class = "NSMenuItem"; title = "If Autosubmit is ON"; ObjectID = "3395"; */
-"If Autosubmit is ON" = "Je-li Automatické potvrzení zapnuté";
+"If Autosubmit is ON" = "Je-li automatické odesílání zapnuté";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2825"; */
 "Last modified" = "Naposledy změněno";

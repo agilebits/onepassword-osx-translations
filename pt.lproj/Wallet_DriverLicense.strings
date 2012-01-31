@@ -12,7 +12,7 @@
 
 "height" = "Altura";
 
-"number" = "Number";
+"number" = "Número";
 
 "class" = "Classe de licença";
 
@@ -26,7 +26,7 @@
 
 "country" = "País";
 
-"expiry_date" = "Expiry Date";
+"expiry_date" = "Data de validade";
 
 "expiry_date#9" = "Expira";
 

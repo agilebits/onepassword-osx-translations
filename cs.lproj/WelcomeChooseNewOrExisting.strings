@@ -2,13 +2,13 @@
 "Welcome to" = "Vítejte";
 
 /* Class = "NSButtonCell"; title = "I have already used 1Password"; ObjectID = "20"; */
-"I have already used 1Password" = "Již jsem používal 1Password";
+"I have already used 1Password" = "Již jsem používal(a) 1Password";
 
 /* Class = "NSWindow"; title = "Welcome to 1Password"; ObjectID = "1"; */
-"Welcome to 1Password" = "Vítejte ve 1Password";
+"Welcome to 1Password" = "Vítejte v aplikaci 1Password";
 
 /* Class = "NSTextFieldCell"; title = "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID = "10"; */
-"To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "Pro začátek budeme muset vytvořit hlavní heslo. Pokud už jste to udělal(a), klepněte na tlačítko \"Již jsem používal 1Password\".\n";
+"To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "Pro začátek budeme muset vytvořit hlavní heslo. \nPokud už jste to udělal(a), klepněte na tlačítko \"Již jsem používal(a) 1Password\".";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "new data file"; ObjectID = "15"; */
 "new data file" = "nový datový soubor";

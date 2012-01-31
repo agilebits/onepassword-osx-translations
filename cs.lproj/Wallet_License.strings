@@ -6,33 +6,33 @@
 
 "product_version" = "Verze";
 
-"reg_name" = "Licencováno";
+"reg_name" = "Držitel licence";
 
 "reg_code" = "Licenční Klíč";
 
-"reg_email" = "Registrovaný Email";
+"reg_email" = "Registrovaný e-mail";
 
 "company" = "Společnost";
 
-"download_link" = "Stažení";
+"download_link" = "Stránka s odkazem ke stažení";
 
 "publisher" = "Vydavatel";
 
 "publisher_name" = "Vydavatel";
 
-"retail_price" = "Maloobchodní Cena";
+"retail_price" = "Maloobchodní cena";
 
-"publisher_website" = "Webové stránky";
+"publisher_website" = "Web";
 
-"support_email" = "Emailová Podpora";
+"support_email" = "E-mailová podpora";
 
 "order" = "Objednávka";
 
-"order_number" = "Číslo Objednávky";
+"order_number" = "Číslo objednávky";
 
-"order_date" = "Datum Nákupu";
+"order_date" = "Datum nákupu";
 
-"order_total" = "Objednáno Celkem";
+"order_total" = "Objednávka celkem";
 
 "product_name#9" = "Produkt";
 
@@ -54,7 +54,7 @@
 
 "retail_price#9" = "Cena";
 
-"publisher_website#9" = "Webové stránky";
+"publisher_website#9" = "Web";
 
 "support_email#9" = "Podpora";
 

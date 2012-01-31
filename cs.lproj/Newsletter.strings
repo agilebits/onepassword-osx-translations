@@ -5,7 +5,7 @@
 "Email" = "E-mail";
 
 /* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
-"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "Nenechte si ujít důležité aktualizace 1Password a informace o nových funkcích a vylepšení.  Všechny naše bulletiny obsahují odkaz pro snadné zrušení odběru jedním klepnutím, pro případ, že své rozhodnutí později změníte.";
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "Nenechte si ujít důležité aktualizace 1Password a informace o nových funkcích a vylepšení.  Všechny naše bulletiny obsahují odkaz pro snadné zrušení odběru jedním kliknutím, pro případ, že své rozhodnutí později změníte.";
 
 /* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
 "Stay In Touch" = "Zůstaňte v kontaktu";

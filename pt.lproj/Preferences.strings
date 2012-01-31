@@ -44,7 +44,7 @@
 "Unlocking" = "Desbloqueio";
 
 /* Class = "NSTextFieldCell"; title = "Browser Extensions"; ObjectID = "2105"; */
-"Browser Extensions" = "Browser Extensions";
+"Browser Extensions" = "Extensões do navegador";
 
 /* Class = "NSTextFieldCell"; title = "Display in Sidebar"; ObjectID = "1745"; */
 "Display in Sidebar" = "Mostrar na barra lateral";
@@ -83,7 +83,7 @@
 "help" = "ajuda";
 
 /* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
-"Login Previews" = "Login Previews";
+"Login Previews" = "Pré-visualizações de dados de início de sessão";
 
 /* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
 "      Tags" = "      Etiquetas";

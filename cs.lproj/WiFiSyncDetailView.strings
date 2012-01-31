@@ -1,8 +1,8 @@
 /* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
-"Last synced" = "Naposledy synchronizováno";
+"Last synced" = "Poslední synchronizace";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
-"title" = "Název";
+"title" = "název";
 
 /* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
 "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Spusťte prosím 1Password touch na svém iPhonu a proveďte synchronizaci přes Wi-Fi";
@@ -17,7 +17,7 @@
 "Wi-Fi Status" = "Stav Wi-Fi";
 
 /* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
-"When checked, 1Password will replace information on this iPhone with information from this computer." = "Pokud zatrhnete, 1Password nahradí informace na tomto iPhonu informacemi z tohoto počítače.";
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "Pokud zvolíte, 1Password nahradí informace na tomto iPhonu informacemi z tohoto počítače.";
 
 /* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
 "Replace information on this iPhone" = "Nahradit informace na tomto iPhonu";

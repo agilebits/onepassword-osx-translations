@@ -26,7 +26,7 @@
 "password" = "palavra-passe";
 
 /* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
-"Generate" = "Generate";
+"Generate" = "Gerar";
 
 /* Class = "NSTableColumn"; headerCell.title = "Field Value"; ObjectID = "3101"; */
 "Field Value" = "Valor do campo";
@@ -65,7 +65,7 @@
 "Always" = "Sempre";
 
 /* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
-"Password Strength" = "Password Strength";
+"Password Strength" = "Segurança da palavra-passe";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
 "Text" = "Texto";
@@ -86,7 +86,7 @@
 "Never Display in Browser" = "Nunca apresentar no navegador";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
-"Never" = "Never";
+"Never" = "Nunca";
 
 /* Class = "NSMenuItem"; title = "If Autosubmit is ON"; ObjectID = "3395"; */
 "If Autosubmit is ON" = "Se a submissão automática estiver activa";

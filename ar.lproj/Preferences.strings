@@ -17,7 +17,7 @@
 "Use Dropbox..." = "استخدم Dropbox...";
 
 /* Class = "NSButtonCell"; title = "      Browser Extensions"; ObjectID = "2028"; */
-"      Browser Extensions" = "إضافات المتصفح";
+"      Browser Extensions" = "      إضافات المتصفح";
 
 /* Class = "NSButtonCell"; title = "Stop Using Dropbox..."; ObjectID = "2038"; */
 "Stop Using Dropbox..." = "إيقاف استخدام Dropbox...";
@@ -86,7 +86,7 @@
 "Login Previews" = "استعراضات الدخول";
 
 /* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
-"      Tags" = "وسوم";
+"      Tags" = "      وسوم";
 
 /* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
 "seconds" = "ثواني";
@@ -101,7 +101,7 @@
 "Keep helper running to enable extension features" = "إبقاء المساعد قيد التشغيل لتمكين ميزات الإضافة";
 
 /* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
-"      Folders" = "مجلدات";
+"      Folders" = "      مجلدات";
 
 /* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
 "Your Data Stored In" = "بياناتك مخزنة في";
@@ -122,4 +122,4 @@
 "to fill Login in your browser" = "لملء تسجيل الدخول في المستعرض الخاص بك";
 
 /* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
-"      Generated Passwords" = "كلمات المرور المولدة";
+"      Generated Passwords" = "      كلمات المرور المولدة";
