@@ -62,13 +62,13 @@
 "http://www.google.com" = "http://www.google.com";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "3394"; */
-"Always" = "Always";
+"Always" = "Altid";
 
 /* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
 "Password Strength" = "Password Strength";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
-"Text" = "Text";
+"Text" = "Tekst";
 
 /* Class = "NSMenuItem"; title = "For Web Pages Only"; ObjectID = "3388"; */
 "For Web Pages Only" = "For Web Pages Only";
@@ -83,7 +83,7 @@
 "For HTTP Auth Prompts Only" = "For HTTP Auth Prompts Only";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "3389"; */
-"Never Display in Browser" = "Never Display in Browser";
+"Never Display in Browser" = "﻿Aldrig vis i browseren";
 
 /* Class = "NSMenuItem"; title = "Never"; ObjectID = "3393"; */
 "Never" = "Never";

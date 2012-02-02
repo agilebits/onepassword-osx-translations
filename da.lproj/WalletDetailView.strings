@@ -20,10 +20,10 @@
 "Title" = "Titel";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "4930"; */
-"Always" = "Always";
+"Always" = "Altid";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4931"; */
-"Never Display in Browser" = "Never Display in Browser";
+"Never Display in Browser" = "﻿Aldrig vis i browseren";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3220"; */
 "Last modified" = "Senest ændret";

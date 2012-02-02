@@ -1,0 +1,110 @@
+"__title__" = "E-posta Hesabı";
+
+"__description__" = "E-posta hesabının bilgileri.";
+
+"pop_username" = "Kullanıcı Adı";
+
+"pop_password" = "Şifre";
+
+"pop_server" = "Sunucu";
+
+"pop_type" = "Tür";
+
+"pop_port" = "Port Numarası";
+
+"pop_port#9" = "Port";
+
+"pop_security" = "Güvenlik";
+
+"pop_authentication" = "Doğrulama Tekniği";
+
+"pop_authentication#9" = "Doğrulama";
+
+"SMTP" = "SMTP";
+
+"smtp_username" = "Kullanıcı Adı";
+
+"smtp_password" = "Şifre";
+
+"smtp_server" = "SMTP Sunucusu";
+
+"smtp_type" = "Tür";
+
+"smtp_port" = "Port Numarası";
+
+"smtp_port#9" = "Port";
+
+"smtp_security" = "Güvenlik";
+
+"smtp_authentication" = "Doğrulama Tekniği";
+
+"smtp_authentication#9" = "Doğrulama";
+
+"Contact Information" = "İletişim Bilgileri";
+
+"Contact Information#9" = "İletişim";
+
+"provider" = "Sağlayıcı";
+
+"provider_website" = "Sağlayıcı'nın Web Sayfası";
+
+"provider_website#9" = "Web Sayfası";
+
+"phone_tollfree" = "Telefon Numarası(ücretsiz)";
+
+"phone_tollfree#9" = "Ücretsiz";
+
+"phone_local" = "Telefon Numarası(yerel)";
+
+"phone_local#9" = "Telefon";
+
+
+"menu.pop_type.pop3" = "POP3";
+
+"menu.pop_type.imap" = "IMAP";
+
+"menu.pop_type.either" = "Ya POP3 ya da IMAP";
+
+
+"menu.pop_security.none" = "Hiç biri";
+
+"menu.pop_security.SSL" = "SSL";
+
+"menu.pop_security.TLS" = "TLS";
+
+
+"menu.pop_authentication.none" = "Hiç biri";
+
+"menu.pop_authentication.password" = "Şifre";
+
+"menu.pop_authentication.md5_challenge_response" = "MD5 Sınama Yanıtı";
+
+"menu.pop_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.pop_authentication.kerberos_v4" = "Kerberos Sürüm 4";
+
+"menu.pop_authentication.kerberos_v5" = "Kerberos Sürüm 5 (GSSAPI)";
+
+"menu.pop_authentication.ntlm" = "NTLM";
+
+
+"menu.smtp_security.none" = "Hiç biri";
+
+"menu.smtp_security.SSL" = "SSL";
+
+"menu.smtp_security.TLS" = "TLS";
+
+
+"menu.smtp_authentication.none" = "Hiç biri";
+
+"menu.smtp_authentication.password" = "Şifre";
+
+"menu.smtp_authentication.md5_challenge_response" = "MD5 Sınama Yanıtı";
+
+"menu.smtp_authentication.kerberized_pop" = "Kerberized POP (KPOP)";
+
+"menu.smtp_authentication.kerberos_v4" = "Kerberos Sürüm 4";
+
+"menu.smtp_authentication.kerberos_v5" = "Kerberos Sürüm 5 (GSSAPI)";
+
+"menu.smtp_authentication.ntlm" = "NTLM";

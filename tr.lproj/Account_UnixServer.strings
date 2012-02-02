@@ -1,0 +1,41 @@
+"__title__" = "Sunucu";
+
+"__description__" = "Account information for dedicated Linux and FreeBSD servers, VPS systems, etc.";
+
+"url" = "URL";
+
+"username" = "Kullanıcı Adı";
+
+"password" = "Şifre";
+
+"hosting_provider_details" = "Hosting Provider Details";
+
+"hosting_provider_details#9" = "Sağlayıcı";
+
+"admin_console" = "Administration Console";
+
+"admin_console#9" = "Console";
+
+"admin_console_url" = "Admin Console URL";
+
+"admin_console_url#9" = "Console URL";
+
+"admin_console_username" = "Admin Console Username";
+
+"admin_console_username#9" = "Cons. User";
+
+"admin_console_password" = "Console Password";
+
+"admin_console_password#9" = "Cons. Pwd";
+
+"name" = "Name";
+
+"website" = "Web Sayfası";
+
+"support_contact_url" = "Support URL";
+
+"support_contact_url#9" = "SupportURL";
+
+"support_contact_phone" = "Support Phone #";
+
+"support_contact_phone#9" = "Support#";

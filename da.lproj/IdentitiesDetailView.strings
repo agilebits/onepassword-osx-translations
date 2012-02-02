@@ -23,13 +23,13 @@
 "Notes" = "Noter";
 
 /* Class = "NSMenuItem"; title = "Always"; ObjectID = "4935"; */
-"Always" = "Always";
+"Always" = "Altid";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Name"; ObjectID = "4921"; */
 "Name" = "Navn";
 
 /* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4933"; */
-"Never Display in Browser" = "Never Display in Browser";
+"Never Display in Browser" = "﻿Aldrig vis i browseren";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2887"; */
 "Last modified" = "Senest ændret";

@@ -1,4 +1,4 @@
-"__title__" = "Identity";
+"__title__" = "身份識別";
 
 "__description__" = "It does not really belong to Wallet, we keep it here to generate the detail view.";
 
@@ -125,37 +125,37 @@
 
 "menu.country.an" = "荷屬安地列斯群島";
 
-"menu.country.ao" = "Angola";
+"menu.country.ao" = "安哥拉";
 
-"menu.country.aq" = "Antarctica";
+"menu.country.aq" = "南極洲";
 
-"menu.country.ar" = "Argentina";
+"menu.country.ar" = "阿根廷";
 
-"menu.country.as" = "American Samoa";
+"menu.country.as" = "美屬薩摩亞";
 
-"menu.country.aw" = "Aruba";
+"menu.country.aw" = "阿魯巴";
 
-"menu.country.az" = "Azerbaidjan";
+"menu.country.az" = "阿塞拜疆";
 
-"menu.country.ba" = "Bosnia-Herzegovina";
+"menu.country.ba" = "波士尼亞-黑塞哥維那";
 
-"menu.country.bb" = "Barbados";
+"menu.country.bb" = "巴巴多斯";
 
-"menu.country.bd" = "Bangladesh";
+"menu.country.bd" = "孟加拉";
 
-"menu.country.bf" = "Burkina Faso";
+"menu.country.bf" = "布吉納法索";
 
-"menu.country.bg" = "Bulgaria";
+"menu.country.bg" = "保加利亞";
 
-"menu.country.bh" = "Bahrain";
+"menu.country.bh" = "巴林";
 
-"menu.country.bi" = "Burundi";
+"menu.country.bi" = "布隆迪";
 
-"menu.country.bj" = "Benin";
+"menu.country.bj" = "貝寧";
 
-"menu.country.bm" = "Bermuda";
+"menu.country.bm" = "百慕大";
 
-"menu.country.bn" = "Brunei Darussalam";
+"menu.country.bn" = "汶萊達魯薩蘭國";
 
 "menu.country.bo" = "Bolivia";
 
@@ -275,9 +275,9 @@
 
 "menu.country.hm" = "Heard and McDonald Islands";
 
-"menu.country.hn" = "Honduras";
+"menu.country.hn" = "洪都拉斯";
 
-"menu.country.hr" = "Croatia";
+"menu.country.hr" = "克羅地亞";
 
 "menu.country.ht" = "Haiti";
 

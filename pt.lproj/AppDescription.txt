@@ -14,7 +14,7 @@ Mas espere, há mais! O 1Password torna fácil:
  
 - Usar diferentes dados de início de sessão para o mesmo site
  - Crie várias identidades para preencher em formulários de inscrição, pesquisas e carrinhos de compras
- - Sincronize os seus dados com segurança e over-the-air entre Macs, iPhones e iPads com Dropbox, ou localmente através de Wi-Fi
+ - Sincronize os seus dados em segurança e over-the-air entre Macs, iPhones e iPads com Dropbox, ou localmente através de Wi-Fi
  - Armazene outras informações confidenciais em notas seguras
  - Guarde licenças de software e recibos
  - Organize tudo com etiquetas e pastas

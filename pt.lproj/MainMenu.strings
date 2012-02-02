@@ -104,7 +104,7 @@
 "New Wallet Item…" = "Novo item de carteira…";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "1319"; */
-"Edit Smart Folder…" = "Editar Pasta inteligente…";
+"Edit Smart Folder…" = "Editar pasta inteligente…";
 
 /* Class = "NSMenuItem"; title = "Show Activity"; ObjectID = "1199"; */
 "Show Activity" = "Mostrar actividade";
@@ -161,7 +161,7 @@
 "Clear Cache" = "Limpar cache";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "1322"; */
-"New Smart Folder" = "Nova Pasta inteligente…";
+"New Smart Folder" = "Nova pasta inteligente…";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "1413"; */
 "Preferences…" = "Preferências…";
@@ -227,10 +227,10 @@
 "Window" = "Janela";
 
 /* Class = "NSMenuItem"; title = "Add Sample Items"; ObjectID = "1391"; */
-"Add Sample Items" = "Adicionar itens de amostra";
+"Add Sample Items" = "Adicionar itens de exemplo";
 
 /* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
-"Edit" = "Edição";
+"Edit" = "Editar";
 
 /* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
 "Restart Helper" = "Reiniciar a aplicação auxiliar";
@@ -296,7 +296,7 @@
 "Go & Fill" = "Ir e preencher";
 
 /* Class = "NSMenuItem"; title = "1Password Interchange File…"; ObjectID = "1095"; */
-"1Password Interchange File…" = "Ficheiro 1Password Interchange…";
+"1Password Interchange File…" = "Ficheiro de intercâmbio 1Password…";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
 "Title" = "Título";

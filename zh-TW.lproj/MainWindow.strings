@@ -1,5 +1,5 @@
 /* Class = "NSButtonCell"; title = "Customize..."; ObjectID = "4989"; */
-"Customize..." = "Customize...";
+"Customize..." = "自訂...";
 
 /* Class = "NSTableColumn"; headerCell.title = "Created Date"; ObjectID = "4993"; */
 "Created Date" = "製作日期";
@@ -23,13 +23,13 @@
 "Modified Date" = "修改日期";
 
 /* Class = "NSMenuItem"; title = "Identity"; ObjectID = "5246"; */
-"Identity" = "Identity";
+"Identity" = "身份識別";
 
 /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "3465"; */
-"Rename" = "Rename";
+"Rename" = "重新命名";
 
 /* Class = "NSButtonCell"; title = "Add Sample Data"; ObjectID = "5029"; */
-"Add Sample Data" = "Add Sample Data";
+"Add Sample Data" = "新增範例資料";
 
 /* Class = "NSMenuItem"; title = "Folder"; ObjectID = "5786"; */
 "Folder" = "資料夾";
@@ -41,7 +41,7 @@
 "40" = "40";
 
 /* Class = "NSMenuItem"; title = "Modified"; ObjectID = "5639"; */
-"Modified" = "Modified";
+"Modified" = "修改時間";
 
 /* Class = "NSTextFieldCell"; title = "1976-04-01 3:00 PM"; ObjectID = "4994"; */
 "1976-04-01 3:00 PM" = "1976-04-01 3:00 PM";
@@ -65,7 +65,7 @@
 "Edit Smart Folder…" = "編輯智慧資料夾 …";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "5249"; */
-"Wallet" = "Wallet";
+"Wallet" = "錢包";
 
 /* Class = "NSMenuItem"; title = "Any"; ObjectID = "5063"; */
 "Any" = "Any";
@@ -95,7 +95,7 @@
 "New Software License" = "新增軟體使用許可";
 
 /* Class = "NSTextFieldCell"; title = "Incorrect Password"; ObjectID = "4670"; */
-"Incorrect Password" = "Incorrect Password";
+"Incorrect Password" = "密碼錯誤";
 
 /* Class = "NSMenuItem"; title = "Password"; ObjectID = "5594"; */
 "Password" = "密碼";
@@ -137,10 +137,10 @@
 "Any of the fields" = "Any of the fields";
 
 /* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "5697"; */
-"Password Strength" = "Password Strength";
+"Password Strength" = "密碼強度";
 
 /* Class = "NSMenuItem"; title = "High (Master Password)"; ObjectID = "5185"; */
-"High (Master Password)" = "High (Master Password)";
+"High (Master Password)" = "高 (主密碼)";
 
 /* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "3437"; */
 "Empty Trash…" = "清空垃圾筒";
@@ -203,13 +203,13 @@
 "Paste" = "貼上";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "5410"; */
-"Save" = "Save";
+"Save" = "儲存";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "4895"; */
 "Duplicate" = "再製";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "4998"; */
-"Date Created" = "Date Created";
+"Date Created" = "建立日期";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Sidebar Actions Menu"; ObjectID = "3430"; */
 "Sidebar Actions Menu" = "Sidebar Actions Menu";
@@ -221,7 +221,7 @@
 "20" = "20";
 
 /* Class = "NSMenuItem"; title = "Secure Note"; ObjectID = "5247"; */
-"Secure Note" = "Secure Note";
+"Secure Note" = "安全筆記";
 
 /* Class = "NSMenuItem"; title = "No"; ObjectID = "5370"; */
 "No" = "否";
@@ -248,7 +248,7 @@
 "90" = "90";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "4647"; */
-"Search" = "Search";
+"Search" = "尋找";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "5591"; */
 "Title" = "標題";
@@ -257,7 +257,7 @@
 "Master Password" = "Master Password";
 
 /* Class = "NSMenuItem"; title = "Tag"; ObjectID = "5674"; */
-"Tag" = "Tag";
+"Tag" = "標籤";
 
 /* Class = "NSTextFieldCell"; title = "No Items Found"; ObjectID = "5037"; */
 "No Items Found" = "No Items Found";

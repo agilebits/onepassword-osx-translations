@@ -1,20 +1,20 @@
-"__title__" = "Hunting License";
+"__title__" = "狩獵證";
 
-"name" = "Full name";
+"name" = "全名";
 
 "valid_from" = "Valid From";
 
-"valid_from#9" = "Valid";
+"valid_from#9" = "有效";
 
 "expires" = "Expires";
 
-"game" = "Approved Wildlife";
+"game" = "核准狩獵野生動物";
 
-"game#9" = "Wildlife";
+"game#9" = "野生動物";
 
-"quota" = "Maximum Quota";
+"quota" = "最大配額";
 
-"quota#9" = "Quota";
+"quota#9" = "配額";
 
 "state" = "State";
 

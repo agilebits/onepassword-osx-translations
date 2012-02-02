@@ -8,7 +8,7 @@
 "Unlock" = "解鎖";
 
 /* Class = "NSWindow"; title = "Unlock 1Password"; ObjectID = "84"; */
-"Unlock 1Password" = "Unlock 1Password";
+"Unlock 1Password" = "解鎖 1Password";
 
 /* Class = "NSTextFieldCell"; title = "Master Password:"; ObjectID = "164"; */
 "Master Password:" = "主密碼:";

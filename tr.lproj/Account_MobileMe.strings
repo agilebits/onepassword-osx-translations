@@ -1,0 +1,23 @@
+"__title__" = "MobileMe";
+
+"__description__" = "Apple'ın MobileMe servisi için kayıt ve oturum açma bilgileri.";
+
+"email" = "E-posta (isim@me.com)";
+
+"email#9" = "E-posta";
+
+"member_name" = "Üye";
+
+"password" = "Şifre";
+
+"idisk_storage" = "Mevcut iDisk Saklama Alanı";
+
+"idisk_storage#9" = "Saklama Alanı";
+
+"renewal_date" = "Yenilenme Tarihi";
+
+"renewal_date#9" = "Yenilenme";
+
+"activation_key" = "Etkinleştirme Anahtarı";
+
+"activation_key#9" = "Etkinleştirme";

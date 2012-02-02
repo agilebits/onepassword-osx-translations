@@ -1,0 +1,27 @@
+"__title__" = "Internet Provider";
+
+"__description__" = "Connection information provided by your Internet Service Provider (ISP) for connecting to the Internet.";
+
+"userid" = "User ID";
+
+"password" = "Contrasenya";
+
+"pin" = "PIN";
+
+"dialup_number" = "Dialup Access Number";
+
+"dialup_number#9" = "Dialup #";
+
+"Contact Information" = "Informació de contacte";
+
+"Contact Information#9" = "Contacte";
+
+"website" = "Lloc web";
+
+"phone_local" = "Phone (Local)";
+
+"phone_local#9" = "Telèfon";
+
+"phone_tollfree" = "Phone (Toll Free)";
+
+"phone_tollfree#9" = "Toll Free";

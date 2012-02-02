@@ -23,7 +23,7 @@
 "Check Spelling as You Type" = "Check Spelling as You Type";
 
 /* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
-"Identities" = "Identities";
+"Identities" = "﻿Identiteter";
 
 /* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
 "Check Spelling" = "Check Spelling";
@@ -98,7 +98,7 @@
 "Icon" = "Icon";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "1272"; */
-"Wallet" = "Wallet";
+"Wallet" = "Pung";
 
 /* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "1016"; */
 "New Wallet Item…" = "New Wallet Item…";
@@ -107,7 +107,7 @@
 "Edit Smart Folder…" = "Edit Smart Folder…";
 
 /* Class = "NSMenuItem"; title = "Show Activity"; ObjectID = "1199"; */
-"Show Activity" = "Show Activity";
+"Show Activity" = "Vis aktivitet";
 
 /* Class = "NSMenuItem"; title = "Undo"; ObjectID = "1486"; */
 "Undo" = "Undo";
@@ -176,19 +176,19 @@
 "Restore…" = "Restore…";
 
 /* Class = "NSMenuItem"; title = "Edit Selected Item"; ObjectID = "1009"; */
-"Edit Selected Item" = "Edit Selected Item";
+"Edit Selected Item" = "Rediger valgte element";
 
 /* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "1407"; */
 "Minimize" = "Minimize";
 
 /* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "1014"; */
-"New Folder" = "New Folder";
+"New Folder" = "Ny mappe";
 
 /* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "1262"; */
 "New Account…" = "New Account…";
 
 /* Class = "NSMenu"; title = "New Item"; ObjectID = "1329"; */
-"New Item" = "New Item";
+"New Item" = "Nye vare";
 
 /* Class = "NSMenuItem"; title = "Contact Us"; ObjectID = "1462"; */
 "Contact Us" = "Contact Us";
@@ -254,7 +254,7 @@
 "Jump to Selection" = "Jump to Selection";
 
 /* Class = "NSMenuItem"; title = "Shelves"; ObjectID = "1221"; */
-"Shelves" = "Shelves";
+"Shelves" = "Hylder";
 
 /* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1487"; */
 "Copy" = "Kopier";
@@ -269,7 +269,7 @@
 "Print..." = "Print...";
 
 /* Class = "NSMenuItem"; title = "Secure Notes"; ObjectID = "1270"; */
-"Secure Notes" = "Secure Notes";
+"Secure Notes" = "Sikker Note";
 
 /* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "1017"; */
 "New Identity" = "New Identity";

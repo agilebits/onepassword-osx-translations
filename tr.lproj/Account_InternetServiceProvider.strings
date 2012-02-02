@@ -1,0 +1,27 @@
+"__title__" = "İnternet Sağlayıcısı";
+
+"__description__" = "İnternete bağlanmanız için internet hizmet sağlayıcınız(ISS) tarafından verilen bağlantı bilgileri.";
+
+"userid" = "Kullanıcı Kimliği";
+
+"password" = "Şifre";
+
+"pin" = "PIN";
+
+"dialup_number" = "Çevirmeli Bağlantı Erişim Numarası";
+
+"dialup_number#9" = "Çevirmeli Bağlantı #";
+
+"Contact Information" = "İletişim Bilgileri";
+
+"Contact Information#9" = "İletişim";
+
+"website" = "Web Sayfası";
+
+"phone_local" = "Telefon (yerel)";
+
+"phone_local#9" = "Telefon";
+
+"phone_tollfree" = "Telefon (ücretsiz)";
+
+"phone_tollfree#9" = "Ücretsiz";

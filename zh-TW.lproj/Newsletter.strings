@@ -5,19 +5,19 @@
 "Email" = "電子郵件帳號";
 
 /* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
-"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later.";
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "不要錯過 1Password 的重要更新和了解新功能與改進之處的機會。\n\n我們的電子報訂閱都有提供一個簡單退訂連結，如果您改變了主意，只需點擊一下即可。";
 
 /* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
-"Stay In Touch" = "Stay In Touch";
+"Stay In Touch" = "保持聯繫";
 
 /* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
-"No, thanks" = "No, thanks";
+"No, thanks" = "不，謝謝";
 
 /* Class = "NSTextFieldCell"; title = "Copied from your Address Book card"; ObjectID = "269"; */
-"Copied from your Address Book card" = "Copied from your Address Book card";
+"Copied from your Address Book card" = "從您的通訊錄複製";
 
 /* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "242"; */
-"Sign Up" = "Sign Up";
+"Sign Up" = "註冊";
 
 /* Class = "NSTextFieldCell"; title = "News & Updates"; ObjectID = "258"; */
-"News & Updates" = "News & Updates";
+"News & Updates" = "新聞與更新";

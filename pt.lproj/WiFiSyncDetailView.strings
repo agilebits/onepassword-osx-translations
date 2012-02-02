@@ -5,7 +5,7 @@
 "title" = "título";
 
 /* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
-"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Por favor, inicie e desbloqueie o 1Password Touch no seu iPhone para executar a sincronização por Wi-Fi";
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Por favor, abra e desbloqueie o 1Password Touch no seu iPhone para iniciar a sincronização por Wi-Fi";
 
 /* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
 "Sync all items" = "Sincronizar todos os itens";

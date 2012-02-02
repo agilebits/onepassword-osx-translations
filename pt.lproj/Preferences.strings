@@ -23,7 +23,7 @@
 "Stop Using Dropbox..." = "Parar de usar Dropbox...";
 
 /* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
-"Automatically download icons and previews for new Logins" = "Descarregar automaticamente ícones e pré-visualizações para novos dados de início de sessão";
+"Automatically download icons and previews for new Logins" = "Descarregar automaticamente ícones e pré-visualizações para novos dados";
 
 /* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
 "Install Browser Extensions" = "Instalar extensões de navegador";
@@ -89,7 +89,7 @@
 "      Tags" = "      Etiquetas";
 
 /* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
-"seconds" = "segundos";
+"seconds" = "seg.";
 
 /* Class = "NSTextFieldCell"; title = "Clipboard Security"; ObjectID = "1533"; */
 "Clipboard Security" = "Segurança do clipboard";
@@ -98,7 +98,7 @@
 "New Password:" = "Nova palavra-passe:";
 
 /* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
-"Keep helper running to enable extension features" = "Manter aplicação auxiliar em execução para permitir funcionalidades das extensões";
+"Keep helper running to enable extension features" = "Manter aplicação auxiliar aberta para activar funções das extensões";
 
 /* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
 "      Folders" = "      Pastas";
@@ -119,7 +119,7 @@
 "Lock after" = "Bloquear após";
 
 /* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
-"to fill Login in your browser" = "para preencher dados de início de sessão no seu navegador";
+"to fill Login in your browser" = "para preencher dados de sessão no seu navegador";
 
 /* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
 "      Generated Passwords" = "      Palavras-passe geradas";

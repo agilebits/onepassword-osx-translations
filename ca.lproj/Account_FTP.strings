@@ -1,0 +1,29 @@
+"__title__" = "Compte de FTP";
+
+"__description__" = "Informació d'accés per a comptes FTP.";
+
+"server" = "Servidor";
+
+"path" = "Camí";
+
+"username" = "Nom d'usuari";
+
+"password" = "Contrasenya";
+
+"Contact Information" = "Informació de contacte";
+
+"Contact Information#9" = "Contacte";
+
+"provider" = "Proveïdor";
+
+"provider_website" = "Provider's Website";
+
+"provider_website#9" = "Lloc web";
+
+"phone_tollfree" = "Phone Number (Toll Free)";
+
+"phone_tollfree#9" = "Toll Free";
+
+"phone_local" = "Número de telèfon (Local)";
+
+"phone_local#9" = "Telèfon";

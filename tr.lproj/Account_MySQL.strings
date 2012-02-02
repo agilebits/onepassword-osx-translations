@@ -1,0 +1,13 @@
+"__title__" = "MySQL Veritabanı";
+
+"__description__" = "MySQL Veritabanı bağlantı bilgileri.";
+
+"hostname" = "Hostname";
+
+"port" = "Port (3306)";
+
+"database" = "Veritabanı";
+
+"username" = "Kullanıcı Adı";
+
+"password" = "Şifre";

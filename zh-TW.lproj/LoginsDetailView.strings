@@ -26,13 +26,13 @@
 "password" = "密碼";
 
 /* Class = "NSButtonCell"; title = "Generate"; ObjectID = "4011"; */
-"Generate" = "Generate";
+"Generate" = "產生";
 
 /* Class = "NSTableColumn"; headerCell.title = "Field Value"; ObjectID = "3101"; */
 "Field Value" = "欄位值";
 
 /* Class = "NSButtonCell"; title = "All Fields"; ObjectID = "3043"; */
-"All Fields" = "All Fields";
+"All Fields" = "所有欄位";
 
 /* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Submit"; ObjectID = "3390"; */
 "Submit" = "送出";
@@ -65,7 +65,7 @@
 "Always" = "始終";
 
 /* Class = "NSLevelIndicator"; ibExternalAccessibilityDescription = "Password Strength"; ObjectID = "3360"; */
-"Password Strength" = "Password Strength";
+"Password Strength" = "密碼強度";
 
 /* Class = "NSMenuItem"; title = "Text"; ObjectID = "4042"; */
 "Text" = "文字";

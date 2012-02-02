@@ -1,0 +1,17 @@
+"__title__" = "iTunes";
+
+"__description__" = "iTunes hesap bilgileri.";
+
+"username" = "Apple ID (e-posta)";
+
+"username#9" = "E-posta";
+
+"password" = "Şifre";
+
+"question" = "Güvenlik sorusu";
+
+"question#9" = "Güvenlik S";
+
+"answer" = "Güvenlik Cevabı";
+
+"answer#9" = "Güvenlik C";

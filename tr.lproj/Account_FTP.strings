@@ -1,0 +1,29 @@
+"__title__" = "FTP Hesabı";
+
+"__description__" = "FTP hesapları için giriş bilgileri.";
+
+"server" = "Sunucu";
+
+"path" = "Yol";
+
+"username" = "Kullanıcı Adı";
+
+"password" = "Şifre";
+
+"Contact Information" = "İletişim Bilgileri";
+
+"Contact Information#9" = "İletişim";
+
+"provider" = "Sağlayıcı";
+
+"provider_website" = "Sağlayıcı'nın Web Sayfası";
+
+"provider_website#9" = "Web Sayfası";
+
+"phone_tollfree" = "Telefon Numarası(ücretsiz)";
+
+"phone_tollfree#9" = "Ücretsiz";
+
+"phone_local" = "Telefon Numarası(yerel)";
+
+"phone_local#9" = "Telefon";

@@ -5,13 +5,13 @@
 "Attachments" = "附件";
 
 /* Class = "NSTextFieldCell"; title = "License Key:"; ObjectID = "5005"; */
-"License Key:" = "License Key:";
+"License Key:" = "授權金鑰:";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4330"; */
 "title" = "標題";
 
 /* Class = "NSTextFieldCell"; title = "View Version"; ObjectID = "4346"; */
-"View Version" = "View Version";
+"View Version" = "查看版本";
 
 /* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3721"; */
 "Created on" = "建立日期";
@@ -26,19 +26,19 @@
 "Title" = "標題";
 
 /* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Version Number"; ObjectID = "4829"; */
-"Version Number" = "Version Number";
+"Version Number" = "版本";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "license key"; ObjectID = "5004"; */
-"license key" = "license key";
+"license key" = "授權金鑰";
 
 /* Class = "NSTextField"; ibExternalAccessibilityDescription = "version"; ObjectID = "4335"; */
-"version" = "version";
+"version" = "版本";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "icon"; ObjectID = "3918"; */
-"icon" = "icon";
+"icon" = "圖示";
 
 /* Class = "NSTextFieldCell"; title = "Edit Version"; ObjectID = "4336"; */
-"Edit Version" = "Edit Version";
+"Edit Version" = "編輯版本";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3722"; */
 "Last modified" = "修改時間";

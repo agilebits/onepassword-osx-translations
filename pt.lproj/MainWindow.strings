@@ -62,7 +62,7 @@
 "matches" = "correspondências";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "5595"; */
-"Edit Smart Folder…" = "Editar Pasta inteligente…";
+"Edit Smart Folder…" = "Editar pasta inteligente…";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "5249"; */
 "Wallet" = "Carteira";
@@ -122,13 +122,13 @@
 "Add Item" = "Adicionar Item";
 
 /* Class = "NSMenuItem"; title = "All"; ObjectID = "5064"; */
-"All" = "Todos";
+"All" = "Tudo";
 
 /* Class = "NSMenuItem"; title = "is greater than or equal to"; ObjectID = "5749"; */
 "is greater than or equal to" = "é maior que ou igual a";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "5615"; */
-"New Smart Folder" = "Nova Pasta inteligente…";
+"New Smart Folder" = "Nova pasta inteligente…";
 
 /* Class = "NSMenuItem"; title = "is"; ObjectID = "5770"; */
 "is" = "é";
@@ -188,13 +188,13 @@
 "object list" = "lista de objetos";
 
 /* Class = "NSTextFieldCell"; title = "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID = "5021"; */
-"Click the + button to get started creating new items or add sample data to get some ideas." = "Clique o botão + para começar a criar novos itens ou adicionar dados de exemplo para obter algumas idéias.";
+"Click the + button to get started creating new items or add sample data to get some ideas." = "Clique o botão + para começar a criar novos itens ou adicionar dados de exemplo para obter algumas ideias.";
 
 /* Class = "NSMenuItem"; title = "ends with"; ObjectID = "5777"; */
 "ends with" = "termina com";
 
 /* Class = "NSMenuItem"; title = "Edit"; ObjectID = "4896"; */
-"Edit" = "Edição";
+"Edit" = "Editar";
 
 /* Class = "NSMenuItem"; title = "is not"; ObjectID = "5531"; */
 "is not" = "não é";

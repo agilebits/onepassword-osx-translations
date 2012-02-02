@@ -17,13 +17,13 @@
 "Kind" = "Kind";
 
 /* Class = "NSMenuItem"; title = "Low (4-Digit Code)"; ObjectID = "5184"; */
-"Low (4-Digit Code)" = "Low (4-Digit Code)";
+"Low (4-Digit Code)" = "Lav (4-cifret kode)";
 
 /* Class = "NSTableColumn"; headerCell.title = "Modified Date"; ObjectID = "3496"; */
 "Modified Date" = "Modified Date";
 
 /* Class = "NSMenuItem"; title = "Identity"; ObjectID = "5246"; */
-"Identity" = "Identity";
+"Identity" = "Identitet";
 
 /* Class = "NSMenuItem"; title = "Rename"; ObjectID = "3465"; */
 "Rename" = "Rename";
@@ -65,7 +65,7 @@
 "Edit Smart Folder…" = "Edit Smart Folder…";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "5249"; */
-"Wallet" = "Wallet";
+"Wallet" = "Pung";
 
 /* Class = "NSMenuItem"; title = "Any"; ObjectID = "5063"; */
 "Any" = "Any";
@@ -95,7 +95,7 @@
 "New Software License" = "New Software License";
 
 /* Class = "NSTextFieldCell"; title = "Incorrect Password"; ObjectID = "4670"; */
-"Incorrect Password" = "Incorrect Password";
+"Incorrect Password" = "Forkert adgangskode";
 
 /* Class = "NSMenuItem"; title = "Password"; ObjectID = "5594"; */
 "Password" = "Kodeord";
@@ -146,7 +146,7 @@
 "Empty Trash…" = "Empty Trash…";
 
 /* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "3443"; */
-"New Folder" = "New Folder";
+"New Folder" = "Ny mappe";
 
 /* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "5651"; */
 "New Account…" = "New Account…";
@@ -155,7 +155,7 @@
 "Can't Log In?" = "Can't Log In?";
 
 /* Class = "NSMenuItem"; title = "Login"; ObjectID = "5244"; */
-"Login" = "Login";
+"Login" = "Log ind";
 
 /* Class = "NSMenuItem"; title = "Has Attachment"; ObjectID = "5364"; */
 "Has Attachment" = "Has Attachment";
@@ -203,13 +203,13 @@
 "Paste" = "Paste";
 
 /* Class = "NSButtonCell"; title = "Save"; ObjectID = "5410"; */
-"Save" = "Save";
+"Save" = "Gem";
 
 /* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "4895"; */
 "Duplicate" = "Duplicate";
 
 /* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "4998"; */
-"Date Created" = "Date Created";
+"Date Created" = "Oprettelsesdato";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "Sidebar Actions Menu"; ObjectID = "3430"; */
 "Sidebar Actions Menu" = "Sidebar Actions Menu";
@@ -221,7 +221,7 @@
 "20" = "20";
 
 /* Class = "NSMenuItem"; title = "Secure Note"; ObjectID = "5247"; */
-"Secure Note" = "Secure Note";
+"Secure Note" = "Sikker Note";
 
 /* Class = "NSMenuItem"; title = "No"; ObjectID = "5370"; */
 "No" = "Nej";
@@ -236,7 +236,7 @@
 "is less than" = "is less than";
 
 /* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "4975"; */
-"Date Modified" = "Date Modified";
+"Date Modified" = "Ændringsdato";
 
 /* Class = "NSMenuItem"; title = "10 - Terrible"; ObjectID = "5743"; */
 "10 - Terrible" = "10 - Terrible";
@@ -248,7 +248,7 @@
 "90" = "90";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "4647"; */
-"Search" = "Search";
+"Search" = "Søg";
 
 /* Class = "NSMenuItem"; title = "Title"; ObjectID = "5591"; */
 "Title" = "Titel";

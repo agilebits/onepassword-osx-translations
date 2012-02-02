@@ -3,7 +3,7 @@
 NOTE: for existing 1Password 3.8 users. For better results, please delete the old copy of 1Password before installing the version from the Mac App Store. 
 
 ★ 1Password has won just about every award under the Sun! ★
- - Mac App Store: Best Apps of 2011
+ Mac 應用程式商店： 2011 年最佳應用程式
 - Macworld 2010 Eddy Award Winner
  - MacStories Apps of 2011: Reader’s Choice Winner
 - Scored 4.5/5 Mice in a Macworld review
@@ -38,4 +38,4 @@ Mobile versions of 1Password are available for iPhone, iPod touch, and iPad. Syn
 SUPPORT NOTE #1: We got several reports about not being able to get past the Welcome screen when installing 1Password. If you encounter this issue, please see the "1Password fails to continue after the initial welcome screen" article on our support site. 
 
 
-SUPPORT NOTE #2: We love to hear your feedback. Please remember, we cannot reply to your comments in Mac App Store. If you have a question, please contact us on our support site. Thank you!
+SUPPORT NOTE #2: We love to hear your feedback. Please remember, we cannot reply to your comments in Mac App Store. If you have a question, please contact us on our support site. 謝謝！

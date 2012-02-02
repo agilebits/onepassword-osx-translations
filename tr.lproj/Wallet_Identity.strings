@@ -1,0 +1,556 @@
+"__title__" = "Identity";
+
+"__description__" = "It does not really belong to Wallet, we keep it here to generate the detail view.";
+
+"name" = "Identification";
+
+"firstname" = "First Name";
+
+"initial" = "Initial";
+
+"lastname" = "Last Name";
+
+"sex" = "Sex";
+
+"birthdate" = "Birth Date";
+
+"occupation" = "Occupation";
+
+"company" = "Company";
+
+"department" = "Department";
+
+"jobtitle" = "Job Title";
+
+"internet" = "Internet Details";
+
+"username" = "Kullanıcı Adı";
+
+"reminderq" = "Reminder Question";
+
+"remindera" = "Reminder Answer";
+
+"email" = "E-posta";
+
+"website" = "Web Sayfası";
+
+"icq" = "ICQ";
+
+"skype" = "Skype";
+
+"aim" = "AOL/AIM";
+
+"yahoo" = "Yahoo";
+
+"msn" = "MSN";
+
+"forumsig" = "Forum Signature";
+
+"address" = "Address";
+
+"address1" = "Address Line 1";
+
+"address2" = "Address Line 2";
+
+"city" = "City/Town/Suburb";
+
+"state" = "State/Province";
+
+"zip" = "Zip/Postal Code";
+
+"country" = "Country";
+
+"location" = "Location";
+
+"phone" = "Telephone";
+
+"defphone" = "Default Phone";
+
+"homephone" = "Home";
+
+"cellphone" = "Cell";
+
+"busphone" = "Business";
+
+
+"menu.sex.male" = "Male";
+
+"menu.sex.female" = "Female";
+
+/* countries */
+
+"menu.country.us" = "United States";
+
+"menu.country.ca" = "Canada";
+
+"menu.country.uk" = "United Kingdom";
+
+"menu.country.de" = "Germany";
+
+"menu.country.au" = "Australia";
+
+"menu.country.nl" = "Netherlands";
+
+"menu.country.it" = "Italy";
+
+"menu.country.fr" = "France";
+
+"menu.country.mx" = "Mexico";
+
+"menu.country.cn" = "China";
+
+"menu.country.ch" = "Switzerland";
+
+"menu.country.es" = "Spain";
+
+"menu.country.jp" = "Japan";
+
+"menu.country.at" = "Austria";
+
+"menu.country.be" = "Belgium";
+
+"menu.country.ad" = "Andorra";
+
+"menu.country.ae" = "United Arab Emirates";
+
+"menu.country.af" = "Afghanistan";
+
+"menu.country.ag" = "Antigua and Barbuda";
+
+"menu.country.ai" = "Anguilla";
+
+"menu.country.al" = "Albania";
+
+"menu.country.am" = "Armenia";
+
+"menu.country.an" = "Netherlands Antilles";
+
+"menu.country.ao" = "Angola";
+
+"menu.country.aq" = "Antarctica";
+
+"menu.country.ar" = "Argentina";
+
+"menu.country.as" = "American Samoa";
+
+"menu.country.aw" = "Aruba";
+
+"menu.country.az" = "Azerbaidjan";
+
+"menu.country.ba" = "Bosnia-Herzegovina";
+
+"menu.country.bb" = "Barbados";
+
+"menu.country.bd" = "Bangladesh";
+
+"menu.country.bf" = "Burkina Faso";
+
+"menu.country.bg" = "Bulgaria";
+
+"menu.country.bh" = "Bahrain";
+
+"menu.country.bi" = "Burundi";
+
+"menu.country.bj" = "Benin";
+
+"menu.country.bm" = "Bermuda";
+
+"menu.country.bn" = "Brunei Darussalam";
+
+"menu.country.bo" = "Bolivia";
+
+"menu.country.br" = "Brazil";
+
+"menu.country.bs" = "Bahamas";
+
+"menu.country.bt" = "Bhutan";
+
+"menu.country.bv" = "Bouvet Island";
+
+"menu.country.bw" = "Botswana";
+
+"menu.country.by" = "Belarus";
+
+"menu.country.bz" = "Belize";
+
+"menu.country.cc" = "Cocos (Keeling) Islands";
+
+"menu.country.cf" = "Central African Republic";
+
+"menu.country.cd" = "Congo, The Democratic Republic of the";
+
+"menu.country.cg" = "Congo";
+
+"menu.country.ci" = "Ivory Coast (Cote D'Ivoire)";
+
+"menu.country.ck" = "Cook Islands";
+
+"menu.country.cl" = "Chile";
+
+"menu.country.cm" = "Cameroon";
+
+"menu.country.co" = "Colombia";
+
+"menu.country.cr" = "Costa Rica";
+
+"menu.country.cu" = "Cuba";
+
+"menu.country.cv" = "Cape Verde";
+
+"menu.country.cx" = "Christmas Island";
+
+"menu.country.cy" = "Cyprus";
+
+"menu.country.cz" = "Czech Republic";
+
+"menu.country.dj" = "Djibouti";
+
+"menu.country.dk" = "Denmark";
+
+"menu.country.dm" = "Dominica";
+
+"menu.country.do" = "Dominican Republic";
+
+"menu.country.dz" = "Algeria";
+
+"menu.country.ec" = "Ecuador";
+
+"menu.country.ee" = "Estonia";
+
+"menu.country.eg" = "Egypt";
+
+"menu.country.eh" = "Western Sahara";
+
+"menu.country.er" = "Eritrea";
+
+"menu.country.et" = "Ethiopia";
+
+"menu.country.fi" = "Finland";
+
+"menu.country.fj" = "Fiji";
+
+"menu.country.fk" = "Falkland Islands";
+
+"menu.country.fm" = "Micronesia";
+
+"menu.country.fo" = "Faroe Islands";
+
+"menu.country.ga" = "Gabon";
+
+"menu.country.gb" = "Great Britain";
+
+"menu.country.gd" = "Grenada";
+
+"menu.country.ge" = "Georgia";
+
+"menu.country.gf" = "French Guyana";
+
+"menu.country.gh" = "Ghana";
+
+"menu.country.gi" = "Gibraltar";
+
+"menu.country.gl" = "Greenland";
+
+"menu.country.gm" = "Gambia";
+
+"menu.country.gn" = "Guinea";
+
+"menu.country.gp" = "Guadeloupe (French)";
+
+"menu.country.gq" = "Equatorial Guinea";
+
+"menu.country.gr" = "Greece";
+
+"menu.country.gs" = "S. Georgia & S. Sandwich Isls.";
+
+"menu.country.gt" = "Guatemala";
+
+"menu.country.gu" = "Guam (USA)";
+
+"menu.country.gw" = "Guinea Bissau";
+
+"menu.country.gy" = "Guyana";
+
+"menu.country.hk" = "Hong Kong";
+
+"menu.country.hm" = "Heard and McDonald Islands";
+
+"menu.country.hn" = "Honduras";
+
+"menu.country.hr" = "Croatia";
+
+"menu.country.ht" = "Haiti";
+
+"menu.country.hu" = "Hungary";
+
+"menu.country.id" = "Indonesia";
+
+"menu.country.ie" = "Ireland";
+
+"menu.country.il" = "Israel";
+
+"menu.country.in" = "India";
+
+"menu.country.iq" = "Iraq";
+
+"menu.country.ir" = "Iran";
+
+"menu.country.is" = "Iceland";
+
+"menu.country.jm" = "Jamaica";
+
+"menu.country.jo" = "Jordan";
+
+"menu.country.ke" = "Kenya";
+
+"menu.country.kg" = "Kyrgyz Republic (Kyrgyzstan)";
+
+"menu.country.kh" = "Cambodia, Kingdom of";
+
+"menu.country.ki" = "Kiribati";
+
+"menu.country.km" = "Comoros";
+
+"menu.country.kn" = "Saint Kitts & Nevis Anguilla";
+
+"menu.country.kp" = "North Korea";
+
+"menu.country.kr" = "South Korea";
+
+"menu.country.kw" = "Kuwait";
+
+"menu.country.ky" = "Cayman Islands";
+
+"menu.country.kz" = "Kazakhstan";
+
+"menu.country.la" = "Laos";
+
+"menu.country.lb" = "Lebanon";
+
+"menu.country.lc" = "Saint Lucia";
+
+"menu.country.li" = "Liechtenstein";
+
+"menu.country.rs" = "Serbia";
+
+"menu.country.lk" = "Sri Lanka";
+
+"menu.country.lr" = "Liberia";
+
+"menu.country.ls" = "Lesotho";
+
+"menu.country.lt" = "Lithuania";
+
+"menu.country.lu" = "Luxembourg";
+
+"menu.country.lv" = "Latvia";
+
+"menu.country.ly" = "Libya";
+
+"menu.country.ma" = "Morocco";
+
+"menu.country.mc" = "Monaco";
+
+"menu.country.md" = "Moldavia";
+
+"menu.country.mg" = "Madagascar";
+
+"menu.country.mh" = "Marshall Islands";
+
+"menu.country.mk" = "Macedonia";
+
+"menu.country.ml" = "Mali";
+
+"menu.country.mm" = "Myanmar";
+
+"menu.country.mn" = "Mongolia";
+
+"menu.country.mo" = "Macau";
+
+"menu.country.mq" = "Martinique (French)";
+
+"menu.country.mr" = "Mauritania";
+
+"menu.country.ms" = "Montserrat";
+
+"menu.country.mt" = "Malta";
+
+"menu.country.mu" = "Mauritius";
+
+"menu.country.mv" = "Maldives";
+
+"menu.country.mw" = "Malawi";
+
+"menu.country.my" = "Malaysia";
+
+"menu.country.me" = "Montenegro";
+
+"menu.country.mz" = "Mozambique";
+
+"menu.country.na" = "Namibia";
+
+"menu.country.nc" = "New Caledonia (French)";
+
+"menu.country.ne" = "Niger";
+
+"menu.country.nf" = "Norfolk Island";
+
+"menu.country.ng" = "Nigeria";
+
+"menu.country.ni" = "Nicaragua";
+
+"menu.country.no" = "Norway";
+
+"menu.country.np" = "Nepal";
+
+"menu.country.nr" = "Nauru";
+
+"menu.country.nt" = "Neutral Zone";
+
+"menu.country.nu" = "Niue";
+
+"menu.country.nz" = "New Zealand";
+
+"menu.country.om" = "Oman";
+
+"menu.country.pa" = "Panama";
+
+"menu.country.pe" = "Peru";
+
+"menu.country.pf" = "Polynesia (French)";
+
+"menu.country.pg" = "Papua New Guinea";
+
+"menu.country.ph" = "Philippines";
+
+"menu.country.pk" = "Pakistan";
+
+"menu.country.pl" = "Poland";
+
+"menu.country.pm" = "Saint Pierre and Miquelon";
+
+"menu.country.pn" = "Pitcairn Island";
+
+"menu.country.pr" = "Puerto Rico";
+
+"menu.country.pt" = "Portugal";
+
+"menu.country.pw" = "Palau";
+
+"menu.country.py" = "Paraguay";
+
+"menu.country.qa" = "Qatar";
+
+"menu.country.re" = "Reunion (French)";
+
+"menu.country.ro" = "Romania";
+
+"menu.country.ru" = "Russian Federation";
+
+"menu.country.rw" = "Rwanda";
+
+"menu.country.sa" = "Saudi Arabia";
+
+"menu.country.sb" = "Solomon Islands";
+
+"menu.country.sc" = "Seychelles";
+
+"menu.country.sd" = "Sudan";
+
+"menu.country.se" = "Sweden";
+
+"menu.country.sg" = "Singapore";
+
+"menu.country.sh" = "Saint Helena";
+
+"menu.country.si" = "Slovenia";
+
+"menu.country.sj" = "Svalbard and Jan Mayen Islands";
+
+"menu.country.sk" = "Slovak Republic";
+
+"menu.country.sl" = "Sierra Leone";
+
+"menu.country.sm" = "San Marino";
+
+"menu.country.sn" = "Senegal";
+
+"menu.country.so" = "Somalia";
+
+"menu.country.sr" = "Suriname";
+
+"menu.country.st" = "Saint Tome (Sao Tome) and Principe";
+
+"menu.country.sv" = "El Salvador";
+
+"menu.country.sy" = "Syria";
+
+"menu.country.sz" = "Swaziland";
+
+"menu.country.tc" = "Turks and Caicos Islands";
+
+"menu.country.td" = "Chad";
+
+"menu.country.tg" = "Togo";
+
+"menu.country.th" = "Thailand";
+
+"menu.country.tj" = "Tadjikistan";
+
+"menu.country.tk" = "Tokelau";
+
+"menu.country.tm" = "Turkmenistan";
+
+"menu.country.tn" = "Tunisia";
+
+"menu.country.to" = "Tonga";
+
+"menu.country.tp" = "East Timor";
+
+"menu.country.tr" = "Turkey";
+
+"menu.country.tt" = "Trinidad and Tobago";
+
+"menu.country.tv" = "Tuvalu";
+
+"menu.country.tw" = "Taiwan";
+
+"menu.country.tz" = "Tanzania";
+
+"menu.country.ua" = "Ukraine";
+
+"menu.country.ug" = "Uganda";
+
+"menu.country.uy" = "Uruguay";
+
+"menu.country.uz" = "Uzbekistan";
+
+"menu.country.va" = "Holy See (Vatican City State)";
+
+"menu.country.vc" = "Saint Vincent & Grenadines";
+
+"menu.country.ve" = "Venezuela";
+
+"menu.country.vg" = "Virgin Islands (British)";
+
+"menu.country.vi" = "Virgin Islands (USA)";
+
+"menu.country.vn" = "Vietnam";
+
+"menu.country.vu" = "Vanuatu";
+
+"menu.country.wf" = "Wallis and Futuna Islands";
+
+"menu.country.ws" = "Samoa";
+
+"menu.country.ye" = "Yemen";
+
+"menu.country.yt" = "Mayotte";
+
+"menu.country.za" = "South Africa";
+
+"menu.country.zm" = "Zambia";
+
+"menu.country.zr" = "Zaire";
+
+"menu.country.zw" = "Zimbabwe";
