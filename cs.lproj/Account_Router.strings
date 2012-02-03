@@ -1,6 +1,6 @@
 "__title__" = "Bezdrátový router";
 
-"__description__" = "Informace o účtu pro AirPort Extreme nebo jiné bezdrátové routery.";
+"__description__" = "Informace o účtu vašeho AirPort Extreme nebo jiných bezdrátových routerů.";
 
 "network_name" = "Název sítě";
 
@@ -33,7 +33,7 @@
 "disk_password#9" = "Heslo úložiště";
 
 
-"menu.wireless_security.none" = "Žádné zabezpečení";
+"menu.wireless_security.none" = "Nezabezpečeno";
 
 "menu.wireless_security.wep" = "WEP";
 

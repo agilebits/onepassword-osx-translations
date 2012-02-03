@@ -239,7 +239,7 @@
 "Backup" = "备份";
 
 /* Class = "NSMenuItem"; title = "Add Attachment…"; ObjectID = "1257"; */
-"Add Attachment…" = "添加福建...";
+"Add Attachment…" = "添加附件…";
 
 /* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1482"; */
 "Paste" = "粘贴";

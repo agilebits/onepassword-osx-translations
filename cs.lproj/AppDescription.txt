@@ -1,10 +1,10 @@
-1Password je společník pro vaše hesla a identity. 1Password překonává dřívější způsob uchovávání hesel, protože pracuje přímo ve Vašem prohlížeči, ukládá Vaše uživatelská jména a hesla, a snadno vytváří bezpečná, jedinečná hesla pro každou stránku. 1Password Vás pak může automaticky a bezpečně přihlásit, zadat informace o kreditní kartě a vyplnit registrační formuláře, to vše za pomoci šifrování informací s jen jedním heslem, které si musíte zapamatovat. 
+1Password je společník pro vaše hesla a identity. 1Password překonává dřívější způsob uchovávání hesel, protože pracuje přímo ve vašem prohlížeči, ukládá vaše uživatelská jména a hesla, a snadno vytváří bezpečná, jedinečná hesla pro každou stránku. 1Password Vás pak může automaticky a bezpečně přihlásit, zadat informace o kreditní kartě a vyplnit registrační formuláře, to vše za pomoci šifrování informací s jen jedním heslem, které si musíte zapamatovat. 
 
 Poznámka: pro stávající uživatele 1Password 3.8. Pro lepší výsledky odstraňte staré kopie 1Password před instalací verze z Mac App Store. 
 
 ★ 1Password získal skoro každou cenu pod sluncem! ★
  - Mac App Store: Nejlepší aplikace roku 2011
--Macworld 2010 Eddy Award vítěz
+- Vítěz Macworld 2010 Eddy Award
  - MacStories Apps roku 2011: Vítěz čtenářů
 - Dosáhl 4,5 z 5 myší v recenzi Macworld
  - Cult Of Mac: 10 nejinovativnějších aplikací roku 2011
@@ -16,7 +16,7 @@ Ale počkejte, je toho víc! 1Password usnadňuje:
  - Vytvoření více identit pro vyplnění registračních formulářů, průzkumů a nákupních vozíků
  - Bezpečně synchronizuje Vaše data bezdrátově mezi Macy, iPhony a iPady pomocí Dropboxu nebo lokálně přes Wi-Fi
  - Uchovává další citlivé informace v Bezpečných poznámkách
- - Uchovává softwarové licence a recepty
+ - Uchovává softwarové licence a stvrzenky
  - Vše uspořádává pomocí tagů a složek
  
 Tato nová verze 1Passwordu byla zcela přepracována, aby plně využila skvělé vlastnosti operačního systému OS X Lion, jakými jsou:
