@@ -3,38 +3,38 @@
 NOTA: per gli utenti di 1Password 3.8. Per risultati migliori, cancella la vecchia copia di 1Password prima di installare la versione del Mac App Store. 
 
 ★ 1Password ha quasi vinto ogni premio esistente! ★
- -Mac App Store: Le migliori applicazioni del 2011
+ -Mac App Store: Le migliori applicazioni del 2011
 -Vincitore del Macworld 2010 Eddy Award
- -Apps MacStories del 2011: il vincitore scelto dal lettore
+ -Apps MacStories del 2011: il vincitore scelto dal lettore
 - Valutazione di 4.5/5 Mice in una recensione di Macworld
- -Cult of Mac: Le 10 applicazioni più Innovative del 2011
+ -Cult of Mac: Le 10 applicazioni più Innovative del 2011
 - Mac|Life Editor's Choice con una valutazione di "Impressionante!"
- 
+ 
 Ma aspetta: c'è di più! Con 1Password è più facile:
- 
+ 
 - Usare Login multipli per lo stesso sito
- - Creare diverse Identità per inserire dati in formulari di registrazione, sondaggi e carrelli dello shopping
- - Sincronizzare in tutta sicurezza i tuoi dati over-the-air tra Mac, iPhone e iPad con Dropbox oppure a livello locale in Wi-Fi
- - Archiviare altre informazioni riservate nelle Note sicure
- - Salvare licenze software e ricevute
- - Organizzare tutto tramite tag e cartelle
- 
+ - Creare diverse Identità per inserire dati in formulari di registrazione, sondaggi e carrelli dello shopping
+ - Sincronizzare in tutta sicurezza i tuoi dati over-the-air tra Mac, iPhone e iPad con Dropbox oppure a livello locale in Wi-Fi
+ - Archiviare altre informazioni riservate nelle Note sicure
+ - Salvare licenze software e ricevute
+ - Organizzare tutto tramite tag e cartelle
+ 
 Questa nuova versione di 1Password è stata riprogettata per sfruttare le grandi caratteristiche di OS X Lion, come:
- 
+ 
 - Modalità a schermo intero
- - Maggiore sicurezza grazie alla compatibilità con la sandbox di Lion
- - Maggiore sicurezza grazie alla Calibrazione PBKDF2
- - Supporto 64-bit per un'esperienza vivace
- 
+ - Maggiore sicurezza grazie alla compatibilità con la sandbox di Lion
+ - Maggiore sicurezza grazie alla Calibrazione PBKDF2
+ - Supporto 64-bit per un'esperienza vivace
+ 
 Inoltre, questa versione presenta:
- - ** Nuovo ** Accesso rapito ai vostri dati dalla barra dei menu
- - Supporto migliorato per le estensioni dei browser
- 
+ - ** Nuovo ** Accesso rapito ai vostri dati dalla barra dei menu
+ - Supporto migliorato per le estensioni dei browser
+ 
 
 Le versioni mobile di 1Password sono disponibili per iPhone, iPod touch e iPad. - Sincronizzare in tutta sicurezza i tuoi dati over-the-air tra Mac, iPhone e iPad con Dropbox oppure a livello locale in Wi-Fi. 
 
 -------------------------------
- 
+ 
 NOTA DI SUPPORTO #1: Abbiamo avuto diversi rapporti riguardo un problema che non permetterebbe di andare oltre la schermata di benvenuto durante l'installazione di 1Password. Se si verifica questo problema, consulta l'articolo "1Password fails to continue after the initial welcome screen" sul nostro sito di supporto. 
 
 

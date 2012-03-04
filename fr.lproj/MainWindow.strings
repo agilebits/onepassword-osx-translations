@@ -62,7 +62,7 @@
 "matches" = "correspondances";
 
 /* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "5595"; */
-"Edit Smart Folder…" = "Modifier dossier Smart...";
+"Edit Smart Folder…" = "Modifier le dossier intelligent…";
 
 /* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "5249"; */
 "Wallet" = "Porte-monnaie";
@@ -128,7 +128,7 @@
 "is greater than or equal to" = "est supérieur ou égal à";
 
 /* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "5615"; */
-"New Smart Folder" = "Nouveau dossier Smart";
+"New Smart Folder" = "Nouveau dossier intelligent";
 
 /* Class = "NSMenuItem"; title = "is"; ObjectID = "5770"; */
 "is" = "est";

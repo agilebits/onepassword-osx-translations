@@ -8,7 +8,7 @@
 "Close" = "Fermer";
 
 /* Class = "NSTextFieldCell"; title = "Version Info"; ObjectID = "43"; */
-"Version Info" = "Infos version";
+"Version Info" = "Version Info";
 
 /* Class = "NSWindow"; title = "About"; ObjectID = "5"; */
 "About" = "À propos";

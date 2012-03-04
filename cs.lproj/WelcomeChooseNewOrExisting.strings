@@ -20,7 +20,7 @@
 "I am a new user" = "Jsem nový uživatel";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "29"; */
-"help" = "pomoc";
+"help" = "nápověda";
 
 /* Class = "NSImageView"; ibExternalAccessibilityDescription = "find existing"; ObjectID = "13"; */
 "find existing" = "najít existující";

@@ -1,6 +1,6 @@
 "__title__" = "Licencja oprogramowania";
 
-"__description__" = "Software product license, registration code or serial number.";
+"__description__" = "Licencja na oprogramowanie, kod rejestracyjny lub numer seryjny.";
 
 "product_name" = "Nazwa produktu";
 
@@ -24,7 +24,7 @@
 
 "publisher_website" = "Witryna";
 
-"support_email" = "Support Email";
+"support_email" = "Wsparcie e-mail";
 
 "order" = "Order";
 

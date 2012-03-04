@@ -3,38 +3,38 @@
 ANM: för befintliga 1Password 3.8 användare. För bättre resultat, var vänlig ta bort den gamla kopian av 1Password innan du installerar versionen från Mac App Store. 
 
 ★ 1Password har vunnit i princip varenda utmärkelse under solen! ★
- - Mac App Store: 2011 års bästa Appar
+ - Mac App Store: 2011 års bästa Appar
 - Macworld 2010 Eddy pristagare
- - MacStories 2011 års Appar: Vinnare av Läsarnas Val
+ - MacStories 2011 års Appar: Vinnare av Läsarnas Val
 - Fick 4,5/5 möss i en Macworld recension
- Cult of Mac: 2011 års 10 Mest Innovativa Appar
+ Cult of Mac: 2011 års 10 Mest Innovativa Appar
 - Mac|Life Editor's Choice med betygssättningen "Awesome!"
- 
+ 
 Men vänta, det finns mer! 1Password gör det lätt att:
- 
+ 
 - Använda flera inloggningar för samma sida
- - Skapa flera identiteter för att fylla i registreringsformulär, undersökningar och kundvagnar
- - Säkert synkronisera data trådlöst mellan Macar, iPhone och iPads med Dropbox eller lokalt över Wi-Fi
- - Lagra andra känsliga uppgifter i Säkra anteckningar
- - Spara programvarulicenser och kvitton
- - Organisera allt med taggar och mappar
- 
+ - Skapa flera identiteter för att fylla i registreringsformulär, undersökningar och kundvagnar
+ - Säkert synkronisera data trådlöst mellan Macar, iPhone och iPads med Dropbox eller lokalt över Wi-Fi
+ - Lagra andra känsliga uppgifter i Säkra anteckningar
+ - Spara programvarulicenser och kvitton
+ - Organisera allt med taggar och mappar
+ 
 Denna nya versionen av 1Password var omgjord för att utnyttja de fantastiska funktionerna i OS X Lion, såsom:
- 
+ 
 - Helskärmsläge
- - Bättre säkerhet med kompatibilitet för sandboxing i Lion
- - Ännu bättre säkerhet med PBKDF2 kalibrering
- - 64-bitarsstöd för en pigg upplevelse
- 
+ - Bättre säkerhet med kompatibilitet för sandboxing i Lion
+ - Ännu bättre säkerhet med PBKDF2 kalibrering
+ - 64-bitarsstöd för en pigg upplevelse
+ 
 Denna version innehåller även:
- - **Nytt** snabb åtkomst till data från menyraden
- - Förbättrat stöd för webbläsartillägg
- 
+ - **Nytt** snabb åtkomst till data från menyraden
+ - Förbättrat stöd för webbläsartillägg
+ 
 
 Mobila versioner av 1Password är tillgängliga för iPhone, iPod touch och iPad. Synkronisera och uppdatera med hjälp av Wi-Fi eller trådlöst via Dropbox så att din information alltid bara är klick bort. 
 
 -------------------------------
- 
+ 
 SUPPORTANMÄRKNING NR 1: Vi har fått flera rapporter om inte kunna komma förbi välkomstskärmen när du installerar 1Password. Om du stöter på detta problem, var vänligen se "1Password fails to continue after the initial welcome screen"-artikeln på vår supportsida. 
 
 

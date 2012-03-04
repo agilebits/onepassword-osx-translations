@@ -26,7 +26,7 @@
 "Automatically download icons and previews for new Logins" = "Télécharger automatiquement icônes et aperçus à chaque nouvel identifiant";
 
 /* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
-"Install Browser Extensions" = "Installer extensions du navigateur";
+"Install Browser Extensions" = "Install Browser Extensions";
 
 /* Class = "NSButtonCell"; title = "Change Master Password..."; ObjectID = "1365"; */
 "Change Master Password..." = "Changer mot de passe principal";

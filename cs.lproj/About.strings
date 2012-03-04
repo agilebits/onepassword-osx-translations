@@ -2,7 +2,7 @@
 "1Password" = "1Password";
 
 /* Class = "NSTextFieldCell"; title = "Copyright © 2006-11 \nAgileBits Inc."; ObjectID = "42"; */
-"Copyright © 2006-11 \nAgileBits Inc." = "Copyright © 2006-2011\nAgileBits Inc.";
+"Copyright © 2006-11 \nAgileBits Inc." = "Copyright © 2006-2012\nAgileBits Inc.";
 
 /* Class = "NSButtonCell"; title = "Close"; ObjectID = "80"; */
 "Close" = "Zavřít";

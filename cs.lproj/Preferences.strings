@@ -5,7 +5,7 @@
 "Lock when screen saver is activated" = "Uzamknout při aktivaci spořiče obrazovky";
 
 /* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
-"Show helper icon in menu bar" = "Zobrazovat pomocnou ikonu v Řádku nabídek";
+"Show helper icon in menu bar" = "Zobrazovat ikonu helperu v Řádku nabídek";
 
 /* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
 "Clear values copied to clipboard after" = "Smazat hodnoty, zkopírované do schránky za";
@@ -80,7 +80,7 @@
 "Keyboard Shortcuts" = "Klávesové zkratky";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "1804"; */
-"help" = "pomoc";
+"help" = "nápověda";
 
 /* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
 "Login Previews" = "Náhledy přihlášení";

@@ -17,7 +17,7 @@
 "Title" = "Tytuł";
 
 /* Class = "NSTextView"; ibExternalAccessibilityDescription = "Secure Notes"; ObjectID = "3177"; */
-"Secure Notes" = "Secure Notes";
+"Secure Notes" = "Bezpieczne notatki";
 
 /* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3151"; */
 "Last modified" = "Ostatnio zmieniane";

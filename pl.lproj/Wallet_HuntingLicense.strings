@@ -1,4 +1,4 @@
-"__title__" = "Hunting License";
+"__title__" = "Licencja myśliwska";
 
 "name" = "Imię i nazwisko";
 
@@ -16,6 +16,6 @@
 
 "quota#9" = "Quota";
 
-"state" = "State";
+"state" = "Stan";
 
 "country" = "Kraj";

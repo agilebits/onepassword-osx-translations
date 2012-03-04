@@ -14,15 +14,15 @@
 
 "number" = "Numer";
 
-"class" = "License Class";
+"class" = "Klasa licencji";
 
-"class#9" = "Class";
+"class#9" = "Klasa";
 
-"conditions" = "Conditions / Restrictions";
+"conditions" = "Warunki / ograniczenia";
 
-"conditions#9" = "Conditions";
+"conditions#9" = "Warunki";
 
-"state" = "State";
+"state" = "Stan";
 
 "country" = "Kraj";
 
@@ -33,4 +33,4 @@
 
 "menu.sex.male" = "Male";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "Kobieta";

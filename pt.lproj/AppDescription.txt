@@ -3,38 +3,38 @@ O 1Password é o seu gestor de palavras-passe e identidade. É muito mais que si
 NOTA: para actuais utilizadores do 1Password 3.8. Para melhores resultados, por favor elimine a sua cópia antiga do 1Password antes de instalar a versão da Mac App Store. 
 
 ★ O 1Password ganhou praticamente todos os prémios existentes! ★
- - Mac App Store: Melhores aplicações de 2011
+ - Mac App Store: Melhores aplicações de 2011
 - Vencedor do Prémio Eddy, Macworld 2010
- - MacStories Apps of 2011: Vencedor do Prémio Escolha dos Leitores
+ - MacStories Apps of 2011: Vencedor do Prémio Escolha dos Leitores
 - Pontuação de 4.5/5 Ratos numa análise Macworld
- - Cult of Mac: 10 Aplicações mais inovadoras de 2011
+ - Cult of Mac: 10 Aplicações mais inovadoras de 2011
 - Escolha do editor Mac|Life com uma classificação de “Espectacular!”
- 
+ 
 Mas espere, há mais! O 1Password torna fácil:
- 
+ 
 - Usar diferentes dados de início de sessão para o mesmo site
- - Crie várias identidades para preencher em formulários de inscrição, pesquisas e carrinhos de compras
- - Sincronize os seus dados em segurança e over-the-air entre Macs, iPhones e iPads com Dropbox, ou localmente através de Wi-Fi
- - Armazene outras informações confidenciais em notas seguras
- - Guarde licenças de software e recibos
- - Organize tudo com etiquetas e pastas
- 
+ - Crie várias identidades para preencher em formulários de inscrição, pesquisas e carrinhos de compras
+ - Sincronize os seus dados em segurança e over-the-air entre Macs, iPhones e iPads com Dropbox, ou localmente através de Wi-Fi
+ - Armazene outras informações confidenciais em notas seguras
+ - Guarde licenças de software e recibos
+ - Organize tudo com etiquetas e pastas
+ 
 Esta nova versão do 1Password foi redesenhada para aproveitar as óptimas funcionalidade do OS X Lion, tais como:
- 
+ 
 - Modo ecrã completo
- - Melhor segurança com compatibilidade para sandboxing no Lion
- - Segurança ainda melhor com calibração PBKDF2
- - Suporte 64 bits para uma experiência com rapidez de resposta
- 
+ - Melhor segurança com compatibilidade para sandboxing no Lion
+ - Segurança ainda melhor com calibração PBKDF2
+ - Suporte 64 bits para uma experiência com rapidez de resposta
+ 
 Esta versão também inclui:
- - ** Novo ** Acesso rápido aos seus dados a partir da barra de menus
- - Suporte melhorado para extensões de navegadores
- 
+ - ** Novo ** Acesso rápido aos seus dados a partir da barra de menus
+ - Suporte melhorado para extensões de navegadores
+ 
 
 Versões móveis do 1Password estão disponíveis para iPhone, iPod touch e iPad. Sincronize e actualize utilizando Wi-Fi ou over-the-air via Dropbox para que a sua informação esteja sempre apenas um toque de distância. 
 
 -------------------------------
- 
+ 
 Nota de suporte 1: Temos tido vários relatórios sobre não ser possível passar da janela de boas-vindas ao instalar o 1Password. Se encontrar esta dificuldade, por favor consulte o artigo "1Password fails to continue after the initial welcome screen" no nosso site de suporte. 
 
 
