@@ -1,6 +1,6 @@
 "__title__" = "身份識別";
 
-"__description__" = "It does not really belong to Wallet, we keep it here to generate the detail view.";
+"__description__" = "此項目並非真正屬於錢包項目，我們把它放在這裡是為了便於產生詳細資料檢視。";
 
 "name" = "身份";
 
@@ -10,7 +10,7 @@
 
 "lastname" = "姓氏";
 
-"sex" = "Sex";
+"sex" = "性別";
 
 "birthdate" = "出生日期";
 
@@ -46,7 +46,7 @@
 
 "forumsig" = "論壇簽名";
 
-"address" = "Address";
+"address" = "地址";
 
 "address1" = "地址行1";
 
@@ -58,7 +58,7 @@
 
 "zip" = "郵遞區號";
 
-"country" = "Country";
+"country" = "國家";
 
 "location" = "位置";
 
@@ -73,9 +73,9 @@
 "busphone" = "商務";
 
 
-"menu.sex.male" = "Male";
+"menu.sex.male" = "男性";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "女性";
 
 /* countries */
 
@@ -103,59 +103,59 @@
 
 "menu.country.es" = "西班牙";
 
-"menu.country.jp" = "日本";
+"menu.country.jp" = "Japan";
 
-"menu.country.at" = "奧地利";
+"menu.country.at" = "Austria";
 
-"menu.country.be" = "比利時";
+"menu.country.be" = "Belgium";
 
-"menu.country.ad" = "安道爾";
+"menu.country.ad" = "Andorra";
 
-"menu.country.ae" = "阿拉伯聯合酋長國";
+"menu.country.ae" = "United Arab Emirates";
 
 "menu.country.af" = "阿富汗";
 
-"menu.country.ag" = "安堤瓜與巴爾布達";
+"menu.country.ag" = "Antigua and Barbuda";
 
-"menu.country.ai" = "安圭拉";
+"menu.country.ai" = "Anguilla";
 
-"menu.country.al" = "阿爾巴尼亞";
+"menu.country.al" = "Albania";
 
-"menu.country.am" = "亞美尼亞";
+"menu.country.am" = "Armenia";
 
-"menu.country.an" = "荷屬安地列斯群島";
+"menu.country.an" = "Netherlands Antilles";
 
-"menu.country.ao" = "安哥拉";
+"menu.country.ao" = "Angola";
 
-"menu.country.aq" = "南極洲";
+"menu.country.aq" = "Antarctica";
 
-"menu.country.ar" = "阿根廷";
+"menu.country.ar" = "Argentina";
 
-"menu.country.as" = "美屬薩摩亞";
+"menu.country.as" = "American Samoa";
 
-"menu.country.aw" = "阿魯巴";
+"menu.country.aw" = "Aruba";
 
-"menu.country.az" = "阿塞拜疆";
+"menu.country.az" = "Azerbaidjan";
 
-"menu.country.ba" = "波士尼亞-黑塞哥維那";
+"menu.country.ba" = "Bosnia-Herzegovina";
 
-"menu.country.bb" = "巴巴多斯";
+"menu.country.bb" = "Barbados";
 
-"menu.country.bd" = "孟加拉";
+"menu.country.bd" = "Bangladesh";
 
-"menu.country.bf" = "布吉納法索";
+"menu.country.bf" = "Burkina Faso";
 
-"menu.country.bg" = "保加利亞";
+"menu.country.bg" = "Bulgaria";
 
-"menu.country.bh" = "巴林";
+"menu.country.bh" = "Bahrain";
 
-"menu.country.bi" = "布隆迪";
+"menu.country.bi" = "Burundi";
 
-"menu.country.bj" = "貝寧";
+"menu.country.bj" = "Benin";
 
-"menu.country.bm" = "百慕大";
+"menu.country.bm" = "Bermuda";
 
-"menu.country.bn" = "汶萊達魯薩蘭國";
+"menu.country.bn" = "Brunei Darussalam";
 
 "menu.country.bo" = "Bolivia";
 
@@ -293,7 +293,7 @@
 
 "menu.country.iq" = "Iraq";
 
-"menu.country.ir" = "Iran";
+"menu.country.ir" = "Indonesia";
 
 "menu.country.is" = "Iceland";
 

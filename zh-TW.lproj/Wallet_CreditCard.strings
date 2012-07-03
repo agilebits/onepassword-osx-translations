@@ -1,38 +1,38 @@
-"__title__" = "Credit Card";
+"__title__" = "信用卡";
 
-"__description__" = "Credit card information";
+"__description__" = "信用卡資訊";
 
 "set.contactInfo" = "聯絡資訊";
 
-"cardholder" = "Cardholder's Name";
+"cardholder" = "持卡人姓名";
 
-"cardholder#9" = "Cardholder";
+"cardholder#9" = "持卡人";
 
 "type" = "資料庫類型";
 
-"ccnum" = "Number";
+"ccnum" = "卡號";
 
-"cvv" = "Verification Number";
+"cvv" = "驗證安全碼";
 
-"cvv#9" = "CVC";
+"cvv#9" = "驗證安全碼";
 
-"expiry" = "Expiry Date";
+"expiry" = "有效期限";
 
-"expiry#9" = "Expiry";
+"expiry#9" = "有限期限";
 
-"validFrom" = "Valid From";
+"validFrom" = "生效日期";
 
-"validFrom#9" = "Issued";
+"validFrom#9" = "發卡銀行";
 
 "contactInfo" = "聯絡資訊";
 
-"bank" = "Issuing Bank";
+"bank" = "發卡銀行";
 
-"bank#9" = "Bank";
+"bank#9" = "銀行";
 
-"details" = "Additional Details";
+"details" = "更多詳細資訊";
 
-"details#9" = "Details";
+"details#9" = "詳細資訊";
 
 "phoneLocal" = "電話(本地)";
 
@@ -42,29 +42,29 @@
 
 "phoneTollFree#9" = "免費電話";
 
-"phoneIntl" = "Phone (International)";
+"phoneIntl" = "電話 (國際)";
 
-"phoneIntl#9" = "Intl";
+"phoneIntl#9" = "國際";
 
 "website" = "網站";
 
 "pin" = "PIN";
 
-"creditLimit" = "Credit Limit";
+"creditLimit" = "信用額度";
 
-"creditLimit#9" = "Limit";
+"creditLimit#9" = "信用額度";
 
-"cashLimit" = "Cash Withdrawal Limit";
+"cashLimit" = "預借現金額度";
 
-"cashLimit#9" = "Cash Limit";
+"cashLimit#9" = "預借現金額度";
 
-"interest" = "Interest Rate";
+"interest" = "利率";
 
-"interest#9" = "Interest";
+"interest#9" = "利率";
 
-"issuenumber" = "Issue Number";
+"issuenumber" = "發行編號";
 
-"issuenumber#9" = "Issue #";
+"issuenumber#9" = "發行編號 #";
 
 /* credit card types */
 

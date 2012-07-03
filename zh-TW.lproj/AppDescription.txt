@@ -1,41 +1,41 @@
-1Password is your password and identity companion. It leaps past simple password storage because 1Password works directly with your browser, saves your user names and passwords, and effortlessly creates strong, unique passwords for each site. 1Password can then automatically and securely log you in, enter credit card information, and fill registration forms, all while encrypting your information with the one password you need to remember. 
+1Password 是您的密碼和身份的助手 1Password 超越了以往簡單的密碼存儲，因為它可直接配合您的瀏覽器使用來保存您的用戶名和密碼，並可輕而易舉地為各個網站建立獨有的強大密碼。 接下來1Password 可自動且安全地讓您進行登錄、輸入信用卡資料以及填寫註冊表單，而您僅需記住一個密碼即可加密您所有的資料。 
 
-NOTE: for existing 1Password 3.8 users. For better results, please delete the old copy of 1Password before installing the version from the Mac App Store. 
+注意：對於使用 1Password 3.8的使用者 為了獲得更好的使用體驗，請在從 Mac App Store 安裝本版本之前刪除舊版本的 1Password。 
 
-★ 1Password has won just about every award under the Sun! ★
+★ 1Password 幾乎獲得了業界所有的獎項！ ★
  Mac 應用程式商店： 2011 年最佳應用程式
-- Macworld 2010 Eddy Award Winner
- - MacStories Apps of 2011: Reader’s Choice Winner
-- Scored 4.5/5 Mice in a Macworld review
- - Cult of Mac: 10 Most Innovative Apps of 2011
-- Mac|Life Editor’s Choice with a rating of “Awesome!”
+- Macworld 2010 Eddy 獎優勝者
+ -2011 年 MacStories 應用程式選評： 獲得最多讀者選擇
+ 在 Macworld 總分為5分的評測中獲得 4.5分
+ - Cult of Mac: 2011年10大最具創新性應用程式
+- Mac|Life 編輯推薦獎，並獲得了該雜誌 "超棒！"的評價.
  
-But wait, there’s more! 1Password makes it easy to:
+別急，還有更多！ 1Password 可以讓您輕而易舉地：
  
-- Use multiple Logins for the same site
- - Create multiple Identities for filling into registration forms, surveys, and shopping carts
- - Securely sync your data over-the-air between Macs, iPhones, and iPads with Dropbox, or locally over Wi-Fi
- - Store other sensitive information in Secure Notes
- - Save software licenses and receipts
- - Organize everything with tags and folders
+- 在同一個網站使用多個登錄帳號
+ - 創建多項身份識別，用於填寫註冊表單、調查問卷和購物車資料
+ - 可讓你的資料在 Mac、iPhone、iPad 與 Dropbox 間進行安全的雲端同步，或在本地通過 Wi-Fi 進行同步
+ - 安全備註中儲存各種敏感性資料
+ - 保存軟體許可與收據
+ - 透過資料夾與標籤整理每一樣事物
  
-This new version of 1Password was re-engineered to leverage the great features in OS X Lion, such as:
+全新版本的 1Password，我們進行了重新開發，充分利用了 OS X Lion 系統的強大功能，例如：
  
-- Full-screen mode
- - Better security with compatibility for sandboxing in Lion
- - Even better security with PBKDF2 Calibration
- - 64-bit support for a zippy experience
+- 全螢幕模式
+ - 相容 Lion 的 sandbox模式，更加安全
+ - 使用 PBKDF2 校準，更進一步的安全性
+ - 64位元支援，更快速的體驗
  
-This version also provides:
- - **New** Quick access to your data from the menu bar
- - Improved support for browser extensions
+此版本還提供了：
+ -** 新 ** 在功能表列上快速存取您的資料
+ -瀏覽器擴充元件強化的支援
  
 
-Mobile versions of 1Password are available for iPhone, iPod touch, and iPad. Sync and update using Wi-Fi or over-the-air via Dropbox so your information is always just a tap away. 
+為iPhone、iPod touch 與 iPad 提供移動版的1Password 使用 Wi-Fi 或在雲端透過 Dropbox 進行同步和更新，只需指尖輕按，您的資訊就會出現。 
 
 -------------------------------
  
-SUPPORT NOTE #1: We got several reports about not being able to get past the Welcome screen when installing 1Password. If you encounter this issue, please see the "1Password fails to continue after the initial welcome screen" article on our support site. 
+客服備註 1：我們收到了一些在安裝 1Password 時進入「歡迎」視窗後就無法繼續的報告。  如果您遇到此問題，請參考我們的支援網站上的"1Password fails to continue after the initial welcome screen"文章。 
 
 
-SUPPORT NOTE #2: We love to hear your feedback. Please remember, we cannot reply to your comments in Mac App Store. If you have a question, please contact us on our support site. 謝謝！
+客服備註 # 2：我們熱愛傾聽您的寶貴意見。 請記住，我們無法回覆您在 Mac App Store上的評論。 如果您有任何問題，請在我們的客服支援網站上與我們聯繫。 謝謝！

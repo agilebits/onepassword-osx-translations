@@ -1,14 +1,14 @@
 "__title__" = "護照";
 
-"__description__" = "Government issued Passport.";
+"__description__" = "政府發行護照";
 
 "type" = "資料庫類型";
 
-"fullname" = "Full Name";
+"fullname" = "全名";
 
-"number" = "Number";
+"number" = "卡號";
 
-"birthdate" = "Date of Birth";
+"birthdate" = "出生日期";
 
 "birthplace" = "出生地";
 
@@ -16,7 +16,7 @@
 
 "code" = "代碼";
 
-"sex" = "Sex";
+"sex" = "性別";
 
 "issuing_country" = "發照國";
 
@@ -24,20 +24,20 @@
 
 "issue_date" = "發照時間";
 
-"expiry_date" = "Expiry Date";
+"expiry_date" = "有效期限";
 
 
-"menu.sex.male" = "Male";
+"menu.sex.male" = "男性";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "女性";
 
 "type#9" = "資料庫類型";
 
 "fullname#9" = "名稱";
 
-"number#9" = "Number";
+"number#9" = "卡號";
 
-"birthdate#9" = "Birthday";
+"birthdate#9" = "生日";
 
 "birthplace#9" = "出生地";
 
@@ -45,12 +45,12 @@
 
 "code#9" = "代碼";
 
-"sex#9" = "Sex";
+"sex#9" = "性別";
 
-"issuing_country#9" = "Country";
+"issuing_country#9" = "國家";
 
 "issuing_authority#9" = "發照機構";
 
-"issue_date#9" = "Issued";
+"issue_date#9" = "發卡銀行";
 
-"expiry_date#9" = "Expires";
+"expiry_date#9" = "有效期限";

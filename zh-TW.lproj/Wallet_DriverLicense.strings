@@ -1,36 +1,36 @@
-"__title__" = "Driver's License";
+"__title__" = "駕照";
 
-"fullname" = "Full Name";
+"fullname" = "全名";
 
-"address" = "Address";
+"address" = "地址";
 
-"birthdate" = "Date of Birth";
+"birthdate" = "出生日期";
 
-"birthdate#9" = "Birthday";
+"birthdate#9" = "生日";
 
-"sex" = "Sex";
+"sex" = "性別";
 
-"height" = "Height";
+"height" = "身高";
 
-"number" = "Number";
+"number" = "卡號";
 
-"class" = "License Class";
+"class" = "駕照種類";
 
-"class#9" = "Class";
+"class#9" = "種類";
 
-"conditions" = "Conditions / Restrictions";
+"conditions" = "條件 / 限制";
 
-"conditions#9" = "Conditions";
+"conditions#9" = "條件";
 
-"state" = "State";
+"state" = "狀態";
 
-"country" = "Country";
+"country" = "國家";
 
-"expiry_date" = "Expiry Date";
+"expiry_date" = "有效期限";
 
-"expiry_date#9" = "Expires";
+"expiry_date#9" = "有效期限";
 
 
-"menu.sex.male" = "Male";
+"menu.sex.male" = "男性";
 
-"menu.sex.female" = "Female";
+"menu.sex.female" = "女性";

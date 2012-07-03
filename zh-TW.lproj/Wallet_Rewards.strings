@@ -1,8 +1,8 @@
-"__title__" = "Reward Program";
+"__title__" = "獎勵計畫";
 
-"__description__" = "Customer loyalty programs, including frequent flyer and hotel rewards";
+"__description__" = "客戶獎厲計畫，包括飛行與酒店獎勵";
 
-"company_name" = "Company Name";
+"company_name" = "公司名稱";
 
 "member_name" = "會員名稱";
 
@@ -10,17 +10,17 @@
 
 "membership_no" = "會員 #";
 
-"additional_no" = "Membership # (Additional)";
+"additional_no" = "成員資格 # (附加)";
 
 "pin" = "PIN";
 
-"customer_service_phone" = "Customer Service Phone";
+"customer_service_phone" = "客戶服務電話";
 
-"reservations_phone" = "Reservations Phone";
+"reservations_phone" = "預訂電話";
 
 "website" = "網站";
 
-"extra" = "More Information";
+"extra" = "詳細資訊";
 
 "company_name#9" = "公司";
 
@@ -28,16 +28,16 @@
 
 "member_since#9" = "會員年份";
 
-"membership_no#9" = "Number";
+"membership_no#9" = "卡號";
 
-"additional_no#9" = "Number 2";
+"additional_no#9" = "編號 2";
 
 "pin#9" = "PIN";
 
-"customer_service_phone#9" = "Cust Serv";
+"customer_service_phone#9" = "客戶服務";
 
-"reservations_phone#9" = "Reservs.";
+"reservations_phone#9" = "預定電話";
 
 "website#9" = "網站";
 
-"extra#9" = "More Info";
+"extra#9" = "更多的資訊";

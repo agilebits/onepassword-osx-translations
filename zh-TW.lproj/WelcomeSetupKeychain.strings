@@ -17,7 +17,7 @@
 "master password" = "主密碼";
 
 /* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "86"; */
-"Master Password" = "Master Password";
+"Master Password" = "主密碼";
 
 /* Class = "NSButtonCell"; title = "Find It"; ObjectID = "107"; */
 "Find It" = "尋找";
@@ -26,7 +26,7 @@
 "Password Hint" = "密碼提示";
 
 /* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "109"; */
-"help" = "help";
+"help" = "説明";
 
 /* Class = "NSButtonCell"; title = "Continue"; ObjectID = "7"; */
 "Continue" = "繼續";

@@ -2,11 +2,11 @@
 
 "name" = "全名";
 
-"valid_from" = "Valid From";
+"valid_from" = "生效日期";
 
 "valid_from#9" = "有效";
 
-"expires" = "Expires";
+"expires" = "有效期限";
 
 "game" = "核准狩獵野生動物";
 
@@ -16,6 +16,6 @@
 
 "quota#9" = "配額";
 
-"state" = "State";
+"state" = "狀態";
 
-"country" = "Country";
+"country" = "國家";

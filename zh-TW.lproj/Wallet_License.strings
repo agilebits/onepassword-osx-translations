@@ -1,67 +1,67 @@
-"__title__" = "Software License";
+"__title__" = "軟體許可";
 
-"__description__" = "Software product license, registration code or serial number.";
+"__description__" = "軟體許可、 註冊碼或序號。";
 
-"product_name" = "Product Name";
+"product_name" = "軟體名稱";
 
-"product_version" = "Version";
+"product_version" = "版本";
 
-"reg_name" = "Licensed To";
+"reg_name" = "授權給";
 
-"reg_code" = "License Key";
+"reg_code" = "授權金鑰";
 
-"reg_email" = "Registered Email";
+"reg_email" = "註冊的電子郵件";
 
 "company" = "公司";
 
-"download_link" = "Download Page";
+"download_link" = "下載網頁";
 
-"publisher" = "Publisher";
+"publisher" = "發行者";
 
-"publisher_name" = "Publisher";
+"publisher_name" = "發行者";
 
-"retail_price" = "Retail Price";
+"retail_price" = "零售價格";
 
 "publisher_website" = "網站";
 
-"support_email" = "Support Email";
+"support_email" = "客服電子郵件";
 
-"order" = "Order";
+"order" = "訂單";
 
-"order_number" = "Order Number";
+"order_number" = "訂單編號";
 
-"order_date" = "Purchase Date";
+"order_date" = "購買日";
 
-"order_total" = "Order Total";
+"order_total" = "訂單總計";
 
-"product_name#9" = "Product";
+"product_name#9" = "產品";
 
-"product_version#9" = "Version";
+"product_version#9" = "版本";
 
 "reg_name#9" = "擁有者";
 
-"reg_code#9" = "Key";
+"reg_code#9" = "金鑰";
 
 "reg_email#9" = "電子郵件帳號";
 
 "company#9" = "公司";
 
-"download_link#9" = "Downld URL";
+"download_link#9" = "下載位址";
 
-"publisher#9" = "Publisher";
+"publisher#9" = "發行者";
 
-"publisher_name#9" = "Publisher";
+"publisher_name#9" = "發行者";
 
-"retail_price#9" = "Price";
+"retail_price#9" = "價格";
 
 "publisher_website#9" = "網站";
 
-"support_email#9" = "Support";
+"support_email#9" = "客服";
 
-"order#9" = "Order";
+"order#9" = "訂單";
 
-"order_number#9" = "Order #";
+"order_number#9" = "訂單編號 #";
 
-"order_date#9" = "Purchased";
+"order_date#9" = "購買日期";
 
-"order_total#9" = "Total";
+"order_total#9" = "合計";
