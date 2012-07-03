@@ -1,0 +1,91 @@
+"__title__" = "Thẻ ghi nợ (Credit Card)";
+
+"__description__" = "Thông tin thẻ ghi nợ";
+
+"set.contactInfo" = "Thông tin liên hệ";
+
+"cardholder" = "Tên chủ thẻ";
+
+"cardholder#9" = "Chủ thẻ";
+
+"type" = "Loại";
+
+"ccnum" = "Số";
+
+"cvv" = "Số chứng thực";
+
+"cvv#9" = "CVC";
+
+"expiry" = "Ngày hết hạn";
+
+"expiry#9" = "Hết hạn";
+
+"validFrom" = "Hợp lệ từ";
+
+"validFrom#9" = "Ban hành";
+
+"contactInfo" = "Thông tin liên hệ";
+
+"bank" = "Ngân hàng phát hành";
+
+"bank#9" = "Ngân hàng";
+
+"details" = "Thông tin thêm";
+
+"details#9" = "Thông tin";
+
+"phoneLocal" = "Điện thoại (tại địa phương)";
+
+"phoneLocal#9" = "Điện thoại";
+
+"phoneTollFree" = "Điện thoại (miễn phí)";
+
+"phoneTollFree#9" = "Gọi Miễn phí";
+
+"phoneIntl" = "Điện thoại (Quốc tế)";
+
+"phoneIntl#9" = "Intl";
+
+"website" = "Trang web";
+
+"pin" = "Mã PIN";
+
+"creditLimit" = "Hạn mức tín dụng";
+
+"creditLimit#9" = "Hạn mức";
+
+"cashLimit" = "Giới hạn rút tiền mặt";
+
+"cashLimit#9" = "Giới hạn thanh toán";
+
+"interest" = "Lãi suất";
+
+"interest#9" = "Lãi suất";
+
+"issuenumber" = "Số phát hành";
+
+"issuenumber#9" = "Phát hành #";
+
+/* credit card types */
+
+"menu.type.visa" = "VISA";
+
+"menu.type.mc" = "MasterCard";
+
+"menu.type.amex" = "American Express";
+
+"menu.type.diners" = "Diners Club";
+
+"menu.type.discover" = "Discover";
+
+"menu.type.jcb" = "JCB";
+
+"menu.type.solo" = "Solo";
+
+"menu.type.switch" = "Chuyển đổi";
+
+"menu.type.maestro" = "MasterCard Maestro";
+
+"menu.type.visaelectron" = "VISA Electron";
+
+"menu.type.carteblanche" = "Carte Blanche";

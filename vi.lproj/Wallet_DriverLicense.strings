@@ -1,0 +1,36 @@
+"__title__" = "Giấy phép lái xe";
+
+"fullname" = "Họ tên";
+
+"address" = "Địa chỉ";
+
+"birthdate" = "Ngày sinh";
+
+"birthdate#9" = "Sinh nhật";
+
+"sex" = "Giới tính";
+
+"height" = "Chiều cao";
+
+"number" = "Số";
+
+"class" = "Giấy phép hang";
+
+"class#9" = "Hạng";
+
+"conditions" = "Điều kiên / Hạn chế";
+
+"conditions#9" = "Điều kiện";
+
+"state" = "Nhà nước";
+
+"country" = "Quốc gia";
+
+"expiry_date" = "Ngày hết hạn";
+
+"expiry_date#9" = "Hết hạn";
+
+
+"menu.sex.male" = "Nam";
+
+"menu.sex.female" = "Nữ";

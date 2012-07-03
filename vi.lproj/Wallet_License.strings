@@ -1,0 +1,67 @@
+"__title__" = "Giấy phép phần mềm";
+
+"__description__" = "Giấy phép phần mềm, mã đăng kí hay mã serial.";
+
+"product_name" = "Tên sản phẩm";
+
+"product_version" = "Phiên bản";
+
+"reg_name" = "Cấp phép cho";
+
+"reg_code" = "Mã giấy phép";
+
+"reg_email" = "Email đăng kí";
+
+"company" = "Công ty";
+
+"download_link" = "Trang tải về";
+
+"publisher" = "Nhà phát hành";
+
+"publisher_name" = "Nhà phát hành";
+
+"retail_price" = "Giá bán lẻ";
+
+"publisher_website" = "Trang web";
+
+"support_email" = "Email hỗ trợ";
+
+"order" = "Đặt hàng";
+
+"order_number" = "Số đơn hàng";
+
+"order_date" = "Ngày mua";
+
+"order_total" = "Tổng số hơn hàng";
+
+"product_name#9" = "Sản phẩm";
+
+"product_version#9" = "Phiên bản";
+
+"reg_name#9" = "Chủ tài khoản";
+
+"reg_code#9" = "Mã khóa";
+
+"reg_email#9" = "Email";
+
+"company#9" = "Công ty";
+
+"download_link#9" = "URL tải về";
+
+"publisher#9" = "Nhà phát hành";
+
+"publisher_name#9" = "Nhà phát hành";
+
+"retail_price#9" = "Giá";
+
+"publisher_website#9" = "Trang web";
+
+"support_email#9" = "Hỗ trợ";
+
+"order#9" = "Đặt hàng";
+
+"order_number#9" = "Đặt hàng #";
+
+"order_date#9" = "Đã thanh toán";
+
+"order_total#9" = "Tổng cộng";

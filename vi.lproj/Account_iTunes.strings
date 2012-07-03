@@ -1,0 +1,17 @@
+"__title__" = "iTunes";
+
+"__description__" = "Thông tin tài khoản iTunes.";
+
+"username" = "Apple ID (email)";
+
+"username#9" = "Email";
+
+"password" = "Mật khẩu";
+
+"question" = "Câu hỏi bí mật";
+
+"question#9" = "Bảo mật Q";
+
+"answer" = "Câu trả lời bảo mật";
+
+"answer#9" = "Bảo mật A";

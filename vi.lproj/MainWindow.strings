@@ -1,0 +1,299 @@
+/* Class = "NSButtonCell"; title = "Customize..."; ObjectID = "4989"; */
+"Customize..." = "Tùy chỉnh...";
+
+/* Class = "NSTableColumn"; headerCell.title = "Created Date"; ObjectID = "4993"; */
+"Created Date" = "Ngày khởi tạo";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1821"; */
+"Menu" = "Trình đơn";
+
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "4974"; */
+"Type" = "Loại";
+
+/* Class = "NSMenuItem"; title = "of the following are true"; ObjectID = "5062"; */
+"of the following are true" = "dưới đây là đúng";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "5290"; */
+"Kind" = "Loại";
+
+/* Class = "NSMenuItem"; title = "Low (4-Digit Code)"; ObjectID = "5184"; */
+"Low (4-Digit Code)" = "Thấp (Mã 4 chữ số)";
+
+/* Class = "NSTableColumn"; headerCell.title = "Modified Date"; ObjectID = "3496"; */
+"Modified Date" = "Ngày sửa đổi";
+
+/* Class = "NSMenuItem"; title = "Identity"; ObjectID = "5246"; */
+"Identity" = "Danh tính";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "3465"; */
+"Rename" = "Đổi tên";
+
+/* Class = "NSButtonCell"; title = "Add Sample Data"; ObjectID = "5029"; */
+"Add Sample Data" = "Thêm dữ liệu mẫu";
+
+/* Class = "NSMenuItem"; title = "Folder"; ObjectID = "5786"; */
+"Folder" = "Thư mục";
+
+/* Class = "NSMenuItem"; title = "Yes"; ObjectID = "5369"; */
+"Yes" = "Có";
+
+/* Class = "NSMenuItem"; title = "40"; ObjectID = "5745"; */
+"40" = "40";
+
+/* Class = "NSMenuItem"; title = "Modified"; ObjectID = "5639"; */
+"Modified" = "Thay đổi";
+
+/* Class = "NSTextFieldCell"; title = "1976-04-01 3:00 PM"; ObjectID = "4994"; */
+"1976-04-01 3:00 PM" = "01-04-1976 3:00 Chiều";
+
+/* Class = "NSMenuItem"; title = "begins with"; ObjectID = "5776"; */
+"begins with" = "bắt đầu với";
+
+/* Class = "OPWindowWithCmdSHandler"; title = "1Password"; ObjectID = "505"; */
+"1Password" = "1Password";
+
+/* Class = "NSOutlineView"; ibExternalAccessibilityDescription = "sidebar"; ObjectID = "2637"; */
+"sidebar" = "dải tiện ích";
+
+/* Class = "NSMenuItem"; title = "Account"; ObjectID = "5245"; */
+"Account" = "Tài khoản";
+
+/* Class = "NSMenuItem"; title = "matches"; ObjectID = "5775"; */
+"matches" = "khớp";
+
+/* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "5595"; */
+"Edit Smart Folder…" = "Chỉnh sửa Thư mục Thông minh";
+
+/* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "5249"; */
+"Wallet" = "Ví";
+
+/* Class = "NSMenuItem"; title = "Any"; ObjectID = "5063"; */
+"Any" = "Bất kì";
+
+/* Class = "NSMenuItem"; title = "Icon"; ObjectID = "4971"; */
+"Icon" = "Biểu tượng";
+
+/* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "4271"; */
+"New Wallet Item…" = "Ví mới";
+
+/* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "4276"; */
+"New Secure Note" = "Lưu ý bảo mật mới";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Drag Splitview"; ObjectID = "4263"; */
+"Drag Splitview" = "Kéo để xem phân chia";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "4889"; */
+"Cut" = "Cắt";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "5619"; */
+"None" = "Không có";
+
+/* Class = "NSMenuItem"; title = "Username"; ObjectID = "5593"; */
+"Username" = "Tên người dùng";
+
+/* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "4272"; */
+"New Software License" = "Giấy phép phần mềm mới";
+
+/* Class = "NSTextFieldCell"; title = "Incorrect Password"; ObjectID = "4670"; */
+"Incorrect Password" = "Mật khẩu không đúng";
+
+/* Class = "NSMenuItem"; title = "Password"; ObjectID = "5594"; */
+"Password" = "Mật khẩu";
+
+/* Class = "NSMenuItem"; title = "before"; ObjectID = "5638"; */
+"before" = "trước khi";
+
+/* Class = "NSMenuItem"; title = "is like"; ObjectID = "5752"; */
+"is like" = "giống như";
+
+/* Class = "NSMenuItem"; title = "New Login"; ObjectID = "4281"; */
+"New Login" = "Đăng nhập mới";
+
+/* Class = "NSMenuItem"; title = "Security Level"; ObjectID = "5179"; */
+"Security Level" = "Mức độ bảo mật";
+
+/* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "5653"; */
+"New Password…" = "Mật khẩu mới";
+
+/* Class = "NSMenuItem"; title = "contains"; ObjectID = "5766"; */
+"contains" = "bao gồm";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Add Item"; ObjectID = "4914"; */
+"Add Item" = "Thêm khoản mục";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "5064"; */
+"All" = "Tất cả";
+
+/* Class = "NSMenuItem"; title = "is greater than or equal to"; ObjectID = "5749"; */
+"is greater than or equal to" = "lớn hơn hoặc bằng";
+
+/* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "5615"; */
+"New Smart Folder" = "Thư mục thông minh mới";
+
+/* Class = "NSMenuItem"; title = "is"; ObjectID = "5770"; */
+"is" = "là";
+
+/* Class = "NSMenuItem"; title = "Any of the fields"; ObjectID = "5579"; */
+"Any of the fields" = "Không có trường nào";
+
+/* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "5697"; */
+"Password Strength" = "Độ mạnh của mật khẩu";
+
+/* Class = "NSMenuItem"; title = "High (Master Password)"; ObjectID = "5185"; */
+"High (Master Password)" = "Cao (Mật khẩu Chính chủ)";
+
+/* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "3437"; */
+"Empty Trash…" = "Rỗng thùng rác";
+
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "3443"; */
+"New Folder" = "Thư mục mới";
+
+/* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "5651"; */
+"New Account…" = "Tài khoản mới";
+
+/* Class = "NSButtonCell"; title = "Can't Log In?"; ObjectID = "5759"; */
+"Can't Log In?" = "Không thể đăng nhập?";
+
+/* Class = "NSMenuItem"; title = "Login"; ObjectID = "5244"; */
+"Login" = "Đăng nhập";
+
+/* Class = "NSMenuItem"; title = "Has Attachment"; ObjectID = "5364"; */
+"Has Attachment" = "Chứa tệp đính kèm";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Help"; ObjectID = "5758"; */
+"Help" = "Hỗ trợ";
+
+/* Class = "NSSegmentedControl"; ibExternalAccessibilityDescription = "window layout"; ObjectID = "4644"; */
+"window layout" = "bố trí cửa sổ";
+
+/* Class = "NSBox"; ibExternalAccessibilityDescription = "Unlock"; ObjectID = "3662"; */
+"Unlock" = "Mở khóa";
+
+/* Class = "NSSearchField"; ibExternalAccessibilityDescription = "search"; ObjectID = "4646"; */
+"search" = "tìm kiếm";
+
+/* Class = "NSTextFieldCell"; title = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. "; ObjectID = "5023"; */
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. " = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tincidunt vel ante dignissim ac viverra felis nt te u t. ";
+
+/* Class = "NSMenuItem"; title = "60"; ObjectID = "5746"; */
+"60" = "60";
+
+/* Class = "NSMenuItem"; title = "Delete…"; ObjectID = "4892"; */
+"Delete…" = "Xóa bỏ...";
+
+/* Class = "NSMenuItem"; title = "100 - Fantastic"; ObjectID = "5748"; */
+"100 - Fantastic" = "100 - Tuyệt vời";
+
+/* Class = "NSTableView"; ibExternalAccessibilityDescription = "object list"; ObjectID = "3491"; */
+"object list" = "danh sách đối tượng";
+
+/* Class = "NSTextFieldCell"; title = "Click the + button to get started creating new items or add sample data to get some ideas."; ObjectID = "5021"; */
+"Click the + button to get started creating new items or add sample data to get some ideas." = "Chọn nút + để bắt đầu tạo các đối tượng mới hoặc thêm dữ liệu mẫu vào để có thêm ý tưởng.";
+
+/* Class = "NSMenuItem"; title = "ends with"; ObjectID = "5777"; */
+"ends with" = "kết thúc bằng";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "4896"; */
+"Edit" = "Chỉnh sửa";
+
+/* Class = "NSMenuItem"; title = "is not"; ObjectID = "5531"; */
+"is not" = "không phải là";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "4891"; */
+"Paste" = "Dán";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "5410"; */
+"Save" = "Lưu";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "4895"; */
+"Duplicate" = "Bản sao";
+
+/* Class = "NSMenuItem"; title = "Date Created"; ObjectID = "4998"; */
+"Date Created" = "Ngày khởi tạo";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Sidebar Actions Menu"; ObjectID = "3430"; */
+"Sidebar Actions Menu" = "Thanh menu hành động";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "4890"; */
+"Copy" = "Sao chép";
+
+/* Class = "NSMenuItem"; title = "20"; ObjectID = "5744"; */
+"20" = "20";
+
+/* Class = "NSMenuItem"; title = "Secure Note"; ObjectID = "5247"; */
+"Secure Note" = "Lưu ý bảo mật";
+
+/* Class = "NSMenuItem"; title = "No"; ObjectID = "5370"; */
+"No" = "Không";
+
+/* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "4277"; */
+"New Identity" = "Danh tính mới";
+
+/* Class = "NSMenuItem"; title = "Low Security"; ObjectID = "5655"; */
+"Low Security" = "Bảo mật kém";
+
+/* Class = "NSMenuItem"; title = "is less than"; ObjectID = "5757"; */
+"is less than" = "nhỏ hơn";
+
+/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "4975"; */
+"Date Modified" = "Ngày sửa đổi";
+
+/* Class = "NSMenuItem"; title = "10 - Terrible"; ObjectID = "5743"; */
+"10 - Terrible" = "10 - Thật tệ";
+
+/* Class = "NSMenuItem"; title = "Notes"; ObjectID = "5558"; */
+"Notes" = "Ghi chú";
+
+/* Class = "NSMenuItem"; title = "90"; ObjectID = "5747"; */
+"90" = "90";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "4647"; */
+"Search" = "Tìm kiếm";
+
+/* Class = "NSMenuItem"; title = "Title"; ObjectID = "5591"; */
+"Title" = "Tiêu đề";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Master Password"; ObjectID = "2517"; */
+"Master Password" = "Mật khẩu chính chủ";
+
+/* Class = "NSMenuItem"; title = "Tag"; ObjectID = "5674"; */
+"Tag" = "Từ khóa";
+
+/* Class = "NSTextFieldCell"; title = "No Items Found"; ObjectID = "5037"; */
+"No Items Found" = "Không tìm thấy mục nào";
+
+/* Class = "NSTextFieldCell"; title = "MASTER PASSWORD"; ObjectID = "4603"; */
+"MASTER PASSWORD" = "MẬT KHẨU CHÍNH CHỦ";
+
+/* Class = "NSMenuItem"; title = "Created"; ObjectID = "5628"; */
+"Created" = "Đã tạo";
+
+/* Class = "NSMenuItem"; title = "Any kind"; ObjectID = "5314"; */
+"Any kind" = "Bất kì loại nào";
+
+/* Class = "NSMenuItem"; title = "after"; ObjectID = "5637"; */
+"after" = "sau khi";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "5668"; */
+"Cancel" = "Hủy bỏ";
+
+/* Class = "NSMenuItem"; title = "Software License"; ObjectID = "5248"; */
+"Software License" = "Giấy phép phần mềm";
+
+/* Class = "NSMenuItem"; title = "is less than or equal to"; ObjectID = "5701"; */
+"is less than or equal to" = "nhỏ hơn hoặc bằng";
+
+/* Class = "NSButtonCell"; title = "Lock"; ObjectID = "4643"; */
+"Lock" = "khóa";
+
+/* Class = "NSMenuItem"; title = "Location"; ObjectID = "5592"; */
+"Location" = "Vị trí";
+
+/* Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "5606"; */
+"Save Changes" = "Lưu các thay đổi";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "4894"; */
+"Select All" = "Chọn tất cả";
+
+/* Class = "NSMenuItem"; title = "is greater than"; ObjectID = "5756"; */
+"is greater than" = "lơn hơn";

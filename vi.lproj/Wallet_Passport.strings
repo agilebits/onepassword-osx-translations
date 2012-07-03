@@ -1,0 +1,56 @@
+"__title__" = "Hộ chiếu";
+
+"__description__" = "Hộ chiếu Chính phủ đã ban hành.";
+
+"type" = "Loại";
+
+"fullname" = "Họ tên";
+
+"number" = "Số";
+
+"birthdate" = "Ngày sinh";
+
+"birthplace" = "Nơi sinh";
+
+"nationality" = "Quốc tịch";
+
+"code" = "Số hiệu";
+
+"sex" = "Giới tính";
+
+"issuing_country" = "Quốc gia cấp";
+
+"issuing_authority" = "Quốc gia chứng thực";
+
+"issue_date" = "Ngày cấp phát";
+
+"expiry_date" = "Ngày hết hạn";
+
+
+"menu.sex.male" = "Nam";
+
+"menu.sex.female" = "Nữ";
+
+"type#9" = "Loại";
+
+"fullname#9" = "Tên";
+
+"number#9" = "Số";
+
+"birthdate#9" = "Sinh nhật";
+
+"birthplace#9" = "Nơi sinh";
+
+"nationality#9" = "Quốc tịch";
+
+"code#9" = "Số hiệu";
+
+"sex#9" = "Giới tính";
+
+"issuing_country#9" = "Quốc gia";
+
+"issuing_authority#9" = "Chứng thực";
+
+"issue_date#9" = "Ban hành";
+
+"expiry_date#9" = "Hết hạn";

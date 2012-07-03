@@ -1,0 +1,176 @@
+/* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "385"; */
+"Skip All" = "Bỏ qua tất cả";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "763"; */
+"Cancel" = "Hủy bỏ";
+
+/* Class = "NSMenuItem"; title = "UTF-8"; ObjectID = "64"; */
+"UTF-8" = "UTF-8";
+
+/* Class = "NSTabViewItem"; label = "FileSelection"; ObjectID = "135"; */
+"FileSelection" = "Chọn tập tin";
+
+/* Class = "NSTextFieldCell"; title = "Step 5: Enter the name of the folder for imported objects"; ObjectID = "752"; */
+"Step 5: Enter the name of the folder for imported objects" = "Bước 5: Nhập tên của thư mục để đưa đối tượng vào";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "754"; */
+"Stop" = "Dừng lại";
+
+/* Class = "NSTableColumn"; headerCell.title = "Action"; ObjectID = "183"; */
+"Action" = "Hành động";
+
+/* Class = "NSTextFieldCell"; title = "Step 4: Review and select objects that will be imported"; ObjectID = "753"; */
+"Step 4: Review and select objects that will be imported" = "Bước 4: Xem lại và chọn đối tượng sẽ được thêm vào";
+
+/* Class = "NSTableColumn"; headerCell.title = "Subfolder"; ObjectID = "145"; */
+"Subfolder" = "Thư mục con";
+
+/* Class = "NSTabViewItem"; label = "PendingBrowserImport"; ObjectID = "786"; */
+"PendingBrowserImport" = "Trình nhập vào đang chờ";
+
+/* Class = "NSButtonCell"; title = "Back"; ObjectID = "769"; */
+"Back" = "Quay lại";
+
+/* Class = "NSMenuItem"; title = "ASCII"; ObjectID = "65"; */
+"ASCII" = "ASCII";
+
+/* Class = "NSMenuItem"; title = "Mac OS Roman"; ObjectID = "102"; */
+"Mac OS Roman" = "Mac OS Roman";
+
+/* Class = "NSMenuItem"; title = "Import All"; ObjectID = "384"; */
+"Import All" = "Nhập tất cả";
+
+/* Class = "NSMenuItem"; title = "Space"; ObjectID = "509"; */
+"Space" = "Khoảng trắng";
+
+/* Class = "NSMenuItem"; title = "Unicode"; ObjectID = "103"; */
+"Unicode" = "Unicode";
+
+/* Class = "NSTextFieldCell"; title = "Delimiter character:"; ObjectID = "767"; */
+"Delimiter character:" = "Kí tự phân cách:";
+
+/* Class = "NSMenuItem"; title = "Comma"; ObjectID = "510"; */
+"Comma" = "Dấu phẩy";
+
+/* Class = "NSTextFieldCell"; title = "Import Folder:"; ObjectID = "748"; */
+"Import Folder:" = "Thư mục nhập vào:";
+
+/* Class = "NSWindow"; title = "Import Assistant"; ObjectID = "5"; */
+"Import Assistant" = "Hỗ trợ nhập vào";
+
+/* Class = "NSTextFieldCell"; title = "Import Format:"; ObjectID = "760"; */
+"Import Format:" = "Định dạng nhập vào:";
+
+/* Class = "NSTextFieldCell"; title = "Start import at line:"; ObjectID = "764"; */
+"Start import at line:" = "Bắt đầu nhập vào theo tuyến:";
+
+/* Class = "NSTableColumn"; headerCell.title = "Status"; ObjectID = "190"; */
+"Status" = "Trạng thái";
+
+/* Class = "NSButtonCell"; title = "Choose File..."; ObjectID = "746"; */
+"Choose File..." = "Chọn tệp...";
+
+/* Class = "NSMenuItem"; title = "Japanese EUC"; ObjectID = "99"; */
+"Japanese EUC" = "Japanese EUC";
+
+/* Class = "NSTabViewItem"; label = "FormatSelection"; ObjectID = "198"; */
+"FormatSelection" = "Lựa chọn định dạng";
+
+/* Class = "NSMenuItem"; title = "Shift JIS"; ObjectID = "100"; */
+"Shift JIS" = "Shift JIS";
+
+/* Class = "NSTextFieldCell"; title = "Step 6: Enter the name of the folder for imported objects"; ObjectID = "758"; */
+"Step 6: Enter the name of the folder for imported objects" = "Bước 6: Nhập tên thư mục để nhập đối tượng vào";
+
+/* Class = "NSTextFieldCell"; title = "Please wait while passwords are imported from the browser."; ObjectID = "790"; */
+"Please wait while passwords are imported from the browser." = "Vui lòng chờ đợi trong khi mật khẩu được nhập vào từ trình duyệt.";
+
+/* Class = "NSButtonCell"; title = "Start Import"; ObjectID = "741"; */
+"Start Import" = "Bắt đầu nhập";
+
+/* Class = "NSTextFieldCell"; title = "Step 1: Select Application to Import From"; ObjectID = "761"; */
+"Step 1: Select Application to Import From" = "Bước 1: Chọn ứng dụng để bắt đầu nhập vào";
+
+/* Class = "NSTextFieldCell"; title = "Step 4: Specify file contents format"; ObjectID = "771"; */
+"Step 4: Specify file contents format" = "Bước 4: Xác thực định dạng nội dung tập tin";
+
+/* Class = "NSMenuItem"; title = "Windows CP 1253 (Greek)"; ObjectID = "96"; */
+"Windows CP 1253 (Greek)" = "Windows CP 1253 (Hi Lạp)";
+
+/* Class = "NSMenuItem"; title = "Windows CP 1254 (Latin 5)"; ObjectID = "97"; */
+"Windows CP 1254 (Latin 5)" = "Windows CP 1254 (La-tinh 5)";
+
+/* Class = "NSTabViewItem"; label = "Preview"; ObjectID = "137"; */
+"Preview" = "Xem trước";
+
+/* Class = "NSTableColumn"; headerCell.title = "Title"; ObjectID = "144"; */
+"Title" = "Tiêu đề";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "181"; */
+"Type" = "Loại";
+
+/* Class = "NSMenuItem"; title = "Import"; ObjectID = "804"; */
+"Import" = "Nhập vào";
+
+/* Class = "NSMenuItem"; title = "Windows CP 1252 (Latin 1)"; ObjectID = "95"; */
+"Windows CP 1252 (Latin 1)" = "Windows CP 1252 (La-tinh 1)";
+
+/* Class = "NSTextFieldCell"; title = "Step 3: Select and Verify File Encoding"; ObjectID = "745"; */
+"Step 3: Select and Verify File Encoding" = "Bước 3: Lựa chọn và Xác nhận mã hóa tập tin";
+
+/* Class = "NSButtonCell"; title = "Continue"; ObjectID = "770"; */
+"Continue" = "Tiếp tục";
+
+/* Class = "NSTextFieldCell"; title = "Item Type:"; ObjectID = "773"; */
+"Item Type:" = "Dạng khoản mục:";
+
+/* Class = "NSTextFieldCell"; title = "Keep changing the encoding until you see the contents of the export file displayed correctly."; ObjectID = "747"; */
+"Keep changing the encoding until you see the contents of the export file displayed correctly." = "Giữ lại sự thay đổi mã hóa cho tới khi bạn nhìn thấy nội dung chính xác của tập tin xuất ra.";
+
+/* Class = "NSMenuItem"; title = "Windows CP 1250 (Latin 2)"; ObjectID = "98"; */
+"Windows CP 1250 (Latin 2)" = "Windows CP 1250 (La-tinh 2)";
+
+/* Class = "NSButtonCell"; title = "Fields are Quoted"; ObjectID = "774"; */
+"Fields are Quoted" = "Trường đã được dẫn ra";
+
+/* Class = "NSButtonCell"; title = "Import Selected Objects"; ObjectID = "749"; */
+"Import Selected Objects" = "Nhập đối tượng đã chọn";
+
+/* Class = "NSTextFieldCell"; title = "Step 2: Prepare and Choose File with the Exported Information"; ObjectID = "744"; */
+"Step 2: Prepare and Choose File with the Exported Information" = "Bước 2: Chuẩn bị và Chọn tập tin chứa thông tin xuất ra";
+
+/* Class = "NSTextFieldCell"; title = "Step 5: Review and select objects that will be imported"; ObjectID = "757"; */
+"Step 5: Review and select objects that will be imported" = "Bước 5: Xem lại và chọn đối tượng sắp được nhập";
+
+/* Class = "NSTextFieldCell"; title = "Text"; ObjectID = "807"; */
+"Text" = "Văn bản";
+
+/* Class = "NSMenuItem"; title = "ISO Latin 1"; ObjectID = "66"; */
+"ISO Latin 1" = "ISO La-tinh 1";
+
+/* Class = "NSMenuItem"; title = "Windows CP 1251 (Cyrillic)"; ObjectID = "94"; */
+"Windows CP 1251 (Cyrillic)" = "Windows CP 1251 (Chữ Kirin)";
+
+/* Class = "NSMenuItem"; title = "Foo"; ObjectID = "675"; */
+"Foo" = "Foo";
+
+/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "803"; */
+"Skip" = "Bỏ qua";
+
+/* Class = "NSMenuItem"; title = "Tab"; ObjectID = "508"; */
+"Tab" = "Thẻ";
+
+/* Class = "NSTextFieldCell"; title = "Character Encoding:"; ObjectID = "742"; */
+"Character Encoding:" = "Mã hóa kì tự:";
+
+/* Class = "NSTabViewItem"; label = "GenericText"; ObjectID = "470"; */
+"GenericText" = "Văn bản cùng loại";
+
+/* Class = "NSMenuItem"; title = "Edit..."; ObjectID = "383"; */
+"Edit..." = "Chỉnh sửa...";
+
+/* Class = "NSMenuItem"; title = "ISO 2022 JP "; ObjectID = "101"; */
+"ISO 2022 JP " = "ISO 2022 Nhật ";
+
+/* Class = "NSMenuItem"; title = "ISO Latin 2"; ObjectID = "93"; */
+"ISO Latin 2" = "ISO La-tinh 2";

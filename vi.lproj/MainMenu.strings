@@ -1,0 +1,335 @@
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "1481"; */
+"Redo" = "Làm lại";
+
+/* Class = "NSMenu"; title = "Export All"; ObjectID = "946"; */
+"Export All" = "Xuất ra tất cả";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "1634"; */
+"View" = "Xem";
+
+/* Class = "NSMenuItem"; title = "Created Date"; ObjectID = "1303"; */
+"Created Date" = "Ngày khởi tạo";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "1104"; */
+"Menu" = "Trình đơn";
+
+/* Class = "NSMenuItem"; title = "Type"; ObjectID = "1234"; */
+"Type" = "Loại";
+
+/* Class = "NSMenuItem"; title = "Copy Password"; ObjectID = "1376"; */
+"Copy Password" = "Sao chép mật khẩu";
+
+/* Class = "NSMenuItem"; title = "Check Spelling as You Type"; ObjectID = "191"; */
+"Check Spelling as You Type" = "Kiểm tra chính tả khi bạn gõ";
+
+/* Class = "NSMenuItem"; title = "Identities"; ObjectID = "1269"; */
+"Identities" = "Danh tính";
+
+/* Class = "NSMenuItem"; title = "Check Spelling"; ObjectID = "189"; */
+"Check Spelling" = "Kiểm tra chính tả";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "154"; */
+"Find…" = "Tìm kiếm";
+
+/* Class = "NSMenu"; title = "Layout"; ObjectID = "1220"; */
+"Layout" = "Bố trí";
+
+/* Class = "NSMenuItem"; title = "Modified Date"; ObjectID = "1235"; */
+"Modified Date" = "Ngày sửa đổi";
+
+/* Class = "NSMenuItem"; title = "Traditional"; ObjectID = "1222"; */
+"Traditional" = "Truyền thống";
+
+/* Class = "NSMenu"; title = "Export Selected"; ObjectID = "1092"; */
+"Export Selected" = "Đã chọn xuất ra";
+
+/* Class = "NSMenuItem"; title = "Knowledge Base"; ObjectID = "1700"; */
+"Knowledge Base" = "Kho tàng kiến thức";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "161"; */
+"Use Selection for Find" = "Sử dụng lựa chọn để tìm kiếm";
+
+/* Class = "NSMenuItem"; title = "Quit 1Password"; ObjectID = "1421"; */
+"Quit 1Password" = "Thoát 1Password";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "1425"; */
+"Services" = "Dịch vụ";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "1426"; */
+"File" = "Tập tin";
+
+/* Class = "NSMenuItem"; title = "Folder"; ObjectID = "1236"; */
+"Folder" = "Thư mục";
+
+/* Class = "NSMenuItem"; title = "Install Browser Extensions..."; ObjectID = "1384"; */
+"Install Browser Extensions..." = "Cài phần mở rộng cho trình duyệt...";
+
+/* Class = "NSMenuItem"; title = "Rebuild Data File..."; ObjectID = "1677"; */
+"Rebuild Data File..." = "Xây dựng lại tập tin dữ liệu...";
+
+/* Class = "NSMenuItem"; title = "Generated Passwords"; ObjectID = "1276"; */
+"Generated Passwords" = "Các mật khẩu được tạo";
+
+/* Class = "NSMenuItem"; title = "Hide 1Password"; ObjectID = "1422"; */
+"Hide 1Password" = "Ẩn 1 Password";
+
+/* Class = "NSMenuItem"; title = "Copy UUID"; ObjectID = "1374"; */
+"Copy UUID" = "Sao chép UUID";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "1416"; */
+"Show All" = "Hiện tất cả";
+
+/* Class = "NSMenuItem"; title = "Conceal Passwords"; ObjectID = "1628"; */
+"Conceal Passwords" = "Giấu mật khẩu";
+
+/* Class = "NSMenuItem"; title = "Spelling…"; ObjectID = "187"; */
+"Spelling…" = "Chính tả";
+
+/* Class = "NSMenu"; title = "1Password"; ObjectID = "1409"; */
+"1Password" = "1Password";
+
+/* Class = "NSMenuItem"; title = "New Secure Note"; ObjectID = "1015"; */
+"New Secure Note" = "Lưu ý bảo mật mới";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "185"; */
+"Spelling" = "Chính tả";
+
+/* Class = "NSMenuItem"; title = "Icon"; ObjectID = "1231"; */
+"Icon" = "Biểu tượng";
+
+/* Class = "NSMenuItem"; title = "Wallet"; ObjectID = "1272"; */
+"Wallet" = "Ví";
+
+/* Class = "NSMenuItem"; title = "New Wallet Item…"; ObjectID = "1016"; */
+"New Wallet Item…" = "Ví mới";
+
+/* Class = "NSMenuItem"; title = "Edit Smart Folder…"; ObjectID = "1319"; */
+"Edit Smart Folder…" = "Chỉnh sửa Thư mục Thông minh";
+
+/* Class = "NSMenuItem"; title = "Show Activity"; ObjectID = "1199"; */
+"Show Activity" = "Hiển thị hoạt động";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "1486"; */
+"Undo" = "Hoàn tác";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "1485"; */
+"Cut" = "Cắt";
+
+/* Class = "NSMenuItem"; title = "Fill Login in Browser"; ObjectID = "1074"; */
+"Fill Login in Browser" = "Điền thông tin đăng nhập vào trình duyệt";
+
+/* Class = "NSMenuItem"; title = "Show 1Password Log"; ObjectID = "1702"; */
+"Show 1Password Log" = "Hiện bản ghi 1Password";
+
+/* Class = "NSMenuItem"; title = "Logins"; ObjectID = "1267"; */
+"Logins" = "Đăng nhập";
+
+/* Class = "NSMenu"; title = "Troubleshooting"; ObjectID = "1696"; */
+"Troubleshooting" = "Giải quyết vấn đề";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "1408"; */
+"Bring All to Front" = "Đưa tất cả lên trên cùng";
+
+/* Class = "NSMenuItem"; title = "New Software License"; ObjectID = "1211"; */
+"New Software License" = "Giấy phép phần mềm mới";
+
+/* Class = "NSMenuItem"; title = "New Login"; ObjectID = "1027"; */
+"New Login" = "Đăng nhập mới";
+
+/* Class = "NSMenuItem"; title = "Trash"; ObjectID = "1277"; */
+"Trash" = "Thùng rác";
+
+/* Class = "NSMenuItem"; title = "1Password Help"; ObjectID = "1466"; */
+"1Password Help" = "Trợ giúp 1Password";
+
+/* Class = "NSMenuItem"; title = "Lock 1Password"; ObjectID = "1105"; */
+"Lock 1Password" = "Khóa 1Password";
+
+/* Class = "NSMenuItem"; title = "Folders"; ObjectID = "1274"; */
+"Folders" = "Thư mục";
+
+/* Class = "NSMenuItem"; title = "New Password…"; ObjectID = "1146"; */
+"New Password…" = "Mật khẩu mới";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "1635"; */
+"Enter Full Screen" = "Toàn màn hình";
+
+/* Class = "NSMenuItem"; title = "Tags"; ObjectID = "1325"; */
+"Tags" = "Thẻ";
+
+/* Class = "NSMenuItem"; title = "Clear Cache"; ObjectID = "1698"; */
+"Clear Cache" = "Xóa bộ nhớ tạm";
+
+/* Class = "NSMenuItem"; title = "New Smart Folder"; ObjectID = "1322"; */
+"New Smart Folder" = "Thư mục thông minh mới";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "1413"; */
+"Preferences…" = "Thiết đặt";
+
+/* Class = "NSMenuItem"; title = "Password Strength"; ObjectID = "1237"; */
+"Password Strength" = "Độ mạnh của mật khẩu";
+
+/* Class = "NSMenuItem"; title = "Empty Trash…"; ObjectID = "1041"; */
+"Empty Trash…" = "Rỗng thùng rác";
+
+/* Class = "NSMenuItem"; title = "Restore…"; ObjectID = "1433"; */
+"Restore…" = "Hoàn tác";
+
+/* Class = "NSMenuItem"; title = "Edit Selected Item"; ObjectID = "1009"; */
+"Edit Selected Item" = "Sửa khoản mục đã chọn";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "1407"; */
+"Minimize" = "Thu nhỏ";
+
+/* Class = "NSMenuItem"; title = "New Folder"; ObjectID = "1014"; */
+"New Folder" = "Thư mục mới";
+
+/* Class = "NSMenuItem"; title = "New Account…"; ObjectID = "1262"; */
+"New Account…" = "Tài khoản mới";
+
+/* Class = "NSMenu"; title = "New Item"; ObjectID = "1329"; */
+"New Item" = "Khoản mục mới";
+
+/* Class = "NSMenuItem"; title = "Contact Us"; ObjectID = "1462"; */
+"Contact Us" = "Liên hệ chúng tôi";
+
+/* Class = "NSMenuItem"; title = "About 1Password"; ObjectID = "1424"; */
+"About 1Password" = "Giới thiệu 1Password";
+
+/* Class = "NSMenu"; title = "MainMenu"; ObjectID = "1393"; */
+"MainMenu" = "trình đơn chính";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "1459"; */
+"Help" = "Hỗ trợ";
+
+/* Class = "NSMenuItem"; title = "Unlock"; ObjectID = "1412"; */
+"Unlock" = "Mở khóa";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "1418"; */
+"Hide Others" = "Ẩn những thứ khác";
+
+/* Class = "NSMenuItem"; title = "Text File…"; ObjectID = "1130"; */
+"Text File…" = "Tệp văn bản";
+
+/* Class = "NSMenuItem"; title = "Show Item Counts"; ObjectID = "1207"; */
+"Show Item Counts" = "Hiện số lượng chỉ mục";
+
+/* Class = "NSMenu"; title = "Go"; ObjectID = "1266"; */
+"Go" = "Đi";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1057"; */
+"Delete" = "Xóa bỏ";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "162"; */
+"Find Previous" = "Đã tìm trước";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "1401"; */
+"Window" = "Cửa sổ";
+
+/* Class = "NSMenuItem"; title = "Add Sample Items"; ObjectID = "1391"; */
+"Add Sample Items" = "Thêm khoản mục mẫu";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "1469"; */
+"Edit" = "Chỉnh sửa";
+
+/* Class = "NSMenuItem"; title = "Restart Helper"; ObjectID = "1703"; */
+"Restart Helper" = "Khởi động lại trình Hỗ trợ";
+
+/* Class = "NSMenuItem"; title = "Backup"; ObjectID = "1435"; */
+"Backup" = "Sao lưu";
+
+/* Class = "NSMenuItem"; title = "Add Attachment…"; ObjectID = "1257"; */
+"Add Attachment…" = "Thêm tệp đính kèm";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1482"; */
+"Paste" = "Dán";
+
+/* Class = "NSMenuItem"; title = "Find Item"; ObjectID = "1179"; */
+"Find Item" = "Tìm mục";
+
+/* Class = "NSMenuItem"; title = "Duplicate"; ObjectID = "850"; */
+"Duplicate" = "Bản sao";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "155"; */
+"Jump to Selection" = "Đi đến lựa chọn";
+
+/* Class = "NSMenuItem"; title = "Shelves"; ObjectID = "1221"; */
+"Shelves" = "Kệ";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1487"; */
+"Copy" = "Sao chép";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "1405"; */
+"Zoom" = "Thu phóng";
+
+/* Class = "NSMenuItem"; title = "Import…"; ObjectID = "966"; */
+"Import…" = "Nhập vào";
+
+/* Class = "NSMenuItem"; title = "Print..."; ObjectID = "1217"; */
+"Print..." = "In...";
+
+/* Class = "NSMenuItem"; title = "Secure Notes"; ObjectID = "1270"; */
+"Secure Notes" = "Lưu ý bảo mật";
+
+/* Class = "NSMenuItem"; title = "New Identity"; ObjectID = "1017"; */
+"New Identity" = "Danh tính mới";
+
+/* Class = "NSMenuItem"; title = "Widescreen"; ObjectID = "1254"; */
+"Widescreen" = "Màn hình rộng";
+
+/* Class = "NSMenuItem"; title = "Quick Delete"; ObjectID = "164"; */
+"Quick Delete" = "Xóa nhanh";
+
+/* Class = "NSMenuItem"; title = "Accounts"; ObjectID = "1268"; */
+"Accounts" = "Tài khoản";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "168"; */
+"Find" = "Tìm";
+
+/* Class = "NSMenuItem"; title = "Website"; ObjectID = "1464"; */
+"Website" = "Trang web";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "167"; */
+"Find Next" = "Tìm tiếp";
+
+/* Class = "NSMenu"; title = "Go & Fill"; ObjectID = "1108"; */
+"Go & Fill" = "Đi & Điền";
+
+/* Class = "NSMenuItem"; title = "1Password Interchange File…"; ObjectID = "1095"; */
+"1Password Interchange File…" = "Trao đổi tệp 1Password";
+
+/* Class = "NSMenuItem"; title = "Title"; ObjectID = "1232"; */
+"Title" = "Tiêu đề";
+
+/* Class = "NSMenuItem"; title = "Tag"; ObjectID = "1338"; */
+"Tag" = "Từ khóa";
+
+/* Class = "NSMenuItem"; title = "Add Software Licenses for Applications..."; ObjectID = "1389"; */
+"Add Software Licenses for Applications..." = "Thêm giấy phép phần mềm cho ứng dụng...";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "1444"; */
+"Close" = "Đóng";
+
+/* Class = "NSMenuItem"; title = "Main Window"; ObjectID = "1403"; */
+"Main Window" = "Cửa sổ chính";
+
+/* Class = "NSMenuItem"; title = "Lock"; ObjectID = "1043"; */
+"Lock" = "khóa";
+
+/* Class = "NSMenuItem"; title = "Show Helper Log"; ObjectID = "1697"; */
+"Show Helper Log" = "Hiện bản ghi hỗ trợ";
+
+/* Class = "NSMenu"; title = "Columns"; ObjectID = "1226"; */
+"Columns" = "Cột";
+
+/* Class = "NSMenuItem"; title = "Location"; ObjectID = "1233"; */
+"Location" = "Vị trí";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1475"; */
+"Select All" = "Chọn tất cả";
+
+/* Class = "NSMenuItem"; title = "Software"; ObjectID = "1271"; */
+"Software" = "Phần mềm";
+
+/* Class = "NSMenuItem"; title = "Print All…"; ObjectID = "991"; */
+"Print All…" = "In tất cả";

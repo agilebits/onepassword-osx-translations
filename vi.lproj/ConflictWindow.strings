@@ -1,0 +1,35 @@
+/* Class = "NSMenuItem"; title = "Skip All"; ObjectID = "138"; */
+"Skip All" = "Bỏ qua tất cả";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "34"; */
+"Cancel" = "Hủy bỏ";
+
+/* Class = "NSButtonCell"; title = "Choose This Copy"; ObjectID = "174"; */
+"Choose This Copy" = "Chọn bản sao này";
+
+/* Class = "NSTextFieldCell"; title = "This Mac"; ObjectID = "91"; */
+"This Mac" = "Máy Mac này";
+
+/* Class = "NSMenuItem"; title = "Choose All iPhone Items"; ObjectID = "135"; */
+"Choose All iPhone Items" = "Chọn mọi mục iPhone";
+
+/* Class = "NSWindow"; title = "Sync Conflict Resolver"; ObjectID = "1"; */
+"Sync Conflict Resolver" = "Trình giải quyết Xung đột Đồng bộ";
+
+/* Class = "NSMenuItem"; title = "Choose All Local Mac Items"; ObjectID = "134"; */
+"Choose All Local Mac Items" = "Chọn tất cả khoản mục máy Mac tại địa điểm";
+
+/* Class = "NSButtonCell"; title = "Resolve Conflicts"; ObjectID = "36"; */
+"Resolve Conflicts" = "Giải quyết xung đột";
+
+/* Class = "NSMenuItem"; title = "Choose Local"; ObjectID = "147"; */
+"Choose Local" = "Chọn địa điểm";
+
+/* Class = "NSButtonCell"; title = "Detect conflicts automatically"; ObjectID = "184"; */
+"Detect conflicts automatically" = "Tự động phát hiện xung đột";
+
+/* Class = "NSMenuItem"; title = "Choose Remote"; ObjectID = "148"; */
+"Choose Remote" = "Chọn từ xa";
+
+/* Class = "NSMenuItem"; title = "Skip"; ObjectID = "149"; */
+"Skip" = "Bỏ qua";

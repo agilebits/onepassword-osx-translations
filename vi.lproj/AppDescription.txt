@@ -1,0 +1,41 @@
+1Password tiện ích duy nhất về mật khẩu của bạn. Đây là tiện ích lưu trữ mật khẩu đơn giản nhất vì 1Password hoạt động trược tiếp trên trình duyệt của bạn, lưu trữ tên người dùng và mật khẩu, và hơn thế nữa, tạo một mật khẩu mạnh cho mỗi trang web. 1Password có thể tự động đăng nhập một cách an toàn, điền thông tin thẻ tín dụng, và điền các mẫu đăng kí chỉ trong nháy mắt, và tất cả được mã hóa chỉ bằng một mật khẩu duy nhất. 
+
+LƯU Ý: hiện tại 1Password được dùng bởi 3.8 người dùng. Để có kết quả tốt nhất, vui lòng xóa hết những phiên bản cũ của 1Password trước khi cài đặt phiên bản mới hơn từ Mac App Store. 
+
+★ 1Password đã đạt mọi giải thưởng cao quý nhất! ★
+ - Mac App Store: Tiện ích Tốt nhất năm 2011
+- Đạt giải thưởng Eddy của Macworld năm 2010
+ - MacStories Apps of 2011: Được người dùng bình chọn nhiều nhất
+- Đạt số điểm 4.5/5 trong cuộc tổng kết của Macworld
+ - Cult of Mac: top 10 tiện ích đột phá năm 2011
+- Được nhà phát hành Mac|Life tin dùng với một từ “Tuyệt đỉnh!”
+ 
+Nhưng chờ đã, còn có nhiều hơn nữa đấy! 1Password làm đơn giản nhiều công việc :
+ 
+- Đăng nhập nhiều lần trên một trang web
+ - Tạo ra dữ liệu hàng loạt để tự động điền vào các mẫu có sẵn, tra khảo, và thông tin đặt hàng trực tuyến
+ - Đồng bộ dữ liệu an toàn và nhẹ nhàng giữa các máy Mac, iPhone, và iPad với Dropbox, hoặc qua Wi-Fi
+ - Lưu trữ thông tin nhạy cảm trong Ghi chép Bí mật
+ - Lưu trữ giấy phép phần mềm và hóa đơn
+ - Quản lý mọi thứ vớ giao diện thẻ và thư mục
+ 
+Phiên bản 1Password mới này đã được lập trình lại để sử dụng những tính năng tuyệt vời của Mac OS X Lion, như:
+ 
+- Chế độ toàn màn hình
+ - Bảo mật tốt hơn với sụ hỗ trợ của sandbox trong OS X Lion
+ - Bảo mật tốt hơn với Mã khóa PBKDF2
+ - Phù hợp với hệ máy 64-bit để có sự trải nghiệm tuyệt vời nhất
+ 
+Phiên bản này cung cấp thêm:
+ - **MỚI** Truy cập dữ liệu nhanh qua trình đơn menu
+ - Tương thích tốt hơn với các phần mở rộng cho trình duyệt
+ 
+
+Phiên bản di động của 1Password đã xuất hiện trên iPhone, iPod touch, và cả iPad. Đồng bộ và cập nhật sử dụng Wi-Fi hay qua dropbox một cách nhẹ nhàng. Vì thế, thông tin của bạn luôn luôn được cập nhật. 
+
+-------------------------------
+ 
+LƯU Ý HỖ TRỢ # 1: Chúng tôi đã nhận một số báo cáo về về vấn đề không thể vượt qua màn hình Chào mừng khi cài đặt 1Password. Nếu bạn gặp vấn đề này, xin vui lòng xem bài viết "1Password không thể tiếp tục sau khi xuất hiện màn hình Chào mừng ban đầu" trên trang hỗ trợ của chúng tôi. 
+
+
+LƯU Ý HỖ TRỢ # 2: Chúng tôi thích nghe phản hồi của bạn. Xin hãy chú ý, chúng tôi không thể trả lời phản hồi của bạn trên Mac App Store. Nếu bạn có câu hỏi, vui lòng liên hệ chúng tôi bằng cách ghé thăm trang chủ 1Password. Rất cảm ơn bạn!

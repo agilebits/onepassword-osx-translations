@@ -1,0 +1,556 @@
+"__title__" = "Danh tính";
+
+"__description__" = "Nó không thực sự nằm ở trong Ví, chúng ta sẽ để nó ở đây để tìm xem thông tin.";
+
+"name" = "Nhận dạng";
+
+"firstname" = "Tên gọi";
+
+"initial" = "Cách gọi";
+
+"lastname" = "Họ";
+
+"sex" = "Giới tính";
+
+"birthdate" = "Ngày sinh";
+
+"occupation" = "Nghề nghiệp";
+
+"company" = "Công ty";
+
+"department" = "Phòng ban";
+
+"jobtitle" = "Chức vụ";
+
+"internet" = "Chi tiết trên Internet";
+
+"username" = "Tên người dùng";
+
+"reminderq" = "Câu hỏi nghi nhớ";
+
+"remindera" = "Ghi nhớ câu trả lời";
+
+"email" = "Email";
+
+"website" = "Trang web";
+
+"icq" = "ICQ";
+
+"skype" = "Skype";
+
+"aim" = "AOL/AIM";
+
+"yahoo" = "Yahoo";
+
+"msn" = "MSN";
+
+"forumsig" = "Chữ ký trên diễn đàn";
+
+"address" = "Địa chỉ";
+
+"address1" = "Địa chỉ Dòng 1";
+
+"address2" = "Địa chỉ Dóng 2";
+
+"city" = "Thành phố/Huyện/Tiểu bang";
+
+"state" = "Tỉnh/Bang";
+
+"zip" = "Mã ZIP/bưu chính";
+
+"country" = "Quốc gia";
+
+"location" = "Vị trí";
+
+"phone" = "Điện thoại";
+
+"defphone" = "Điện thoại chính";
+
+"homephone" = "Nhà";
+
+"cellphone" = "Di động";
+
+"busphone" = "Kinh doanh";
+
+
+"menu.sex.male" = "Nam";
+
+"menu.sex.female" = "Nữ";
+
+/* countries */
+
+"menu.country.us" = "Hoa Kỳ";
+
+"menu.country.ca" = "Canada";
+
+"menu.country.uk" = "Vương quốc Anh";
+
+"menu.country.de" = "Đức";
+
+"menu.country.au" = "Úc";
+
+"menu.country.nl" = "Hà Lan";
+
+"menu.country.it" = "Italia";
+
+"menu.country.fr" = "Pháp";
+
+"menu.country.mx" = "Mêhicô";
+
+"menu.country.cn" = "Trung Hoa";
+
+"menu.country.ch" = "Thụy Sĩ";
+
+"menu.country.es" = "Tây Ban Nha";
+
+"menu.country.jp" = "Nhật Bản";
+
+"menu.country.at" = "Áo";
+
+"menu.country.be" = "Bỉ";
+
+"menu.country.ad" = "Andorra";
+
+"menu.country.ae" = "Các tiểu Vương quốc Ả Rập Thống nhất";
+
+"menu.country.af" = "Afghanistan";
+
+"menu.country.ag" = "Antigua và Barbuda";
+
+"menu.country.ai" = "Anguilla";
+
+"menu.country.al" = "Albania";
+
+"menu.country.am" = "Armenia";
+
+"menu.country.an" = "Antille thuộc Hà Lan";
+
+"menu.country.ao" = "Ăngôla";
+
+"menu.country.aq" = "Bắc Cực";
+
+"menu.country.ar" = "Ác-hen-ti-na";
+
+"menu.country.as" = "Samoa thuộc Mỹ";
+
+"menu.country.aw" = "Aruba";
+
+"menu.country.az" = "Azerbaidjan";
+
+"menu.country.ba" = "Bosnia-Herzegovina";
+
+"menu.country.bb" = "Barbados";
+
+"menu.country.bd" = "Băng-la-đét";
+
+"menu.country.bf" = "Burkina Faso";
+
+"menu.country.bg" = "Bungari";
+
+"menu.country.bh" = "Bahrain";
+
+"menu.country.bi" = "Burundi";
+
+"menu.country.bj" = "Benin";
+
+"menu.country.bm" = "Bermuda";
+
+"menu.country.bn" = "Brunei Darussalam";
+
+"menu.country.bo" = "Bolitvia";
+
+"menu.country.br" = "Brasil";
+
+"menu.country.bs" = "Bahamat";
+
+"menu.country.bt" = "Butan";
+
+"menu.country.bv" = "Đảo Bouvet";
+
+"menu.country.bw" = "Botswana";
+
+"menu.country.by" = "Belarus";
+
+"menu.country.bz" = "Belize";
+
+"menu.country.cc" = "Quần đảo Cocos (Keeling)";
+
+"menu.country.cf" = "Cộng hòa Trung Phi";
+
+"menu.country.cd" = "Cộng hòa dân chủ Côngô";
+
+"menu.country.cg" = "Côngô";
+
+"menu.country.ci" = "Bờ biển Ngà (Cote D'Ivoire)";
+
+"menu.country.ck" = "Quần đảo Cook";
+
+"menu.country.cl" = "Chilê";
+
+"menu.country.cm" = "Cameroon";
+
+"menu.country.co" = "Colombia";
+
+"menu.country.cr" = "Costa Rica";
+
+"menu.country.cu" = "Cuba";
+
+"menu.country.cv" = "Cape Verde";
+
+"menu.country.cx" = "Đảo Christmas";
+
+"menu.country.cy" = "Síp";
+
+"menu.country.cz" = "Cộng hòa Séc";
+
+"menu.country.dj" = "Djibouti";
+
+"menu.country.dk" = "Đan Mạch";
+
+"menu.country.dm" = "Dominica";
+
+"menu.country.do" = "Cộng hoà Dominicana";
+
+"menu.country.dz" = "Algérie";
+
+"menu.country.ec" = "Ecuador";
+
+"menu.country.ee" = "Estonia";
+
+"menu.country.eg" = "Ai Cập";
+
+"menu.country.eh" = "Tây Sahara";
+
+"menu.country.er" = "Eritrea";
+
+"menu.country.et" = "Ethiopia";
+
+"menu.country.fi" = "Phần Lan";
+
+"menu.country.fj" = "Fiji";
+
+"menu.country.fk" = "Quần đảo Falkland";
+
+"menu.country.fm" = "Liên bang Micronesia";
+
+"menu.country.fo" = "Quần đảo Faroe";
+
+"menu.country.ga" = "Gabon";
+
+"menu.country.gb" = "Anh";
+
+"menu.country.gd" = "Grenada";
+
+"menu.country.ge" = "Georgia";
+
+"menu.country.gf" = "Guyana thuộc Pháp";
+
+"menu.country.gh" = "Ghana";
+
+"menu.country.gi" = "Gibraltar";
+
+"menu.country.gl" = "Đảo Grơn-len";
+
+"menu.country.gm" = "Dămbia";
+
+"menu.country.gn" = "Guinea";
+
+"menu.country.gp" = "Guadeloupe (tiếng Pháp)";
+
+"menu.country.gq" = "Guinea Xích đạo";
+
+"menu.country.gr" = "Hy Lạp";
+
+"menu.country.gs" = "S. Georgia & S. Sandwich Isls.";
+
+"menu.country.gt" = "Guatemala";
+
+"menu.country.gu" = "Guam (Hoa Kỳ)";
+
+"menu.country.gw" = "Guinea Bissau";
+
+"menu.country.gy" = "Guyana";
+
+"menu.country.hk" = "Hồng Kông";
+
+"menu.country.hm" = "Heard và quần đảo McDonald";
+
+"menu.country.hn" = "Honduras";
+
+"menu.country.hr" = "Croatia";
+
+"menu.country.ht" = "Haiti";
+
+"menu.country.hu" = "Hungary";
+
+"menu.country.id" = "Indonesia";
+
+"menu.country.ie" = "Ai-len";
+
+"menu.country.il" = "Israel";
+
+"menu.country.in" = "Ấn Độ";
+
+"menu.country.iq" = "Irắc";
+
+"menu.country.ir" = "Iran";
+
+"menu.country.is" = "Iceland";
+
+"menu.country.jm" = "Jamaica";
+
+"menu.country.jo" = "Jordan";
+
+"menu.country.ke" = "Kenya";
+
+"menu.country.kg" = "Cộng hòa Kyrgyzstan (Kyrgyzstan)";
+
+"menu.country.kh" = "Vương quốc Campuchia";
+
+"menu.country.ki" = "Kiribati";
+
+"menu.country.km" = "Comoros";
+
+"menu.country.kn" = "Saint Kitts & Nevis Anguilla";
+
+"menu.country.kp" = "Bắc Triều Tiên";
+
+"menu.country.kr" = "Hàn Quốc";
+
+"menu.country.kw" = "Kuwait";
+
+"menu.country.ky" = "Quần đảo Cayman";
+
+"menu.country.kz" = "Kazakhstan";
+
+"menu.country.la" = "Lào";
+
+"menu.country.lb" = "Li-băng";
+
+"menu.country.lc" = "Saint Lucia";
+
+"menu.country.li" = "Liechtenstein";
+
+"menu.country.rs" = "Sécbia";
+
+"menu.country.lk" = "Sri Lanka";
+
+"menu.country.lr" = "Liberia";
+
+"menu.country.ls" = "Lesotho";
+
+"menu.country.lt" = "Litva";
+
+"menu.country.lu" = "Luxembourg";
+
+"menu.country.lv" = "Latvia";
+
+"menu.country.ly" = "Libi";
+
+"menu.country.ma" = "Ma-rốc";
+
+"menu.country.mc" = "Monaco";
+
+"menu.country.md" = "Moldavia";
+
+"menu.country.mg" = "Madagascar";
+
+"menu.country.mh" = "Quần đảo Marshall";
+
+"menu.country.mk" = "Macedonia";
+
+"menu.country.ml" = "Mali";
+
+"menu.country.mm" = "Myanma";
+
+"menu.country.mn" = "Mông Cổ";
+
+"menu.country.mo" = "Macao";
+
+"menu.country.mq" = "Martinique (Pháp)";
+
+"menu.country.mr" = "Mauritanie";
+
+"menu.country.ms" = "Montserrat";
+
+"menu.country.mt" = "Malta";
+
+"menu.country.mu" = "Mauritius";
+
+"menu.country.mv" = "Maldives";
+
+"menu.country.mw" = "Malawi";
+
+"menu.country.my" = "Malaysia";
+
+"menu.country.me" = "Montenegro";
+
+"menu.country.mz" = "Mozambique";
+
+"menu.country.na" = "Namibia";
+
+"menu.country.nc" = "New Caledonia (tiếng Pháp)";
+
+"menu.country.ne" = "Niger";
+
+"menu.country.nf" = "Đảo Norfolk";
+
+"menu.country.ng" = "Nigeria";
+
+"menu.country.ni" = "Nicaragua";
+
+"menu.country.no" = "Na Uy";
+
+"menu.country.np" = "Nê-pan";
+
+"menu.country.nr" = "Nauru";
+
+"menu.country.nt" = "Neutral Zone";
+
+"menu.country.nu" = "Niue";
+
+"menu.country.nz" = "Niu Di-lân";
+
+"menu.country.om" = "Oman";
+
+"menu.country.pa" = "Panama";
+
+"menu.country.pe" = "Pêru";
+
+"menu.country.pf" = "Polynesia (tiếng Pháp)";
+
+"menu.country.pg" = "Papua New Guinea";
+
+"menu.country.ph" = "Philippin";
+
+"menu.country.pk" = "Pakistan";
+
+"menu.country.pl" = "Ba Lan";
+
+"menu.country.pm" = "Saint Pierre và Miquelon";
+
+"menu.country.pn" = "Pitcairn Island";
+
+"menu.country.pr" = "Puerto Rico";
+
+"menu.country.pt" = "Bồ Đào Nha";
+
+"menu.country.pw" = "Palau";
+
+"menu.country.py" = "Paraguay";
+
+"menu.country.qa" = "Qatar";
+
+"menu.country.re" = "Reunion (tiếng Pháp)";
+
+"menu.country.ro" = "Romania";
+
+"menu.country.ru" = "Liên bang Nga";
+
+"menu.country.rw" = "Rwanda";
+
+"menu.country.sa" = "Ả Rập Saudi";
+
+"menu.country.sb" = "Quần đảo Solomon";
+
+"menu.country.sc" = "Seychelles";
+
+"menu.country.sd" = "Su-đăng";
+
+"menu.country.se" = "Thụy Điển";
+
+"menu.country.sg" = "Singapore";
+
+"menu.country.sh" = "Saint Helena";
+
+"menu.country.si" = "Slovenia";
+
+"menu.country.sj" = "Svalbard và Jan Mayen Islands";
+
+"menu.country.sk" = "Cộng hòa Slovak";
+
+"menu.country.sl" = "Sierra Leone";
+
+"menu.country.sm" = "San Marino";
+
+"menu.country.sn" = "Sénégal";
+
+"menu.country.so" = "Somalia";
+
+"menu.country.sr" = "Suriname";
+
+"menu.country.st" = "Saint Tome (Sao Tome) và Principe";
+
+"menu.country.sv" = "El Salvador";
+
+"menu.country.sy" = "Syria";
+
+"menu.country.sz" = "Swaziland";
+
+"menu.country.tc" = "Quần đảo Turks và Caicos";
+
+"menu.country.td" = "Chad";
+
+"menu.country.tg" = "Togo";
+
+"menu.country.th" = "Thái Lan";
+
+"menu.country.tj" = "Tadjikistan";
+
+"menu.country.tk" = "Tokelau";
+
+"menu.country.tm" = "Turkmenistan";
+
+"menu.country.tn" = "Tunisia";
+
+"menu.country.to" = "Tonga";
+
+"menu.country.tp" = "Timor Leste";
+
+"menu.country.tr" = "Thổ Nhĩ Kỳ";
+
+"menu.country.tt" = "Trinidad và Tobago";
+
+"menu.country.tv" = "Tuvalu";
+
+"menu.country.tw" = "Đài Loan";
+
+"menu.country.tz" = "Tanzania";
+
+"menu.country.ua" = "Ukraina";
+
+"menu.country.ug" = "Uganda";
+
+"menu.country.uy" = "Uruguay";
+
+"menu.country.uz" = "Uzbekistan";
+
+"menu.country.va" = "Holy See (Vatican City State)";
+
+"menu.country.vc" = "Saint Vincent & Grenadines";
+
+"menu.country.ve" = "Venezuela";
+
+"menu.country.vg" = "Quần đảo Virgin (Anh)";
+
+"menu.country.vi" = "Quần đảo Virgin (Hoa Kỳ)";
+
+"menu.country.vn" = "Việt Nam";
+
+"menu.country.vu" = "Vanuatu";
+
+"menu.country.wf" = "Quần đảo Wallis và Futuna";
+
+"menu.country.ws" = "Samoa";
+
+"menu.country.ye" = "Yemen";
+
+"menu.country.yt" = "Mayotte";
+
+"menu.country.za" = "Cộng hòa Nam Phi";
+
+"menu.country.zm" = "Dămbia";
+
+"menu.country.zr" = "Zaire";
+
+"menu.country.zw" = "Zimbabuê";

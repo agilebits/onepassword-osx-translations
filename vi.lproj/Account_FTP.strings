@@ -1,0 +1,29 @@
+"__title__" = "Tài khoản FTP";
+
+"__description__" = "Thông tin đăng nhập cho các tài khoản FTP.";
+
+"server" = "Máy chủ";
+
+"path" = "Đường dẫn";
+
+"username" = "Người dùng";
+
+"password" = "Mật khẩu";
+
+"Contact Information" = "Thông tin liên hệ";
+
+"Contact Information#9" = "Liên hệ";
+
+"provider" = "Nhà cung cấp";
+
+"provider_website" = "Trang web của nhà cung cấp";
+
+"provider_website#9" = "Trang web";
+
+"phone_tollfree" = "Điện thoại (Miễn phí)";
+
+"phone_tollfree#9" = "Gọi Miễn phí";
+
+"phone_local" = "Điện thoại (tại Địa phương)";
+
+"phone_local#9" = "Điện thoại";

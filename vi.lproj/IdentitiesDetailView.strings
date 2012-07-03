@@ -1,0 +1,35 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4901"; */
+"Tags" = "Thẻ";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4842"; */
+"Attachments" = "Đính kèm";
+
+/* Class = "NSTextFieldCell"; title = "Display"; ObjectID = "4936"; */
+"Display" = "Hiển thị";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Photograph"; ObjectID = "4905"; */
+"Photograph" = "Chụp ảnh";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "name"; ObjectID = "4582"; */
+"name" = "tên";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "2888"; */
+"Created on" = "Được tạo ngày";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4440"; */
+"tags" = "thẻ";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Notes"; ObjectID = "4893"; */
+"Notes" = "Ghi chú";
+
+/* Class = "NSMenuItem"; title = "Always"; ObjectID = "4935"; */
+"Always" = "Luôn luôn";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Name"; ObjectID = "4921"; */
+"Name" = "Tên";
+
+/* Class = "NSMenuItem"; title = "Never Display in Browser"; ObjectID = "4933"; */
+"Never Display in Browser" = "Đừng hiện trong trình duyệt";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "2887"; */
+"Last modified" = "Sửa đổi lần cuối";

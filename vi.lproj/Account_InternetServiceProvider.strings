@@ -1,0 +1,27 @@
+"__title__" = "Nhà cung cấp Internet";
+
+"__description__" = "Thông tin về phương thức kết nối được cung cấp bởi nhà cung cấp dịch vụ Internet (ISP) của bạn để có thể kết nối tới Internet.";
+
+"userid" = "ID người dùng";
+
+"password" = "Mật khẩu";
+
+"pin" = "Mã PIN";
+
+"dialup_number" = "Số thuê bao truy cập";
+
+"dialup_number#9" = "Thuê bao #";
+
+"Contact Information" = "Thông tin liên hệ";
+
+"Contact Information#9" = "Liên hệ";
+
+"website" = "Trang web";
+
+"phone_local" = "Điện thoại (tại địa phương)";
+
+"phone_local#9" = "Điện thoại";
+
+"phone_tollfree" = "Điện thoại (miễn phí)";
+
+"phone_tollfree#9" = "Gọi Miễn phí";

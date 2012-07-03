@@ -1,0 +1,21 @@
+"__title__" = "Giấy phép săn bắn";
+
+"name" = "Họ tên";
+
+"valid_from" = "Hợp lệ từ";
+
+"valid_from#9" = "Hợp lệ";
+
+"expires" = "Hết hạn";
+
+"game" = "Động vật được cấp phép";
+
+"game#9" = "Loài hoang dã";
+
+"quota" = "Giới hạn tối đa";
+
+"quota#9" = "Hạn ngạch";
+
+"state" = "Nhà nước";
+
+"country" = "Quốc gia";

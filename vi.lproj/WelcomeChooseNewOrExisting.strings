@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; title = "Welcome to"; ObjectID = "4"; */
+"Welcome to" = "Chào mừng tới";
+
+/* Class = "NSButtonCell"; title = "I have already used 1Password"; ObjectID = "20"; */
+"I have already used 1Password" = "Tôi đã từng dùng 1Password";
+
+/* Class = "NSWindow"; title = "Welcome to 1Password"; ObjectID = "1"; */
+"Welcome to 1Password" = "Chào mừng bạn đến với 1Password";
+
+/* Class = "NSTextFieldCell"; title = "To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button."; ObjectID = "10"; */
+"To start we will need to set up your master password.\nIf you already did this, click \"I used 1Password before\" button." = "Để bắt đầu, chúng ta cần phải đặt một Mật khẩu chính chủ của bạn. Nếu bạn đã đặt rồi, hãy nhấn nút \"Tôi đã từng dùng 1Password\".";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "new data file"; ObjectID = "15"; */
+"new data file" = "tệp dữ liệu mới";
+
+/* Class = "NSTextFieldCell"; title = "1Password"; ObjectID = "6"; */
+"1Password" = "1Password";
+
+/* Class = "NSButtonCell"; title = "I am a new user"; ObjectID = "18"; */
+"I am a new user" = "Tôi là người dùng mới";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "29"; */
+"help" = "trợ giúp";
+
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "find existing"; ObjectID = "13"; */
+"find existing" = "tìm những gì đã có";

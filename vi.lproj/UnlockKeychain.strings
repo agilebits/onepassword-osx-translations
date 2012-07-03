@@ -1,0 +1,14 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "166"; */
+"Cancel" = "Hủy bỏ";
+
+/* Class = "NSTextFieldCell"; title = "... unlock reason message will be displayed here..."; ObjectID = "169"; */
+"... unlock reason message will be displayed here..." = "... lý do mở khóa sẽ hiển thị tại đây ...";
+
+/* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "165"; */
+"Unlock" = "Mở khóa";
+
+/* Class = "NSWindow"; title = "Unlock 1Password"; ObjectID = "84"; */
+"Unlock 1Password" = "Mở khóa 1Password";
+
+/* Class = "NSTextFieldCell"; title = "Master Password:"; ObjectID = "164"; */
+"Master Password:" = "Mật khẩu chính chủ:";

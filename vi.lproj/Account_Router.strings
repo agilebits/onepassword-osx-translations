@@ -1,0 +1,44 @@
+"__title__" = "Bộ phát Không dây";
+
+"__description__" = "Thông tin tài khoản cho AirPort Extreme của bạn hoặc các Bộ phát không dây khác.";
+
+"network_name" = "Trên mạng";
+
+"network_name#9" = "Mạng";
+
+"name" = "Tên Trạm cơ sở";
+
+"name#9" = "Trạm";
+
+"password" = "Mật khẩu trạm cơ sở";
+
+"password#9" = "Mật khẩu";
+
+"server" = "Địa chỉ Máy chủ / IP";
+
+"server#9" = "Địa chỉ IP";
+
+"airport_id" = "AirPort IP";
+
+"wireless_security" = "Bảo mật không dây";
+
+"wireless_security#9" = "Bảo mật";
+
+"wireless_password" = "Mật khẩu mạng không dây";
+
+"wireless_password#9" = "Mật khẩu mạng máy tính";
+
+"disk_password" = "Mật khẩu của Lưu trữ đính kèm";
+
+"disk_password#9" = "Mật khẩu lưu trữ";
+
+
+"menu.wireless_security.none" = "Không có bảo mật";
+
+"menu.wireless_security.wep" = "WEP";
+
+"menu.wireless_security.wpa" = "WPA";
+
+"menu.wireless_security.wpa2p" = "WPA2 Cá nhân";
+
+"menu.wireless_security.wpa2e" = "WPA2 Doanh nghiệp";

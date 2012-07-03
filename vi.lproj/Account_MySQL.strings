@@ -1,0 +1,13 @@
+"__title__" = "Cơ sở dữ liệu MySQL";
+
+"__description__" = "Thông tin kết nối cơ sở dữ liệu MySQL.";
+
+"hostname" = "Tên máy chủ";
+
+"port" = "Cổng (3306)";
+
+"database" = "Cơ sở dữ liệu";
+
+"username" = "Tên người dùng";
+
+"password" = "Mật khẩu";

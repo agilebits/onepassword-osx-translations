@@ -1,0 +1,23 @@
+"__title__" = "MobileMe";
+
+"__description__" = "Đăng kí và đăng nhập thông tin cho dịch vụ MobileMe của Apple.";
+
+"email" = "Email (tên@me.com)";
+
+"email#9" = "Email";
+
+"member_name" = "Thành viên";
+
+"password" = "Mật khẩu";
+
+"idisk_storage" = "Lưu trữ trên iDisk sẵn có";
+
+"idisk_storage#9" = "Lưu trữ";
+
+"renewal_date" = "Ngày thay mới";
+
+"renewal_date#9" = "Thay mới";
+
+"activation_key" = "Mã kích hoạt";
+
+"activation_key#9" = "Kích hoạt";

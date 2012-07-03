@@ -1,0 +1,38 @@
+/* Class = "NSTextFieldCell"; title = "Last synced"; ObjectID = "17"; */
+"Last synced" = "Đồng bộ lần cuối";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "13"; */
+"title" = "tiêu đề";
+
+/* Class = "NSTextFieldCell"; title = "Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing"; ObjectID = "103"; */
+"Please start and unlock 1Password touch on your iPhone to perform Wi-Fi syncing" = "Xin mời khởi động và mở khóa 1Password trên iPhone của bạn để bắt đầu đồng bộ qua Wi-Fi";
+
+/* Class = "NSButtonCell"; title = "Sync all items"; ObjectID = "27"; */
+"Sync all items" = "Đồng bộ tất cả";
+
+/* Class = "NSButtonCell"; title = "Sync only selected folders"; ObjectID = "26"; */
+"Sync only selected folders" = "Đồng bộ các thư mục đã chọn";
+
+/* Class = "NSTextFieldCell"; title = "Wi-Fi Status"; ObjectID = "19"; */
+"Wi-Fi Status" = "Tình trạng Wi-Fi";
+
+/* Class = "NSTextFieldCell"; title = "When checked, 1Password will replace information on this iPhone with information from this computer."; ObjectID = "94"; */
+"When checked, 1Password will replace information on this iPhone with information from this computer." = "Khi đã chọn, 1Password sẽ thay thế thông tin trên iPhone bằng thông tin có trên máy tính này.";
+
+/* Class = "NSButtonCell"; title = "Replace information on this iPhone"; ObjectID = "92"; */
+"Replace information on this iPhone" = "Thay thê sthoong tin trên iPhone này";
+
+/* Class = "NSMenuItem"; title = "Manually"; ObjectID = "83"; */
+"Manually" = "Thủ công";
+
+/* Class = "NSButtonCell"; title = "Sync Now"; ObjectID = "23"; */
+"Sync Now" = "Dồng bộ ngay";
+
+/* Class = "NSTextFieldCell"; title = "Device type"; ObjectID = "16"; */
+"Device type" = "Loại thiết bị";
+
+/* Class = "NSMenuItem"; title = "Automatically"; ObjectID = "82"; */
+"Automatically" = "Tự động";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Wi-Fi status"; ObjectID = "7"; */
+"Wi-Fi status" = "Trạng thía Wi-Fi";

@@ -1,0 +1,23 @@
+/* Class = "NSImageView"; ibExternalAccessibilityDescription = "Tags"; ObjectID = "4863"; */
+"Tags" = "Thẻ";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "Attachments"; ObjectID = "4803"; */
+"Attachments" = "Đính kèm";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "title"; ObjectID = "4865"; */
+"title" = "tiêu đề";
+
+/* Class = "NSTextFieldCell"; title = "Created on"; ObjectID = "3152"; */
+"Created on" = "Được tạo ngày";
+
+/* Class = "NSTokenField"; ibExternalAccessibilityDescription = "tags"; ObjectID = "4483"; */
+"tags" = "thẻ";
+
+/* Class = "IBBindingConnection"; ibShadowedIsNilPlaceholder = "Title"; ObjectID = "4904"; */
+"Title" = "Tiêu đề";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Secure Notes"; ObjectID = "3177"; */
+"Secure Notes" = "Lưu ý bảo mật";
+
+/* Class = "NSTextFieldCell"; title = "Last modified"; ObjectID = "3151"; */
+"Last modified" = "Sửa đổi lần cuối";

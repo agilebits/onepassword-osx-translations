@@ -1,0 +1,125 @@
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "1407"; */
+"Cancel" = "Hủy bỏ";
+
+/* Class = "NSButtonCell"; title = "Lock when screen saver is activated"; ObjectID = "1430"; */
+"Lock when screen saver is activated" = "Khóa khi bảo vệ màn hình xuất hiện";
+
+/* Class = "NSButtonCell"; title = "Show helper icon in menu bar"; ObjectID = "2122"; */
+"Show helper icon in menu bar" = "Hiện biểu tượng trợ giúp trên trình đơn";
+
+/* Class = "NSButtonCell"; title = "Clear values copied to clipboard after"; ObjectID = "1535"; */
+"Clear values copied to clipboard after" = "Xóa dữ liệu đã sao chép vào bộ nhớ tạm";
+
+/* Class = "NSTextFieldCell"; title = "Current Password:"; ObjectID = "1393"; */
+"Current Password:" = "Mật khẩu hiện tại:";
+
+/* Class = "NSButtonCell"; title = "Use Dropbox..."; ObjectID = "1847"; */
+"Use Dropbox..." = "Dùng Dropbox...";
+
+/* Class = "NSButtonCell"; title = "      Browser Extensions"; ObjectID = "2028"; */
+"      Browser Extensions" = "      Phần mở rộng trình duyệt";
+
+/* Class = "NSButtonCell"; title = "Stop Using Dropbox..."; ObjectID = "2038"; */
+"Stop Using Dropbox..." = "Ngưng sử dụng Dropbox...";
+
+/* Class = "NSButtonCell"; title = "Automatically download icons and previews for new Logins"; ObjectID = "1735"; */
+"Automatically download icons and previews for new Logins" = "Tự động tải về biểu tượng và xem trước cho lần đăng nhập mới";
+
+/* Class = "NSButtonCell"; title = "Install Browser Extensions"; ObjectID = "1951"; */
+"Install Browser Extensions" = "Cài phần mở rộng trình duyệt";
+
+/* Class = "NSButtonCell"; title = "Change Master Password..."; ObjectID = "1365"; */
+"Change Master Password..." = "Đổi mật khẩu chính chủ...";
+
+/* Class = "NSTextFieldCell"; title = "123"; ObjectID = "1539"; */
+"123" = "123";
+
+/* Class = "NSButtonCell"; title = "Lock when sleeping"; ObjectID = "1355"; */
+"Lock when sleeping" = "Khóa khi ngủ";
+
+/* Class = "NSButtonCell"; title = "Disable Lock and Unlock Animation"; ObjectID = "1795"; */
+"Disable Lock and Unlock Animation" = "Đừng hiện hiệu ứng Khóa và Mở khóa";
+
+/* Class = "NSTextFieldCell"; title = "Unlocking"; ObjectID = "1451"; */
+"Unlocking" = "Đang mở khóa";
+
+/* Class = "NSTextFieldCell"; title = "Browser Extensions"; ObjectID = "2105"; */
+"Browser Extensions" = "Phần mở rộng của trình duyệt";
+
+/* Class = "NSTextFieldCell"; title = "Display in Sidebar"; ObjectID = "1745"; */
+"Display in Sidebar" = "Hiện trong thanh công cụ";
+
+/* Class = "NSTextFieldCell"; title = "Unlock when helper is unlocked"; ObjectID = "2034"; */
+"Unlock when helper is unlocked" = "Mở khóa khi trình trợ giúp đã mở";
+
+/* Class = "NSTextFieldCell"; title = "Verify:"; ObjectID = "1399"; */
+"Verify:" = "Xác nhận:";
+
+/* Class = "NSButtonCell"; title = "Download missing previews"; ObjectID = "1732"; */
+"Download missing previews" = "Tải về bản xem trước bị thiếu";
+
+/* Class = "NSTextFieldCell"; title = "Master Password"; ObjectID = "1363"; */
+"Master Password" = "Mật khẩu chính chủ";
+
+/* Class = "NSTextFieldCell"; title = "minutes of computer inactivity"; ObjectID = "1361"; */
+"minutes of computer inactivity" = "phút máy tính không hoạt động";
+
+/* Class = "NSButtonCell"; title = "Enable Universal Unlock"; ObjectID = "1441"; */
+"Enable Universal Unlock" = "Mở tính năng mở khóa đồng loạt";
+
+/* Class = "NSButtonCell"; title = "Remove all previews..."; ObjectID = "1733"; */
+"Remove all previews..." = "Xoa mọi bản xem trước...";
+
+/* Class = "NSTextFieldCell"; title = "Press"; ObjectID = "2102"; */
+"Press" = "Nhấn";
+
+/* Class = "NSTextFieldCell"; title = "to show extension popup in your browser"; ObjectID = "2104"; */
+"to show extension popup in your browser" = "để xem popup của phần mở rộng trong trình duyệt";
+
+/* Class = "NSTextFieldCell"; title = "Keyboard Shortcuts"; ObjectID = "2106"; */
+"Keyboard Shortcuts" = "Phím tắt";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "help"; ObjectID = "1804"; */
+"help" = "trợ giúp";
+
+/* Class = "NSTextFieldCell"; title = "Login Previews"; ObjectID = "1734"; */
+"Login Previews" = "Xem trước đăng nhập";
+
+/* Class = "NSButtonCell"; title = "      Tags"; ObjectID = "1753"; */
+"      Tags" = "      Thẻ";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "1541"; */
+"seconds" = "giây";
+
+/* Class = "NSTextFieldCell"; title = "Clipboard Security"; ObjectID = "1533"; */
+"Clipboard Security" = "Bảo mật bộ nhớ tạm";
+
+/* Class = "NSTextFieldCell"; title = "New Password:"; ObjectID = "1397"; */
+"New Password:" = "Mật khẩu mới:";
+
+/* Class = "NSButtonCell"; title = "Keep helper running to enable extension features"; ObjectID = "2019"; */
+"Keep helper running to enable extension features" = "Để trình trợ giúp chạy để bật phần mở rộng";
+
+/* Class = "NSButtonCell"; title = "      Folders"; ObjectID = "1747"; */
+"      Folders" = "      Thư mục";
+
+/* Class = "NSTextFieldCell"; title = "Your Data Stored In"; ObjectID = "1347"; */
+"Your Data Stored In" = "Dữ liệu đã được lưu";
+
+/* Class = "NSTextFieldCell"; title = "Auto-Lock"; ObjectID = "1449"; */
+"Auto-Lock" = "Tự động Khóa";
+
+/* Class = "NSButtonCell"; title = "Change Password"; ObjectID = "1405"; */
+"Change Password" = "Đổi mật khẩu";
+
+/* Class = "NSTextFieldCell"; title = "Password Hint:"; ObjectID = "1479"; */
+"Password Hint:" = "Gợi ý mật khẩu:";
+
+/* Class = "NSButtonCell"; title = "Lock after"; ObjectID = "1357"; */
+"Lock after" = "Khóa sau";
+
+/* Class = "NSTextFieldCell"; title = "to fill Login in your browser"; ObjectID = "2103"; */
+"to fill Login in your browser" = "để điền vào phần Đăng nhập trong trình duyệt của bạn";
+
+/* Class = "NSButtonCell"; title = "      Generated Passwords"; ObjectID = "1765"; */
+"      Generated Passwords" = "      Mật khẩu được tạo ra";

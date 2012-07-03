@@ -1,0 +1,41 @@
+"__title__" = "Máy chủ";
+
+"__description__" = "Thông tin tài khoản dành cho các máy chủ Linux và FreeBSD, hệ thống VPS, v.v.";
+
+"url" = "Đường dẫn URL";
+
+"username" = "Tên người dùng";
+
+"password" = "Mật khẩu";
+
+"hosting_provider_details" = "Thông tin nhà cung cấp máy chủ";
+
+"hosting_provider_details#9" = "Nhà cung cấp";
+
+"admin_console" = "Giao diện quản trị";
+
+"admin_console#9" = "Giao diện điều khiển";
+
+"admin_console_url" = "URL giao diện cho người quản trị";
+
+"admin_console_url#9" = "URL giao diện quản trị";
+
+"admin_console_username" = "Tên người dùng quản lý";
+
+"admin_console_username#9" = "Giao diện người dùng";
+
+"admin_console_password" = "Mật khẩu giao diện";
+
+"admin_console_password#9" = "MK giao diện";
+
+"name" = "Tên";
+
+"website" = "Trang web";
+
+"support_contact_url" = "URl hỗ trợ";
+
+"support_contact_url#9" = "URL-hỗ-trợ";
+
+"support_contact_phone" = "Điễn thoại hỗ trợ #";
+
+"support_contact_phone#9" = "Hỗ trợ#";

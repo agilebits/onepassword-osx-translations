@@ -1,0 +1,23 @@
+/* Class = "NSTextFieldCell"; title = "Agile"; ObjectID = "260"; */
+"Agile" = "Nhanh chóng";
+
+/* Class = "NSTextFieldCell"; title = "Email"; ObjectID = "248"; */
+"Email" = "Email";
+
+/* Class = "NSTextFieldCell"; title = "Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later."; ObjectID = "243"; */
+"Do not miss an important 1Password update and learn about the new features and improvements.\n\nAll our newsletters include an easy one-click Unsubscribe link, in case you change your mind later." = "Đừng bỏ lỡ các cập nhật quan trọng của 1Password và tìm hiểu những tính năng và cải tiến mới.\n\nTất cả các tờ thông báo của chúng tôi đề chứa đường dẫn Hủy đăng khí nhận tin, trong trường hợp bạn muốn quyết định sau.";
+
+/* Class = "NSWindow"; title = "Stay In Touch"; ObjectID = "21"; */
+"Stay In Touch" = "Giữ liên lạc";
+
+/* Class = "NSButtonCell"; title = "No, thanks"; ObjectID = "244"; */
+"No, thanks" = "Không, cảm ơn";
+
+/* Class = "NSTextFieldCell"; title = "Copied from your Address Book card"; ObjectID = "269"; */
+"Copied from your Address Book card" = "Đã sao chép ra từ thẻ Sổ liên lạc của bạn";
+
+/* Class = "NSButtonCell"; title = "Sign Up"; ObjectID = "242"; */
+"Sign Up" = "Đăng kí";
+
+/* Class = "NSTextFieldCell"; title = "News & Updates"; ObjectID = "258"; */
+"News & Updates" = "Tin tức & Cập nhật";
