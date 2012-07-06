@@ -12,18 +12,18 @@
     <div style="display:none" id="html.install"><a href='#'>インストール</a></div>
     <section id="intro">
         <header>
-            <img src="../header-icon.png" alt="" />
+            <img id="header-icon" alt="" />
             <h1>ブラウザの拡張機能をインストール</h1>
             <p>Enjoy true integration with your web browsers.</p>
         </header>
         <ul>
-            <li><img src="../intro-logins.png" alt="" />
+            <li><img id="intro-logins" alt="" />
                 <p><strong>自動的にウェブサイトのログイン情報を入力し保存します。</strong>サイトにログインしたことを検出し、新たなログイン情報を後の使用のために保存するよう促します。</p></li>
-            <li><img src="../intro-identities.png" alt="" />
+            <li><img id="intro-identities" alt="" />
                 <p><strong>アドレス、連絡先、フォーラムなどを入力してください。</strong>1パスワードIDでこの情報のすべて、もしくは一部を保存でき、また好きなだけIDを作成できます。</p></li>
-            <li><img src="../intro-credit-cards.png" alt="" />
+            <li><img id="intro-credit-cards" alt="" />
                 <p><strong>オンラインで買い物をしながらクレジットカードを簡単に入力します。</strong>クレジットカ ード番号を暗号化された1Passwordのウォレットへローカルに保存することで、より便利に買い物をしな がらクレジットカード番号を保護します。</p></li>
-            <li><img src="../intro-generator.png" alt="" />
+            <li><img id="intro-generator" alt="" />
                 <p><strong>非常に強力なパスワードを生成します。</strong>1Password がすべてのパスワードを記憶するため、自分で記憶する必要はありません。もうペットの名前や結婚記念日をパスワードに使用しなくてもいいのです。</p></li>
         </ul>
         <button onclick="document.body.className='helper'">さあ始めましょう！</button>
@@ -33,7 +33,7 @@
         <h1>1Password ヘルパー</h1>
         <p>ヘルパーがメニューバーで実行されます。</p>
         
-        <img src="../helper.png" alt="メニューバーの1Password ヘルパー" />
+        <img id="helper" alt="メニューバーの1Password ヘルパー" />
         
         <p>ブラウザを<strong>同期</strong>させ、<strong>キーボード</strong>のショートカットを使えるようにし、1Password を<strong>ロック</strong>、および<strong>アンロック</strong>し、1Password がクローズされていても、自動的にあなたのデータを<strong>バックアップ</strong>します。</p>
 
@@ -43,11 +43,11 @@
     <section id="install">
         <h1>ウェブブラウザの拡張機能</h1>
         <ul class="buttons">
-            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" alt="" />
                 <h2>Safari</h2><span id="safari.msg">インストールされました</span></li>
-            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" alt="" />
                 <h2>Chrome</h2><span id="chrome.msg"><a href="#">インストール</a></span></li>
-            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" alt="" />
                 <h2>Firefox</h2><span id="firefox.msg"><a href="#">インストール</a></span></li>
         </ul>
         <footer><a href="#" onclick="controller.showSettings()">設定</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">ユーザガイド</a></footer>

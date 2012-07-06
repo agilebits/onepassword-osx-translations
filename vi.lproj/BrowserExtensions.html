@@ -12,18 +12,18 @@
     <div style="display:none" id="html.install"><a href='#'>Cài đặt</a></div>
     <section id="intro">
         <header>
-            <img src="../header-icon.png" alt="" />
+            <img id="header-icon" alt="" />
             <h1>Cài phần mở rộng trình duyệt</h1>
             <p>Thưởng thức sự đồng bộ giữa chương trình và trình duyệt của bạn.</p>
         </header>
         <ul>
-            <li><img src="../intro-logins.png" alt="" />
+            <li><img id="intro-logins" alt="" />
                 <p><strong>Tự động lưu trữ và đăng nhập vào trang web.</strong> Chương trình sẽ tuej động phát hiện khi bạn đăng nhập vào trang web và sẽ hỏi để lưu lại sau.</p></li>
-            <li><img src="../intro-identities.png" alt="" />
+            <li><img id="intro-identities" alt="" />
                 <p><strong>Điền thông tin địa chỉ, thông tin liên hệ, diễn đàn và nhiều hơn nữa.</strong> Bạn có thể lưu một vài hoặc tất cả các thông tin trong 1Password, bạn có thể điền bao nhiêu tùy thích.</p></li>
-            <li><img src="../intro-credit-cards.png" alt="" />
+            <li><img id="intro-credit-cards" alt="" />
                 <p><strong>Dễ dàng điền thông tin khi mua sắm trực tuyến.</strong> Mua sắm dex dàng hơn và lưu giữ số thẻ tín dụng của bạn một cách an toàn khi được mã hóa trong Ví của 1Password.</p></li>
-            <li><img src="../intro-generator.png" alt="" />
+            <li><img id="intro-generator" alt="" />
                 <p><strong>Tự tạo mật khẩu cực mạnh</strong> khi mà 1Password đã nhớ giúp bạn mọi mật khẩu còn bạn thì không cần nhớ nhiều mật khẩu nữa. Hãy quên đi cái thời mà bạn phải nhớ hàng tá mật khẩu hay đặt những mật khẩu không mấy an toàn bằng tên thú nuôi hay ngày kỉ niệm.</p></li>
         </ul>
         <button onclick="document.body.className='helper'">Hãy bắt đầu nào!</button>
@@ -33,7 +33,7 @@
         <h1>Trình hỗ trợ 1Password</h1>
         <p>Trình hỗ trợ sẽ chạy trên thanh trình đơn menu.</p>
         
-        <img src="../helper.png" alt="Trình hỗ trợ 1Password trên thanh menu" />
+        <img id="helper" alt="Trình hỗ trợ 1Password trên thanh menu" />
         
         <p>Nó sẽ giữ trình duyệt của bạn luôn được <strong>đồng bộ</strong>, bạn hãy xem những <strong>phím tắt</strong> , <strong>khóa/strong> và <strong>mở khóa</strong> 1Password, và tựu động <strong>sao lưu</strong> dữ liệu của bạn khi đóng 1Password.</p>
 
@@ -43,11 +43,11 @@
     <section id="install">
         <h1>Phần mở rộng của trình duyệt</h1>
         <ul class="buttons">
-            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" alt="" />
                 <h2>Safari</h2><span id="safari.msg">Đã cài</span></li>
-            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" alt="" />
                 <h2>Chrome</h2><span id="chrome.msg"><a href="#">Cài đặt</a></span></li>
-            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" alt="" />
                 <h2>Firefox</h2><span id="firefox.msg"><a href="#">Cài đặt</a></span></li>
         </ul>
         <footer><a href="#" onclick="controller.showSettings()">Thùy thích</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Hướng dẫn sử dụng</a></footer>

@@ -12,18 +12,18 @@
     <div style="display:none" id="html.install"><a href='#'>安裝</a></div>
     <section id="intro">
         <header>
-            <img src="../header-icon.png" alt="" />
+            <img id="header-icon" alt="" />
             <h1>安裝瀏覽器擴充套件</h1>
             <p>享受與瀏覽器的完美結合。</p>
         </header>
         <ul>
-            <li><img src="../intro-logins.png" alt="" />
+            <li><img id="intro-logins" alt="" />
                 <p><strong>自動儲存並填寫網路登錄資料</strong>当當你登錄到一個網站時會自動偵測，並提示你保存新的登錄資訊供以後使用。</p></li>
-            <li><img src="../intro-identities.png" alt="" />
+            <li><img id="intro-identities" alt="" />
                 <p><strong>填寫地址、聯絡資料、論壇等資料。</strong>你可以在1Password身份識別中保存所有或部份個人資料，根據你的喜愛建立任何數量身份識別。</p></li>
-            <li><img src="../intro-credit-cards.png" alt="" />
+            <li><img id="intro-credit-cards" alt="" />
                 <p><strong>網路購物時輕鬆填寫信用卡</strong>購物更加方便，同時將信用卡卡號儲存在本機上已加密的1Password錢包中，確保你信用卡號碼的安全性。</p></li>
-            <li><img src="../intro-generator.png" alt="" />
+            <li><img id="intro-generator" alt="" />
                 <p><strong>產生非常安全的密碼</strong>1Password 可以替你記憶所有的密碼，不再需用使用寵物的名字或是周年記念日來當做密碼。</p></li>
         </ul>
         <button onclick="document.body.className='helper'">開始使用吧!</button>
@@ -33,7 +33,7 @@
         <h1>1Password 小幫手</h1>
         <p>小幫手將顯示在功能表列中。</p>
         
-        <img src="../helper.png" alt="功能表中的 1Password 小幫手" />
+        <img id="helper" alt="功能表中的 1Password 小幫手" />
         
         <p>將會<strong>同步</strong>保持你的瀏覽器， 讓你使用<strong>鍵盤</strong>快速鍵，<strong>鎖定</strong>與<strong>解鎖</strong> 1Password，即使 1Password 關閉後也能自動<strong>備份</strong>你的資料。</p>
 
@@ -43,11 +43,11 @@
     <section id="install">
         <h1>網路瀏覽器擴充功能</h1>
         <ul class="buttons">
-            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" alt="" />
                 <h2>Safari</h2><span id="safari.msg">已安裝</span></li>
-            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" alt="" />
                 <h2>Chrome</h2><span id="chrome.msg"><a href="#">安裝</a></span></li>
-            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" alt="" />
                 <h2>Firefox</h2><span id="firefox.msg"><a href="#">安裝</a></span></li>
         </ul>
         <footer><a href="#" onclick="controller.showSettings()">偏好設定</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">使用者指南</a></footer>

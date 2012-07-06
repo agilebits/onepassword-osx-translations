@@ -12,18 +12,18 @@
     <div style="display:none" id="html.install"><a href='#'>تثبيت</a></div>
     <section id="intro">
         <header>
-            <img src="../header-icon.png" alt="" />
+            <img id="header-icon" alt="" />
             <h1>تثبيت إضافات المتصفح</h1>
             <p>تمتع بالتكامل الحقيقي مع متصفحات الويب الخاصة بك.</p>
         </header>
         <ul>
-            <li><img src="../intro-logins.png" alt="" />
+            <li><img id="intro-logins" alt="" />
                 <p><strong>حفظ تلقائي وملء تسجيلات الدخول لمواقع الإنترنت.</strong> سيقوم بالإكتشاف عند تسجيل الدخول إلى موقع وسوف يطالبك بحفظ معلومات تسجيل الدخول لاستخدامها لاحقاً.</p></li>
-            <li><img src="../intro-identities.png" alt="" />
+            <li><img id="intro-identities" alt="" />
                 <p><strong>ملء عناوين ومعلومات الاتصال، والمنتديات، وأكثر من ذلك.</strong> يمكنك حفظ كافة أو بعض من هذه المعلومات في هوية 1Password، ويمكنك إنشاء أكبر عدد ممكن من الهويات كما تحب.</p></li>
-            <li><img src="../intro-credit-cards.png" alt="" />
+            <li><img id="intro-credit-cards" alt="" />
                 <p><strong>قم بتعبئة معلومات بطاقات الإئتمان أثناء التسوق عبر الانترنت.</strong> تسوق براحة أكبر و أبق أرقام بطاقات الإئتمان الخاصة بك آمنة بتخزينها مشفرة محلياً في محفظة 1Password.</p></li>
-            <li><img src="../intro-generator.png" alt="" />
+            <li><img id="intro-generator" alt="" />
                 <p><strong>إنشاء كلمات مرور قوية</strong> 1Password يقوم بتذكر كلمات المرور وأيضاً إنشاء الكلمات الجديدة لضمان قوتها.</p></li>
         </ul>
         <button onclick="document.body.className='helper'">دعونا نبدأ!</button>
@@ -33,7 +33,7 @@
         <h1>مساعد 1Password</h1>
         <p>سيتم إبقاء المساعد في شريط القائمة الخاص بك.</p>
         
-        <img src="../helper.png" alt="مساعد 1Password في شريط القائمة" />
+        <img id="helper" alt="مساعد 1Password في شريط القائمة" />
         
         <p>سيبقي متصفحاتك في <strong>sync</strong>, ويسمح لك باستخدام <strong>لوحة المفاتيح</strong> بالاختصارات, <strong>قفل</strong> و <strong>فتح القفل</strong> 1Password, و تلقائياً <strong>النسخ الإحتياطي</strong> لبياناتك حتى عندما يكون 1Password مغلقاً.
 </p>
@@ -44,11 +44,11 @@
     <section id="install">
         <h1>إضافات متصفح الويب</h1>
         <ul class="buttons">
-            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" alt="" />
                 <h2>Safari</h2><span id="safari.msg">مثبتة</span></li>
-            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" alt="" />
                 <h2>Chrome</h2><span id="chrome.msg"><a href="#">تثبيت</a></span></li>
-            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" alt="" />
                 <h2>Firefox</h2><span id="firefox.msg"><a href="#">تثبيت</a></span></li>
         </ul>
         <footer><a href="#" onclick="controller.showSettings()">تفضيلات</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">دليل المستخدم</a></footer>

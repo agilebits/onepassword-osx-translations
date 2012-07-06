@@ -12,18 +12,18 @@
     <div style="display:none" id="html.install"><a href='#'>설치</a></div>
     <section id="intro">
         <header>
-            <img src="../header-icon.png" alt="" />
+            <img id="header-icon" alt="" />
             <h1>브라우저 확장도구 설치</h1>
             <p>웹 브라우저와의 진정한 통합을 누리실 수 있습니다.</p>
         </header>
         <ul>
-            <li><img src="../intro-logins.png" alt="" />
+            <li><img id="intro-logins" alt="" />
                 <p><strong>자동 저장 후 웹사이트 로그인 정보를 기입합니다.</strong> 웹사이트 로그인을 감지하고 새로운 로그인 정보를 저장해 추후 사용할 수 있도록 합니다.</p></li>
-            <li><img src="../intro-identities.png" alt="" />
+            <li><img id="intro-identities" alt="" />
                 <p><strong>주소, 연락처, 포럼 등의 정보를 기입합니다.</strong> 1Password 신원정보(Identity)에 전체 또는 일부 정보를 저장할 수 있으며, 생성 가능한 신원정보의 수에도 제한이 없습니다.</p></li>
-            <li><img src="../intro-credit-cards.png" alt="" />
+            <li><img id="intro-credit-cards" alt="" />
                 <p><strong>온라인 쇼핑 시 신용카드 정보를 손쉽게 기입하십시오.</strong> 암 호화된 1Password Wallet 상에 신용카드 번호를 로컬로 저장하면 신용카드 번 호를 안전하게 지키면서 편리한 쇼핑을 즐길 수 있습니다.</p></li>
-            <li><img src="../intro-generator.png" alt="" />
+            <li><img id="intro-generator" alt="" />
                 <p><strong>보안성이 매우 높은 비밀번호를 생성합니다.</strong> 물론 1Password는 귀하가 입력한 모든 비밀번호를 기억하기 때문에 비밀번호 보안성에 대해 걱정할 필요는 없습니다. 애완동물 이름이나 기념일을 비밀번호로 사용하던 시절은 이미 지난 지 오래입니다.</p></li>
         </ul>
         <button onclick="document.body.className='helper'">프로그램을 시작합니다.</button>
@@ -33,7 +33,7 @@
         <h1>1Password 도움말</h1>
         <p>메뉴 바에서 도움말 기능이 작동됩니다.</p>
         
-        <img src="../helper.png" alt="메뉴 바에 위치한 1Password 도움말" />
+        <img id="helper" alt="메뉴 바에 위치한 1Password 도움말" />
         
         <p>브라우저를 <strong>동기화</strong>하고, <strong>키보드</strong> 단축키 사용을 가능하게 하며, 1Password 기능을 <strong>락(lock)</strong> 및 <strong>언락(unlock)</strong>하고, 1Password가 닫힌 이후에도 자동으로 데이터 <strong>백업</strong>을 진행합니다.</p>
 
@@ -43,11 +43,11 @@
     <section id="install">
         <h1>웹 브라우저 확장 기능</h1>
         <ul class="buttons">
-            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" alt="" />
                 <h2>Safari</h2><span id="safari.msg">설치 완료</span></li>
-            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" alt="" />
                 <h2>Chrome</h2><span id="chrome.msg"><a href="#">설치</a></span></li>
-            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" alt="" />
                 <h2>Firefox</h2><span id="firefox.msg"><a href="#">설치</a></span></li>
         </ul>
         <footer><a href="#" onclick="controller.showSettings()">선호사항</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">사용자 설명서</a></footer>

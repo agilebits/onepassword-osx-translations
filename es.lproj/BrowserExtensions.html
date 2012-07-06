@@ -12,18 +12,18 @@
     <div style="display:none" id="html.install"><a href='#'>Instalar</a></div>
     <section id="intro">
         <header>
-            <img src="../header-icon.png" alt="" />
+            <img id="header-icon" alt="" />
             <h1>Instalar extensiones del navegador</h1>
             <p>Disfrute de la verdadera integración con sus navegadores web.</p>
         </header>
         <ul>
-            <li><img src="../intro-logins.png" alt="" />
+            <li><img id="intro-logins" alt="" />
                 <p><strong>Guardar automáticamente y rellenar acceso al sitio web.</strong> Detectará cuando entra en un sitio y le indicará que guarde el nuevo Acceso para utilizarlo más tarde.</p></li>
-            <li><img src="../intro-identities.png" alt="" />
+            <li><img id="intro-identities" alt="" />
                 <p><strong>Completa las direcciones, información de contacto, foros y mucho más.</strong> Puede guardar toda o parte de esta información en Identidad de 1Password y puede crear tantas identidades como desee.</p></li>
-            <li><img src="../intro-credit-cards.png" alt="" />
+            <li><img id="intro-credit-cards" alt="" />
                 <p><strong>Complete fácilmente las tarjetas de crédito mientras realiza compras online.</strong> Compre más comodamente y proteja la seguridad del número de su tarjeta de crédito almacenándolo localmente en la cartera cifrada de 1Password.</p></li>
-            <li><img src="../intro-generator.png" alt="" />
+            <li><img id="intro-generator" alt="" />
                 <p><strong>Genera contraseñas muy fuertes</strong> mientras que 1Password recuerda todas sus contraseñas. Ya han pasado los días de utilizar el nombre de su mascota o su aniversario.</p></li>
         </ul>
         <button onclick="document.body.className='helper'">¡Comencemos!</button>
@@ -33,7 +33,7 @@
         <h1>Asistente de 1Password</h1>
         <p>El Asistente se ejecutará en su barra de menú.</p>
         
-        <img src="../helper.png" alt="Asistente de 1Password en la barra de menú" />
+        <img id="helper" alt="Asistente de 1Password en la barra de menú" />
         
         <p>Mantendrá sus navegadores en <strong>sync</strong>, le permitirá utilizar accesos directos con el <strong>teclado</strong> y <strong>bloquear</strong> y <strong>desbloquear</strong> 1Password, además de <strong>hacer una copia de seguridad</strong> automáticamente de sus datos cuando se cierra 1Password.</p>
 
@@ -43,11 +43,11 @@
     <section id="install">
         <h1>Extensiones del navegador web</h1>
         <ul class="buttons">
-            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img src="../safari.png" alt="" />
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" alt="" />
                 <h2>Safari</h2><span id="safari.msg">Instalado</span></li>
-            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img src="../chrome.png" alt="" />
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" alt="" />
                 <h2>Chrome</h2><span id="chrome.msg"><a href="#">Instalar</a></span></li>
-            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img src="../firefox.png" alt="" />
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" alt="" />
                 <h2>Firefox</h2><span id="firefox.msg"><a href="#">Instalar</a></span></li>
         </ul>
         <footer><a href="#" onclick="controller.showSettings()">Preferencias</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Guía de usuario</a></footer>
