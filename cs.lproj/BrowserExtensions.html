@@ -17,13 +17,13 @@
             <p>Užijte si skutečné propojení s webovými prohlížeči.</p>
         </header>
         <ul>
-            <li><img id="intro-logins" alt="" />
+            <li><img id="intro-logins" src="../intro-logins.png" alt="" />
                 <p><strong>Automaticky ukládá a vyplňuje přihlášení na webové stránky.</strong> Zjistí, když se přihlašujete a zeptá se vás na uložení nového přihlášení pro pozdější použítí.</p></li>
-            <li><img id="intro-identities" alt="" />
+            <li><img id="intro-identities" src="../intro-identities.png" alt="" />
                 <p><strong>Vyplňte adresy, kontaktní údaje, fóra a další.</strong> Můžete uložit všechny nebo jen některé z těchto údajů v totožnosti 1Password a můžete vytvořit tolik totožností, kolik chcete.</p></li>
-            <li><img id="intro-credit-cards" alt="" />
+            <li><img id="intro-credit-cards" src="../intro-credit-cards.png" alt="" />
                 <p><strong>Snadno vyplňte kreditní karty při nákupech online.</strong> Nakupujte pohodlněji a uchovejte bezpečně čísla vašich kreditních karet v zašifrované 1Password peněžence.</p></li>
-            <li><img id="intro-generator" alt="" />
+            <li><img id="intro-generator" src="../intro-generator.png" alt="" />
                 <p><strong>Generujte silná hesla,</strong> 1Password si pamatuje všechna Vaše hesla, takže Vy nebudete muset. Dny, kdy jste používali jako heslo jméno Vašeho mazlíčka nebo datum výročí, jsou už dávno pryč.</p></li>
         </ul>
         <button onclick="document.body.className='helper'">Pojďme začít!</button>
@@ -33,7 +33,7 @@
         <h1>1Password helper</h1>
         <p>Helper bude spuštěn v řádce nabídek.</p>
         
-        <img id="helper" alt="1Password helper v řádce nabídek" />
+        <img id="helper" src="../helper.png" alt="1Password helper v řádce nabídek" />
         
         <p>Bude udržovat vaše prohlížeče <strong>synchronizované</strong>, umožní používat <strong>klávesové</strong> zkratky, <strong>zamkne</strong> a <strong>odemkne</strong> 1Password a automaticky <strong>bude zálohovat</strong> vaše data i v případě, že je 1Password vypnut.</p>
 
@@ -43,11 +43,11 @@
     <section id="install">
         <h1>Rozšíření webového prohlížeče</h1>
         <ul class="buttons">
-            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" alt="" />
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" src="../safari.png" alt="" />
                 <h2>Safari</h2><span id="safari.msg">Nainstalováno</span></li>
-            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" alt="" />
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" src="../chrome.png" alt="" />
                 <h2>Chrome</h2><span id="chrome.msg"><a href="#">Nainstalovat</a></span></li>
-            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" alt="" />
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" src="../firefox.png" alt="" />
                 <h2>Firefox</h2><span id="firefox.msg"><a href="#">Nainstalovat</a></span></li>
         </ul>
         <footer><a href="#" onclick="controller.showSettings()">Předvolby</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Uživatelská příručka</a></footer>

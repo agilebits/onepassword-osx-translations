@@ -17,13 +17,13 @@
             <p>Наслаждайтесь подлинной интеграцией с веб-браузером.</p>
         </header>
         <ul>
-            <li><img id="intro-logins" alt="" />
+            <li><img id="intro-logins" src="../intro-logins.png" alt="" />
                 <p><strong>Автоматически сохраняйте и заполните Логины на веб-сайтах.</strong> 1Password определит когда вы вошли на сайт и предложит вам сохранить Логин для последующего использования.</p></li>
-            <li><img id="intro-identities" alt="" />
+            <li><img id="intro-identities" src="../intro-identities.png" alt="" />
                 <p><strong>С легкостью заполняйте адреса, контактную информацию и форумы.</strong> Вы можете сохранить все или некоторые из этих сведений в Личность 1Password, и вы можете создать столько Личностей, сколько вам нравится.</p></li>
-            <li><img id="intro-credit-cards" alt="" />
+            <li><img id="intro-credit-cards" src="../intro-credit-cards.png" alt="" />
                 <p><strong>С легкостью заполняйте кредитные карты при покупказ в интернет.</strong> Номера ваших кредитных карт надежно защищены и храняться их локально в зашифрованном бумажнике 1Password.</p></li>
-            <li><img id="intro-generator" alt="" />
+            <li><img id="intro-generator" src="../intro-generator.png" alt="" />
                 <p><strong>Используйте уникальные и надежные пароли повсюду</strong>. Вам не нужно их запоминать, 1Password делает это за вас. Дни использования имени или годовщины вашего питомца давно прошли.</p></li>
         </ul>
         <button onclick="document.body.className='helper'">Давайте начнем!</button>
@@ -33,7 +33,7 @@
         <h1>Помощник 1Password</h1>
         <p>Помощник будет работать в вашем меню.</p>
         
-        <img id="helper" alt="Помощник 1Password в строке меню" />
+        <img id="helper" src="../helper.png" alt="Помощник 1Password в строке меню" />
         
         <p>Он будет держать ваши браузеры в <strong>синхронизации</strong>, позволит вам использовать <strong>сочетания клавиш</strong>, <strong>локировать</strong> и <strong>разлокировать</strong> 1Password и автоматически <strong>создавать резервную копию</strong> ваших данных даже когда 1Password не запущен.</p>
 
@@ -43,11 +43,11 @@
     <section id="install">
         <h1>Расширения веб-браузеров</h1>
         <ul class="buttons">
-            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" alt="" />
+            <li id="safari" class="installed" onclick="controller.installExtension_('com.apple.Safari')"><img id="safari" src="../safari.png" alt="" />
                 <h2>Safari</h2><span id="safari.msg">Установлено</span></li>
-            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" alt="" />
+            <li id="chrome" onclick="controller.installExtension_('com.google.Chrome')"><img id="chrome" src="../chrome.png" alt="" />
                 <h2>Chrome</h2><span id="chrome.msg"><a href="#">Установить</a></span></li>
-            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" alt="" />
+            <li id="firefox" onclick="controller.installExtension_('org.mozilla.firefox')"><img id="firefox" src="../firefox.png" alt="" />
                 <h2>Firefox</h2><span id="firefox.msg"><a href="#">Установить</a></span></li>
         </ul>
         <footer><a href="#" onclick="controller.showSettings()">Предпочтения</a>&nbsp;&nbsp;<a href="#" onclick="controller.showUserGuide()">Руководство пользователя (английское)</a></footer>
